@@ -47,14 +47,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "https://online-resources.de/favicon/favicon.ico"
+    favicon16x16: "https://online-resources.de/favicon/favicon-16x16.png"
+    favicon32x32: "https://online-resources.de/favicon/favicon-32x32.png"
+    apple_touch_icon: "https://online-resources.de/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "https://online-resources.de/favicon/apple-touch-icon.png"
 
   label:
-    text: "online resources"
+    text: "online-resources.de"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -103,10 +103,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-#  editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
+  editPost:
+    URL: "https://github.com/hnsstrk/online-resources.de/tree/main/content"
+    Text: "Änderungswünsche" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -127,19 +127,19 @@ outputs:
 menu:
   main:
     - identifier: search
-      name: "🔎 search"
+      name: "🔎 Suche"
       url: /search/
       weight: 10
     - identifier: archives
-      name: "📆 archives"
+      name: "📆 Archiv"
       url: /archives/
       weight: 20
     - identifier: categories
-      name: "📂 categories"
+      name: "📂 Kategorien"
       url: /categories/
       weight: 30
     - identifier: tags
-      name: "🏷️ tags"
+      name: "🏷️ Tags"
       url: /tags/
       weight: 40
     - identifier: dsa

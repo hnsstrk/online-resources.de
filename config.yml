@@ -1,5 +1,6 @@
 baseURL: "http://www.online-resources.de/"
 languageCode: de-de
+DefaultContentLanguage: de
 title: online-resources.de
 paginate: 5
 theme: PaperMod

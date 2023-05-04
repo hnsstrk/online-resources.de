@@ -84,7 +84,7 @@ params:
     - name: reddit
       url: "https://www.reddit.com/user/hnsstrk"
     - name: twitch
-      url: "https://www.twitch.tv/hnsstrk"
+      url: "https://github.com/hnsstrk"
     - name: github
       url: "https://github.com/"
     - name: youtube

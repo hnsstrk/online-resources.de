@@ -148,11 +148,11 @@ menu:
 #      url: /impressum/
 #      weight: 40
     - identifier: dsa
-      name: "👁️ DSA"
+      name: "👁️  DSA"
       url: https://fvtt1.online-resources.de/
       weight: 80
     - identifier: dsk
-      name: "🐈‍⬛ DSK"
+      name: "🐈 DSK"
       url: https://fvtt2.online-resources.de/
       weight: 90
 #    - identifier: example

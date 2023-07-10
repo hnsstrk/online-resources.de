@@ -3,7 +3,8 @@ title: Nach dem Schwertfest
 author: hnsstrk
 date: 2023-01-16T15:14:00+00:00
 categories:
-  - Das schwarze Auge
+ - Das schwarze Auge
+ - Greifenfurter Adel
 
 ---
 # Das schwarze Auge - 14. Runde der Kampagne: Greifenfurter Adel

@@ -4,6 +4,7 @@ author: hnsstrk
 date: 2023-04-30T07:04:35+02:00
 categories:
  - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 28. Runde der Kampagne: Greifenfurter Adel
 

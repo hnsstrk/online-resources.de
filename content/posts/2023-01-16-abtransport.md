@@ -4,6 +4,7 @@ author: hnsstrk
 date: 2023-01-16T15:03:00+00:00
 categories:
   - Das schwarze Auge
+  - Greifenfurter Adel
 
 ---
 # Das schwarze Auge - 03. Runde der Kampagne: Greifenfurter Adel

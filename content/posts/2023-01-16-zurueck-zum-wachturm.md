@@ -3,8 +3,8 @@ title: Zurück zum Wachturm
 author: hnsstrk
 date: 2023-01-16T15:18:00+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 18. Runde der Kampagne: Greifenfurter Adel
 

@@ -3,8 +3,8 @@ title: Treffen in Eslamsroden
 author: hnsstrk
 date: 2023-01-16T15:06:00+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 06. Runde der Kampagne: Greifenfurter Adel
 

@@ -3,8 +3,8 @@ title: Krimi Dinner
 author: hnsstrk
 date: 2023-03-15T22:06:27+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 24. Runde der Kampagne: Greifenfurter Adel
 

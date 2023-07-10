@@ -3,8 +3,8 @@ title: Tagebuch meiner Erkundung der Region östlich des Finsterkamms
 author: hnsstrk
 date: 2023-01-16T15:21:00+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge
 

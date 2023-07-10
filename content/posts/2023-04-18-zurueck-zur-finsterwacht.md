@@ -4,6 +4,7 @@ author: hnsstrk
 date: 2023-04-19T00:00:49+02:00
 categories:
  - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 27. Runde der Kampagne: Greifenfurter Adel
 

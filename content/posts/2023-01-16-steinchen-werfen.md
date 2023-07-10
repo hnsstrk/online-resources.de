@@ -3,8 +3,8 @@ title: Steinchen werfen
 author: hnsstrk
 date: 2023-01-16T15:17:00+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 17. Runde der Kampagne: Greifenfurter Adel
 

@@ -3,8 +3,8 @@ title: Das Bankett beginnt
 author: hnsstrk
 date: 2023-03-15T19:00:35+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 23. Runde der Kampagne: Greifenfurter Adel
 

@@ -3,8 +3,8 @@ title: Ein Abend in der Taverne
 author: hnsstrk
 date: 2023-03-13T20:28:03+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 21. Runde der Kampagne: Greifenfurter Adel
 

@@ -4,6 +4,7 @@ author: hnsstrk
 date: 2023-06-24T13:46:42+02:00
 categories:
  - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 
 # Das schwarze Auge - 30. und 31. Runde der Kampagne: Greifenfurter Adel

@@ -3,8 +3,8 @@ title: Wehrheimer Gastfreundschaft
 author: hnsstrk
 date: 2023-01-16T15:16:00+00:00
 categories:
-  - Das schwarze Auge
-
+ - Das schwarze Auge
+ - Greifenfurter Adel
 ---
 # Das schwarze Auge - 16. Runde der Kampagne: Greifenfurter Adel
 

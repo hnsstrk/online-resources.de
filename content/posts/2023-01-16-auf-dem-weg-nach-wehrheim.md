@@ -3,7 +3,8 @@ title: Auf dem Weg nach Wehrheim
 author: hnsstrk
 date: 2023-01-16T15:15:00+00:00
 categories:
-  - Das schwarze Auge
+ - Das schwarze Auge
+ - Greifenfurter Adel
 
 ---
 # Das schwarze Auge - 15. Runde der Kampagne: Greifenfurter Adel

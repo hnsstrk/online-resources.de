@@ -28,6 +28,7 @@ params:
   DateFormat: "02.01.2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  ShowFullTextinRSS: true
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -92,6 +93,8 @@ params:
       url: "https://www.youtube.com/hnsstrk"
     - name: paypal
       url: "https://paypal.me/hnsstrk?country.x=DE&locale.x=de_DE"
+    - name: rss
+      url: "https://online-resources.de/index.xml"
 
 #  analytics:
 #    google:

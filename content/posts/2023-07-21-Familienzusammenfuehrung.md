@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 ---
-
+ 
 # Das schwarze Auge - 33. Runde der Kampagne: Greifenfurter Adel
 
 Die Tage nach der Schlacht waren geprägt von Unruhe und Misstrauen. Tuzzugh, ein junger Halbork, den wir aufgenommen hatten, brachte eine beunruhigende Nachricht: Einer unserer Soldaten soll regelmäßig das Lager der Schwarzpelze aufgesucht haben. Ein möglicher Verräter in unseren Reihen - ein Gedanke, der schwer zu ertragen war.

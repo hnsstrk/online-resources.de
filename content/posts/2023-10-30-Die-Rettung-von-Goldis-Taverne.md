@@ -1,7 +1,6 @@
 ---
 title: "Die Rettung von Goldi's Taverne"
 date: 2023-10-30T21:24:52+01:00
-draft: true
 author: hnsstrk
 categories:
  - Die schwarze Katze

@@ -7,7 +7,7 @@ categories:
  - Tagebuch von Inigo
 ---
 
-# Aller Anfang ist schwer (Session 1)
+# DSK Session 1
 
 ![Inigo Montoya](/uploads/token_daniel.webp)
 

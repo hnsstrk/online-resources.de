@@ -7,7 +7,7 @@ categories:
  - Tagebuch von Inigo
 ---
 
-# Glöckchen für den Don
+# DSK Session 2
 
 Ein paar Tage später trafen wir uns wieder in Goldis Taverne. Goldi bat darum. Ich dachte eigentlich, dass sie mich alleine hat rufen lassen. Aber Pummelchen und die Waldkatze waren auch da. Zum Glück ist diese Büchernase nicht gekommen.
 

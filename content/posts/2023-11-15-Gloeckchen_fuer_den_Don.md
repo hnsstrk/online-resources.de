@@ -7,7 +7,7 @@ categories:
  - Tagebuch von Inigo
 ---
 
-# DSK Session 2
+## DSK Session 2 - Tagebuch von Inigo
 
 Ein paar Tage später trafen wir uns wieder in Goldis Taverne. Goldi bat darum. Ich dachte eigentlich, dass sie mich alleine hat rufen lassen. Aber Pummelchen und die Waldkatze waren auch da. Zum Glück ist diese Büchernase nicht gekommen.
 

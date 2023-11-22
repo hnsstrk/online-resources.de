@@ -7,7 +7,7 @@ categories:
  - Tagebuch von Inigo
 ---
 
-# DSK Session 1
+## DSK Session 1 - Tagebuch von Inigo
 
 ![Inigo Montoya](/uploads/token_daniel.webp)
 

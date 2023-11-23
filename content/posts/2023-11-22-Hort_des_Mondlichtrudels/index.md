@@ -6,7 +6,7 @@ categories:
  - Die schwarze Katze
  - Tagebuch von Inigo
 cover:
-    image: "lagerhaus.png"
+    image: "/uploads/lagerhaus.png"
     alt: ""
     caption: ""
     relative: false

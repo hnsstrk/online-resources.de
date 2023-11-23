@@ -5,6 +5,11 @@ author: dnlbrggr
 categories:
  - Die schwarze Katze
  - Tagebuch von Inigo
+cover:
+    image: "lagerhaus.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
 
 ## DSK Session 3 - Tagebuch von Inigo

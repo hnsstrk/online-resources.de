@@ -6,11 +6,11 @@ categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
 cover:
-    image: "https://www.online-resources.de/uploads/mondlichthort.webp"
+    image: "./mondlichthort.webp"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Hort des Mondlichtrudels"
-    caption: "Bild"
+    caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 

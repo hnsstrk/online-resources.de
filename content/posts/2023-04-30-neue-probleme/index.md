@@ -5,10 +5,14 @@ date: 2023-04-30T07:04:35+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_dark_room_inside_a_fantasy_dungeon_rubble_some_moss_dar_93232b14-9af0-4dcc-847a-178384aad232.png"
+    alt: "Verlies unter dem alten Turm"
+    caption: "Verlies unter dem alten Turm"
+    relative: false
 ---
-## Das schwarze Auge - 28. Runde der Kampagne: Greifenfurter Adel
 
-![Verlies unter dem alten Turm](/uploads/hnsstrk_dark_room_inside_a_fantasy_dungeon_rubble_some_moss_dar_93232b14-9af0-4dcc-847a-178384aad232.png)
+## Das schwarze Auge - 28. Runde der Kampagne: Greifenfurter Adel
 
 Bevor unsere Gruppe weiter in Richtung Junkertum Finsterwacht ritt, ergänzten wir unsere Ausrüstung in Greifenfurt. Einen Tag bevor wir das Junkertum von Andaryn erreichten, passierten wir einen alten Turm. Dort machten wir eine schreckliche Entdeckung: Die Familie von Sophie Eslamsrodener war von Orks brutal ermordet worden. Ihr Vater wurde dem orkischen Blutgott Tairach geopfert, während ihre Mutter unauffindbar war. Das Haus war verwüstet, und es wurde klar, dass dringend etwas gegen die Orks unternommen werden musste. Wir beschlossen, alles genauer anzusehen und Spuren zu suchen. Aber wir wollten auch nach den Ringen Ausschau halten.
 

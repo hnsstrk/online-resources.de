@@ -5,15 +5,18 @@ date: 2023-01-16T15:11:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-
+cover:
+    image: "/uploads/hnsstrk_25_year_old_wizard_with_short_red_hair_from_behind_2_la_e1729427-d371-431c-9309-ebac6ac9fe60-768x512.png"
+    alt: "Grays Traum"
+    caption: "Grays Traum"
+    relative: false
 ---
+
 ## Das schwarze Auge - 11. Runde der Kampagne: Greifenfurter Adel
 
 Nachdem der Graf Praiodor von Arestehr mit seinen Soldaten abgezogen ist, hält nun sein Sohn Andaryn eine Urkunde und die Verantwortung über das Junkergut Finsterwacht in seinen Händen. Und dies zu einer Zeit, die interessanter nicht sein könnte&#8230;
 
 ### Träume
-
-![](/uploads/hnsstrk_25_year_old_wizard_with_short_red_hair_from_behind_2_la_e1729427-d371-431c-9309-ebac6ac9fe60-768x512.png)
 
 Nach dem Gray der Eisige vage von seltsamen Träumen bezüglich der Höhle unter dem Turm berichtet hatte Beschluss unsere Gruppe, diese einmal gründlich zu untersuchen.
 

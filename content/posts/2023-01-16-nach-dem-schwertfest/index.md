@@ -5,11 +5,14 @@ date: 2023-01-16T15:14:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-
+cover:
+    image: "/uploads/00116-409490178-painting-of-a-medieval-tavern-tavern-bar-dive-fantasy-dnd-indoor-ambient-volumetric-light-unreal-engine-octane-rend.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
-## Das schwarze Auge - 14. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/00116-409490178-painting-of-a-medieval-tavern-tavern-bar-dive-fantasy-dnd-indoor-ambient-volumetric-light-unreal-engine-octane-rend.png)
+## Das schwarze Auge - 14. Runde der Kampagne: Greifenfurter Adel
 
 Zum Ende des Schwertfestes verblieben wir noch einige Tage in Greifenfurt, um noch einige Angelegenheiten zu &#8222;regeln&#8220;. Zum einen trafen wir uns mit Herrn Carolan Calavanti. Dieser konnte uns dank seines Informationsnetzwerkes in Greifenfurt Auskunft über die Unterbringung von Binsbart Borkfried von Löwenhaupt-Gösselquell und seinen Kumpanen geben. Ob wohl der gute Binsbart schon mit seiner Mutter Richtung Osten abgereist war, verbleiben seine beiden schweinsäugigen Gesellen im Gasthaus Drei Kronen, einem der besseren Etablissements der Stadt. Dort soffen sich diese Dilettanten um den Verstand, wobei ihr Benehmen in keinster Weise darauf hon deutete, dass sie von Stand sein könnten. Sie wirken wie als Adlige verkleidete Affen…
 

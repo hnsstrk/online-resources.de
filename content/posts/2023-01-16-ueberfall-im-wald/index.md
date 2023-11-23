@@ -5,10 +5,14 @@ date: 2023-01-16T15:05:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_group_of_five_goblins_surrounding_a_campfire_in_the_for_acabd848-eb20-47d8-a420-9dac45cdf059-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
-## Das schwarze Auge - 05. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/hnsstrk_group_of_five_goblins_surrounding_a_campfire_in_the_for_acabd848-eb20-47d8-a420-9dac45cdf059-768x512.png)
+## Das schwarze Auge - 05. Runde der Kampagne: Greifenfurter Adel
 
 Auf der Such nach etwas Arbeit während seiner Wanderschaft begab sich Kalidor von Greifenfurt nach Eslamsroden. In einem Waldstück wurde er von drei Goblins angegriffen.
 

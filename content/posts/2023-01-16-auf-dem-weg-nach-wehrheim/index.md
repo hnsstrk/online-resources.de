@@ -5,11 +5,14 @@ date: 2023-01-16T15:15:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-
+cover:
+    image: "/uploads/hnsstrk_improvised_bridge_over_a_small_river_d6ef19eb-8f73-45b8-b26b-797cbf9b174f-768x768.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
-## Das schwarze Auge - 15. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/hnsstrk_improvised_bridge_over_a_small_river_d6ef19eb-8f73-45b8-b26b-797cbf9b174f-768x768.png)
+## Das schwarze Auge - 15. Runde der Kampagne: Greifenfurter Adel
 
 Noch in Greifenfurt lernten wir die Händler Branibart Pausbäcker und Roban Honorald kennen. Diese boten 5 Silberstücke pro Kopf und Tag für ein sicheres Geleit nach Gareth, was ein durchaus verlockendes Angebot für uns darstellte.
 

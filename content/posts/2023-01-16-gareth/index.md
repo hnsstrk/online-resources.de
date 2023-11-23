@@ -5,10 +5,14 @@ date: 2023-01-16T15:20:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_large_medieval_library_many_rows_volumetric_candlelight_ad27b873-cceb-4f31-964b-e1a45246ba96-768x512.png"
+    alt: "Bibliothek der Akademie Schwert und Stab zu Gareth"
+    caption: "Bibliothek der Akademie Schwert und Stab zu Gareth"
+    relative: false
 ---
-## Das schwarze Auge - 20. Runde der Kampagne: Greifenfurter Adel
 
-![Bibliothek der Akademie Schwert und Stab zu Gareth](/uploads/hnsstrk_large_medieval_library_many_rows_volumetric_candlelight_ad27b873-cceb-4f31-964b-e1a45246ba96-768x512.png)
+## Das schwarze Auge - 20. Runde der Kampagne: Greifenfurter Adel
 
 Ich brauchte diese wenigen Tage der Ruhe. Wir alle brauchten sie und Yorlak gab uns die Chance uns zu erholen. Aber es gab viel zu besprechen und es gab viel zu klären. So erwuchs in diesen Tagen der Ruhe auch ein Zweifel, der in einen Verdacht mündete und in Schuldzuweisungen gipfelte.
 

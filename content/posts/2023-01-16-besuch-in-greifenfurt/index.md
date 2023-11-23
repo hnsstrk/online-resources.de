@@ -5,8 +5,8 @@ date: 2023-01-16T15:09:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-
 ---
+
 ## Das schwarze Auge - 09. Runde der Kampagne: Greifenfurter Adel
 
 Um ein wenig mehr über den alten Turm zu erfahren und um die Garnison in Greifenfurt vor der Aktivität der Orks zu warnen, beschlossen Andaryn und Helbrecht nach Greifenfurt zu reisen. Begleitet wurden sie von Stordian und Bender, die in der Stadt ein wenig Handel betrieben wollten. In der Stadt begegnete die Gruppe Gray den Eisige, einen Elementaristen und Graumagier des Konzils der Elemente zu Drakonia. Diesen konnte die Gruppe als Unterstützer bei der Untersuchung des Turms anwerben.

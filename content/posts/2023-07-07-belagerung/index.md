@@ -5,6 +5,11 @@ date: 2023-07-10T16:01:01+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_blond_dwarfen_blacksmith_with_short_hair_and_longbeard__467d2936-c61d-4009-9c1f-b39c7422706f.png"
+    alt: "Kalidor kümmert sich um die Waffen"
+    caption: "Kalidor kümmert sich um die Waffen"
+    relative: false
 ---
 
 ## Das schwarze Auge - 32. Runde der Kampagne: Greifenfurter Adel
@@ -14,9 +19,6 @@ Diese Schlacht hat mir einmal mehr die brutale Realität eines Krieges vor Augen
 Doch auch anderweitig gab es viel zu tun, daher teilten wir die Arbeit auf. Zuerst galt es, eine gründliche Bestandsaufnahme durchzuführen, und diese fiel nicht gut aus. Die Vorratskammern waren so gut wie leer und die Waffenkammer sah nicht besser aus. Ein Frevel, eine Wehranlage so verkommen zu lassen. Der übermäßige Schmuck und Luxus, in dem der Burgvogt lebte, erweckte einen Verdacht, den Andaryn im Laufe der letzten Tage durch unauffällige Gespräche mit dem Gesinde erhärten konnte.
 
 Die Tatsache, dass der Burgvogt in die eigene Tasche gewirtschaftet hatte, erfüllte mich mit Zorn und Enttäuschung. An der Akademie Schwert und Stab zu Gareth habe ich gelernt, dass Loyalität und Ehre von höchster Bedeutung sind und einen entsprechenden Eid geleistet. Dieser Verrat ist ein Schlag ins Gesicht für alle, die ihr Leben für die Verteidigung dieser Burg riskiert haben. Umso mehr ist es mir eine Genugtuung, dass Andaryn diesen schmierigen Kerl in eine Zelle im Bergfried gesteckt hat.
-
-![Kalidor kümmert sich um die Waffen](/uploads/hnsstrk_blond_dwarfen_blacksmith_with_short_hair_and_longbeard__467d2936-c61d-4009-9c1f-b39c7422706f.png)
-
 
 Durch die Versäumnisse der letzten Jahre und die intensive Schlacht waren die Waffen und Rüstungen von uns und den Soldaten teilweise stark in Mitleidenschaft gezogen. Kalidor und der Schmied aus dem Weiler nahmen sich dieses Problems an und leisteten gute Arbeit, wobei sich Kalidor auf die Ausbesserung der Waffen konzentrierte und der Schmied des Dorfes die Rüstungen reparierte.
 

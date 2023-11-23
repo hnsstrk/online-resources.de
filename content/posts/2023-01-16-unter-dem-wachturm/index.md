@@ -5,10 +5,14 @@ date: 2023-01-16T15:19:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_dungeon_with_an_evil_male_human_necromancer_noble_magic_ec8649cf-5d80-466a-bcd1-a014dcfe4b53-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
-## Das schwarze Auge - 19. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/hnsstrk_dungeon_with_an_evil_male_human_necromancer_noble_magic_ec8649cf-5d80-466a-bcd1-a014dcfe4b53-768x512.png)
+## Das schwarze Auge - 19. Runde der Kampagne: Greifenfurter Adel
 
 Nachdem wir die beiden Skelettkrieger besiegt hatten, konnte Link das Schloss der schweren Eisentür knacken. Dahinter verbarg sich ein langer und dunkler Gang, welcher durch Gittertüren in einzelne Abschnitte unterteilt wurde. Wir konnten kaum über den Schein unserer Fackeln hinausschauen, doch was wir erblickten, ließ uns an unserem Vorhaben zweifeln. Neben alten und verfallenen Waffenständern warteten weitere Skelette darauf uns am Weiterkommen zu hindern. Mit Schwertern und Bögen ausgerüstet versperrten sie uns den Weg.
 

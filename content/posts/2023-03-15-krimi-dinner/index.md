@@ -6,6 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 ---
+
 ## Das schwarze Auge - 24. Runde der Kampagne: Greifenfurter Adel
 
 Während der Gespräche zwischen den einzelnen Gängen erfuhren wir, dass die Frau des Grafen Hermann von Tannenwald vor etwas über einem Jahr verstorben war und dieser nun, nach Ende der Trauerzeit, ein Bankett für Freunde und Bekannte veranstaltete.

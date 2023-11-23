@@ -5,8 +5,13 @@ date: 2023-01-16T15:12:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-
+cover:
+    image: "/uploads/00354-3923905621-black-orc-in-leather-armor-tied-up-with-a-rope-tied-up-arrested-forest-path-as-background-trees-8k-intricate-detailed-b.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
+
 ## Das schwarze Auge - 12. Runde der Kampagne: Greifenfurter Adel
 
 ### Früher Aufbruch
@@ -18,8 +23,6 @@ Da für Sophie noch einige Reisevorbereitungen getroffen werden mussten, brachen
 Auf etwa der Hälfte der Strecke trafen wir auf alte Bekannte. Die Schwarzpelze, die sich hier in der Gegend herumtrieben hatten mittels Holzpalisaden den Waldweg versperrt und versuchten ein Wegegeld oder Zoll zu erheben. Ihr Anführer erkannte und wieder und Andaryn versuchte mit ihm zu verhandeln. Als Grundlage für alles Weitere forderte der Ork jedoch seinen Gruufhai zurück, welchen Bender zur persönlichen Bereicherung bereits verkauft hatte. Leider waren die Verhandlungen nicht sonderlich erfolgreich und es kam zu einem erneuten Kampf mit den Schwarzpelzen.
 
 ### Gefangene
-
-![](/uploads/00354-3923905621-black-orc-in-leather-armor-tied-up-with-a-rope-tied-up-arrested-forest-path-as-background-trees-8k-intricate-detailed-b.png)
 
 In einem kurzen aber harten Kampf gelang es uns die Orks zu vertrieben. Dies, obwohl diese mit ihrer Befestigung eine deutlich bessere Ausgangsposition hatten. Vielleicht hatte sie ja der humorvolle Einsatz von Grays kleiner Eiswand völlig aus dem Konzept gebracht.
 

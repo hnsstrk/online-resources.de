@@ -6,6 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 ---
+
 ## Das schwarze Auge - 06. Runde der Kampagne: Greifenfurter Adel
 
 In Eslamsroden geriet Fire mit der Stadtwache aneinander als er beschloss mitten in einer Parkanlage ein Schlaflager aufzuschlagen. Seine stinkende Lindwurmhaut trug auch nicht dazu bei, die Situation zu entschärfen. Allerdings konnte ihm Stordian, der regelmäßig Hauptmann der Wachmannschaft war, helfen.

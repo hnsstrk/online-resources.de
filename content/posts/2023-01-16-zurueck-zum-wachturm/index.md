@@ -5,12 +5,14 @@ date: 2023-01-16T15:18:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_two_skeletal_guards_in_chain_mail_guarding_a_locked_doo_330d96ed-780c-481a-9d11-e7d8ad81c100-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
+
 ## Das schwarze Auge - 18. Runde der Kampagne: Greifenfurter Adel
-
-![](/uploads/hnsstrk_two_skeletal_guards_in_chain_mail_guarding_a_locked_doo_330d96ed-780c-481a-9d11-e7d8ad81c100-768x512.png)
-
-<figure class="wp-block-audio"><audio controls src="https://www.kabelbrandimherzschrittmacher.de/wp-content/uploads/2023/01/17\_zurueck\_zum_wachturm.ogg"></audio><figcaption class="wp-element-caption">18. Runde der Kampagne: Greifenfurter Adel</figcaption></figure> 
 
 Den Rest der Nacht nutzten wir zur Erholung, bis uns Yorlak, gemeinsam mit unserem Freund Kalidor, am späten Vormittag abholen kam.
 

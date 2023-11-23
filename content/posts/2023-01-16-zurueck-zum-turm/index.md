@@ -5,12 +5,16 @@ date: 2023-01-16T15:10:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_seven_orcs_ambushing_an_adventurer_group_in_a_forest_a5006af5-d471-42a6-9b20-a6e57b66dc5c-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
+
 ## Das schwarze Auge - 10. Runde der Kampagne: Greifenfurter Adel
 
 ### Orken
-
-![](/uploads/hnsstrk_seven_orcs_ambushing_an_adventurer_group_in_a_forest_a5006af5-d471-42a6-9b20-a6e57b66dc5c-768x512.png)
 
 Bei der Abreise aus Greifenfurt trafen wir an der Fähre auf Auđur Egilsdottir. Die junge Thorwalerin war ebenfalls auf der Abreise aus Greifenfurt und wollte sich uns für ein Stück des Weges entlang des Finsterkammes anschließen. Nach wenigen Tagen Marsch wurden wir von einer Gruppe Orks angehalten, welche vermutlich einen Wegzoll erpressen wollten&#8230;
 

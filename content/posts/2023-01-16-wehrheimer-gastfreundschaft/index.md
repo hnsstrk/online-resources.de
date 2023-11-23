@@ -5,10 +5,14 @@ date: 2023-01-16T15:16:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/wehrheim7-768x512.png"
+    alt: "Wehrheim"
+    caption: "Wehrheim"
+    relative: false
 ---
-## Das schwarze Auge - 16. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/wehrheim7-768x512.png)
+## Das schwarze Auge - 16. Runde der Kampagne: Greifenfurter Adel
 
 Am 25. Rondra 1043 BF erreichten wir etwa zur Mittagsstunde Wehrheim. Ich kann nicht sagen, was ich erwartet hatte, aber mit Sicherheit nicht Nichts. Wir sollten in Wehrheim angesprochen werden, aber begrüßt wurden wir von Schatten in Löchern und in dunklen Winkeln. Darüber hinaus entdeckten Link und Andaryn widerliches untotes Krähen-Geschmeiß, welches sich unter den Dächern der Stadt versammelt hatte. So beschlossen wir, nicht allzu lange zu verweilen.
 

@@ -5,10 +5,14 @@ date: 2023-03-13T21:57:08+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_enterance_hall_of_a_medieval_auction_house_service_desk_f3c42bee-6086-4ec3-8404-9bb3e9777745-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
-## Das schwarze Auge - 22. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/hnsstrk_enterance_hall_of_a_medieval_auction_house_service_desk_f3c42bee-6086-4ec3-8404-9bb3e9777745-768x512.png)
+## Das schwarze Auge - 22. Runde der Kampagne: Greifenfurter Adel
 
 Zum 11. Efferd 1043 BF beschloss Link, dass er sich nun auch einmal das Händlerviertel von Gareth anschauen wollte. Immerhin ist weitreichend bekannt, dass man hier exotische Waren aus ganz Aventurien erwerben kann. Daher schlossen sich auch Andaryn und Gray kurze Zeit später dem Halbelf an. Während dessen trafen Stordian, Bender und ich weitere Reisevorbereitungen. Unsere Thorwallerin hingegen erkundetete auf eigene Faust die Hauptstadt der Mittelreiches.
 

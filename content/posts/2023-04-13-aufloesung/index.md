@@ -6,6 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 ---
+
 ## Das schwarze Auge - 26. Runde der Kampagne: Greifenfurter Adel
 
 Die Untersuchung zusammen mit Wachtmeister Falk Peterson ergab, dass tatsächlich nur diese eine Flasche Wein vergiftet war. Bender suchte und fand den Korken der vergifteten Flasche und begutachtete ihn genau. An dem Korken entdeckte er eine Einstichstelle, die frei von Weinresten war. Daraus schlossen wir, dass die Flasche, nachdem sie vergiftet wurde, kaum oder gar nicht bewegt worden war.

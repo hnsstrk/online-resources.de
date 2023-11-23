@@ -6,17 +6,15 @@ categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
 cover:
-    image: "./mondlichthort.webp"
+    image: "mondlichthort.png"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Hort des Mondlichtrudels"
-    caption: ""
+    caption: "Hort des Mondlichtrudels"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## DSK Session 3 - Aus den Erzählungen von Benjamin Büchernase
-
-![Hort des Mondlichtrudels](./mondlichthort.webp)
 
 In Goldi's Taverne begannen die Geschehnisse sich in einer Weise zu entfalten, die mich erneut in den Mittelpunkt des Geschehens rückte. Der Abend begann, wie so oft, mit dem üblichen Gezänk und Geraune, das unsere Gruppe umgab. Ravenna und Inigo Montoya stritten sich hitzig über einige Statuetten, ein typisches Beispiel für die kleinen Streitereien, die unsere Tage füllten. Ravenna hatte diese Statuetten entwendet und sie Goldi zur Aufbewahrung gegeben, eine kluge Entscheidung, da Goldi sie sicher im Lager verwahrte.
 

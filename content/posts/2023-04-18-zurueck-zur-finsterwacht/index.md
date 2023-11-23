@@ -6,6 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 ---
+
 ## Das schwarze Auge - 27. Runde der Kampagne: Greifenfurter Adel
 
 In den drei Wochen, die wir in der prächtigen Kaiserstadt Gareth verbrachten, nutzten wir die Zeit, um unsere Fähigkeiten zu verbessern und uns auf die kommenden Abenteuer vorzubereiten. Doch eines Tages erreichte uns ein Bote mit einer beunruhigenden Nachricht: Orks waren in Andaryns Junkertum Finsterwacht eingefallen und griffen die Bevölkerung an, welche dort ein meist friedliches Leben inmitten der dichten Wälder östlich des Finsterkamms führte.

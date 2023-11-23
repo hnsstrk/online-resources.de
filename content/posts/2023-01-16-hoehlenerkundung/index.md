@@ -5,11 +5,14 @@ date: 2023-01-16T15:07:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-
+cover:
+    image: "/uploads/hnsstrk_dark_cave_with_some_blue_glowing_crystals_d263c49f-3809-4e9c-9d90-857c087937d5-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
-## Das schwarze Auge - 07. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/hnsstrk_dark_cave_with_some_blue_glowing_crystals_d263c49f-3809-4e9c-9d90-857c087937d5-768x512.png)
+## Das schwarze Auge - 07. Runde der Kampagne: Greifenfurter Adel
 
 Um den andauernden Besuchen der Spinnen entgegenzuwirken, suchten Andaryn, Kalidor, Stordian und Fire die Höhle. Noch während der Suche nach dem Eingang bekamen sie von Sophie, der Tochter des Holzfällers, ein Bild geschenkt.
 

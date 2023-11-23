@@ -5,11 +5,14 @@ date: 2023-05-16T15:56:01+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_a_small_group_of_dark_orcs_in_a_very_small_war_camp_sma_1fbed646-47b4-4b16-be0f-f5433fec39f1.png"
+    alt: "Kriegslager der Orken"
+    caption: "Kriegslager der Orken"
+    relative: false
 ---
 
 ## Das schwarze Auge - 29. Runde der Kampagne: Greifenfurter Adel
-
-![Kriegslager der Orken](/uploads/hnsstrk_a_small_group_of_dark_orcs_in_a_very_small_war_camp_sma_1fbed646-47b4-4b16-be0f-f5433fec39f1.png)
 
 In der Mittagsstunde des 12. Travia 1043 BF kehrten Ulfgar und Leonore von Ravenswald von ihrer Erkundung zurück. Ihre Gesichter waren ernst. Trotz intensiver Suche war es den Rittern und ihren Leuten nicht gelungen, eines der Lager der Orks aufzuspüren. So kehrten sie mit schlechten Nachrichten zum alten Turm zurück.
 

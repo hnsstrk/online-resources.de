@@ -5,11 +5,14 @@ date: 2023-06-24T13:46:42+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_small_medieval_keep_on_a_mountain_top_slate_rock_foggy_bb8a19e0-6493-41de-9871-67c9f9cd58d9.png"
+    alt: "Burg Finster"
+    caption: "Burg Finster"
+    relative: false
 ---
 
 ## Das schwarze Auge - 30. und 31. Runde der Kampagne: Greifenfurter Adel
-
-![Burg Finster](/uploads/hnsstrk_small_medieval_keep_on_a_mountain_top_slate_rock_foggy_bb8a19e0-6493-41de-9871-67c9f9cd58d9.png)
 
 Es vergingen wohl Tage, bis ich wieder zu mir kam. Der Gnade der Zwölfen und einigen Heiltränken sei Dank, dass ich an jenen Tagen nicht in Borons Reich einging. Bender jedoch, hatte wohl weniger Beistand oder Glück. Er verstarb noch nahe dem Lager der Schwarzpelze. Auf der anderen Seite ist eine meiner letzten Erinnerungen von diesem Tag, dass er unvorsichtig und unüberlegt, direkt in genau jenes Lager hinein marschiert ist. Dies führte dazu, dass wir uns unkoordiniert einem Feind stellen mussten, der uns zahlenmäßig und auch an Kampfkraft weit überlegen war. Wenn ich den Erzählungen der Kameraden glauben darf, versuchte er zuletzt auch noch zu fliehen, anstatt sich im Kampf zu stellen. So gehe ich davon aus, dass ihm wohl aus diesem Grund kein göttlicher Beistand gewährt wurde.
 

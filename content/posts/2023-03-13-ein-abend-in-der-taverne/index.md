@@ -5,10 +5,14 @@ date: 2023-03-13T20:28:03+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_inside_a_tavern_full_of_people_fantasy_volumetric_light_acfbfaad-0df3-4ed9-86f4-40961ece914d-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
-## Das schwarze Auge - 21. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/hnsstrk_inside_a_tavern_full_of_people_fantasy_volumetric_light_acfbfaad-0df3-4ed9-86f4-40961ece914d-768x512.png)
+## Das schwarze Auge - 21. Runde der Kampagne: Greifenfurter Adel
 
 Am Abend des 10. Efferd 1043 BF trafen wir uns in der Taverne &#8222;Voller Humpen&#8220;, um das weitere Vorgehen abzustimmen. Obwohl unsere Besprechung leider erst einmal ergebnislos blieb, so waren es die vergangenen Tage in Gareth nicht. Ich konnte nicht anders als festzustellen, dass unsere Gruppe mittlerweile auch als solche bezeichnet werden kann. Dies beantwortet auch meine Frage, wo ich meine weiteren Schwerpunkte setzen werde. So habe ich die Zeit genutzt, um mehrfach meine Vorgesetzen an der Akademie Schwert und Stab zu Gareth zu besuchen. Von dort habe ich einige Schreiben verfasst, um meine Zusammenarbeit mit den neuen Kameraden, zur Not auch außerhalb des Mittelreiches, weiter sicherzustellen.
 

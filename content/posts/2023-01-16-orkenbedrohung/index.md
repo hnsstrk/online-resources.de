@@ -5,7 +5,13 @@ date: 2023-01-16T15:08:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_3_orcs_in_a_dark_cave_campfire_green_volumetric_light_70c70f8e-56d7-49c7-85a4-e28a282d2a71-768x512.png"
+    alt: ""
+    caption: ""
+    relative: false
 ---
+
 ## Das schwarze Auge - 08. Runde der Kampagne: Greifenfurter Adel
 
 ### In der Nähe des Bauernhofes
@@ -25,8 +31,6 @@ In der Höhle entdeckten sie zwei Orks schlafend und Zwei, die mit rituellen Han
 Nachdem sie die Höhle vorsichtig erkundigt hatten, wollten sie sich zuerst an die zwei schlafenden Orks heranschleichen, um diese zu töten. Leider war jedoch Benders Plattenrüstung zu laut und so weckte er einen der Orks der sofort alle alarmierte.
 
 In einem zähen Kampf, mit Gegnern, die von allen Seiten anzugreifen schienen, könnte die Gruppe jedoch die Oberhand behalten und die Höhle von den Schwarzpelzen befreien.
-
-![](/uploads/hnsstrk_3_orcs_in_a_dark_cave_campfire_green_volumetric_light_70c70f8e-56d7-49c7-85a4-e28a282d2a71-768x512.png)
 
 ### Die Siedlung im Nord-Westen
 

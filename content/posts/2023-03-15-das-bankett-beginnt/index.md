@@ -5,10 +5,14 @@ date: 2023-03-15T19:00:35+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_photo_of_large_medieval_banquet_for_20_noble_quests_in__2ee18359-c4dc-4696-85f5-9dcc9772d983-768x512.png"
+    alt: "Bankett"
+    caption: "Bankett"
+    relative: false
 ---
-## Das schwarze Auge - 23. Runde der Kampagne: Greifenfurter Adel
 
-![](/uploads/hnsstrk_photo_of_large_medieval_banquet_for_20_noble_quests_in__2ee18359-c4dc-4696-85f5-9dcc9772d983-768x512.png)
+## Das schwarze Auge - 23. Runde der Kampagne: Greifenfurter Adel
 
 Am Nachmittag des 12. Efferd 1043 BF verkauften wir die Büste schließlich an Norbarden-Händler, welche sich für eine Weile außerhalb von Gareth niedergelassen hatten. Sie schienen die Figur ebenfalls sehr hässlich zu finden, dennoch bezahlten sie uns 80 Silberstücke dafür, was in etwa dem Materialwert entsprach. Als Zeichen ihrer Gastfreundschaft luden sie uns darüber hinaus zum Essen ein. Leider vertrug Gray das norbardische Essen nicht besonders gut und verbrachte, ich möchte nicht übertreiben, etwa eine Stunde auf dem Donnerbalken. Wir anderen hingegen genossen die ungewöhnlichen Speisen und lernten einiges über die Kultur der Norbarden dazu. So ziehen diese nomadisch durch das Land und verkaufen überall ihre Waren und ihren Honig. Ihre Bienenvölker haben sie stets dabei.
 

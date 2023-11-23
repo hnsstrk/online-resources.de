@@ -5,6 +5,13 @@ date: 2023-07-23T12:12:08+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "/uploads/hnsstrk_a_medieval_woman_in_a_wooden_wheelchair_and_her_two_5_y_f95d5255-e66b-4a50-b951-e486bafa9fa2.png"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Frau und Kinder von Helmut Auerbach"
+    caption: "Frau und Kinder von Helmut Auerbach"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
  
 ## Das schwarze Auge - 33. Runde der Kampagne: Greifenfurter Adel
@@ -16,8 +23,6 @@ Wir begannen, die Dienst- und Wachpläne zu durchforsten, um Verdächtige zu erm
 Bevor wir uns auf den Weg machten, entbrannte eine kurze Debatte in unserer Gruppe. Einige waren der Meinung, dass wir die einzelnen Soldaten direkt verfolgen sollten. Doch ich wies darauf hin, dass nur Link dazu in der Lage wäre, jemanden unbemerkt zu verfolgen. Es wäre riskant, wenn wir anderen versuchen würden, unauffällig Soldaten zu beschatten die in einem Wald voller Feinde Nahrung suchten. Stattdessen schlug ich vor, dass wir uns von Tuzzugh zum Lager der Orken führen lassen und dort auf Auerbach warten sollten. Nach einigem Hin und Her stimmten die anderen meinem Plan zu.
 
 So ließen wir uns von Tuzzugh zu seinen ehemaligen Gefährten führen. Link nahm die Aufgabe der Erkundung auf sich. Er schlich sich leise an das Lager heran, verborgen in den Schatten der umliegenden Bäume. Dort entdeckte er eine erschütternde Szene: Eine Frau und zwei Kinder, angekettet und in einem erbärmlichen Zustand. Sie sahen aus, als hätten sie seit Tagen nichts mehr zu essen bekommen, und die Frau saß in einem teilweise zerstörten Rollstuhl.
-
-![Frau und Kinder von Helmut Auerbach](/uploads/hnsstrk_a_medieval_woman_in_a_wooden_wheelchair_and_her_two_5_y_f95d5255-e66b-4a50-b951-e486bafa9fa2.png)
 
 Link beobachtete das Lager aus seinem Versteck heraus, seine Augen suchten nach weiteren Anzeichen von Gefahr. Nach einer Weile erschien ein Soldat in der Uniform von Burg Finster. Er sprach leise mit dem Häuptling der Orks, doch Link konnte ihn nur von hinten sehen. Als der Soldat sich jedoch zu den Gefangenen wandte, konnte Link ihn endlich erkennen. Es war tatsächlich Helmut Auerbach. Er brachte den Gefangenen Essen und Trinken, eine Geste, die uns zeigte, dass er nicht aus Bosheit, sondern aus Verzweiflung gehandelt hatte. In diesem Moment bestätigte sich unser Verdacht, dass die Frau und die Kinder, die Link entdeckt hatte, um Auerbachs Familie handelte. Es war ein Bild, das uns alle tief berührte und uns die Tragik der Situation noch deutlicher vor Augen führte.
 

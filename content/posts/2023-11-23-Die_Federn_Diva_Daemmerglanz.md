@@ -5,6 +5,13 @@ author: hnsstrk
 categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
+cover:
+  image: "</uploads/mondlichthort.webp>"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  alt: "<Hort des Mondlichtrudels>"
+  caption: ""
+  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## DSK Session 3 - Aus den Erzählungen von Benjamin Büchernase

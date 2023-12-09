@@ -6,7 +6,7 @@ categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
 cover:
-    image: "/uploads/spinne.png"
+    image: "/uploads/spinne.webp"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Spinne im Baum"

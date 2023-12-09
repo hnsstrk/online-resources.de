@@ -6,7 +6,7 @@ categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
 cover:
-    image: "/uploads/anime-style-young-kitten-with-human-like-features-adorned-in-medieval-armor-standing-on-hind-legs-69045613.png"
+    image: "/uploads/spinne.png"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Spinne im Baum"

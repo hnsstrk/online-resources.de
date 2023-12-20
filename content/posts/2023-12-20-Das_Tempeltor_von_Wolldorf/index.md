@@ -12,7 +12,7 @@ cover:
     relative: false
 ---
 
-## DSK Session 43 - Tagebuch von Inigo
+## DSK Session 4 - Tagebuch von Inigo
 
 Nachdem wir ein paar Tage unsere Blessuren gepflegt hatten, trafen wir uns zufällig – oder auch nicht, wer weiß das schon – in Goldis Taverne. Außer dass wir denselben Raum teilten, hatten wir nicht viel gemeinsam. Das änderte sich, als die Tür aufging und der Waschbär mit dem Namen Hase hereinkam. Er sprach von einem Abenteuer in Wolldorf. Doch mehr konnte er uns nicht sagen, denn wir sollten dort einen Freund von ihm treffen. Immerhin gab er uns ein paar Kleinigkeiten, die man auch nicht an jeder Ecke bekommt. Ravenna war wieder mürrisch und konnte die Waren nicht zu schätzen wissen. Typisch Waldkatze: Was nicht glitzert, ist nur Müll. Wenigstens freute sich Ruben über die Filzmaus und Jack über einen Filzhut. Es hörte sich alles interessant an, und naja, von uns war noch keiner in Wolldorf; ehrlich gesagt, kannte ich es vorher nicht.
 

@@ -6,7 +6,7 @@ categories:
  - Die schwarze Katze
  - Tagebuch von Inigo
 cover:
-    image: "/uploads/tempeltor.png"
+    image: "tempeltor.png"
     alt: ""
     caption: ""
     relative: false

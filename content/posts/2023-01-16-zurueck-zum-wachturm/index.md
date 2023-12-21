@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_two_skeletal_guards_in_chain_mail_guarding_a_locked_doo_330d96ed-780c-481a-9d11-e7d8ad81c100-768x512.png"
+    image: "hnsstrk_two_skeletal_guards_in_chain_mail_guarding_a_locked_doo_330d96ed-780c-481a-9d11-e7d8ad81c100-768x512.png"
     alt: ""
     caption: ""
     relative: false

@@ -9,7 +9,7 @@ categories:
 
 ## Das schwarze Auge - 25. Runde der Kampagne: Greifenfurter Adel
 
-![Praiosmund vom Mistelteich](/uploads/token_Praiosmund_vom_Mistelteich.webp)
+![Praiosmund vom Mistelteich](token_Praiosmund_vom_Mistelteich.webp)
 
 Wir hatten eine Leiche am Tisch und die unangenehme Stille in der Runde wurde noch deutlicher, als Gray sich entschied, Klartext mit Binsbart zu sprechen, wobei er auch über mögliche Motive einiger Anwesender spekulierte, um Binsbart den Unsinn seiner Behauptungen vor Augen zu führen. Dieser reagierte empfindlich und gereizt, forderte sogar eine Entschuldigung von Gray. Doch bevor die Situation weiter eskalieren konnte, rief der Graf von Tannenwald zur Wahrung der Kontenance. Anschließen ließ er seinen Leibarzt rufen, welcher den Verstorbenen begutachten sollte.
 

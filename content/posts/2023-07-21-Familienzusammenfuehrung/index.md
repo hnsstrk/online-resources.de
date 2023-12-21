@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_a_medieval_woman_in_a_wooden_wheelchair_and_her_two_5_y_f95d5255-e66b-4a50-b951-e486bafa9fa2.png"
+    image: "hnsstrk_a_medieval_woman_in_a_wooden_wheelchair_and_her_two_5_y_f95d5255-e66b-4a50-b951-e486bafa9fa2.png"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Frau und Kinder von Helmut Auerbach"

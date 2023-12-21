@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_3_orcs_in_a_dark_cave_campfire_green_volumetric_light_70c70f8e-56d7-49c7-85a4-e28a282d2a71-768x512.png"
+    image: "hnsstrk_3_orcs_in_a_dark_cave_campfire_green_volumetric_light_70c70f8e-56d7-49c7-85a4-e28a282d2a71-768x512.png"
     alt: ""
     caption: ""
     relative: false
@@ -16,7 +16,7 @@ cover:
 
 ### In der Nähe des Bauernhofes
 
-![](/uploads/hnsstrk_small_medieval_farm_e76f447d-5e2d-4e34-9f73-6485280d9f23-768x512.png)
+![](hnsstrk_small_medieval_farm_e76f447d-5e2d-4e34-9f73-6485280d9f23-768x512.png)
 
 Als die Lebensmittel- und Proviantvorräte sich wieder dem Ende neigten zogen Kalidor, Link Bender und Helbrecht gegen Süden, Richtung des Bauernhofes eines Schwagers des Holzfällers.
 
@@ -34,7 +34,7 @@ In einem zähen Kampf, mit Gegnern, die von allen Seiten anzugreifen schienen, k
 
 ### Die Siedlung im Nord-Westen
 
-![](/uploads/hnsstrk_very_small_medieval_rural_village_with_a_femal_blacksmi_f764a560-38e1-4c5e-b9e5-055d5929ff64-768x512.png)
+![](hnsstrk_very_small_medieval_rural_village_with_a_femal_blacksmi_f764a560-38e1-4c5e-b9e5-055d5929ff64-768x512.png)
 
 Andaryn und Stordian erkundeten zur gleichen Zeit die Gegend zum Nord-Westen des alten Turmes. Dort stießen sie auf eine kleine Siedlung, Finsterdorf, im Vorland des Finsterkammes.
 

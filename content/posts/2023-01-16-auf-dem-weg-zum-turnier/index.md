@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/00354-3923905621-black-orc-in-leather-armor-tied-up-with-a-rope-tied-up-arrested-forest-path-as-background-trees-8k-intricate-detailed-b.png"
+    image: "00354-3923905621-black-orc-in-leather-armor-tied-up-with-a-rope-tied-up-arrested-forest-path-as-background-trees-8k-intricate-detailed-b.png"
     alt: ""
     caption: ""
     relative: false

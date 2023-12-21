@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_improvised_bridge_over_a_small_river_d6ef19eb-8f73-45b8-b26b-797cbf9b174f-768x768.png"
+    image: "hnsstrk_improvised_bridge_over_a_small_river_d6ef19eb-8f73-45b8-b26b-797cbf9b174f-768x768.png"
     alt: ""
     caption: ""
     relative: false

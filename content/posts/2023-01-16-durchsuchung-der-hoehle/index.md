@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_25_year_old_wizard_with_short_red_hair_from_behind_2_la_e1729427-d371-431c-9309-ebac6ac9fe60-768x512.png"
+    image: "hnsstrk_25_year_old_wizard_with_short_red_hair_from_behind_2_la_e1729427-d371-431c-9309-ebac6ac9fe60-768x512.png"
     alt: "Grays Traum"
     caption: "Grays Traum"
     relative: false
@@ -34,7 +34,7 @@ Die Suche selbst offenbarte uns auch noch etwas anderes. Gray schein eine Vorlie
 
 ### Schulden
 
-![](/uploads/alter_schuldschein-768x768.webp)
+![](alter_schuldschein-768x768.webp)
 
 Auch die bei den Leichen in der Höhle gefunden Schuldscheine sah sich die Gruppe noch einmal ein bisschen genauer an. Zwar war es unmöglich das Alter zu bestimmen, aber Andaryn könnte den Text aus dem Tulamidischen übersetzen. Dieser lautet wie folgt:
 

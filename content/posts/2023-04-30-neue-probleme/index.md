@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_dark_room_inside_a_fantasy_dungeon_rubble_some_moss_dar_93232b14-9af0-4dcc-847a-178384aad232.png"
+    image: "hnsstrk_dark_room_inside_a_fantasy_dungeon_rubble_some_moss_dar_93232b14-9af0-4dcc-847a-178384aad232.png"
     alt: "Verlies unter dem alten Turm"
     caption: "Verlies unter dem alten Turm"
     relative: false

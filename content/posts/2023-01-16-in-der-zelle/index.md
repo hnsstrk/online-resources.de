@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_medieval_prison_cell_dungeon_1f6911d4-8e07-430d-a903-7b225b53001f-768x512.png"
+    image: "hnsstrk_medieval_prison_cell_dungeon_1f6911d4-8e07-430d-a903-7b225b53001f-768x512.png"
     alt: ""
     caption: ""
     relative: false

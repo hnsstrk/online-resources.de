@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_blond_dwarfen_blacksmith_with_short_hair_and_longbeard__467d2936-c61d-4009-9c1f-b39c7422706f.png"
+    image: "hnsstrk_blond_dwarfen_blacksmith_with_short_hair_and_longbeard__467d2936-c61d-4009-9c1f-b39c7422706f.png"
     alt: "Kalidor kümmert sich um die Waffen"
     caption: "Kalidor kümmert sich um die Waffen"
     relative: false
@@ -28,7 +28,7 @@ In den Tagen vor dem Tribunal übernahmen meine Gefährten, neben ihren anderen 
 
 In der Zwischenzeit rotierten die Soldaten zwischen Wache und der Nahrungsbeschaffung, wobei sie anfangs von Link unterstützt wurden. Auch Stordian versuchte sein Glück, blieb aber erfolglos. Weiterhin wurden auch einige sehr vorsichtige Erkundungsmissionen durchgeführt. Bei diesen gelang es uns, drei weitere Lager der Schwarzpelze aufzuklären. Die Größen schätzten wir auf 30, 20 und 10 Mann. Da wir in den Lagern nur Krieger fanden, mussten wir davon ausgehen, dass es noch weitere Lager oder zumindest ein Hauptlager gibt, in dem sich die restlichen Orken befinden.
 
-![Tuzzugh, ein junger Halbork](/uploads/token_Tuzzugh.webp)
+![Tuzzugh, ein junger Halbork](token_Tuzzugh.webp)
 
 Von der letzten Erkundung brachte Link einen übel zugerichteten jungen Halbork namens Tuzzugh mit, der vor den Schwarzpelzen geflohen war. Er sprach nur wenige Worte Garethi, daher übersetzten Andaryn und Stordian für ihn aus dem Oloarkh, der Gemeinsprache der Orken, Goblins und Ogern. Tuzzugh berichtete von seinem kleinen Lager mit etwa einem Dutzend Schwarzpelzen und dass er als Halbork von den Orks immer verspottet und misshandelt wurde. Da er befürchten musste, von den allgemein aufgebrachten und häufig schwer berauschten Kriegern eines Tages bei einem Wutausbruch erschlagen zu werden, ist er geflohen. Er wollte sich in eine Siedlung der Menschen absetzen, obwohl er keine rechte Vorstellung davon hat, wie eine solche aussieht, oder was ihn dort erwarten könnte. Tuzzugh konnte uns berichten, dass der Tairach-Priester auf der Suche nach etwas sei und die Sippen der Ausgestoßenen vereint und hierher geführt hat. Er sprach von zwei Symbolen, einem Heptagramm und einem Hexagon. Was diese Symbole bedeuten, wusste er aber nicht.
 

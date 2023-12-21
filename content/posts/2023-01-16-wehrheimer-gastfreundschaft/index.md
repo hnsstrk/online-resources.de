@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/wehrheim7-768x512.png"
+    image: "wehrheim7.png"
     alt: "Wehrheim"
     caption: "Wehrheim"
     relative: false

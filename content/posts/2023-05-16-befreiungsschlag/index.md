@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_a_small_group_of_dark_orcs_in_a_very_small_war_camp_sma_1fbed646-47b4-4b16-be0f-f5433fec39f1.png"
+    image: "hnsstrk_a_small_group_of_dark_orcs_in_a_very_small_war_camp_sma_1fbed646-47b4-4b16-be0f-f5433fec39f1.png"
     alt: "Kriegslager der Orken"
     caption: "Kriegslager der Orken"
     relative: false

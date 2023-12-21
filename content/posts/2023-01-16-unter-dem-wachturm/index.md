@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_dungeon_with_an_evil_male_human_necromancer_noble_magic_ec8649cf-5d80-466a-bcd1-a014dcfe4b53-768x512.png"
+    image: "hnsstrk_dungeon_with_an_evil_male_human_necromancer_noble_magic_ec8649cf-5d80-466a-bcd1-a014dcfe4b53-768x512.png"
     alt: ""
     caption: ""
     relative: false

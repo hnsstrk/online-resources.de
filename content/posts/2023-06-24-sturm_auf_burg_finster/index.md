@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_small_medieval_keep_on_a_mountain_top_slate_rock_foggy_bb8a19e0-6493-41de-9871-67c9f9cd58d9.png"
+    image: "hnsstrk_small_medieval_keep_on_a_mountain_top_slate_rock_foggy_bb8a19e0-6493-41de-9871-67c9f9cd58d9.png"
     alt: "Burg Finster"
     caption: "Burg Finster"
     relative: false

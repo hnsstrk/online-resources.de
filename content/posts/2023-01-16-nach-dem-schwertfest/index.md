@@ -6,7 +6,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "/uploads/00116-409490178-painting-of-a-medieval-tavern-tavern-bar-dive-fantasy-dnd-indoor-ambient-volumetric-light-unreal-engine-octane-rend.png"
+    image: "00116-409490178-painting-of-a-medieval-tavern-tavern-bar-dive-fantasy-dnd-indoor-ambient-volumetric-light-unreal-engine-octane-rend.png"
     alt: ""
     caption: ""
     relative: false

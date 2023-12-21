@@ -6,7 +6,7 @@ categories:
   - Das schwarze Auge
   - Greifenfurter Adel
 cover:
-    image: "/uploads/hnsstrk_medieval_prisoner_transport_fb202ca5-8863-40f3-8a86-e2c5ca65cb24-768x512.png"
+    image: "hnsstrk_medieval_prisoner_transport_fb202ca5-8863-40f3-8a86-e2c5ca65cb24-768x512.png"
     alt: ""
     caption: ""
     relative: false

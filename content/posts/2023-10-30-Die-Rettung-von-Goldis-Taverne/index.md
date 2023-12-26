@@ -9,7 +9,6 @@ cover:
     image: "benni.png"
     alt: ""
     caption: ""
-    relative: false
 ---
 
 ## DSK Session 2 - Aus den Erzählungen von Benjamin Büchernase

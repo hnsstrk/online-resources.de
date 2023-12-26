@@ -9,7 +9,6 @@ cover:
     image: "hnsstrk_cinematic_still_shot_of_five_shadowly_figures_standing__a9c4e034-608b-4f95-b88c-dc87e7220011-768x512.png"
     alt: ""
     caption: ""
-    relative: false
 ---
 
 ## Das schwarze Auge - 17. Runde der Kampagne: Greifenfurter Adel

@@ -9,7 +9,6 @@ cover:
     image: "hnsstrk_blond_dwarfen_blacksmith_with_short_hair_and_longbeard__467d2936-c61d-4009-9c1f-b39c7422706f.png"
     alt: "Kalidor kümmert sich um die Waffen"
     caption: "Kalidor kümmert sich um die Waffen"
-    relative: false
 ---
 
 ## Das schwarze Auge - 32. Runde der Kampagne: Greifenfurter Adel

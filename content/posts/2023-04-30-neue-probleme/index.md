@@ -9,7 +9,6 @@ cover:
     image: "hnsstrk_dark_room_inside_a_fantasy_dungeon_rubble_some_moss_dar_93232b14-9af0-4dcc-847a-178384aad232.png"
     alt: "Verlies unter dem alten Turm"
     caption: "Verlies unter dem alten Turm"
-    relative: false
 ---
 
 ## Das schwarze Auge - 28. Runde der Kampagne: Greifenfurter Adel

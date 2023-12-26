@@ -9,7 +9,6 @@ cover:
     image: "lagerhaus.png"
     alt: ""
     caption: ""
-    relative: false
 ---
 
 ## DSK Session 3 - Tagebuch von Inigo

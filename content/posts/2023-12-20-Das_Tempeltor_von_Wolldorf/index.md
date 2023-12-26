@@ -9,7 +9,6 @@ cover:
     image: "tempeltor.png"
     alt: ""
     caption: ""
-    relative: false
 ---
 
 ## DSK Session 4 - Tagebuch von Inigo

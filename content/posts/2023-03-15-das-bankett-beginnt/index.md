@@ -9,7 +9,6 @@ cover:
     image: "hnsstrk_photo_of_large_medieval_banquet_for_20_noble_quests_in__2ee18359-c4dc-4696-85f5-9dcc9772d983-768x512.png"
     alt: "Bankett"
     caption: "Bankett"
-    relative: false
 ---
 
 ## Das schwarze Auge - 23. Runde der Kampagne: Greifenfurter Adel

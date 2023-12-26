@@ -11,7 +11,6 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Hort des Mondlichtrudels"
     caption: "Hort des Mondlichtrudels"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## DSK Session 3 - Aus den Erzählungen von Benjamin Büchernase

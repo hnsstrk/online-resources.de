@@ -9,7 +9,6 @@ cover:
     image: "hnsstrk_ruin_of_an_round_old_tower_in_the_middle_of_a_lake_5ddd0b3d-e8a7-4eba-8693-8f92802d769e-768x512.png"
     alt: ""
     caption: ""
-    relative: false
 ---
 
 ## Das schwarze Auge - 04. Runde der Kampagne: Greifenfurter Adel

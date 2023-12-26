@@ -9,7 +9,6 @@ cover:
     image: "hnsstrk_large_medieval_library_many_rows_volumetric_candlelight_ad27b873-cceb-4f31-964b-e1a45246ba96-768x512.png"
     alt: "Bibliothek der Akademie Schwert und Stab zu Gareth"
     caption: "Bibliothek der Akademie Schwert und Stab zu Gareth"
-    relative: false
 ---
 
 ## Das schwarze Auge - 20. Runde der Kampagne: Greifenfurter Adel

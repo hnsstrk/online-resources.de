@@ -9,7 +9,6 @@ cover:
     image: "hnsstrk_two_skeletal_guards_in_chain_mail_guarding_a_locked_doo_330d96ed-780c-481a-9d11-e7d8ad81c100-768x512.png"
     alt: ""
     caption: ""
-    relative: false
 ---
 
 ## Das schwarze Auge - 18. Runde der Kampagne: Greifenfurter Adel

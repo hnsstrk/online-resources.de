@@ -11,7 +11,6 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Frau und Kinder von Helmut Auerbach"
     caption: "Frau und Kinder von Helmut Auerbach"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
  
 ## Das schwarze Auge - 33. Runde der Kampagne: Greifenfurter Adel

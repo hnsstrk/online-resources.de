@@ -9,7 +9,7 @@ categories:
 
 ## Das schwarze Auge - 34. Runde der Kampagne: Greifenfurter Adel
 
-Tief im dichten Wald südlich der Finsterkamms, umgeben von hohen Bäumen und dichtem Unterholz, entdeckten wir eine verborgene Senke. Diese natürliche Vertiefung, geschützt durch das dichte Grün, barg den Eingang zu einer alten, längst vergessenen Mine, in welcher sich das Hauptlager der Schwarzpelze verbergen sollte.
+Tief im dichten Wald südlich des Finsterkamms, umgeben von hohen Bäumen und dichtem Unterholz, entdeckten wir eine verborgene Senke. Diese natürliche Vertiefung, geschützt durch das dichte Grün, barg den Eingang zu einer alten, längst vergessenen Mine, in welcher sich das Hauptlager der Schwarzpelze verbergen sollte.
 
 Unsere Gruppe, bestehend aus Link, Gray, Andaryn, Stordian und mir, war fest entschlossen, den orkischen Priester, der uns immer wieder über den Weg lief, zu finden. Doch als wir die Senke erreichten, wurde uns schnell bewusst, dass dieses Lager besser angelegt und verteidigt war als die anderen. Die Schwarzpelze hatten den Eingang zur Mine mit Pallisaden gesichert und Wachposten strategisch positioniert. Im Zusammenspiel mit der versteckten Lage hatten sie hier ein nahezu perfektes Hauptlager errichtet.
 

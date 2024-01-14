@@ -1,5 +1,5 @@
 ---
-title: "2024 01 13 Perlenglanz"
+title: "Perlenglanz"
 date: 2024-01-13T20:57:36+01:00
 categories:
  - Die schwarze Katze
@@ -10,5 +10,6 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: ""
     caption: ""
+draft: true
 ---
 

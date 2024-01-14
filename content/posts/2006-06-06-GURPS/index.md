@@ -1,6 +1,6 @@
 ---
 title: "Intrigen und Rettung: Der verschwundene Zwergenabgesandte"
-date: 2024-01-14T14:28:06+01:00
+date: 2006-06-06T14:28:06+01:00
 categories:
   - GURPS
 ---

@@ -80,7 +80,7 @@ Die zentrale Platzierung des Hexagons könnte in alten Mythen auf das Herzstück
 Die präzise und intakte Darstellung des Hexagons im Zentrum des Verlieses suggeriert eine magische Absicht hinter seiner Platzierung. Die Heptagramme, die oft mit mystischer Symbolik in Verbindung gebracht werden, könnten hier als magische Siegel fungieren, die darauf abzielen, die Energien des Verlieses zu binden oder zu lenken. Auch das strahlende Blau und die makellose Erhaltung der Schriftrolle könnten durch eine magische Behandlung bedingt sein, die darauf abzielt, die Schriftrolle über die Zeiten hinweg zu bewahren. Das Gefühl des Hineingezogenwerdens in das Kunstwerk entsteht alleine durch die Darstellung und das künstlerische Talent des Schöpfers.
 
 Die Tatsache, dass die Symbole in einem sonst verfallenen Verlies so präzise dargestellt sind, könnte darauf hindeuten, dass sie einen wichtigen Schlüssel zur Entschlüsselung des dargestellten Ortes darstellen.
-	
+
 Das zentrale Hexagon, mit den nach außen weißenden Pfeilen an jeder Kante und in Kombination mit den Heptagrammen lässt auf eine magische Bedeutung schließen. Die Art und Weise der Darstellung im Verlies lässt einen Weg- oder Zugangspunkt vermuten.
 
 ### Weitere Erkenntnisse
@@ -171,17 +171,16 @@ Betrachtet man die Darstellung zu lange, scheint es als ob man vom Wahnsinn des 
 ### Erkenntnisse der Sagen & Legenden
 Die Schriftrolle scheint eine Warnung zu verkörpern: Sie symbolisiert den Verlust des Verstandes, der eintritt, wenn man einem ziellosen Weg folgt und sich mit Rätseln beschäftigt, die für Sterbliche nicht bestimmt sind.
 
-	
 Es gibt Hinweise auf die mysteriösen und rätselhaften Strukturen, die auf den Zyklopeninseln vermutet werden. Diese könnten in Verbindung mit dem Labyrinth der Schriftrolle stehen.
 
 ### Erkenntnisse des Geschichtswissen
-	
+
 Heute nutzt man Labyrinthe hauptsächlich zum Lustwandeln. In der Antike waren sie jedoch nicht für Unterhaltungszwecke gedacht, sondern dienten als Schutz für wichtige Strukturen wie Gräber und Mausoleen. Ihre Komplexität und Verwirrung sollten ungebetene Gäste fernhalten. Neben den verwirrenden Pfaden waren Labyrinthe oft mit tödlichen Fallen ausgestattet, um den Schutz weiter zu verstärken und Eindringlinge abzuschrecken.
 
 In historischen Berichten werden Labyrinthe manchmal als Orte des Wahnsinns beschrieben, wo die ständige Konfrontation mit unauflösbaren Wegen und Sackgassen den Verstand der Eingeschlossenen auf die Probe stellte. Der Ursprung vieler Labyrinth-Geschichten liegt oft in der Überlieferung, dass diejenigen, die sich in den Tiefen solcher Anlagen verirrten, selten zurückkehrten, was den Mythos von Labyrinthen als unheimliche Orte des Wahnsinns und der Verzweiflung nährte. Einige Labyrinthe waren angeblich so komplex gestaltet, dass man annahm, sie existierten teilweise jenseits der materiellen Ebene. Diese Vorstellung führt jedoch schnell in den Bereich der Mythen und Legenden.
 
 ### Erkenntnisse der Magiekunde
-	
+
 Das Labyrinth könnte als metaphysischer Schutz konzipiert worden sein, der dazu bestimmt ist, Wissen oder magische Geheimnisse zu bewahren. Die verschlungenen Pfade repräsentieren möglicherweise komplexe magische Formeln oder Zaubersprüche, die nur von Eingeweihten entziffert werden können.
 
 Die Einbeziehung der Heptagramme zusammen mit dem Hexagon in der Darstellung des Labyrinths lässt auf eine ausgeklügelte magische Struktur schließen, deren Komplexität möglicherweise eine höhere magische Ordnung und tiefere Geheimnisse andeutet.
@@ -235,7 +234,6 @@ Die Pfeile am oberen Teil des Hexagons weisen auf die Sternbilder Nachen, Ringe 
 ### Erkenntnisse des Rechnens
 Bei der Untersuchung der Schriftrolle wird deutlich, dass eine mathematische Logik in ihrer Darstellung verborgen ist. Die Anordnung der Symbole und Sterne folgt einem erkennbaren Muster, das auf eine bewusste Strukturierung und Berechnung hindeutet.
 
-	
 Eine genaue Zählung ergibt, dass sowohl in der oberen als auch in der unteren Hälfte jeweils 16 Sterne zu finden sind. Diese Anzahl stimmt exakt mit der Anzahl der Flächen innerhalb des zentralen Symbols überein, was auf ein ausgewogenes und symmetrisches Verhältnis hindeutet.
 
 ### Erkenntnisse der Magiekunde

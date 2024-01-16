@@ -10,7 +10,6 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Lila Murmel"
     caption: "Lila Murmel"
-draft: true
 ---
 
 ## DSK Session 6 - Aus den Erzählungen von Benjamin Büchernase

@@ -1,5 +1,5 @@
 ---
-title: "Perlenglanz"
+title: "Blutige Murmel"
 date: 2024-01-13T20:57:36+01:00
 categories:
  - Die schwarze Katze

@@ -1,6 +1,10 @@
 ---
 title: "Die zweite Murmel und ihre Folgen"
 date: 2024-01-17T16:55:07+01:00
+author: dnlbrggr
+categories:
+ - Die schwarze Katze
+ - Tagebuch von Inigo
 categories:
  - Die schwarze Katze
  - Tagebuch von Inigo

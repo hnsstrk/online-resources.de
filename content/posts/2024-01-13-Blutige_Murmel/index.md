@@ -5,7 +5,7 @@ categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
 cover:
-    image: "lila_murmel.webp"
+    image: "lila_murmel2.webp"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Lila Murmel"

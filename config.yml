@@ -86,10 +86,16 @@ params:
       url: "https://www.reddit.com/user/hnsstrk"
     - name: twitch
       url: "https://www.twitch.tv/hnsstrk"
+    - name: instagram
+      url: "https://www.instagram.com/hnsstrk/"
     - name: github
       url: "https://github.com/hnsstrk"
     - name: youtube
       url: "https://www.youtube.com/hnsstrk"
+      name: discord
+      url: "https://discord.gg/QuhEw6YZ"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/hnsstrk/"
     - name: paypal
       url: "https://paypal.me/hnsstrk?country.x=DE&locale.x=de_DE"
     - name: rss

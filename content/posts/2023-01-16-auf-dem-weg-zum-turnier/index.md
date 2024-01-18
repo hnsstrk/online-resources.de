@@ -7,8 +7,10 @@ categories:
  - Greifenfurter Adel
 cover:
     image: "00354-3923905621-black-orc-in-leather-armor-tied-up-with-a-rope-tied-up-arrested-forest-path-as-background-trees-8k-intricate-detailed-b.png"
-    alt: ""
-    caption: ""
+    alt: "Gefangener Ork"
+    caption: "Gefangener Ork"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 12. Runde der Kampagne: Greifenfurter Adel

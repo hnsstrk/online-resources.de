@@ -9,6 +9,8 @@ cover:
     image: "benni.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## DSK Session 2 - Aus den Erzählungen von Benjamin Büchernase

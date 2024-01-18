@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_inside_a_tavern_full_of_people_fantasy_volumetric_light_acfbfaad-0df3-4ed9-86f4-40961ece914d-768x512.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 21. Runde der Kampagne: Greifenfurter Adel

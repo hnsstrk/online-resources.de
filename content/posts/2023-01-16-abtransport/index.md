@@ -7,8 +7,10 @@ categories:
   - Greifenfurter Adel
 cover:
     image: "hnsstrk_medieval_prisoner_transport_fb202ca5-8863-40f3-8a86-e2c5ca65cb24-768x512.png"
-    alt: ""
-    caption: ""
+    alt: "Gefangenentransport"
+    caption: "Gefangenentransport"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 03. Runde der Kampagne: Greifenfurter Adel

@@ -10,6 +10,8 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Rubens legendärer Sprung"
     caption: "Rubens legendärer Sprung"
+tags:
+  - Rollenspiel
 ---
 
 ## DSK Session 5 - Aus den Erzählungen von Benjamin Büchernase

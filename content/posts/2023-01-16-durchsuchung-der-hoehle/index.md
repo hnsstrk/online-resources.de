@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_25_year_old_wizard_with_short_red_hair_from_behind_2_la_e1729427-d371-431c-9309-ebac6ac9fe60-768x512.png"
     alt: "Grays Traum"
     caption: "Grays Traum"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 11. Runde der Kampagne: Greifenfurter Adel

@@ -3,6 +3,8 @@ title: "Reise durch den Wald: Geheimnisse der Nacht"
 date: 2006-12-30T14:28:22+01:00
 categories:
   - GURPS
+tags:
+  - Rollenspiel
 ---
 
 > **Hinweis:** Die in diesem Beitrag verwendeten Überschriften wurden von OpenAI's Sprachmodell ChatGPT erstellt und zur Verfügung gestellt. Bei der Erstellung der Überschriften wurden die zentralen Themen und Ereignisse jedes Abenteuers analysiert und zusammengefasst, um die wesentlichen Aspekte und die Erzählstruktur der Geschichten hervorzuheben. Ziel war es, Titel zu kreieren, die sowohl die Spannung als auch das Interesse an den einzelnen Erzählungen wecken.

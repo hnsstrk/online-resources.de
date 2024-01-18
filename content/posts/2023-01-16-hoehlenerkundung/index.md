@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_dark_cave_with_some_blue_glowing_crystals_d263c49f-3809-4e9c-9d90-857c087937d5-768x512.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 07. Runde der Kampagne: Greifenfurter Adel

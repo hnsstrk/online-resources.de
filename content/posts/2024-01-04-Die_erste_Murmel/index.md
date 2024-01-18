@@ -9,6 +9,8 @@ cover:
     image: "flook.webp"
     alt: "Der müde Flook beim Sport"
     caption: "Der müde Flook beim Sport"
+tags:
+  - Rollenspiel
 ---
 
 ### DSK Session 5 - Tagebuch von Inigo

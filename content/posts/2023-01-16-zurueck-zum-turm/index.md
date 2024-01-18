@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_seven_orcs_ambushing_an_adventurer_group_in_a_forest_a5006af5-d471-42a6-9b20-a6e57b66dc5c-768x512.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 10. Runde der Kampagne: Greifenfurter Adel

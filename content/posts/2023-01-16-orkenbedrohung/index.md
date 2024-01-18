@@ -7,8 +7,10 @@ categories:
  - Greifenfurter Adel
 cover:
     image: "hnsstrk_3_orcs_in_a_dark_cave_campfire_green_volumetric_light_70c70f8e-56d7-49c7-85a4-e28a282d2a71-768x512.png"
-    alt: ""
-    caption: ""
+    alt: "Orklager"
+    caption: "Orklager"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 08. Runde der Kampagne: Greifenfurter Adel

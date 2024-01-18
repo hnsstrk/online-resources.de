@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_a_small_group_of_dark_orcs_in_a_very_small_war_camp_sma_1fbed646-47b4-4b16-be0f-f5433fec39f1.png"
     alt: "Kriegslager der Orken"
     caption: "Kriegslager der Orken"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 29. Runde der Kampagne: Greifenfurter Adel

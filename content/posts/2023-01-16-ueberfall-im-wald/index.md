@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_group_of_five_goblins_surrounding_a_campfire_in_the_for_acabd848-eb20-47d8-a420-9dac45cdf059-768x512.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 05. Runde der Kampagne: Greifenfurter Adel

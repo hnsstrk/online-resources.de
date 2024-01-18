@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_enterance_hall_of_a_medieval_auction_house_service_desk_f3c42bee-6086-4ec3-8404-9bb3e9777745-768x512.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 22. Runde der Kampagne: Greifenfurter Adel

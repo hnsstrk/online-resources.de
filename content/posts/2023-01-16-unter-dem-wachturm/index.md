@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_dungeon_with_an_evil_male_human_necromancer_noble_magic_ec8649cf-5d80-466a-bcd1-a014dcfe4b53-768x512.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 19. Runde der Kampagne: Greifenfurter Adel

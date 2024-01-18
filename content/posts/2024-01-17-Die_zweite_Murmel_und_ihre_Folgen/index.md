@@ -8,6 +8,8 @@ categories:
 categories:
  - Die schwarze Katze
  - Tagebuch von Inigo
+tags:
+  - Rollenspiel
 ---
 
 ### DSK Session 6 - Tagebuch von Inigo

@@ -5,6 +5,8 @@ date: 2023-01-16T15:09:00+00:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 09. Runde der Kampagne: Greifenfurter Adel

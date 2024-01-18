@@ -11,6 +11,8 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Frau und Kinder von Helmut Auerbach"
     caption: "Frau und Kinder von Helmut Auerbach"
+tags:
+  - Rollenspiel
 ---
  
 ## Das schwarze Auge - 33. Runde der Kampagne: Greifenfurter Adel

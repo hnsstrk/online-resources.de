@@ -9,6 +9,8 @@ cover:
     image: "tempeltor.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## DSK Session 4 - Tagebuch von Inigo

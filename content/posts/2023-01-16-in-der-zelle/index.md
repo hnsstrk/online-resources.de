@@ -9,6 +9,8 @@ cover:
     image: "hnsstrk_medieval_prison_cell_dungeon_1f6911d4-8e07-430d-a903-7b225b53001f-768x512.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 02. Runde der Kampagne: Greifenfurter Adel

@@ -9,6 +9,8 @@ cover:
     image: "wehrheim7.png"
     alt: "Wehrheim"
     caption: "Wehrheim"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 16. Runde der Kampagne: Greifenfurter Adel

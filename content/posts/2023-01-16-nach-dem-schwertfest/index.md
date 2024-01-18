@@ -7,8 +7,10 @@ categories:
  - Greifenfurter Adel
 cover:
     image: "00116-409490178-painting-of-a-medieval-tavern-tavern-bar-dive-fantasy-dnd-indoor-ambient-volumetric-light-unreal-engine-octane-rend.png"
-    alt: ""
-    caption: ""
+    alt: "Taverne"
+    caption: "Taverne"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 14. Runde der Kampagne: Greifenfurter Adel

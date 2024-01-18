@@ -11,6 +11,8 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Hort des Mondlichtrudels"
     caption: "Hort des Mondlichtrudels"
+tags:
+  - Rollenspiel
 ---
 
 ## DSK Session 3 - Aus den Erzählungen von Benjamin Büchernase

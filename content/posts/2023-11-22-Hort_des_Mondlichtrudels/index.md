@@ -9,6 +9,8 @@ cover:
     image: "lagerhaus.png"
     alt: ""
     caption: ""
+tags:
+  - Rollenspiel
 ---
 
 ## DSK Session 3 - Tagebuch von Inigo

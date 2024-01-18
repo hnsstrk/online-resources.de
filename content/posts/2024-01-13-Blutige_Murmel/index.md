@@ -24,6 +24,8 @@ Warna hat ihr Revier in den Werkstätten, welche in einem recht großen Haus unt
 
 Im Obergeschoss stocke uns allen der Atem. Auf dem Bode lag das Fell einer riesigen toten Katze. Oder bessere es Katers, worauf die Mähne schließen ließ. Den schockierten und verwirrten Freunden konnte ich berichten, dass es ich bei diesem prächtigen Exemplar einer Katze um einen sogenannten **Löwvon** handelte. Diese ist der größte Vertreter unserer Art. Allerdings ist mir noch nicht zu Ohren gekommen, dass es unter diesen Großkatzen ebenfalls Erwachte gäbe. Zu gerne hätte ich mein Wissen über unsere großartigen Verwandten mit meinen Freunden geteilt, doch war dies nicht die rechte Zeit und auch nicht der rechte Ort. 
 
+![Der Löwvon, eine mysthische Kreatur aus fernen Ländern](loewvon.webp)
+
 Wenn auch die ein oder andere Wissenslücke an diesem Abend unausgefüllt blieb, so trafen wird doch Warna und vier ihrer fünf Perlen. Handelt es sich um die werten und geschätzten Kater Uno, Dos, Tri und Five. Lediglich Quatre begegneten wir – wie sich letztlich herausstellen wird, zu unserem Glück – nicht. Sie alle waren sehr hilfsbereit und freundlich, doch zu unserem Leidwesen war keiner im Besitz der, so erführen wir, lila Murmel. Warna beschenkte ihre Perlen regelmäßig mit solchen Gaben und die besagte Murmel ging wohl an Quatre.
 
 Wir hatten aber Glück im Unglück. Five, der vor Rubens beeindruckendem Sprung, der ungeschlagene Champion um Wollhimmel war, bot uns an, dass er die Murmel für uns besorgen würde, wenn Ruben ihn in einem Duel der Sprünge schlagen würde. Damit unsere kleiner Ruben nicht allein und mit der ganzen Last der Verantwortung auf seinen Schultern springen musste, erklärten Ravenna und ich uns bereit ebenfalls mit anzutreten. 

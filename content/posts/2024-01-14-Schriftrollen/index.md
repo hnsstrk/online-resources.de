@@ -12,6 +12,8 @@ cover:
     caption: "Die Rolle der Ruine"
 ---
 
+## Das schwarze Auge - 36. Runde der Kampagne: Greifenfurter Adel
+
 In der alten Mine mussten wir uns noch härteren Gegnern stellen. Angesichts der Wunden aus unserem letzten Kampf fiel uns dies nicht leicht, doch die Zwölfe standen auf unserer Seite und wir konnten die Schwarzpelze zurückdrängen.
 
 Hierbei kam uns zugute, dass sich einige der orkischen Sklaven gegen ihre Bewacher auflehnten. Dieser Umstand ermöglichte es uns, weiter in die Mine vorzudringen, um nach dem orkischen Priester oder Schamanen zu suchen.

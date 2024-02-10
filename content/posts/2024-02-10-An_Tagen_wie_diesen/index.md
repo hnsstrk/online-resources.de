@@ -5,7 +5,7 @@ categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
 cover:
-    image: "lila_murmel2.webp"
+    image: "Pferdestall.jpg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Das Bild zeigt zwei anthropomorphe Katzenfiguren in einem Pferdestall. Die Katze auf der linken Seite steht aufrecht, trägt eine dunkelbraune mittelalterliche Tunika, Umhang und Stiefel und sieht aus, als wäre sie für eine Kampf- oder Wächterrolle gekleidet, mit einem Schwertgriff, der an ihrer Seite sichtbar ist. Die Katze auf der rechten Seite trägt eine ähnliche, aber leichtere Kleidung in Beige, möglicherweise die eines Reisenden oder Abenteurers. Beide Katzen haben menschenähnliche Körperhaltungen und Gesichtsausdrücke, die Intelligenz und Charakter zeigen. Im Hintergrund sind Pferde in den Stallboxen zu sehen, die friedlich wirken und auf die Szene blicken. Die Darstellung ist comicartig, aber mit einem hohen Grad an Detail und Realismus, insbesondere in der Textur des Holzes und des Strohs auf dem Boden."

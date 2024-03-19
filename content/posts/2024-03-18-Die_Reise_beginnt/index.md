@@ -4,10 +4,6 @@ date: 2024-03-18T17:57:00+01:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-cover:
-    image: ""
-    alt: ""
-    caption: ""
 ---
 
 ## Das schwarze Auge - 38. Runde der Kampagne: Greifenfurter Adel

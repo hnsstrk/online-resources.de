@@ -4,6 +4,10 @@ date: 2024-03-18T17:57:00+01:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "drakonia01.png"
+    alt: "Ätherisches Kloster auf einem rauen Berg, umgeben von dicken Wolken und Nebel, erzeugt eine geheimnisvolle und dramatische Atmosphäre."
+    caption: "Drakonia"
 ---
 
 ## Das schwarze Auge - 38. Runde der Kampagne: Greifenfurter Adel

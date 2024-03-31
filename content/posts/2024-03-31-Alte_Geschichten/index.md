@@ -7,16 +7,14 @@ categories:
 cover:
     image: "Almada_Taverne01.png"
     alt: "Das Bild zeigt eine lebhafte mittelalterliche Taverne, die von Kerzenlicht beleuchtet wird. Die Gäste genießen ihre Zeit, ein Barkeeper serviert Getränke, und das rustikale Interieur ist mit Holzfässern und Grünzeug geschmückt."
-    caption: "Gemütliche Weinstube in Ragath"
+    caption: "Weinstube in Ragath"
 ---
 
 ## Das schwarze Auge - 40. Runde der Kampagne: Greifenfurter Adel
 
 ### Die Bitte
 
-![Mahmud](actor_Mahmud.webp)
-
-![Aishulibeth](actor_Aishulibeth.webp)
+![Mahmud](actor_Mahmud.webp) ![Aishulibeth](actor_Aishulibeth.webp)
 
 Nach etwas über einem Monat der Recherche tat es gut, endlich einmal aus der Bibliothek herauszukommen. Und ich muss gestehen, dies galt vor allem für die Fakultät des Eises. Man muss diesem Element schon in besonderer Weise zugetan sein, um für längere Zeit freiwillig in einem Iglu zu leben. Hätte es nicht die vielen magischen Annehmlichkeiten gegeben, ich hätte wohl ein oder zwei Zehen verloren.
 
@@ -26,9 +24,7 @@ Zu ihren Studienzeiten hatten sich Gray und Mahmud wohl mit zwei schnöseligen S
 
 ### In Ragath
 
-![Federigo Alcorta](actor_Federigo_Alcorta.webp)
-
-![Gonzalo Jurios](actor_Gonzalo_Jurios.webp)
+![Federigo Alcorta](actor_Federigo_Alcorta.webp) ![Gonzalo Jurios](actor_Gonzalo_Jurios.webp)
 
 Für meine Kameraden und mich war es selbstverständlich Grays Freund zu helfen, die Liebe seines Lebens zu retten und so machten wir uns, abgesehen von Link auf den Weg nach Ragath. Schon auf dem Weg genossen wir, dass sich das Wetter gebessert hatte und der Herbst sich von seiner besten Seite zeigte. Kaum angekommen quartierten wir uns in einem herrlichen Gasthaus mit Weinstube ein. Letzteres ist eine besondere Eigenart im Fürstentum Almada, in der sich die Gastfreundschaft von Land und Leuten zeigt. In der Weinstube des Gasthauses konnten wir die reiche Weinkultur von Almada erleben. Die Auswahl an Weinen war beeindruckend, mit Sorten, die die Vielfalt der Region widerspiegeln. Jeder Wein erzählte eine Geschichte, von der sorgfältigen Pflege der Reben bis zur Kunst der Weinherstellung. Wir hatten das Glück, die subtilen Unterschiede zwischen den verschiedenen Weinen kennenlernen zu können. Es war faszinierend zu erfahren, wie das Klima und der Boden der Region die Aromen und Texturen der Weine beeinflussen. Doch ich schweife ab.
 

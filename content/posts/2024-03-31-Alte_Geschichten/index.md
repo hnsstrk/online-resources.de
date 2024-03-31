@@ -14,7 +14,7 @@ cover:
 
 ### Die Bitte
 
-![Mahmud ibn Umran sal Hidaybeth Al'achami](actor_Mahmud.webp) ![Aishulibeth abu’l Aram](actor_Aishulibeth.webp)
+![Mahmud](actor_Mahmud.webp) ![Aishulibeth](actor_Aishulibeth.webp)
 
 Nach etwas über einem Monat der Recherche tat es gut, endlich einmal aus der Bibliothek herauszukommen. Und ich muss gestehen, dies galt vor allem für die Fakultät des Eises. Man muss diesem Element schon in besonderer Weise zugetan sein, um für längere Zeit freiwillig in einem Iglu zu leben. Hätte es nicht die vielen magischen Annehmlichkeiten gegeben, ich hätte wohl ein oder zwei Zehen verloren.
 

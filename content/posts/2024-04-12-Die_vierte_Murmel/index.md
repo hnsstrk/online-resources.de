@@ -6,7 +6,7 @@ categories:
  - Aus den Erzählungen von Benjamin Büchernase
 cover:
     image: "keller01.png"
-    alt: "Eine Gruppe Katzen kämpft in einem dunklen Keller gegen untote Katzen-Zombies."
+    alt: "Eine Gruppe Katzen k&auml;mpft in einem dunklen Keller gegen untote Katzen-Zombies."
     caption: "Kampf gegen die Zombie-Katzen"
 tags:
   - Rollenspiel

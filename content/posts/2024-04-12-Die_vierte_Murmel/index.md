@@ -7,7 +7,7 @@ categories:
 cover:
     image: "keller01.png"
     alt: "Eine Gruppe Katzen k&auml;mpft in einem dunklen Keller gegen untote Katzen-Zombies."
-    caption: "Kampf gegen die Zombie-Katzen"
+    caption: "Kampf gegen die Zombies"
 tags:
   - Rollenspiel
 ---

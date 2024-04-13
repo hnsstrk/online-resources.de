@@ -20,7 +20,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: online-resources.de
   description: "Meine kleine Sammlung von Allem..."
-  keywords: [Rollenspiel, RPG, Das Schwarze Auge, DSA5, Greifenfurter Adel]
+  keywords: [Rollenspiel, RPG, Das Schwarze Auge, DSA5, Greifenfurter Adel, DSK, Die Schwarze Katze]
   author: hnsstrk
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -76,8 +76,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Meine kleine Sammlung von Allem..."
-    Content: "Hier gibt es nicht viel,... Nur ein bisschen was für meine Freunde und mich."
+    Title: "Meine kleine Sammlung von Seiten, Diensten und Geschichten"
+    Content: "Berichte aus Aventurien, aus teilweise fragwürdigen Quellen..."
             
   socialIcons:
     - name: twitter
@@ -113,6 +113,8 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+    responsiveImages: true
+    linkFullImages: true
 
   editPost:
     URL: "https://github.com/hnsstrk/online-resources.de/tree/main/content"

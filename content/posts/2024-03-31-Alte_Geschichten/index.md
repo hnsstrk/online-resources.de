@@ -8,6 +8,8 @@ cover:
     image: "Almada_Taverne01.png"
     alt: "Das Bild zeigt eine lebhafte mittelalterliche Taverne, die von Kerzenlicht beleuchtet wird. Die Gäste genießen ihre Zeit, ein Barkeeper serviert Getränke, und das rustikale Interieur ist mit Holzfässern und Grünzeug geschmückt."
     caption: "Weinstube in Ragath"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 40. Runde der Kampagne: Greifenfurter Adel

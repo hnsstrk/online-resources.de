@@ -5,6 +5,8 @@ author: hnsstrk
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 34. Runde der Kampagne: Greifenfurter Adel

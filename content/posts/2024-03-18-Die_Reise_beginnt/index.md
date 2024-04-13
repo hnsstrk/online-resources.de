@@ -8,6 +8,8 @@ cover:
     image: "drakonia01.png"
     alt: "Ätherisches Kloster auf einem rauen Berg, umgeben von dicken Wolken und Nebel, erzeugt eine geheimnisvolle und dramatische Atmosphäre."
     caption: "Drakonia"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 38. Runde der Kampagne: Greifenfurter Adel

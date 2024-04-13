@@ -8,6 +8,8 @@ cover:
     image: "Bibliothek_Drakonia2.webp"
     alt: "Das Bild zeigt eine riesige, mystisch beleuchtete Bibliothek mit endlosen Regalreihen voller antiker Bücher. Die mächtigen Gewölbedecken sind kunstvoll gestaltet und vermitteln eine Atmosphäre von Respekt und Ehrfurcht vor dem Wissen. In der Mitte des überwältigenden Kirchenschiffs befindet sich ein schmaler See, über den einige Menschen in dunklen Gewändern zu wandern scheinen. Überall sind Skulpturen und Leitern verteilt, die den Zugang zu den höchsten Regalen ermöglichen. Die Szene vermittelt ein Gefühl von Staunen und Neugier angesichts dieser riesigen Schatzkammer des Wissens."
     caption: "Die Bibliothek im Ewigen Konzil der Elementaren Gewalten im Raschtulswall"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 39. Runde der Kampagne: Greifenfurter Adel

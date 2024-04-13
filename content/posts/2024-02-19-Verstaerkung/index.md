@@ -8,6 +8,8 @@ cover:
     image: "krrachtt.jpg"
     alt: "Krrachtt Schildbein"
     caption: "Krrachtt Schildbein, Anführer der Schwarzpelze"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 37. Runde der Kampagne: Greifenfurter Adel

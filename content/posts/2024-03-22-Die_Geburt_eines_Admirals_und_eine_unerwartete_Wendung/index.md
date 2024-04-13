@@ -5,17 +5,14 @@ author: dnlbrggr
 categories:
  - Die schwarze Katze
  - Tagebuch von Inigo
-categories:
- - Die schwarze Katze
- - Tagebuch von Inigo
-tags:
-  - Rollenspiel
 cover:
     image: "admiral_ravenna02.jpeg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Eine graue weibliche Katze mit schwarzen Streifen, gekleidet in eine Marineuniform und Mütze, steht im Vordergrund. Sie schmollt. Im Hintergrund segelt ein majestätisches Schiff auf dem offenen Meer nahe einer malerischen Insel unter einem teilweise bewölkten Himmel."
     caption: "Admiral Ravenna"
+tags:
+  - Rollenspiel
 ---
 
 ## DSK Session 9 - Tagebuch von Inigo

@@ -8,6 +8,8 @@ cover:
     image: "nocheinturm.png"
     alt: "Ruine eines weiteren alten Turm mitten im Wald"
     caption: "Ruine eines weiteren alten Turm mitten im Wald"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 36. Runde der Kampagne: Greifenfurter Adel

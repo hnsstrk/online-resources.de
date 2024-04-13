@@ -10,6 +10,8 @@ cover:
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Die Rolle der Ruine"
     caption: "Die Rolle der Ruine"
+tags:
+  - Rollenspiel
 ---
 
 ## Das schwarze Auge - 36. Runde der Kampagne: Greifenfurter Adel

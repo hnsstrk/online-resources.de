@@ -4,7 +4,8 @@ date: 2024-05-18T18:29:18+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
-
+cover:
+    image: "tisch.webp"
 tags:
   - Rollenspiel
 ---
@@ -17,7 +18,7 @@ Dieses Wissen soll uns Wegweiser und Leuchtfeuer aber auch zugleich Warnung und 
 
 ### Rolle der Ruine
 
-![Rolle der Ruine](../2024-01-14-Schriftrollen/DieRollederRuine.webp)
+![Rolle der Ruine](../2024-01-14-schriftrollen/DieRollederRuine.webp)
 
 Diese Schriftrolle, geschätzt auf ein halbes Jahrtausend an Jahren, ist sorgfältig auf Haut gezeichnet, deren Farbton das Blutrot vergangener Tage bewahrt, nun überzogen mit einer bräunlichen Patina der Alterung. Der Text und die Abbildung einer Ruine sind über die Jahre verblasst, doch immer noch sichtbar, ein stummes Zeugnis der Geschichte, die sie erzählen. Im Gegensatz dazu stehen die Linien, das zentrale Hexagon und die umgebenden Heptagramme, deren Kanten trotz des Alters scharf und deutlich bleiben, fast so, als wären sie immun gegen die Erosion der Zeit.
 
@@ -63,7 +64,7 @@ In einigen der düstersten Überlieferungen wird gemunkelt, dass der Turm ein To
 
 ### Rolle der Wächterhaut
 
-![Rolle der Wächterhaut](../2024-01-14-Schriftrollen/DieRollederWaechterhaut.webp)
+![Rolle der Wächterhaut](../2024-01-14-schriftrollen/DieRollederWaechterhaut.webp)
 
 Diese Schriftrolle ist eine Tätowierung auf menschlicher Haut, die ein Leben lang Wind und Wetter ausgesetzt war – eine Leinwand, die vielleicht einst einem Seefahrer gehörte. Eingraviert in die Haut sind seltsame Kreaturen, deren bloßer Anblick genügt, um den Betrachter zu verwirren. Ihre Gesichter sind ein Rätsel: mit außerweltlichen Zügen und Augen, die an die Abgründe des Ozeans erinnern – oder sind es vielleicht doch nur Masken? Ihre Gewänder, wirken seltsam und faltig, man könnte vermuten, dass sich Tentakeln darunter verbergen und sich an manchen Stellen daraus hervorwinden.
 
@@ -95,7 +96,7 @@ Die mysteriösen Gestalten Zeichen der Tätowierung könnten auch auf den geheim
 
 ### Rolle des Blutgottes
 
-![Rolle des Blutgottes](../2024-01-14-Schriftrollen/DieRolledesBlutgottes.webp)
+![Rolle des Blutgottes](../2024-01-14-schriftrollen/DieRolledesBlutgottes.webp)
 
 Gefertigt aus der Haut eines Sklaven, entfaltet sich die Schriftrolle als ein Dokument, das zwar nicht Jahrhunderte, sondern nur Jahrzehnte überdauert hat. Die makabre Herkunft des Materials ist bezeichnend für diejenigen, die sie in Händen hielten – die Orks, deren rauer Umgang mit heiligen Gegenständen ebenso roh ist wie ihre Sitten. Die Haut ist stellenweise abgenutzt, an einigen Stellen rissig und mit Flecken übersät, die von blutigen Ritualen und der rauen Behandlung ihrer Besitzer zeugen. Die Schriftrolle ist robust, doch die Spuren ihres Gebrauchs sind unverkennbar, und man kann erahnen, dass sie Zeuge von dunklen Zeremonien und barbarischen Festen war.
 
@@ -125,7 +126,7 @@ Das Erscheinen eines Blutmondes ist für die Mitte des Jahres 1045 BF vorhergesa
 
 ### Rolle des Eises
 
-![Rolle des Eises](../2024-01-14-Schriftrollen/DieRolledesEises.webp)
+![Rolle des Eises](../2024-01-14-schriftrollen/DieRolledesEises.webp)
 
 Die Schriftrolle ist von einer kühlen Eleganz, die durch die seltenen und wertvollen blauen Tinten hervorgerufen wird, mit welchen Text und Darstellung ausgearbeitet wurden. Das Pergament ist sehr hochwertig und bis auf kleine Risse an den Kanten gut erhalten. Die Zeichnung selbst scheint an einigen Stellen absichtlich verblasst, um den nebelhaften Figuren, die aus dem eisigen Hintergrund hervortreten, mehr Ausdruck zu verleihen.
 
@@ -153,7 +154,7 @@ Die präzise Anordnung der Symbole deutet auf eine Verbindung zu tiefgründigere
 
 ### Rolle des Labyrinths
 
-![Rolle des Labyrinths](../2024-01-14-Schriftrollen/DieRolledesLabyrinths.webp)
+![Rolle des Labyrinths](../2024-01-14-schriftrollen/DieRolledesLabyrinths.webp)
 
 Das Ziegenleder, ein Meisterstück alter Handwerkskunst, dessen Oberfläche die Zeiten überdauert hat, zeigt sich als ein Zeugnis alten Wissens. Es strahlt Beständigkeit aus und wirkt trotz der leichten Zerschlissenheit an den Rändern – den stummen Zeugen einer langen Reise – robust. Der Kern der Schriftrolle, mit der Darstellung eines Labyrinths ist bemerkenswert gut erhalten, fast als ob er die unzähligen Blicke, die über ihn geglitten sind, willkommen heißt, ja sogar anzieht.
 
@@ -196,7 +197,7 @@ Der unermessliche Weg des Labyrinths könnte eine Reise durch den Limbus andeute
 
 ### Rolle des Schattentores
 
-![Rolle des Schattentores](../2024-01-14-Schriftrollen/DieRolledesSchattentores.webp)
+![Rolle des Schattentores](../2024-01-14-schriftrollen/DieRolledesSchattentores.webp)
 
 Das Pergament zeigt eine Braunfärbung, die an die Seiten eines alten, viel gelesenen Buches erinnert. Über die Jahre hat es an manchen Stellen Flecken angesammelt, die sich in das Material eingebettet haben und es stellenweise schwierig machen, die ursprünglichen Zeichnungen von den Markierungen der Zeit zu unterscheiden. Die Tinte der Zeichnungen ist dunkel und deutlich, trotzt den Jahren und hebt sich stolz vom Hintergrund ab. Sie hat eine bemerkenswerte Tiefe bewahrt und zieht klare, entschlossene Linien über das Pergament, das die Hände vieler Generationen überdauert hat.
 
@@ -237,7 +238,7 @@ Die abschließende Analyse der Schriftrolle enthüllt schließlich ihre wahre un
 
 ### Rolle des Sternenkompass
 
-![Rolle des Sternenkompass](../2024-01-14-Schriftrollen/DieRolledesSternenkompass.webp)
+![Rolle des Sternenkompass](../2024-01-14-schriftrollen/DieRolledesSternenkompass.webp)
 
 Das Pergament, ein Zeugnis vergangener Epochen, präsentiert sich in einem Zustand, der sowohl seine Zerbrechlichkeit als auch seine Widerstandsfähigkeit gegen die Zeit offenbart. Der Hauptteil ist von einer hellen, gleichmäßigen Beschaffenheit, während die Braunfärbung, ein subtiles, aber deutliches Zeichen des Alters, bereits am unteren Rand nagt.
 
@@ -280,7 +281,7 @@ Die Erkenntnis verdichtet sich, dass das Hexagon und die Heptagramme einen krypt
 
 ### Rolle des Verlieses
 
-![Rolle des Verlieses](../2024-01-14-Schriftrollen/DieRolledesVerlieses.webp)
+![Rolle des Verlieses](../2024-01-14-schriftrollen/DieRolledesVerlieses.webp)
 
 Die kunstvolle Gestaltung der Schriftrolle ist ein wahres Meisterwerk. Jeder Strich, jede Linie und jedes Detail wurde mit größter Präzision ausgeführt. Die Farben wurden sorgfältig ausgewählt und das Blau leuchtet, als ob es gerade erst aufgetragen wurde. Die Präzision, mit der die Schriftrolle bearbeitet wurde, ist beeindruckend. Jeder Linie ist perfekt geformt, jede Verzierung exakt platziert. Es ist, als ob der Künstler eine unfehlbare Hand hatte, die jeden Strich mit einer unglaublichen Genauigkeit setzte. Man kann sich nur vorstellen, wie viel Zeit und Mühe in die Herstellung dieses Werks investiert wurden. Auch der Zustand der Schriftrolle ist bemerkenswert. Keine Spur von Alter oder Abnutzung ist zu erkennen. Es ist, als wäre sie gerade erst erschaffen worden, frisch und unberührt.
 

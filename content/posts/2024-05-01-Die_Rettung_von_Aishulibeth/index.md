@@ -7,7 +7,7 @@ categories:
 cover:
     image: "lagerhaus02.png"
     alt: "Innenansicht eines mittelalterlichen Lagerhauses in Spanien bei Nacht. Der Betrachter steht inmitten von Kisten, Fässern und Regalen, die den Raum füllen. Holzbohlenböden. Durch große Fenster in der Decke fällt Mondlicht herein und beleuchtet den vollgestopften Lagerraum. Realistische Beleuchtung und detaillierte Texturen auf Holz, Steinmauern und den verschiedenen Behältern und Vorräten, die darin gelagert sind. Eine atmosphärische Nachtszene mit dramatischen Licht-Kontrasten."
-    caption: "Das innere des Lagerhauses"
+    caption: "Das Innere des Lagerhauses"
 tags:
   - Rollenspiel
 ---

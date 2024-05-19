@@ -5,7 +5,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "content/posts/2024-05-19-Zurueck_nach_Ragath/Karlos.png"
+    image: "Karlos.png"
     alt: "Das Bild zeigt einen imposanten mittelalterlichen Großgrungbesitzer, der vor einem prächtigen Gebäude steht. Er trägt einen aufwendig verzierten roten Umhang mit goldenen Stickereien und edle Kleidung. Sein ernster Gesichtsausdruck und seine stolze Haltung verleihen ihm eine autoritäre Ausstrahlung. Im Hintergrund ist eine steinerne Architektur mit verwitterten Säulen und einer Treppe zu sehen, was die historische Atmosphäre des Bildes unterstreicht."
     caption: "Karlos Jurios"
 tags:

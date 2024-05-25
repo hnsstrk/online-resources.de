@@ -17,13 +17,13 @@ tags:
 
 ### Das Ende von Moloch
 
-Das Warme Haus war voller Katzen und Kater, die mit dem Dicken Flook befreundet waren und als dieser um Hilfe rief, kamen sie. Wir waren eingekesselt. Draußen versammelten sich erboste Katzen und hier drin jammerte Flook so sehr, dass Ruben und ich uns bemüßigt sahen uns um ihn zu kümmern. Mein Freund tat alles, um den dicken Kater zu beruhigen, während ich seine Wunden versorgte. 
+Das Warme Haus war voller Katzen und Kater, die mit dem Dicken Flook befreundet waren und als dieser um Hilfe rief, kamen sie. Wir waren eingekesselt. Draußen versammelten sich erboste Katzen und hier drin jammerte Flook so sehr, dass Ruben und ich uns bemüßigt sahen uns um ihn zu kümmern. Mein Freund tat alles, um den dicken Kater zu beruhigen, während ich seine Wunden versorgte.
 
-Die wütenden Rufe wurden immer lauter und Fäuste hämmerten gegen dir Türe. Doch dann mischten sich andere Laut hinzu. Kratzen und Reißen, Knurren und Schmerzensschreie… Moloch war zurück und griff die Katzen an. Uns war klar, dass wir ihnen helfen mussten, aber das furchtbare Gedränge im Flur machte uns dies nahezu unmöglich, dennoch tat ich mein Bestes, um aus dem Raum zu kommen. 
+Die wütenden Rufe wurden immer lauter und Fäuste hämmerten gegen dir Türe. Doch dann mischten sich andere Laut hinzu. Kratzen und Reißen, Knurren und Schmerzensschreie… Moloch war zurück und griff die Katzen an. Uns war klar, dass wir ihnen helfen mussten, aber das furchtbare Gedränge im Flur machte uns dies nahezu unmöglich, dennoch tat ich mein Bestes, um aus dem Raum zu kommen.
 
-Ravenna nutzte die Gunst der Stunde, mir nahe zu kommen und warf sich auf mich. In solch einer gefährlichen Situation kann ich es ihr nicht verdenken, dass sie meinen Schutz und meine Nähe suchte. Dennoch, zuerst mussten wir dieses Untier vertreiben. So schoben wir uns alle weiter und weiter nach vorne Richtung der Treppe auf der Moloch stand. Die anderen Katzen, sofern sie nicht von dem monströsen Hund zerrissen wurden, flüchteten. Nur meine Freunde und ich kämpften tapfer weiter. 
+Ravenna nutzte die Gunst der Stunde, mir nahe zu kommen und warf sich auf mich. In solch einer gefährlichen Situation kann ich es ihr nicht verdenken, dass sie meinen Schutz und meine Nähe suchte. Dennoch, zuerst mussten wir dieses Untier vertreiben. So schoben wir uns alle weiter und weiter nach vorne Richtung der Treppe auf der Moloch stand. Die anderen Katzen, sofern sie nicht von dem monströsen Hund zerrissen wurden, flüchteten. Nur meine Freunde und ich kämpften tapfer weiter.
 
-Ich landete einige gute Treffer mit meinem neuen Wanderstab und auch Jack, Inigo und Ruben teilten ordentlich aus. Ravenna hatte eine gar seltsame Gerätschaft dabei, die an eine kleine Kanone erinnerte. Diese hatte sie auf der Seemöve gefunden. Vermutlich, weil ich ihr von dem Adligen erzählt hatte, der auf den Kugeln der großen Kanonen ritt war sie nun ganz versessen auf das Ding. Ich habe damals schon gemerkt, dass ich sie mit meinem Wissen enorm beeindruckt hatte. Auf alle Fälle setzte sie mit diesem kleinen, lauten Ding Moloch heftig zu. Mit meiner Hilfe gelang es meinen Kameraden so, diesem Vieh ein für alle Mal den Gar auszumachen. 
+Ich landete einige gute Treffer mit meinem neuen Wanderstab und auch Jack, Inigo und Ruben teilten ordentlich aus. Ravenna hatte eine gar seltsame Gerätschaft dabei, die an eine kleine Kanone erinnerte. Diese hatte sie auf der Seemöve gefunden. Vermutlich, weil ich ihr von dem Adligen erzählt hatte, der auf den Kugeln der großen Kanonen ritt war sie nun ganz versessen auf das Ding. Ich habe damals schon gemerkt, dass ich sie mit meinem Wissen enorm beeindruckt hatte. Auf alle Fälle setzte sie mit diesem kleinen, lauten Ding Moloch heftig zu. Mit meiner Hilfe gelang es meinen Kameraden so, diesem Vieh ein für alle Mal den Gar auszumachen.
 
 Warum Jack und Ruben Moloch dann auch in aller Ruhe zerlegten erschließt sich mir noch heute nicht. Mir war es wichtiger nach Flook zu schauen und ihm noch ein wenig gut zuzureden. Zu meinem Glück verplapperte er sich hierbei und ich erfuhr, dass Sial was mit Moloch zu tun hatte. Dies musste ich unbedingt meinen Freunden erzählen.
 
@@ -37,7 +37,7 @@ Eigentlich wollten wir uns von Ajom verabschieden, aber mir viel eine Statue mit
 
  > Ich bin der Wächter der Vergangenheit und **reagiere** auf den Namen **Praeteritus**.
 
-Aber auch dieser Wächter reagierte auf gar nichts. 
+Aber auch dieser Wächter reagierte auf gar nichts.
 
 Ajom berichtete uns, dass es am Duellplatz eine weitere dieser Statuen gab und mir war klar, dass wir uns auch diese dringend, anschauen sollten. Wir verabschiedeten uns und begaben uns zu besagtem Ort. Warum dieser so hieß, wie er hieß war mir nicht klar, denn Duelle fanden hier keine statt. Lediglich die Karren der Zweibeiner wurden hier beladen. Kaum angekommen fanden meine scharfen Augen und mein wacher Verstand nahezu sofort die dritte Statue. Sie hatte silberne Flügel und auf ihrem Schild stand:
 
@@ -47,10 +47,10 @@ Drei Wächter, einer für die Vergangenheit, einer für die Zukunft und einer f�
 
 ### Die fünfte Murmel
 
-Wenn man mal nicht weiß, wo man beginnen soll, dann ist der Anfang immer die richtige Antwort. Bevor wir also irgendwelche anderen Geheimnisse lüften, wollten wir uns erst einmal um die fünf Murmeln kümmern. Also machten wir uns erneut auf den Weg zu den Hunden. Dieses Mal war es mir wichtig höflich zu sein, daher klopften wir an. Argar öffnete uns und ich berichtete ihm, dass ich versucht habe ein gutes Wort für sie einzulegen. Die Murmel wollte er aber dennoch nicht rausrücken. 
+Wenn man mal nicht weiß, wo man beginnen soll, dann ist der Anfang immer die richtige Antwort. Bevor wir also irgendwelche anderen Geheimnisse lüften, wollten wir uns erst einmal um die fünf Murmeln kümmern. Also machten wir uns erneut auf den Weg zu den Hunden. Dieses Mal war es mir wichtig höflich zu sein, daher klopften wir an. Argar öffnete uns und ich berichtete ihm, dass ich versucht habe ein gutes Wort für sie einzulegen. Die Murmel wollte er aber dennoch nicht rausrücken.
 
-Ich überlegte noch, ob ich ihm nicht ordentlich, was mit meinem Wanderstab mitgeben sollte, da schoss Ravenna mit einem Pfeil auf den Köter. Sie muss sich sicherlich schreckliche Sorgen um mich gemacht haben, zumindest sah sie mich schon wieder so komisch an. 
+Ich überlegte noch, ob ich ihm nicht ordentlich, was mit meinem Wanderstab mitgeben sollte, da schoss Ravenna mit einem Pfeil auf den Köter. Sie muss sich sicherlich schreckliche Sorgen um mich gemacht haben, zumindest sah sie mich schon wieder so komisch an.
 
-Ach ja, die Gute findet einfach nie den rechten Zeitpunkt. 
+Ach ja, die Gute findet einfach nie den rechten Zeitpunkt.
 
 Nun galt es erst einmal diesen Kötern ordentlich eins auf die Mütze zu geben. Dies gelang uns sogar besser als erwartet. Ich teilte ordentlich aus und gemeinsam machten wir die Hunde fertig. Ravenna gelang es sogar die Murmel aus dem Haus zu stehlen und das war der geeignete Moment Fersengeld zu geben und wir sahen zu, dass wir verschwanden.

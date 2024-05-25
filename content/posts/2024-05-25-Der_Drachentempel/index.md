@@ -1,5 +1,5 @@
 ---
-title: "2024 05 25 Der_Drachentempel"
+title: "Der Drachentempel"
 date: 2024-05-25T20:42:33+02:00
 categories:
  - Die schwarze Katze

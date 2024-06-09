@@ -1,5 +1,5 @@
 ---
-title: "2024 06 09 Gastfreundschaft"
+title: "Gastfreundschaft"
 date: 2024-06-09T19:09:01+02:00
 categories:
  - Das schwarze Auge

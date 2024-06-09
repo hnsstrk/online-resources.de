@@ -30,6 +30,11 @@ In der Nacht konnte ich auf Grund des Helms kaum schlafen und während die Stund
 
 ### Geschäfte
 
+![Karlos Jurios](token_karlos.webp)
+![Gonzalo Jurios](token_Gonzalo_Jurios.webp)
+![Fernando Jurios](token_FernandoJurios.webp)
+![Esteban Carvajal](token_EstebanCarvajal.webp)
+
 Am nächsten Tag wurde ich am späten Nachmittag oder frühen Abend von vier Wächtern zu den Pferdestallungen des Anwesens gebracht. Diese waren groß und im ragathischen Stil gehalten. Massive Steinwände, kunstvoll verzierte Türen und Fenster sowie ein gepflegter Innenhof mit Orangenbäumen prägten das Bild. Die Pferde standen in geräumigen Boxen aus dunklem Holz, versehen mit glänzenden Beschlägen. Die Atmosphäre strahlte Eleganz und Stolz aus, ein Zeugnis der tiefen Leidenschaft des Hausherrn für seine Tiere oder eine beeindruckende Zurschaustellung von Reichtum und Status.
 
 In den Stallungen erwarteten uns weitere Wachen, doch diese waren im Gegensatz zu meinen vier Begleitern schwer gerüstet und bewaffnet. Ein Umstand, der sich als positiv erwies, nahmen sie mir doch endlich diesen unsäglichen Helm ab.

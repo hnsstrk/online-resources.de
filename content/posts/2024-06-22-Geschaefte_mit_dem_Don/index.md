@@ -1,7 +1,6 @@
 ---
 title: "Geschäfte mit dem Don"
 date: 2024-06-22T20:03:29+02:00
-draft: true
 categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase

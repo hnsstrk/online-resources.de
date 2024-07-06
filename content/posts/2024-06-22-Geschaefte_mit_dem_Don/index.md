@@ -54,7 +54,7 @@ Im Turm Marteniel trafen wir auf eine rätselhafte Katze, die uns den Weg zu But
 
 Auf dem Tisch lagen drei Würfel. Jack nahm sich einen davon und würfelte. Anstelle des Schlüssels bekam er jedoch eine deutlich sichtbare Wunde. Mir war sofort klar, dass diesen Würfeln eine Art Zauberei innewohnen musste und dass es vermutlich nicht ums Würfeln an sich ging. Meiner Meinung nach war viel mehr eine Art Rätzel zu lösen. Eines, dass sich meinem brillanten Geist leider nicht sofort erschloss und während ich noch überlegte, würfelte Jack weiter. Er würfelte, bis er schwer verletzt war und kaum noch stehen konnte. Inigo musste ihm sogar einen seiner Heiltränke geben, damit er uns nicht umfiel. 
 
-Als Jack jedoch einfiel, dass er noch diesen seltsamen Würfel aus dem Schiff bei Wolldorf hatte und der diesen zum Würfeln verwendete, wurde die Katze verwundet. Sie gab uns noch den Schlüssel und löste sich dann im Nichts auf.
+Als Jack jedoch einfiel, dass er noch diesen seltsamen Würfel aus dem Schiff bei Wolldorf hatte und der diesen zum Würfeln verwendete, wurde die Inigo verwundet. Die seltsame Katze hingegen gab uns den Schlüssel und löste sich dann im Nichts auf.
 
 #### Der Kampf gegen Mygalon
 

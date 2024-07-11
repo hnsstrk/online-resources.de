@@ -5,7 +5,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "reise_nach_perricum04.webp"
+    image: "reise_nach_perricum03.webp"
     alt: "Eine Reitergruppe reist durch eine winterliche Landschaft"
     caption: "Der Weg nach Perricum"
 tags:

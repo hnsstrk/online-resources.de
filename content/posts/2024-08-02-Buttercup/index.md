@@ -25,7 +25,7 @@ Gemeinsam gelang es uns, sie zu besiegen, was uns den Besitz des nächsten Schl�
 
 ### Goldfisch und Rätsel
 
-Die neue Kammer war voller seltsamer Dinge. An den Wänden hingen die Köpfe toter Tiere und auf dem Boden lagen Felle verstreut. Mehrere Statuen standen im Raum und auf einem Tisch befand sich ein Glas mit einem Goldfisch, der glücklicherweise nicht durch den Raum fliegen konnte. Auf dem Tisch lagen zudem zwei Pergamente mit Rätseln.
+Die neue Kammer war voller seltsamer Dinge. An den Wänden hingen die Köpfe toter Tiere und auf dem Boden lagen Felle verstreut. Mehrere Statuen standen im Raum und auf einem Tisch befand sich ein Glas mit einem Goldfisch, der glücklicherweise nicht durch den Raum fliegen konnte. Auf dem Tisch lagen zudem Pergamente mit Rätseln.
 
 Das erste Rätsel lautete:
 
@@ -33,7 +33,13 @@ Das erste Rätsel lautete:
 
 Dieses Rätsel konnte ich relativ schnell lösen: Ein Fisch mit Rätseln und ein verwunschener Raum mit einem Bassin und Wasserfall – das musste der Ort sein. Vorsichtig, um ihn nicht zu quälen, setzte ich den Goldfisch in das Bassin, welches wir ein Stockwerk tiefer gefunden hatten. Kaum hatte ich dies getan, ertönte ein lautes Poltern und Scheppern, ein gutes Zeichen!
 
-Das zweite Rätsel war etwas kniffliger.
+Das zweite Rätse war recht einfach. Sogar meine Kameraden konnten es problemlos lösen.
+
+> "Töte den Unhold und der Priester teilt sein Wissen."
+
+Den Unhold lag im Sarkophag und - tot wie er war - ließ er sich recht leicht,… töten.
+
+Das dritte Rätsel war etwas kniffliger.
 
 > "Der Schlüssel um weiterzukommen, befindet sich in dem Maul des Tiers, welches es zweimal gibt."
 

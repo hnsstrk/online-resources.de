@@ -76,8 +76,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Meine kleine Sammlung von Seiten, Diensten und Geschichten"
-    Content: "Berichte aus Aventurien, aus teilweise fragwürdigen Quellen..."
+    Title: "Berichte aus Aventurien"
+    Content: "von teilweise fragwürdigen Quellen..."
             
   socialIcons:
     - name: twitter
@@ -167,10 +167,10 @@ menu:
       name: "🐈 DSK"
       url: https://fvtt2.online-resources.de/
       weight: 80
-    - identifier: test
-      name: "🎲 Test"
-      url: https://fvtt3.online-resources.de/
-      weight: 90
+#    - identifier: test
+#      name: "🎲 Test"
+#      url: https://fvtt3.online-resources.de/
+#      weight: 90
 #    - identifier: example
 #      name: example.org
 #      url: https://example.org

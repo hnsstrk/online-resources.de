@@ -170,7 +170,7 @@ menu:
     - identifier: test
       name: "🎲 Test"
       url: https://fvtt3.online-resources.de/
-      weight: 80
+      weight: 90
 #    - identifier: example
 #      name: example.org
 #      url: https://example.org

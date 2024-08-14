@@ -155,18 +155,22 @@ menu:
       name: "🏷️ Tags"
       url: /tags/
       weight: 40
-#    - identifier: impressum
-#      name: "📃 Impressum"
-#      url: /impressum/
-#      weight: 40
+    - identifier: impressum
+      name: "📃 Impressum"
+      url: /impressum/
+      weight: 50
     - identifier: dsa
       name: "👁️  DSA"
       url: https://fvtt1.online-resources.de/
-      weight: 80
+      weight: 70
     - identifier: dsk
       name: "🐈 DSK"
       url: https://fvtt2.online-resources.de/
-      weight: 90
+      weight: 80
+    - identifier: test
+      name: "🎲 Test"
+      url: https://fvtt3.online-resources.de/
+      weight: 80
 #    - identifier: example
 #      name: example.org
 #      url: https://example.org

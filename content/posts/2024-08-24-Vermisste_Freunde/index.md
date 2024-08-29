@@ -35,7 +35,7 @@ Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsi
 
 ### Orakel
 
-Wir machten uns also auf den Weg und wie ver
+Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz 
 
 [[Benni]] schleppt vor dem Orakel eine der Aranier-Katzen ab.
 Landen in einem Liebesnest

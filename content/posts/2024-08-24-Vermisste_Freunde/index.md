@@ -21,7 +21,6 @@ Zwar hatte ich die Gute eingeladen, mich in Havena zu besuchen, aber ich hätte 
 
 Und trotzdem, in ihrem Schlepptau erkannte ich dreu Katzen, die wir während unserer Zeit in Wolldorf kennengelernt hatten. Gadhra vom Schwertturm, Meroth aus dem Fass und Nino Blütentasche standen nur wenige Schritte hinter Kitty und schauten betrübt aus der Wäsche.
 
-
 ### Taverne
 
 Mein Anstand verbot es mir, die Katzen aus Wolldorf einfach so auf der Straße stehenzulassen, also ging ich mit ihnen in die Taverne unter die Riesen, wo wir auch auf Inigo, Jack und Ruben trafen. Während ich eine leckere Sahne genoss, schilderten unsere Überraschungsgäste meinen Freunden ihr Leid.

@@ -35,7 +35,7 @@ Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsi
 
 ### Orakel
 
-Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohl proportionierte 
+Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohl proportionierte Kätzchen auf. 
 
 [[Benni]] schleppt vor dem Orakel eine der Aranier-Katzen ab.
 Landen in einem Liebesnest

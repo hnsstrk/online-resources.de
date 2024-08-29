@@ -15,27 +15,33 @@ tags:
 
 ## DSK Session 18 - Aus den Erzählungen von Benjamin Büchernase
 
-Es war ein schöner Tag in Havena und ich genoss die ersten Sonnenstrahlen auf der Treppe meines beschaulichen Hauses. Es lag zentral in einer der besseren Gegenden der Stadt und war recht groß. Daher machte es mir auch nicht allzu viel aus, es mit mir einigen Zweibeinern zu teilen. Immerhin versorgten sie mich dafür auch mit allem, was ich im Leben brauchte. Gerade als ich dachte, dass es nicht besser sein könnte, vernahm ich ein schüchternes "Hallo". Zugegebenermaßen etwas träge öffnete ich ein Auge und erblickten die wunderschöne Kitty Kuschelpfote aus Wolldorf. 
+Es war ein schöner Tag in Havena, und ich genoss die ersten Sonnenstrahlen auf der Treppe meines beschaulichen Hauses. Es lag zentral in einer der besseren Gegenden der Stadt und war recht groß. Daher machte es mir auch nicht allzu viel aus, es mit einigen Zweibeinern zu teilen. Immerhin versorgten sie mich dafür auch mit allem, was ich im Leben brauchte. Gerade als ich dachte, dass es nicht besser sein könnte, vernahm ich ein schüchternes "Hallo". Zugegebenermaßen etwas träge öffnete ich ein Auge und erblickte die wunderschöne Kitty Kuschelpfote aus Wolldorf.
 
 Zwar hatte ich die Gute eingeladen, mich in Havena zu besuchen, aber ich hätte nicht damit gerechnet, dass sie mit Gesellschaft kommen würde…
 
-Und trotzdem in ihrem Schlepptau erkannte ich die Katzen, die wir bei Wolldorf auf der Möwe, dem verfluchten Schiff, kennengelernt hatten. Gadhra vom Schwertturm, Meroth aus dem Fass und Nino Blütentasche standen nur wenige Schritte hinter Kitty und schauten betrübt aus der Wäsche.
+Und trotzdem, in ihrem Schlepptau erkannte ich dreu Katzen, die wir während unserer Zeit in Wolldorf kennengelernt hatten. Gadhra vom Schwertturm, Meroth aus dem Fass und Nino Blütentasche standen nur wenige Schritte hinter Kitty und schauten betrübt aus der Wäsche.
 
 
 ### Taverne
-Besprechung in der Taverne unter den Riesen
-Katzen suchen ihr Freunde aus der ihrer alten Gruppe
-Nino, Merott und Gatra
-Sie haben sie vor dem Hinterhalt der 3 Krallen und der Verbannung auf die Möve das letzte Mal gesehen.
-Es gab Spuren, dass sie Wolldorf verlassen haben, die sich aber im nichts verlaufen haben
-Die 3 Krallen und [[Saytan Wollsammler]] wissen anscheinen nichts
-Wir wollen zum Orakel in [[Havena]]
+
+Mein Anstand verbot es mir, die Katzen aus Wolldorf einfach so auf der Straße stehenzulassen, also ging ich mit ihnen in die Taverne unter die Riesen, wo wir auch auf Inigo, Jack und Ruben trafen. Während ich eine leckere Sahne genoss, schilderten unsere Überraschungsgäste meinen Freunden ihr Leid.
+
+Ihre Kameraden hatten Gadhra, Meroth und Nino das letzte Mal gesehen, als sie gemeinsam in einen Hinterhalt der Drei Krallen gerieten. Während unsere Gäste die Gefangenschaft der selbsternannten Wächter von Wolldorf und die Verbannung auf die Möwe genossen, konnten die anderen fliehen. Nachdem die Sache mit dem verfluchten Schiff und Moloch überstanden war, haben sie sich auf die Suche gemacht.
+
+Es gab wohl Spuren, dass die anderen Wolldorf verlassen hatten, doch diese verliefen sich nach einer Weile. Seltsamerweise wussten weder die Drei Krallen noch Saytan Wollsammler etwas über den Verbleib der Geflüchteten. Scheinbar hatten diese ihre Sache gut gemacht. Ohne einen Anhaltspunkt konnte uns nur noch ein Wunder helfen – oder eine Weissagung.
+
+Eine Weissagung, das könnte die Lösung sein. Ich erinnerte mich an die Geschichten über das Orakel von Havena, eine geheimnisvolle Schleiereule, die angeblich das Wissen der Welt in sich trägt und in Vergangenheit sowie Zukunft blicken kann. Diese schattenhafte Patronin der Katzen von Havena soll hoch oben in einem Turm des goldenen Hauses in den Unterfluren nisten. Man sagt, dass das Orakel nur zu wenigen Auserwählten spricht, und auch dann sind seine Worte oft kryptisch und schwer zu entschlüsseln.
+
+Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsitz der goldenen Horde, einer Gruppe von arroganten, verwöhnten Aranierkatzen. Diese fettleibigen Rotfelle genießen die Verehrung der praiosgläubigen Menschen, die sie füttern und pflegen. Trotz der Gefahr, die von diesen faulen, aber feigen Katzen ausgeht, beschloss ich, dass wir es wagen sollten, das Orakel aufzusuchen. Vielleicht konnte uns seine Weissagung den entscheidenden Hinweis auf den Verbleib der Vermissten geben. 
+
+### Orakel
+
+
 
 [[Benni]] schleppt vor dem Orakel eine der Aranier-Katzen ab.
 Landen in einem Liebesnest
 Wurden beklaut, [[Ruben]] hat es aber bemerkt
 
-### Orakel
 Danach zum Orakel
 Im Schoße des weiblichen Orks wird aus den Samtpfoten ein Werkzeug des menschlichen Tiers.
 Orakel empfiehlt Bibliothek
@@ -46,6 +52,7 @@ Jack kannte die Katze, sie hat ihm den Weg zum Orakel gezeigt
 Wurde mit dem Glas erstochen
 
 ### Bibliothek
+
 Hunde bewachen den Eingang
 Benni will übers Dach ist aber zu unsportlich
 Ruben ist zu schwach ihm zu helfen
@@ -56,10 +63,12 @@ Bibliothek durchsucht.
 Karten-Händler kennengelernt.
 
 ### Keller
+
 Ratten umgehauen
 Heiltränke in Uhren: Ruben entdeckt den ersten Heiltrank.
 
 ### Gargylen
+
 Metallgitter auf dem Boden.
 Benni schnappt sich das geheimnisvolle Buch.
 Kampf gegen die Gargoylen.

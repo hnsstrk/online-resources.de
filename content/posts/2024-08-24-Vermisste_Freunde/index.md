@@ -45,7 +45,7 @@ Nach diesem unrühmlichen Vorfall berappelten wir uns wieder und beschlossen zum
 
 Wie schlichen also durch das Goldene Haus, vorbei an vielen Statuen der Zweibeiner, bis zum Turm hinauf, wo wir an einem Fenster das Orakel fanden, das den leuchtenden Mond beobachtete. Ein Umstand der meines umfänglichen Wissens nach, für Schleiereulen nicht unüblich ist.
 
-Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden und Opfergaben sind wohl obligatorisch. Hier macht Ruben alle Versäumnisse  dieses Abends wieder gut, in dem er dem Orakel das Maus auf Toast Sandwich gab, das er wohlweislichen von der Taverne mitgebracht hatte. Scheinbar hatte das Orakel auch wirklich genug von all den weißen Mäusen, die ihr sind
+Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden und Opfergaben sind wohl obligatorisch. Hier macht Ruben alle Versäumnisse  dieses Abends wieder gut, in dem er dem Orakel das Maus auf Toast Sandwich gab, das er wohlweislichen von der Taverne mitgebracht hatte. Scheinbar hatte das Orakel auch wirklich genug von all den weißen Mäusen, die ihr üblicherweise angeboten wurden und so schlang sie d
 
 
 

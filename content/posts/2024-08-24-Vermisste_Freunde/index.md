@@ -49,7 +49,7 @@ Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden 
 
 > Im Schoße des weiblichen Orks wird aus den Samtpfoten ein Werkzeug des menschlichen Tiers.
 
-Orakel empfiehlt Bibliothek
+Ich tat mein Bestes um aus diesem 
 
 Als wir gehen liegt eine tote Katze auf dem Boden
 Gespickt mit Glassplitter

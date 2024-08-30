@@ -41,7 +41,7 @@ Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich
 
 Wir verbrachten eine schöne Zeit, doch leider mit einem bitteren Nachgeschmack. Diese unverschämte Araniererin hat mir doch tatsächlich mein wunderschönes Medaillon und ein Stück der alten Tempelkarte gestohlen. Inigo hat es noch viel schlimmer erwischt. Dem Armen fehlten am Ende seine Rüstung und ein Schwert und ich wundere mich noch heute, wie er so unaufmerksam sein konnte. Der kleine dicke Ruben hingegen hat rechtzeitig bemerkt was vor sich ging, hat aber, an statt uns zu warnen, eine philosophische Diskussion über richtig und falsch mit der Katze geführt die ihn ausnehmen wollte. Am Ende wollte er dem freschen Ding noch aus der Patsche helfen. Naja, wenigstens hat er das Herz am rechten Fleck.
 
-Nach diesem unrühmlich
+Nach diesem unrühmlichen Vorfall berappelten wir uns wieder und beschlossen zum Orakel zu gehen. Da sich die
 
 Danach zum Orakel
 Im Schoße des weiblichen Orks wird aus den Samtpfoten ein Werkzeug des menschlichen Tiers.

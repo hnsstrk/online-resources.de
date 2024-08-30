@@ -51,7 +51,7 @@ Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden 
 
 Ich tat mein Bestes um aus diesem Rätsel schlau zu werden und bat sogar das Orakel um Hilfe, doch leider konnte sie uns nichts weiteres sagen. Allerdings schlug sie vor, dass wir uns mal in der Bibliothek umschauen sollten. Dieser Vorschlag war so gut, der hätte glatt von mir sein können.
 
-Wir zogen also von dannen und verließen das Goldene Haus. Zu unserem entsetzen lag auf dem Platz auf dem sich zu Beginn des Abend noch die Aranierkatzen getummelt haben nun eine tote Katze. Ein tote Katze die Jack wohl den Weg zum Orakel gezeigt hatte. Sie lag da, mitten auf dem Platz, gespickt mir Glassplittern. Das, obwohl nirgends ein zerbrochenes Fenster zu sehen war. Bei genauerem Hinsehen, erkannte wir, dass die Katze mit einer Glasscherbe erstochen wurde. Scheinbar sollte die Weissagun
+Wir zogen also von dannen und verließen das Goldene Haus. Zu unserem entsetzen lag auf dem Platz auf dem sich zu Beginn des Abend noch die Aranierkatzen getummelt haben nun eine tote Katze. Ein tote Katze die Jack wohl den Weg zum Orakel gezeigt hatte. Sie lag da, mitten auf dem Platz, gespickt mir Glassplittern. Das, obwohl nirgends ein zerbrochenes Fenster zu sehen war. Bei genauerem Hinsehen, erkannte wir, dass die Katze mit einer Glasscherbe erstochen wurde. Scheinbar sollte die Weissagung des Orakels nicht das einzige Rätsel an diesem Abend bleiben. Aber wir musss
 
 Als wir gehen liegt eine tote Katze auf dem Boden
 Gespickt mit Glassplitter

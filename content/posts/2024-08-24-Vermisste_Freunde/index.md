@@ -43,6 +43,8 @@ Wir verbrachten eine schöne Zeit, doch leider mit einem bitteren Nachgeschmack.
 
 Nach diesem unrühmlichen Vorfall berappelten wir uns wieder und beschlossen zum Orakel zu gehen. Da sich die Aranier aus dem Staub gemacht hatten war der Weg frei und nichts hielt uns mehr auf. Sogar Jack, der sich ein wenig umgesehen hatte stieß wieder zu uns. 
 
+Wie schlichen also durch das Goldene Haus, vorbei an vielen 
+
 Danach zum Orakel
 Im Schoße des weiblichen Orks wird aus den Samtpfoten ein Werkzeug des menschlichen Tiers.
 Orakel empfiehlt Bibliothek

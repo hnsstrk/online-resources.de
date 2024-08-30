@@ -49,7 +49,7 @@ Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden 
 
 > Im Schoße des weiblichen Orks wird aus den Samtpfoten ein Werkzeug des menschlichen Tiers.
 
-Ich tat mein Bestes um aus diesem Rätsel schlau zu werden und bat sogar das Orakel um Hilfe, doch leider konnte sie uns nichts weiteres sagen. Al
+Ich tat mein Bestes um aus diesem Rätsel schlau zu werden und bat sogar das Orakel um Hilfe, doch leider konnte sie uns nichts weiteres sagen. Allerdings schlug sie vor, dass wir uns mal in der Bibliothek umschauen sollten. 
 
 Als wir gehen liegt eine tote Katze auf dem Boden
 Gespickt mit Glassplitter

@@ -37,7 +37,7 @@ Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsi
 
 Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohl proportionierte Kätzchen auf.
 
-Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es f
+Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenu
 
 [[Benni]] schleppt vor dem Orakel eine der Aranier-Katzen ab.
 Landen in einem Liebesnest

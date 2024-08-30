@@ -45,7 +45,7 @@ Nach diesem unrühmlichen Vorfall berappelten wir uns wieder und beschlossen zum
 
 Wie schlichen also durch das Goldene Haus, vorbei an vielen Statuen der Zweibeiner, bis zum Turm hinauf, wo wir an einem Fenster das Orakel fanden, das den leuchtenden Mond beobachtete. Ein Umstand der meines umfänglichen Wissens nach, für Schleiereulen nicht unüblich ist.
 
-Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber 
+Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden und Opfergaben sind wohl obligatorisch. 
 
 
 

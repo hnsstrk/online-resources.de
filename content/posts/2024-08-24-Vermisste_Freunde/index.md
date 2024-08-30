@@ -39,7 +39,7 @@ Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem P
 
 Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenutzt habe um die Aranierkatzen und -kater dazu zu bringen, sich mit mir an einen ruhigeren Ort zurückzuziehen. Allem Anschein nach habe ich es aber ein bisschen übertrieben, den auch Inigo und Ruben schlossen sich der liebestollen Meute an. Lediglich Jack blieb ungerührt, aber er hatte da ja auch einen gewissen Vorteil,... oder Nachteil. Das kommt wohl ganz auf die Perspektive an.
 
-Wir verbrachten eine schöne Zeit, doch leider mit einem bitteren Nachgeschmack. Diese unverschämte Araniererin hat mir doch tatsächlich mein wunderschönes Medaillon und ein Stück der alten Tempelkarte gestohlen. Inigo hat es noch viel schlimmer erwischt. Dem Armen fehlten am Ende seine Rüstung und ein Schwert
+Wir verbrachten eine schöne Zeit, doch leider mit einem bitteren Nachgeschmack. Diese unverschämte Araniererin hat mir doch tatsächlich mein wunderschönes Medaillon und ein Stück der alten Tempelkarte gestohlen. Inigo hat es noch viel schlimmer erwischt. Dem Armen fehlten am Ende seine Rüstung und ein Schwert und ich wundere mich noch heute, wie er so unaufmerksam sein konnte. Rub
 
 [[Benni]] schleppt vor dem Orakel eine der Aranier-Katzen ab.
 Landen in einem Liebesnest

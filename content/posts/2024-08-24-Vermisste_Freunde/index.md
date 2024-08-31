@@ -89,6 +89,4 @@ Nachdem das ganze Erdgeschoss abgesucht war, erinnerte ich mich, dass Jack irgen
 
 ### Obergeschoss
 
-In dem Raum, den wir am Ende der Treppe vorfanden, war eine Zweibeinerin an einem Herd beschäftigt. 
-
-### Nebenraum
+In dem Raum, den wir am Ende der Treppe vorfanden, war eine Zweibeinerin an einem Herd beschäftigt.

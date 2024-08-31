@@ -19,7 +19,7 @@ Es war ein schöner Tag in Havena, und ich genoss die ersten Sonnenstrahlen auf 
 
 Zwar hatte ich die Gute eingeladen, mich in Havena zu besuchen, aber ich hätte nicht damit gerechnet, dass sie mit Gesellschaft kommen würde…
 
-Und trotzdem, in ihrem Schlepptau erkannte ich dreu Katzen, die wir während unserer Zeit in Wolldorf kennengelernt hatten. Gadhra vom Schwertturm, Meroth aus dem Fass und Nino Blütentasche standen nur wenige Schritte hinter Kitty und schauten betrübt aus der Wäsche.
+Und trotzdem, in ihrem Schlepptau erkannte ich drei Katzen, die wir während unserer Zeit in Wolldorf kennengelernt hatten. Gadhra vom Schwertturm, Meroth aus dem Fass und Nino Blütentasche standen nur wenige Schritte hinter Kitty und schauten betrübt aus der Wäsche.
 
 ### Taverne
 
@@ -37,7 +37,7 @@ Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsi
 
 Wir machten uns also mit Gadhra, Meroth und Nino auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der Goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohlproportionierte Kätzchen auf.
 
-Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir, die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenutzt habe um die Aranierkatzen und -kater dazu zu bringen, sich mit mir an einen ruhigeren Ort zurückzuziehen. Allem Anschein nach habe ich es aber ein bisschen übertrieben, den auch Inigo und Ruben schlossen sich der liebestollen Meute an. Lediglich Jack blieb ungerührt, aber er hatte da ja auch einen gewissen Vorteil,... oder Nachteil. Das kommt wohl ganz auf die Perspektive an.
+Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir, die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenutzt habe um die Aranierkatzen und -kater dazu zu bringen, sich mit mir an einen ruhigeren Ort zurückzuziehen. Allem Anschein nach habe ich es aber ein bisschen übertrieben, denn auch Inigo und Ruben schlossen sich der liebestollen Meute an. Lediglich Jack blieb ungerührt, aber er hatte da ja auch einen gewissen Vorteil,... oder Nachteil. Das kommt wohl ganz auf die Perspektive an.
 
 Wir verbrachten eine schöne Zeit, doch leider mit einem bitteren Nachgeschmack. Diese unverschämte Araniererin hat mir doch tatsächlich mein wunderschönes Medaillon und ein Stück der alten Tempelkarte gestohlen. Inigo hat es noch viel schlimmer erwischt. Dem Armen fehlten am Ende seine Rüstung und ein Schwert und ich wundere mich noch heute, wie er so unaufmerksam sein konnte. Der kleine dicke Ruben hingegen hat rechtzeitig bemerkt, was vor sich ging, hat aber, anstatt uns zu warnen, eine philosophische Diskussion über richtig und falsch mit der Katze geführt, die ihn ausnehmen wollte. Am Ende wollte er dem frechen Ding noch aus der Patsche helfen. Naja, wenigstens hat er das Herz am rechten Fleck.
 
@@ -55,32 +55,40 @@ Wir zogen also von dannen und verließen das Goldene Haus. Zu unserem Entsetzen 
 
 ### Bibliothek
 
-Die Bibliothek, ein Ort des Geistes und des Verstandes, mein zweites Zuhause. Aber scheinbar auch das Zuhause von zwei Kötern, die eifersüchtig den Eingang bewachten, was uns ein angemessenes Passieren des vorgesehen Zugangs unmöglich machte. Wir sahen uns also gezwungen, einen anderen Weg in das Gebäude zu finden und prinzipiell wäre es auch kein Problem gewesen, dass ich über das Dach geklettert wäre. Allerdings hatten wir ja noch Gadhra, Meroth und Nino im Schlepptau und die sahen arg mitgenommen aus. Daher unternahm ich zusammen mit Ruben einen sehr halbherzigen Versuch ein wenig zu klettern und ließ es dann bleiben. So konnten die anderen ihr Gesicht wahren. 
+Die Bibliothek, ein Ort des Geistes und des Verstandes, mein zweites Zuhause. Aber scheinbar auch das Zuhause von zwei Kötern, die eifersüchtig den Eingang bewachten, was uns ein angemessenes Passieren des vorgesehen Zugangs unmöglich machte. Wir sahen uns also gezwungen, einen anderen Weg in das Gebäude zu finden und prinzipiell wäre es auch kein Problem gewesen, dass ich über das Dach geklettert wäre. Allerdings hatten wir ja noch Gadhra, Meroth und Nino im Schlepptau und die sahen arg mitgenommen aus. Daher unternahm ich zusammen mit Ruben einen sehr halbherzigen Versuch ein wenig zu klettern und ließ es dann bleiben. So konnten die anderen ihr Gesicht wahren.
 
-Dennoch, wir mussten irgendwie in die Bibliothek und Jack hatte die passende Idee. Er zögerte nicht lange und gab Inigo seine schwere Rüstung und sein Schild. Während wir uns versteckten, lenkte er die Aufmerksamkeit der Hunde auf sich und flitze blitzschnell um eine Ecke, vorbei an noch mehr Hunden. Auch diese rannten ihm nach, so dass nun eine ganze Meute hinter ihm her war. Ich bekam noch mit, dass er sich zwar auf einen Baum retten konnte, aber einiges einstecken musste. 
+Dennoch, wir mussten irgendwie in die Bibliothek und Jack hatte die passende Idee. Er zögerte nicht lange und gab Inigo seine schwere Rüstung und sein Schild. Während wir uns versteckten, lenkte er die Aufmerksamkeit der Hunde auf sich und flitze blitzschnell um eine Ecke, vorbei an noch mehr Hunden. Auch diese rannten ihm nach, so dass nun eine ganze Meute hinter ihm her war. Ich bekam noch mit, dass er sich zwar auf einen Baum retten konnte, aber einiges einstecken musste.
 
-Wir hingegen schlichen uns die Bibliothek, die selbst zu dieser späten Stunde noch von Zweibeinern besucht war. Mutig ging ich voran und entdeckt schon bei den ersten Regalen Zweibeiner-Weplen. Damit ich die Bücher inspizieren konnte, bat ich Gadhra und Ruben diese für mich abzulenken. 
+Wir hingegen schlichen uns die Bibliothek, die selbst zu dieser späten Stunde noch von Zweibeinern besucht war. Mutig ging ich voran und entdeckt schon bei den ersten Regalen Zweibeiner-Weplen. Damit ich die Bücher inspizieren konnte, bat ich Gadhra und Ruben diese für mich abzulenken.
 
-Das Vorgehen war klar, wir mussten uns unserer Kleidung entledigen, um wie normale Katzen zu wirken. Dann einfach nur zu den Menschen gehen und sich auf dem Rücken rollen. Das klappt fast immer, was Gadhra und Ruben eindrucksvoll unter Beweis stellten. 
+Das Vorgehen war klar, wir mussten uns unserer Kleidung entledigen, um wie normale Katzen zu wirken. Dann einfach nur zu den Menschen gehen und sich auf dem Rücken rollen. Das klappt fast immer, was Gadhra und Ruben eindrucksvoll unter Beweis stellten.
 
-Ich hingegen widemete mich dem wichtigen Teil und nahm das Büchersortiment in Augenschein: Reihe um Reihe, Regal für Regal. Leider fand ich nichts, was uns einen Hinweis liefern konnte. Mir war klar, dass wir uns auch in den anderen Teilen des Hauses umschauen mussten, daher bat ich die anderen beiden, mit dem Spielen aufzuhören und mir zu folgen. 
+Ich hingegen widmete mich dem wichtigen Teil und nahm das Büchersortiment in Augenschein: Reihe um Reihe, Regal für Regal. Leider fand ich nichts, was uns einen Hinweis liefern konnte. Mir war klar, dass wir uns auch in den anderen Teilen des Hauses umschauen mussten, daher bat ich die anderen beiden, mit dem Spielen aufzuhören und mir zu folgen.
 
-In einem Raum mit Treppen zum Keller und zum Obergeschoß schliefen zwei Dachse. Hätte nicht auch ein Kater ruhig und friedlich in einer Ecke des Raumes gesessen, wäre das ein Anlass zur Sorgen gewesen. So hingegen blieb ich cool und ließ mich auf ein leises Gespräch mit dem Herren ein. Wie sich herausstellte verkaufe er Karten von Aventurien und um ihn gewogenzustimmen kauften Ruben und ich einige seiner Stücke. 
+In einem Raum mit Treppen zum Keller und zum Obergeschoß schliefen zwei Dachse. Hätte nicht auch ein Kater ruhig und friedlich in einer Ecke des Raumes gesessen, wäre das ein Anlass zur Sorgen gewesen. So hingegen blieb ich cool und ließ mich auf ein leises Gespräch mit dem Herren ein. Wie sich herausstellte, verkaufe er Karten von Aventurien und um ihn gewogen zu stimmen, kauften Ruben und ich einige seiner Stücke.
 
-Darauf hin erzählte er uns freudig von einem geheimnisvollen Buch im Keller des Anwesens. Ich war zwar nicht sicher, was wir in Anbracht eines geheimnisvollen Orakelspruches auch noch mit einem geheimnisvollen Buch anfangen sollten, aber sicherlich war es besser einmal nachzuschauen. Allerdings warte uns der Kater mit den Karten vor dem Keller.
+Darauf hin erzählte er uns freudig von einem geheimnisvollen Buch im Keller des Anwesens. Ich war zwar nicht sicher, was wir in anbracht eines geheimnisvollen Orakelspruches auch noch mit einem geheimnisvollen Buch anfangen sollten, aber sicherlich war es besser einmal nachzuschauen. Allerdings warnte uns der Kater mit den Karten vor dem Keller.
 
 ### Keller
 
-Ratten umgehauen
-Heiltränke in Uhren: Ruben entdeckt den ersten Heiltrank.
+Aus vielen meiner Bücher weiß ich, dass in Kellern Ratten hausen und es Helden bedarf, die diese widerlichen Tiere erschlagen. Genau diese Aufgabe erwartete uns auch im Keller der Bibliothek. Ich machte kurzen Prozess mit den Viechern, aber meine Kameraden schlugen sich ebenfalls ganz gut. Kaum hatten wir die Ratten vertrieben, sah ich mich in dem ersten Kellerraum um. Schnell viel mir eine alte hölzerne Standuhr auf, wie nicht so richtig in den Raum passen wollte und Ruben sah sich das Ding einmal genauer an. In der Uhr entdeckte er einen versteckten Heiltrank, den wir noch gut gebrauchen konnten. 
 
-### Gargylen
+Am anderen Ende des Raumes fanden wir eine schwere Türe, die in einen weiteren Raum führte, der seltsamer nicht sein konnte. In der Mitte des Raumes war eine Art Metallgitter oder -geflecht in den Boden eingelassen, in dessen Zentrum ein Bücherpult stand. An den vier Ecken des Metallgitters standen Steinstatuen in Form von Gargylen. Außerdem stand auch in diesem Raum eine Uhr, dessen Heiltrank ich mir sicherte.
 
-Metallgitter auf dem Boden.
-Benni schnappt sich das geheimnisvolle Buch.
-Kampf gegen die Gargoylen.
-Runter vom Metall und Flucht.
+Gemeinsam standen wir vor dem Metallgitter und überlegten, was zu tun sein. Vorsichtig setzte ich eine Pfote auf das Metall und sofort ertönte ein Klappern und Scheppern. Fieberhaft überlegte ich, welch ein Geheimnis hinter all dem Stecken könnte. Schnell wurde mir klar, dass dies nicht der Moment für langwierige Überlegungen war. Handeln war gefragt und das tat ich. Ich rannte so schnell ich konnte zum Zentrum des Geflechtes und schnappte mir das Buch. Grade als ich mich umdrehte, sah ich, wie sich meine Freunde den Gargylen stellten, die auf einmal zum Leben erwacht waren. Ich brachte das Buch in Sicherheit und half Inigo und Ruben im Kampf gegen die Steinmonster. Dabei mussten wir alle heftig einstecken und ich bin wirklich dankbar für die Heiltränke, die wir gefunden hatten. Die Gargylen waren nahezu ungesiegbar, aber als keiner von uns mehr auf dem Metall stand war der Spuck vorbei. Inigo hatte es übel erwischt und wir anderen hatten heftige Blessuren. Ein erster Blick in das geheimnisvolle Buch machte aus klar, dass meine Mut und die Aufopferung meiner Kameraden umsonst gewesen war. Dieses literaische Machwerk war voll von sinnlosem Gekritzel aber zumindes war es gemeinmisvoll.
+
+Enttäucht verliesen wir den Keller wieder.
+
+### Die Suche geht weiter
+
+Im Raum mit dem Kartenhändler trafen wir Jack wieder, der den Hunden entkommen war. Es war ihm gelungen, sich über das Dach in das Gebäude zu schleichen, wovon er eifrig berichtete. Leider hatte ich keine Zeit ihm hinsichtlich seiner Erzählungen dir Gunst meiner Aufmerksamkeit zukommen zu lassen. Es galt Hinweise auf eine Weissagung zu finden und in dieser Bibliothek war ich in meinem Element. Ich erinnerte mich, dass es nahe dem Eingang noch eine Tür gegeben hatte, die zu einem weiteren Raum mit Büchern führen konnte und ich beschloss dies zu prüfen. 
+
+Es dauerte nicht lange und einige der anderen folgten mir, aber ich war mit meinen Gedanken ganz bei den Büchern und bei meiner Aufgabe einen Hinweis zu finden. Vermutlich hätte andere, weniger willensstarke Katzen, schon längst aufgegeben, doch ich hatte den Anspruch, meinem stolzen Namen gerecht zu werden.
+
+Nachdem das ganze Erdgeschoss abgesucht war, erinnerte ich mich, dass Jack irgendetwas von Büchern im Obergeschoss gemurmelt hatte, aber auch, dass sich dort Zweibeiner herumtrieben. Und dennoch, wer nichts wagt, kann auch nichts gewinnen. Wir gingen als gemeinsam nach oben.
 
 ### Obergeschoss
+
+In dem Raum, den wir am Ende der Treppe vorfanden, war eine Zweibeinerin an einem Herd beschäftigt. 
 
 ### Nebenraum

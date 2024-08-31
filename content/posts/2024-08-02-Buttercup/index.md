@@ -51,4 +51,4 @@ Rätsel sind für einen belesenen Kater wie mich halt kein Problem, und so konnt
 
 In der obersten Kammer fanden wir Buttercup, eine wirklich wunderschöne Katze, die in ihrem himmlischen Bett saß. Aus einem mir nicht nachvollziehbaren Grund begannen meine Freunde erneut, um sich zu schlagen und in der Luft herumzufuchteln. Und wieder wollten sie, dass ich dieses seltsame Spiel mitmachte, was ich aus reiner Gutherzigkeit auch tat.
 
-Als sie von diesem Spiel genug hatten, machten sich keine große Mühe, Buttercup lange zu überreden. Die Arme hatte ohnehin schon einiges durchgemacht und hatte keine andere Wahl, als uns zu folgen. Es war offensichtlich, dass sie nicht zu dem Don wollte
+Als sie von diesem Spiel genug hatten, machten sich keine große Mühe, Buttercup lange zu überreden. Die Arme hatte ohnehin schon einiges durchgemacht und hatte keine andere Wahl, als uns zu folgen. Es war offensichtlich, dass sie nicht zu dem Don wollte.

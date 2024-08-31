@@ -35,7 +35,7 @@ Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsi
 
 ### Orakel
 
-Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der Goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohlproportionierte Kätzchen auf.
+Wir machten uns also mit Gadhra, Meroth und Nino auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der Goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohlproportionierte Kätzchen auf.
 
 Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir, die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenutzt habe um die Aranierkatzen und -kater dazu zu bringen, sich mit mir an einen ruhigeren Ort zurückzuziehen. Allem Anschein nach habe ich es aber ein bisschen übertrieben, den auch Inigo und Ruben schlossen sich der liebestollen Meute an. Lediglich Jack blieb ungerührt, aber er hatte da ja auch einen gewissen Vorteil,... oder Nachteil. Das kommt wohl ganz auf die Perspektive an.
 
@@ -55,18 +55,19 @@ Wir zogen also von dannen und verließen das Goldene Haus. Zu unserem Entsetzen 
 
 ### Bibliothek
 
-Hunde bewachen den Eingang.
-Die wütenden Hunde bellten laut und schrill, währende sie eifersüchtig den verlassenen Eingang bewachten, welche nahe des Gartenzauns lag.
+Die Bibliothek, ein Ort des Geistes und des Verstandes, mein zweites Zuhause. Aber scheinbar auch das Zuhause von zwei Kötern, die eifersüchtig den Eingang bewachten, was uns ein angemessenes Passieren des vorgesehen Zugangs unmöglich machte. Wir sahen uns also gezwungen, einen anderen Weg in das Gebäude zu finden und prinzipiell wäre es auch kein Problem gewesen, dass ich über das Dach geklettert wäre. Allerdings hatten wir ja noch Gadhra, Meroth und Nino im Schlepptau und die sahen arg mitgenommen aus. Daher unternahm ich zusammen mit Ruben einen sehr halbherzigen Versuch ein wenig zu klettern und ließ es dann bleiben. So konnten die anderen ihr Gesicht wahren. 
 
+Dennoch, wir mussten irgendwie in die Bibliothek und Jack hatte die passende Idee. Er zögerte nicht lange und gab Inigo seine schwere Rüstung und sein Schild. Während wir uns versteckten, lenkte er die Aufmerksamkeit der Hunde auf sich und flitze blitzschnell um eine Ecke, vorbei an noch mehr Hunden. Auch diese rannten ihm nach, so dass nun eine ganze Meute hinter ihm her war. Ich bekam noch mit, dass er sich zwar auf einen Baum retten konnte, aber einiges einstecken musste. 
 
+Wir hingegen schlichen uns die Bibliothek, die selbst zu dieser späten Stunde noch von Zweibeinern besucht war. Mutig ging ich voran und entdeckt schon bei den ersten Regalen Zweibeiner-Weplen. Damit ich die Bücher inspizieren konnte, bat ich Gadhra und Ruben diese für mich abzulenken. 
 
-Benni will übers Dach ist aber zu unsportlich
-Ruben ist zu schwach ihm zu helfen
-Jack kann die Hunde ablenken und sich auf einen Baum retten.
-Allerdings wird er gebissen.
+Das Vorgehen war klar, wir mussten uns unserer Kleidung entledigen, um wie normale Katzen zu wirken. Dann einfach nur zu den Menschen gehen und sich auf dem Rücken rollen. Das klappt fast immer, was Gadhra und Ruben eindrucksvoll unter Beweis stellten. 
 
-Bibliothek durchsucht.
-Karten-Händler kennengelernt.
+Ich hingegen widemete mich dem wichtigen Teil und nahm das Büchersortiment in Augenschein: Reihe um Reihe, Regal für Regal. Leider fand ich nichts, was uns einen Hinweis liefern konnte. Mir war klar, dass wir uns auch in den anderen Teilen des Hauses umschauen mussten, daher bat ich die anderen beiden, mit dem Spielen aufzuhören und mir zu folgen. 
+
+In einem Raum mit Treppen zum Keller und zum Obergeschoß schliefen zwei Dachse. Hätte nicht auch ein Kater ruhig und friedlich in einer Ecke des Raumes gesessen, wäre das ein Anlass zur Sorgen gewesen. So hingegen blieb ich cool und ließ mich auf ein leises Gespräch mit dem Herren ein. Wie sich herausstellte verkaufe er Karten von Aventurien und um ihn gewogenzustimmen kauften Ruben und ich einige seiner Stücke. 
+
+Darauf hin erzählte er uns freudig von einem geheimnisvollen Buch im Keller des Anwesens. Ich war zwar nicht sicher, was wir in Anbracht eines geheimnisvollen Orakelspruches auch noch mit einem geheimnisvollen Buch anfangen sollten, aber sicherlich war es besser einmal nachzuschauen. Allerdings warte uns der Kater mit den Karten vor dem Keller.
 
 ### Keller
 

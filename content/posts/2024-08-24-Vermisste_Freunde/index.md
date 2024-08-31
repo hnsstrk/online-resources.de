@@ -35,30 +35,34 @@ Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsi
 
 ### Orakel
 
-Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohl proportionierte Kätzchen auf.
+Wir machten uns also auf den Weg und wie vermutet saßen Aranierkatzen auf dem Platz vor der Goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil, mir fielen einige wohlproportionierte Kätzchen auf.
 
-Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenutzt habe um die Aranierkatzen und -kater dazu zu bringen, sich mit mir an einen ruhigeren Ort zurückzuziehen. Allem Anschein nach habe ich es aber ein bisschen übertrieben, den auch Inigo und Ruben schlossen sich der liebestollen Meute an. Lediglich Jack blieb ungerührt, aber er hatte da ja auch einen gewissen Vorteil,... oder Nachteil. Das kommt wohl ganz auf die Perspektive an.
+Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir, die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenutzt habe um die Aranierkatzen und -kater dazu zu bringen, sich mit mir an einen ruhigeren Ort zurückzuziehen. Allem Anschein nach habe ich es aber ein bisschen übertrieben, den auch Inigo und Ruben schlossen sich der liebestollen Meute an. Lediglich Jack blieb ungerührt, aber er hatte da ja auch einen gewissen Vorteil,... oder Nachteil. Das kommt wohl ganz auf die Perspektive an.
 
-Wir verbrachten eine schöne Zeit, doch leider mit einem bitteren Nachgeschmack. Diese unverschämte Araniererin hat mir doch tatsächlich mein wunderschönes Medaillon und ein Stück der alten Tempelkarte gestohlen. Inigo hat es noch viel schlimmer erwischt. Dem Armen fehlten am Ende seine Rüstung und ein Schwert und ich wundere mich noch heute, wie er so unaufmerksam sein konnte. Der kleine dicke Ruben hingegen hat rechtzeitig bemerkt was vor sich ging, hat aber, an statt uns zu warnen, eine philosophische Diskussion über richtig und falsch mit der Katze geführt die ihn ausnehmen wollte. Am Ende wollte er dem freschen Ding noch aus der Patsche helfen. Naja, wenigstens hat er das Herz am rechten Fleck.
+Wir verbrachten eine schöne Zeit, doch leider mit einem bitteren Nachgeschmack. Diese unverschämte Araniererin hat mir doch tatsächlich mein wunderschönes Medaillon und ein Stück der alten Tempelkarte gestohlen. Inigo hat es noch viel schlimmer erwischt. Dem Armen fehlten am Ende seine Rüstung und ein Schwert und ich wundere mich noch heute, wie er so unaufmerksam sein konnte. Der kleine dicke Ruben hingegen hat rechtzeitig bemerkt, was vor sich ging, hat aber, anstatt uns zu warnen, eine philosophische Diskussion über richtig und falsch mit der Katze geführt, die ihn ausnehmen wollte. Am Ende wollte er dem frechen Ding noch aus der Patsche helfen. Naja, wenigstens hat er das Herz am rechten Fleck.
 
-Nach diesem unrühmlichen Vorfall berappelten wir uns wieder und beschlossen zum Orakel zu gehen. Da sich die Aranier aus dem Staub gemacht hatten war der Weg frei und nichts hielt uns mehr auf. Sogar Jack, der sich ein wenig umgesehen hatte stieß wieder zu uns. 
+Nach diesem unrühmlichen Vorfall berappelten wir uns wieder und beschlossen zum Orakel zu gehen. Da sich die Aranier aus dem Staub gemacht hatten, war der Weg frei und nichts hielt uns mehr auf. Sogar Jack, der sich ein wenig umgesehen hatte, stieß wieder zu uns. 
 
-Wie schlichen also durch das Goldene Haus, vorbei an vielen Statuen der Zweibeiner, bis zum Turm hinauf, wo wir an einem Fenster das Orakel fanden, das den leuchtenden Mond beobachtete. Ein Umstand der meines umfänglichen Wissens nach, für Schleiereulen nicht unüblich ist.
+Wie schlichen also durch das Goldene Haus, vorbei an vielen Statuen der Zweibeiner, bis zum Turm hinauf, wo wir an einem Fenster das Orakel fanden, das den leuchtenden Mond beobachtete. Ein Umstand, der meines umfänglichen Wissens nach, für Schleiereulen nicht unüblich ist.
 
-Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden und Opfergaben sind wohl obligatorisch. Hier macht Ruben alle Versäumnisse  dieses Abends wieder gut, in dem er dem Orakel das Maus auf Toast Sandwich gab, das er wohlweislichen von der Taverne mitgebracht hatte. Scheinbar hatte das Orakel auch wirklich genug von all den weißen Mäusen, die ihr üblicherweise angeboten wurden und so schlang sie das Essen gierig herunter und belohnte uns mit einer Weissagung.
+Für Orakel hingegen ist es unüblich eine Bezahlung zu verlangen, aber Spenden und Opfergaben sind wohl obligatorisch. Hier macht Ruben alle Versäumnisse dieses Abends wieder gut, in dem er dem Orakel das Maus auf Toast Sandwich gab, das er wohlweislichen von der Taverne mitgebracht hatte. Scheinbar hatte das Orakel auch wirklich genug von all den weißen Mäusen, die ihr üblicherweise angeboten wurden und so schlang sie das Essen gierig herunter und belohnte uns mit einer Weissagung.
 
 > Im Schoße des weiblichen Orks wird aus den Samtpfoten ein Werkzeug des menschlichen Tiers.
 
 Ich tat mein Bestes um aus diesem Rätsel schlau zu werden und bat sogar das Orakel um Hilfe, doch leider konnte sie uns nichts weiteres sagen. Allerdings schlug sie vor, dass wir uns mal in der Bibliothek umschauen sollten. Dieser Vorschlag war so gut, der hätte glatt von mir sein können.
 
-Wir zogen also von dannen und verließen das Goldene Haus. Zu unserem entsetzen lag auf dem Platz auf dem sich zu Beginn des Abend noch die Aranierkatzen getummelt haben nun eine tote Katze. Ein tote Katze die Jack wohl den Weg zum Orakel gezeigt hatte. Sie lag da, mitten auf dem Platz, gespickt mir Glassplittern. Das, obwohl nirgends ein zerbrochenes Fenster zu sehen war. Bei genauerem Hinsehen, erkannte wir, dass die Katze mit einer Glasscherbe erstochen wurde. Scheinbar sollte die Weissagung des Orakels nicht das einzige Rätsel an diesem Abend bleiben. Aber wir mussten weiter. Die Bücher warteten.
+Wir zogen also von dannen und verließen das Goldene Haus. Zu unserem Entsetzen lag auf dem Platz, auf dem sich zu Beginn des Abends noch die Aranierkatzen getummelt haben, lag nun eine tote Katze. Eine tote Katze, die Jack wohl den Weg zum Orakel gezeigt hatte. Sie lag da, mitten auf dem Platz, gespickt mir Glassplittern. Das, obwohl nirgends ein zerbrochenes Fenster zu sehen war. Bei genauerem Hinsehen, erkannte wir, dass die Katze mit einer Glasscherbe erstochen wurde. Scheinbar sollte die Weissagung des Orakels nicht das einzige Rätsel an diesem Abend bleiben. Aber wir mussten weiter. Die Bücher warteten.
 
 ### Bibliothek
 
-Hunde bewachen den Eingang
+Hunde bewachen den Eingang.
+Die wütenden Hunde bellten laut und schrill, währende sie eifersüchtig den verlassenen Eingang bewachten, welche nahe des Gartenzauns lag.
+
+
+
 Benni will übers Dach ist aber zu unsportlich
 Ruben ist zu schwach ihm zu helfen
-[[Jack]] kann die Hunde ablenken und sich auf einen Baum retten.
+Jack kann die Hunde ablenken und sich auf einen Baum retten.
 Allerdings wird er gebissen.
 
 Bibliothek durchsucht.
@@ -75,3 +79,7 @@ Metallgitter auf dem Boden.
 Benni schnappt sich das geheimnisvolle Buch.
 Kampf gegen die Gargoylen.
 Runter vom Metall und Flucht.
+
+### Obergeschoss
+
+### Nebenraum

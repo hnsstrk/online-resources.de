@@ -18,13 +18,13 @@ Es war ein schöner Tag in Havena, und ich genoss die ersten Sonnenstrahlen auf 
 
 Zwar hatte ich die Gute eingeladen, mich in Havena zu besuchen, aber ich hätte nicht damit gerechnet, dass sie mit Gesellschaft kommen würde …
 
-Und trotzdem, in ihrem Schlepptau erkannte ich drei Katzen, die wir während unserer Zeit in Wolldorf kennengelernt hatten. Gadhra vom Schwertturm, Meroth aus dem Fass und Nino Blütentasche standen nur wenige Schritte hinter Kitty und schauten betrübt aus der Wäsche.
+Und trotzdem, in ihrem Schlepptau erkannte ich drei Katzen, die wir während unserer Zeit in Wolldorf kennengelernt hatten. Kieran Nachtgesicht, Alanna Morgenstern und Sakura Sternwanderer standen nur wenige Schritte hinter Kitty und schauten betrübt aus der Wäsche.
 
 ### Taverne
 
 Mein Anstand verbot es mir, die Katzen aus Wolldorf einfach so auf der Straße stehenzulassen, also ging ich mit ihnen in die Taverne unter die Riesen, wo wir auch auf Inigo, Jack und Ruben trafen. Während ich eine leckere Sahne genoss, schilderten unsere Überraschungsgäste meinen Freunden ihr Leid.
 
-Ihre Kameraden hatten Gadhra, Meroth und Nino das letzte Mal gesehen, als sie gemeinsam in einen Hinterhalt der Drei Krallen gerieten. Während unsere Gäste die Gefangenschaft der selbst ernannten Wächter von Wolldorf und die Verbannung auf die Möwe genossen, konnten die anderen fliehen. Nachdem die Sache mit dem verfluchten Schiff und Moloch überstanden war, haben sie sich auf die Suche gemacht.
+Ihre Kameraden, also Gadhra vom Schwertturm, Meroth aus dem Fass und Nino Blütentasche, hatten Kieran, Alanna und Sakura das letzte Mal gesehen, als sie gemeinsam in einen Hinterhalt der Drei Krallen gerieten. Während unsere Gäste die Gefangenschaft der selbst ernannten Wächter von Wolldorf und die Verbannung auf die Möwe genossen, konnten die anderen fliehen. Nachdem die Sache mit dem verfluchten Schiff und Moloch überstanden war, haben sie sich auf die Suche gemacht.
 
 Es gab wohl Spuren, dass die anderen Wolldorf verlassen hatten, doch diese verliefen sich nach einer Weile. Seltsamerweise wussten weder die Drei Krallen noch Saytan Wollsammler etwas über den Verbleib der Geflüchteten. Scheinbar hatten diese ihre Sache gut gemacht. Ohne einen Anhaltspunkt konnte uns nur noch ein Wunder helfen – oder eine Weissagung.
 
@@ -34,7 +34,7 @@ Der Weg zu ihr ist allerdings gefährlich, denn das goldene Haus ist der Stammsi
 
 ### Orakel
 
-Wir machten uns also mit Gadhra, Meroth und Nino auf den Weg und wie vermutet saßen die Aranier auf dem Platz vor dem Goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil. Mir fielen einige wohlproportionierte Kätzchen auf.
+Wir machten uns also mit Kieran, Alanna und Sakura auf den Weg und wie vermutet saßen die Aranier auf dem Platz vor dem Goldenen Haus. Allerdings muss ich gestehen, dass die Gerüchte über deren Fettleibigkeit doch etwas übertrieben waren. Im Gegenteil. Mir fielen einige wohlproportionierte Kätzchen auf.
 
 Als verantwortungsvoller Anführer war es eine Selbstverständlichkeit für mich, für ausreichend Ablenkung zu sorgen. Daher machte ich einigen der Katzen schöne Augen und ließ meinen Charme spielen. Spielend gelang es mir, die Damen um den Finger zu wickeln. Zu meiner Schande muss ich gestehen, dass ich, auch wenn es für einen guten Zweck war, meine Gabe der Verführung ausgenutzt habe, um die Aranierkatzen und -kater dazu zu bringen, sich mit mir an einen ruhigeren Ort zurückzuziehen. Allem Anschein nach habe ich es aber ein wenig übertrieben, denn auch Inigo und Ruben schlossen sich der liebestollen Meute an. Lediglich Jack blieb ungerührt, aber er hatte da ja auch einen gewissen Vorteil … oder Nachteil. Das kommt wohl ganz auf die Perspektive an.
 
@@ -54,13 +54,13 @@ Wir zogen also von dannen und verließen das Goldene Haus. Zu unserem Entsetzen 
 
 ### Bibliothek
 
-Die Bibliothek, ein Ort des Geistes und des Verstandes, mein zweites Zuhause. Aber scheinbar auch das Zuhause von zwei Kötern, die eifersüchtig den Eingang bewachten, was uns ein angemessenes Passieren des vorgesehenen Zugangs unmöglich machte. Wir sahen uns also gezwungen, einen anderen Weg in das Gebäude zu finden und prinzipiell wäre es auch kein Problem gewesen, dass ich über das Dach geklettert wäre. Allerdings hatten wir ja noch Gadhra, Meroth und Nino im Schlepptau und die sahen arg mitgenommen aus. Daher unternahm ich zusammen mit Ruben einen sehr halbherzigen Versuch, ein wenig zu klettern und ließ es dann bleiben. So konnten die anderen ihr Gesicht wahren.
+Die Bibliothek, ein Ort des Geistes und des Verstandes, mein zweites Zuhause. Aber scheinbar auch das Zuhause von zwei Kötern, die eifersüchtig den Eingang bewachten, was uns ein angemessenes Passieren des vorgesehenen Zugangs unmöglich machte. Wir sahen uns also gezwungen, einen anderen Weg in das Gebäude zu finden und prinzipiell wäre es auch kein Problem gewesen, dass ich über das Dach geklettert wäre. Allerdings hatten wir ja noch Kieran, Alanna und Sakura im Schlepptau und die sahen arg mitgenommen aus. Daher unternahm ich zusammen mit Ruben einen sehr halbherzigen Versuch, ein wenig zu klettern und ließ es dann bleiben. So konnten die anderen ihr Gesicht wahren.
 
 Dennoch mussten wir irgendwie in die Bibliothek und Jack hatte die passende Idee. Er zögerte nicht lange und gab Inigo seine schwere Rüstung und sein Schild. Während wir uns versteckten, lenkte er die Aufmerksamkeit der Hunde auf sich und flitzte blitzschnell um eine Ecke, vorbei an noch mehr Hunden. Auch diese rannten ihm nach, sodass nun eine ganze Meute hinter ihm her war. Ich bekam noch mit, dass er sich zwar auf einen Baum retten konnte, aber einiges einstecken musste.
 
-Wir hingegen schlichen uns in die Bibliothek, die selbst zu dieser späten Stunde noch von Zweibeinern besucht war. Mutig ging ich voran und entdeckte schon bei den ersten Regalen Zweibeiner-Welpen. Damit ich die Bücher inspizieren konnte, bat ich Gadhra und Ruben, diese für mich abzulenken.
+Wir hingegen schlichen uns in die Bibliothek, die selbst zu dieser späten Stunde noch von Zweibeinern besucht war. Mutig ging ich voran und entdeckte schon bei den ersten Regalen Zweibeiner-Welpen. Damit ich die Bücher inspizieren konnte, bat ich Alanna und Ruben, diese für mich abzulenken.
 
-Das Vorgehen war klar, wir mussten uns unserer Kleidung entledigen, um wie normale Katzen zu wirken. Dann einfach nur zu den Menschen gehen und sich auf dem Rücken rollen. Das klappt fast immer, was Gadhra und Ruben eindrucksvoll unter Beweis stellten.
+Das Vorgehen war klar, wir mussten uns unserer Kleidung entledigen, um wie normale Katzen zu wirken. Dann einfach nur zu den Menschen gehen und sich auf dem Rücken rollen. Das klappt fast immer, was Alanna und Ruben eindrucksvoll unter Beweis stellten.
 
 Ich hingegen widmete mich dem wichtigen Teil und nahm das Büchersortiment in Augenschein: Reihe um Reihe, Regal für Regal. Leider fand ich nichts, was uns einen Hinweis liefern konnte. Mir war klar, dass wir uns auch in den anderen Teilen des Hauses umschauen mussten, daher bat ich die anderen beiden, mit dem Spielen aufzuhören und mir zu folgen.
 

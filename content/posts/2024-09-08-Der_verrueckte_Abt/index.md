@@ -14,7 +14,8 @@ tags:
 
 ## Das schwarze Auge - 48. Runde der Kampagne: Greifenfurter Adel
 
-Abfahrt mit dem Schiff, kaltes Wetter und Schnee. Schlimmer Wind
+- Besuch im Kloster um den alten Abt und die Noviz
+- Abfahrt mit dem Schiff, kaltes Wetter und Schnee. Schlimmer Wind
 - Boronep wird seekrank
 - Kennenlernen der Crew
 - Kennenlernen Boronike und Borondiran.

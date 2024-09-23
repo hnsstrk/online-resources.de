@@ -14,4 +14,5 @@ tags:
 
 ## Das schwarze Auge - 48. Runde der Kampagne: Greifenfurter Adel
 
-- Abfahrt mit dem Schiff, kaltes Wetter und Schnee. Schl
+- Abfahrt mit dem Schiff, kaltes Wetter und Schnee. Schlimmer Wind
+- Boronep wird seekrank

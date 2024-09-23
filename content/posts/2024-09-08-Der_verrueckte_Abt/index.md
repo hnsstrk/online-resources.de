@@ -16,3 +16,5 @@ tags:
 
 - Abfahrt mit dem Schiff, kaltes Wetter und Schnee. Schlimmer Wind
 - Boronep wird seekrank
+- Kennenlernen der Crew
+- 

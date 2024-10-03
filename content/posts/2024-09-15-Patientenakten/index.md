@@ -5,7 +5,7 @@ categories:
  - Das schwarze Auge
  - Greifenfurter Adel
 cover:
-    image: "content/posts/2024-09-15-Patientenakten/kloster.webp"
+    image: "kloster.webp"
     alt: "Ein langer, dunkler Korridor in einem mittelalterlichen Kloster. Steinerner Boden und Wände mit schweren Holztüren. Der Gang wird kaum von einigen flackernden Lichtern beleuchtet. Die Silhouette eines einsamen Mönchs, der eine kleine Laterne trägt, bewegt sich durch den Flur. Hinter verschlossenen Türen sind geisteskranke Bewohner zu erahnen."
     caption: "Kloster des Vergessens"
 tags:

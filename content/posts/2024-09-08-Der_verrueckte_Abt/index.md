@@ -15,9 +15,11 @@ tags:
 
 Wir wurden gebeten, unsere Mitreisenden abzuholen. Daher begaben wir uns zum Kloster des Vergessens, am westlichen Rand der Stadt. An diesem Ort, an dem die seelisch Kranken gepflegt werden, war es anders als erwartet. Es war ruhig, sehr ruhig. Ich hätte mit Schreien oder Ähnlichem gerechnet. Mit Verrückten, die durch die Flure und Säle toben. Aber es war einfach nur ruhig. Wenn man innehielt und lauschte, konnte man das leise Murmeln von Gebeten hören, aber dieser Ort zeigte wie kein Zweiter, dass Boron auch den Beinamen "der Schweigsame" trug.
 
+![Der ehemalige Abt Borondrian Dergelmunds](token_BorondrianDergelmunds.webp) ![Die Novizin Boronike Dengler](token_BoronikeDengler.webp)
+
 Wir wurden zur Äbtissin des Klosters, Kalina Niodas, geleitet. Die Geweihte berichtete uns mit wenigen, aber mitfühlenden Worten vom Schicksal des ehemaligen Abtes Borondrian Dergelmund, welcher einer Art Manie anheimgefallen war und dem man hier in Perricum nicht mehr helfen konnte. Nun bestand die letzte Hoffnung darin, den alten Mönch zum Gründungsort der Noioniten, dem Kloster der Heiligen Noiona in Selem zu bringen.
 
-![Der ehemalige Abt Borondrian Dergelmunds](token_BorondrianDergelmunds.webp) ![Die Novizin Boronike Dengler](token_BoronikeDengler.webp)
+![Abfahrt aus Perricum](abfahrt_aus_perricum02.webp)
 
 Wir erklärten uns bereit, den ehemaligen Abt zusammen mit einer Novizin zum Schiff zu bringen, da es dem alten Mann, der sichtlich abgemergelt war, schwerfiel, alleine zu gehen. Die junge Novizin, ihr Name war Boronike Dengler, hatte sich in den vergangenen Wochen und Monaten um den Erkrankten gekümmert und würde dies auf der Reise weiter übernehmen. Auch hatte sich schon alles vorbereitet, um zeitig aufbrechen zu können.  So sprach die Äbtissin noch einen Segen über uns und wir machten uns mit unseren Begleitern auf den Weg zum Hafen. Das Schiff, die Sonnenwind, war bereits fertig beladen und brach auf, sobald wir an Bord waren.
 

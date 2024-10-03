@@ -28,31 +28,25 @@ Die junge Novizin kümmerte sich aufopferungsvoll um den ehemaligen Abt. Dem alt
 Ich verstand so etwas wie:
 
 > "Ph'nglui mglw'nafh Yog-Sothoth R'lyeh wgah'nagl fhtagn..."
-
 > "Ia! Ia! Yog-Sothoth k'yarnak y'gth'ye li'hee..."
-
 > "Ng'gha Yog-Sothoth, k'yarnak li'e ch'agl nafl'th..."
-
 > "Yog-Sothoth h'shagg li'e hr'an ch'ary... Ph'nglui mglw'nafh..."
 
 Wir versuchten, ihn anzusprechen und ihn wieder ins Hier und Jetzt zu holen. Nach einer Weile würde seine Sprache langsam klarer:
 
 > "Yog-Sothoth**! Zha'lon gu'rath."
-
 > "Yog-Sothoth ist das Tor, Yog-Sothoth ist der Schlüssel und der Wächter des Tores."
 
-Daraufhin hatte Link die Idee, dem verwirrten alten Abt einige unserer Schriftrollen zu zeigen. Immerhin hatten wir auch eine Rolle, die eine Art Tor oder Portal darstellte. 
+Daraufhin hatte Link die Idee, dem verwirrten alten Abt einige unserer Schriftrollen zu zeigen. Immerhin hatten wir auch eine Rolle, die eine Art Tor oder Portal darstellte.
 
 Die Schriftrolle des Schattentores und die Schriftrolle des Sternenkompasses veranlassten den aufgeregten Mann zu folgenden Äußerungen:
 
 > "Träume sind der Pfad... die Portale zu den Traumlanden..."
-
 > "Yog-Sothoth führt den Weg... die Sterne weisen den Pfad..."
 
 Wir zeigten ihm weitere Schriftrollen. Bei der Rolle der Wächterhaut entfuhr es ihm:
 
 > "Ehrt ihr die Zwölfe? Fürchtet ihr deren Widersacher? Ich habe sie alle gerufen aber sie wissen es nicht. Abgesehen von ihr. Doch sie versteht es nicht. Sie sind wie Kinder."
-
 > "Sie, die in der Tiefe lauert, weiß es. Sie hat die Sterne beobachtet und den Fehler gesehen. So hat sie einen kurzen Blick erhascht. Nun versucht sie es zu vergessen, indem sie es Unschuldigen unter die Haut schiebt. Aber es hat auch sie gesehen und es lässt sie nicht mehr los."
 
 Was deutete dieser Wahnsinnige da nur an? Das Beschwören von Göttern und Erzdämonen? Er musste wahrlich von Sinnen sein.  Dies zeigte sich besonders deutlich, als er die Rolle des Labyrinths in die Finger bekam. Er wollte sie gar nicht mehr hergeben. Er war wie besessen und behauptete, den Weg klar zu erkennen. Dabei wussten wir alle, dass es auf dem Bildnis keinen Weg gab. Wir mussten ihm die Schriftrolle letztlich abnehmen, da er sich immer tiefer in einen Wahn zu steigern drohte.

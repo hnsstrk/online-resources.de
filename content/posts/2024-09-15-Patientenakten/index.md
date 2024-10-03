@@ -21,7 +21,8 @@ tags:
 > **TL;DR**  
 > Der wahnsinnige Magier Abdul al-Hazred ibn Jafar, geplagt von Visionen fremder Welten und Mächte, ward in die Obhut eines Boron-Klosters gegeben. Trotz der Bemühungen der Brüder und Schwestern, insbesondere des Abtes Borondrian Dergelmund, verschlimmerte sich sein Zustand stetig. Der Abt, von den Geheimnissen des Magiers besessen, vertiefte sich in dunkle Studien. Am Ende fand man Abdul grausam verstümmelt, doch mit friedvollem Antlitz, während der Abt selbst dem Wahnsinn anheimzufallen droht.
 
-## 1. Bericht
+#### 1. Bericht
+
 **Datum:** 12. Tag des Tsa im Jahre 1037 BF  
 **Verfasser:** Bruder Theophilus, Archivarius  
 **Behandelnde Brüder und Schwestern:** Bruder Alrik, Schwester Liora
@@ -38,7 +39,8 @@ Unsere ersten Beobachtungen und Gespräche mit Abdul al-Hazred zeigten, dass sei
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die nötige Kraft geben, diese schwere Prüfung zu überstehen. Wir werden weiterhin alles in unserer Macht Stehende tun, um ihm die notwendige Pflege und Unterstützung zukommen zu lassen.
 
-## 2. Bericht
+#### 2. Bericht
+
 **Datum:** 5. Tag des Efferd im Jahre 1037 BF  
 **Verfasser:** Bruder Augustinus, Nervenheiler  
 **Behandelnde Brüder und Schwestern:** Schwester Elara, Bruder Cedric
@@ -55,7 +57,8 @@ Die körperliche Verfassung des Patienten hat sich durch die regelmäßige Pfleg
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die notwendige innere Ruhe und Klarheit bringen. Die Unterstützung der Brüder und Schwestern wird fortgesetzt, um ihm in dieser schweren Zeit beizustehen und seine geistige Verfassung zu stabilisieren.
 
-## 3. Bericht
+#### 3. Bericht
+
 **Datum:** 19. Tag des Boron im Jahre 1037 BF  
 **Verfasser:** Abt Borondrian Dergelmund  
 **Behandelnde Brüder und Schwestern:** Bruder Faelan, Schwester Mara
@@ -74,7 +77,8 @@ Meine Faszination für diesen Mann wird nur durch meine Sorge um seine und unser
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die nötige Kraft und Klarheit schenken. Wir werden weiterhin mit größter Sorgfalt und Hingabe daran arbeiten, ihm die notwendige Pflege und Unterstützung zukommen zu lassen, in der Hoffnung, dass wir eines Tages das volle Ausmaß seines Wissens und seiner Gefahren begreifen können.
 
-## 4. Bericht
+#### 4. Bericht
+
 **Datum:** 2. Tag des Rahjamondes im Jahre 1038 BF  
 **Verfasser:** Abt Borondrian Dergelmund  
 **Behandelnde Brüder und Schwestern:** Bruder Alrik, Bruder Faelan
@@ -99,7 +103,8 @@ Ich habe überlegt, ob es möglich wäre, durch tieferes Eintauchen in seine Wel
 
 Meine Bemühungen, Abdul al-Hazreds Zustand zu lindern, haben bisher keine nachhaltige Wirkung gezeigt. Es scheint, als ob die Dunkelheit und das Chaos, die seinen Geist beherrschen, zu tief und zu stark sind, um mit herkömmlichen Mitteln bekämpft zu werden. Aber ich werde nicht aufgeben. Ich werde weiterhin alles in meiner Macht Stehende tun, um die Geheimnisse, die er mit sich bringt, zu lüften und die Rätsel, die seinen Wahnsinn umgeben, zu lösen.
 
-## 5. Bericht
+#### 5. Bericht
+
 **Datum:** 14. Tag des Travia im Jahre 1038 BF  
 **Verfasser:** Abt Borondrian Dergelmund  
 **Behandelnde Brüder und Schwestern:** Bruder Alrik, Schwester Liora
@@ -120,7 +125,8 @@ Ich habe weiterhin intensive Gespräche mit Abdul al-Hazred geführt, versucht, 
 
 Es ist wahr, dass meine Bemühungen bisher keine nachhaltige Wirkung gezeigt haben, doch dies ist kein Grund zur Resignation. Ich bin fest entschlossen, die Geheimnisse zu lüften und die Rätsel zu lösen, die Abdul al-Hazreds Wahnsinn umgeben. Meine Studien und meine Hingabe sind der einzige Weg, um dieses Wissen zu erlangen und dennoch habe ich das Gefühl, nicht weit genug zu gehen.
 
-## 6. Bericht
+#### 6. Bericht
+
 **Datum:** 23. Tag des Peraine im Jahre 1039 BF  
 **Verfasser:** Abt Borondrian Dergelmund  
 **Behandelnde Brüder und Schwestern:** Bruder Alrik, Schwester Mara
@@ -141,7 +147,8 @@ In der Nacht seines Todes vernahmen die Brüder und Schwestern einen seltsamen u
 
 Obwohl meine Bemühungen bisher keine nachhaltige Wirkung gezeigt haben, bin ich entschlossen, die Geheimnisse, die Abdul al-Hazred mit sich bringt, weiter zu erforschen. Es ist offensichtlich, dass die Lösung seiner Rätsel tief in den Sternen verborgen liegt. Nur durch ein tiefes Verständnis dieser fremden Sphäre können wir hoffen, die Wahrheit zu enthüllen und möglicherweise eine Heilung zu finden.
 
-## 7. Bericht
+#### 7. Bericht
+
 **Datum:** 5. Tag des Efferd im Jahre 1039 BF  
 **Verfasser:** Bruder Alrik, Nervenheiler
 
@@ -155,7 +162,6 @@ Trotz der schrecklichen Szene, die sich uns bot, war der Ausdruck in den Augen d
 
 Ich muss jedoch auch meine wachsende Sorge um unseren ehemaligen Abt Borondrian Dergelmund ausdrücken. Sein Verhalten weist vielleicht Ähnlichkeiten mit dem des verstorbenen Magiers auf. Er hat sich immer weiter von der Gemeinschaft zurückgezogen, verbringt unzählige Stunden in der Bibliothek und in seiner Kammer, vertieft in alte und mysteriöse Texte. Es ist offensichtlich, dass er tief in seinen Studien versunken ist, doch seine Fixierung auf die wirren Worte und Gedanken von Abdul al-Hazred
 
-
 ### Akte des Patienten Borondrian Dergelmund
 
 ![Borondrian Dergelmund](borondrian.webp)
@@ -163,7 +169,8 @@ Ich muss jedoch auch meine wachsende Sorge um unseren ehemaligen Abt Borondrian 
 > **TL;DR:**  
 > Abt Borondrian Dergelmund entwickelte eine Obsession für die Heilung des geisteskranken Magiers Abdul al-Hazred ibn Jafar. Dies führte zu einer zunehmenden Vernachlässigung seiner Pflichten und einer Verschlechterung seiner eigenen geistigen und körperlichen Gesundheit. Trotz des Todes des Magiers und vorübergehender Besserungen verschlechterte sich Borondrians Zustand weiter. Er zog sich immer mehr zurück, litt unter Halluzinationen und wurde zunehmend pflegebedürftig. Schließlich wurde eine Verlegung nach Selem zur intensiveren Behandlung geplant, da sein Zustand kritisch wurde.
 
-## 1. Bericht
+#### 1. Bericht
+
 **Datum**: 1. Tag des Rahjamondes im Jahre 1037 BF  
 **Verfasser**: Bruder Theophilus, Archivarius  
 **Behandelnde Brüder und Schwestern**: Bruder Augustinus, Bruder Antonius
@@ -180,7 +187,8 @@ Einige von uns machen sich Sorgen, dass Borondrian unter einer leichten Form der
 
 Unsere Gebete zu Boron, dem Ewigen, sollen ihm die Kraft geben, diese schwere Prüfung zu überwinden. Wir alle hoffen auf seine baldige Erholung und seine Rückkehr zu der mitfühlenden und weisen Führungsperson, die er einst war. In der Zwischenzeit werden wir sicherstellen, dass sowohl er als auch die anderen Patienten die notwendige Pflege und Aufmerksamkeit erhalten.
 
-## 2. Bericht
+#### 2. Bericht
+
 **Datum**: 15. Tag des Firunmondes im Jahre 1037 BF  
 **Verfasser**: Bruder Augustinus, Nervenheiler  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Bruder Antonius
@@ -197,7 +205,8 @@ Einige von uns befürchten, dass Borondrian unter einer Form von Kraftverzehr un
 
 Unsere Gebete zu Boron, dem Greisen Gott, sollen ihm die Kraft geben, diese schwere Prüfung zu überstehen. Wir hoffen, dass er bald zu seiner alten Stärke und Weisheit zurückfindet. In der Zwischenzeit werden wir sicherstellen, dass sowohl er als auch die anderen Patienten die notwendige Pflege und Aufmerksamkeit erhalten.
 
-## 3. Bericht
+#### 3. Bericht
+
 **Datum**: 1. Tag des Rondramondes im Jahre 1038 BF  
 **Verfasser**: Bruder Hieronymus, Chronist des Klosters  
 **Behandelnde Brüder und Schwestern**: Bruder Kaspar, Bruder Antonius
@@ -214,7 +223,8 @@ Wir befürchten, dass Borondrian unter einer schweren geistigen und körperliche
 
 Unsere Gebete zu Boron, dem Ewigen, sollen ihm die Kraft geben, diese schwere Prüfung zu überstehen. Wir hoffen, dass er bald zu seiner alten Stärke und Weisheit zurückfindet. In der Zwischenzeit werden wir sicherstellen, dass sowohl er als auch die anderen Patienten die notwendige Pflege und Aufmerksamkeit erhalten.
 
-## 4. Bericht
+#### 4. Bericht
+
 **Datum**: 15. Tag des Peraine im Jahre 1038 BF  
 **Verfasser**: Bruder Kaspar, Nervenheiler  
 **Behandelnde Brüder und Schwestern**: Bruder Hieronymus, Bruder Antonius
@@ -231,7 +241,8 @@ Borondrians körperliche Verfassung hat sich ebenfalls verschlechtert. Er wirkt 
 
 Wir haben beschlossen, ihn von allen seinen Aufgaben zu entbinden, um ihm die notwendige Ruhe und Erholung zu ermöglichen. Unsere Gebete zu Boron, dem Herrn der Letzten Dinge, sollen ihm die Kraft geben, diese schwere Prüfung zu überstehen. Wir hoffen, dass er bald zu seiner alten Stärke und Weisheit zurückfindet. In der Zwischenzeit werden wir sicherstellen, dass sowohl er als auch die anderen Patienten die notwendige Pflege und Aufmerksamkeit erhalten.
 
-## 5. Bericht
+#### 5. Bericht
+
 **Datum**: 1. Tag des Ingerimm im Jahre 1039 BF  
 **Verfasser**: Bruder Antonius, Gelehrter des Klosters  
 **Behandelnde Brüder und Schwestern**: Bruder Augustinus, Schwester Kalina
@@ -248,7 +259,8 @@ Borondrian verbringt den Großteil seiner Zeit entweder in der Bibliothek, verti
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die Kraft geben, diese schwere Prüfung zu überstehen. Wir alle hoffen, dass er bald zu seiner alten Stärke und Weisheit zurückfindet. In der Zwischenzeit werden wir sicherstellen, dass sowohl er als auch die anderen Patienten die notwendige Pflege und Aufmerksamkeit erhalten.
 
-## 6. Bericht
+#### 6. Bericht
+
 **Datum**: 15. Tag des Rahjamondes im Jahre 1039 BF  
 **Verfasser**: Bruder Augustinus, Nervenheiler  
 **Behandelnde Brüder und Schwestern**: Bruder Antonius, Schwester Kalina
@@ -265,7 +277,8 @@ Trotz dieser positiven Anzeichen bleibt Borondrian in einer großen geistigen Be
 
 Unsere Gebete zu Boron, dem Herrn der Letzten Dinge, sollen ihm weiterhin die Kraft geben, diese schwere Prüfung zu überstehen. Wir alle hoffen, dass er sich von diesem Verlust erholen kann und zu seiner alten Stärke und Weisheit zurückfindet. In der Zwischenzeit werden wir sicherstellen, dass sowohl er als auch die anderen Patienten die notwendige Pflege und Aufmerksamkeit erhalten.
 
-## 7. Bericht
+#### 7. Bericht
+
 **Datum**: 1. Tag des Rondramondes im Jahre 1040 BF  
 **Verfasser**: Bruder Hieronymus, Chronist des Klosters  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Bruder Antonius
@@ -284,7 +297,8 @@ Körperlich zeigt Borondrian weiterhin Schwäche, doch es gibt leichte Verbesser
 
 Unsere Gebete zu Boron, dem Meister der Rätsel und Mysterien, sollen ihm weiterhin die Kraft geben, diese schwere Prüfung zu überstehen. Wir hoffen, dass die Betreuung durch Novizin Boronike und die Gemeinschaft des Klosters ihm den nötigen Halt geben, um seine geistige und körperliche Gesundheit zu stabilisieren.
 
-## 8. Bericht
+#### 8. Bericht
+
 **Datum**: 15. Tag des Peraine im Jahre 1040 BF  
 **Verfasser**: Bruder Kaspar, Nervenheiler  
 **Behandelnde Brüder und Schwestern**: Bruder Hieronymus, Bruder Antonius
@@ -301,7 +315,8 @@ Er verbringt seine Tage und Nächte vertieft in das Studium alter Bücher, als s
 
 Unsere Gebete zu Boron, dem Unergründlichen, sollen ihm weiterhin die Kraft geben, diese schwere Prüfung zu überstehen. Die Gemeinschaft des Klosters bemüht sich weiterhin, ihm den nötigen Halt und die notwendige Pflege zu bieten, in der Hoffnung, dass er eines Tages zu seiner alten Stärke und Weisheit zurückfinden wird.
 
-## 9. Bericht
+#### 9. Bericht
+
 **Datum**: 1. Tag des Ingerimm im Jahre 1041 BF  
 **Verfasser**: Bruder Antonius, Gelehrter des Klosters  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Schwester Kalina
@@ -318,7 +333,8 @@ Aufgrund seines kritischen Zustands planen wir eine Verlegung nach Selem zur int
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die nötige Kraft geben, diese schwere Prüfung zu überstehen. Wir werden weiterhin alles in unserer Macht Stehende tun, um ihm die notwendige Pflege und Unterstützung zukommen zu lassen.
 
-## 10. Bericht
+#### 10. Bericht
+
 **Datum**: 15. Tag des Hesinde im Jahre 1043 BF  
 **Verfasser**: Schwester Kalina Niodas, Äbtissin  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Bruder Augustinus
@@ -333,7 +349,8 @@ Wir hoffen, dass die erfahrenen Heiler und Therapeuten am Hauptsitz der Noionite
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die nötige Kraft geben, diese schwere Prüfung zu überstehen. Wir werden weiterhin alles in unserer Macht Stehende tun, um ihm die notwendige Pflege und Unterstützung zukommen zu lassen.
 
-## 11. Bericht
+#### 11. Bericht
+
 **Datum**: 1. Tag des Rondramondes im Jahre 1042 BF  
 **Verfasser**: Bruder Hieronymus, Chronist des Klosters  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Bruder Antonius
@@ -348,7 +365,8 @@ Seine Fixierung auf alte und unbekannte Gebete sowie Anrufungen hat zugenommen. 
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die Kraft geben, diese schwere Prüfung zu überstehen. Wir hoffen weiterhin auf seine Genesung, auch wenn die Zeichen zunehmend düster erscheinen.
 
-## 12. Bericht
+#### 12. Bericht
+
 **Datum**: 15. Tag des Peraine im Jahre 1042 BF  
 **Verfasser**: Bruder Kaspar, Nervenheiler  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Bruder Antonius
@@ -363,7 +381,8 @@ Borondrian verbringt die meiste Zeit in seiner Kammer oder in den abgelegenen Te
 
 Unsere Gebete zu Boron, dem Herrn der Letzten Dinge, sollen ihm die Kraft geben, diese schwere Prüfung zu überstehen. Wir werden weiterhin alles in unserer Macht Stehende tun, um ihm die notwendige Pflege und Unterstützung zukommen zu lassen, auch wenn die Zeichen zunehmend düster erscheinen.
 
-## 13. Bericht
+#### 13. Bericht
+
 **Datum**: 1. Tag des Ingerimm im Jahre 1043 BF  
 **Verfasser**: Bruder Antonius, Gelehrter des Klosters  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Schwester Kalina
@@ -380,7 +399,8 @@ Aufgrund seines kritischen Zustands planen wir eine Verlegung nach Selem zur int
 
 Unsere Gebete zu Boron, dem Herrn der vollkommenen Seelen, sollen ihm die nötige Kraft geben, diese schwere Prüfung zu überstehen. Wir werden weiterhin alles in unserer Macht Stehende tun, um ihm die notwendige Pflege und Unterstützung zukommen zu lassen.
 
-## 14. Bericht
+#### 14. Bericht
+
 **Datum**: 15. Tag des Hesinde im Jahre 1043 BF  
 **Verfasser**: Schwester Kalina Niodas, Äbtissin  
 **Behandelnde Brüder und Schwestern**: Novizin Boronike, Bruder Augustinus

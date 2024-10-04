@@ -1,5 +1,5 @@
 ---
-title: "2024 09 30 Aus_der_Tiefe"
+title: "Aus der Tiefe"
 date: 2024-09-30T15:49:49+02:00
 categories:
  - Das schwarze Auge

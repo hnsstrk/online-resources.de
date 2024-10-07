@@ -14,9 +14,6 @@ tags:
 
 ## Das schwarze Auge - 39. Runde der Kampagne: Greifenfurter Adel
 
-
-
-
 Als wir die Titanenfeste Drakonia erreichten, wurden wir am Tor des Lichtvogels von Mahmud ibn Umran sal Hidaybeth Al'achami freundlich begrüßt. Dieses beeindruckende Bildnis des Allvogels, zusammengesetzt aus Edelsteinen größter Reinheit, zierte den gewaltigen Felsblock, der den Eingang zur Festung bildete. Nachdem wir das Tor passiert hatten, erstreckte sich vor uns der monumentale Hauptgang, der bis ins Herz der Festung führte. Während wir unseren Weg fortsetzten, bemerkte ich, wie Mahmud und Gray in ein fröhliches Gespräch vertieft waren. Die beiden scherzten und lachten, als wären sie alte Freunde. Offenbar hatten die beiden Eiselementaristen eine großartige gemeinsame Studienzeit verbracht.
 
 Ihre Vertrautheit ließ mich an meine eigenen Erfahrungen am Kaiserlich Garethischen Lehrinstitut der angewandten kombattiven Magie, vom Schwert und Stabe zu Gareth denken. Dort herrschte zwischen den Studiosi allerdings ein bisschen mehr Konkurrenz als das freundschaftliche Verhältnis, das ich hier beobachtete.

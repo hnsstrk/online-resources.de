@@ -14,7 +14,7 @@ tags:
   - Rollenspiel
 ---
 
-## Das schwarze Auge - 36. Runde der Kampagne: Greifenfurter Adel
+## Das schwarze Auge - 35. Runde der Kampagne: Greifenfurter Adel
 
 In der alten Mine mussten wir uns noch härteren Gegnern stellen. Angesichts der Wunden aus unserem letzten Kampf fiel uns dies nicht leicht, doch die Zwölfe standen auf unserer Seite und wir konnten die Schwarzpelze zurückdrängen.
 

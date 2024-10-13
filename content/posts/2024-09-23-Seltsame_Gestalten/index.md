@@ -1,7 +1,6 @@
 ---
 title: "Seltsame Gestalten"
 date: 2024-09-23T12:30:28+02:00
-draft: true
 categories:
  - Die schwarze Katze
  - Aus den Erzählungen von Benjamin Büchernase
@@ -33,5 +32,4 @@ Als wir uns jedoch in einem Zelt umsahen, fielen auf einmal die schweren Vorhän
 
 Hinter dem Zelt fanden wir Sakura und Alanna, wurden aber von großen schwarzen Hunden angegriffen. Wir kämpften heldenhaft, aber bedauerlicherweise erwischte eins der Biester die arme Sakura und als der Kampf gewonnen war, war leider jegliche Hilfe zu spät für sie. Auch Kiran ist es nicht gut ergangen. Wir fanden ihn zwischen Kisten und Kästen, mehr tot als lebendig. Scheinbar hatte diese verrückten Zweibeiner ihm eine Pfote abgeschnitten und diese durch die Schere eines Hummers ersetzt. Auch für ihn konnten wir im Moment nichts mehr tun, also konzentrierten wir uns auf unseren Auftrag.
 
-Als wir die Käfige mit den seltsamen Tieren fanden, war ich entsetzt. 
-
+Als wir die Käfige mit den seltsamen Tieren fanden, war ich entsetzt. Wir sahen Wesen, die so seltsam waren, dass ich sie kaum beschreiben kann. Den Sternen sei Dank konnte ich die Schilder an den Käfigen lesen und so herausfinden, wo die Reise des bedauernswerten Geschöpfes hingehen sollte. Wir unterhielten uns mit einer Pfauenkatze und versuchten deren Käfig zu knacken, um mit ihr zu reisen. 

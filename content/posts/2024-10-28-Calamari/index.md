@@ -1,5 +1,5 @@
 ---
-title: "2024 10 28 Calamari"
+title: "Calamari"
 date: 2024-10-28T11:04:26+01:00
 categories:
  - Die schwarze Katze

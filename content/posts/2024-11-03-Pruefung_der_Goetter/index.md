@@ -28,7 +28,7 @@ Am Morgen nach unserer Ankunft, wie saßen gerade im Teehaus "Blauer Pfau" wurde
 
 Bei unserer Ankunft fanden wir neben Kapitän Wulftan al’Awan und seinem ersten Maat Aedith Quent auch Boronike Dengler und Gonzalo Jurios vor.
 
-Der Kapitän und sein Maat hatten ihre Berichte bereits abgeschlossen und nun waren wir an der 
+Der Kapitän und sein Maat hatten ihre Berichte bereits abgeschlossen und nun waren wir an der Reihe. Im großen und ganzen konnten wir
 ---
 
 Unter den Anwesenden befand sich [[Gonzalo]], ein Mitglied unserer Crew, der [[Gray]] beschuldigte, den Dämon heraufbeschworen zu haben. Mit großem Ernst schwor er auf die [[Zwölfgötter]], eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete.

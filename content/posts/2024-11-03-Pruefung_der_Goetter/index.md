@@ -30,7 +30,6 @@ Um den Vorwurf zu überprüfen, wurde [[Praiosmund vom Mistelteich]], ein angese
 
 Der Hauptmann des Tribunals entschied letztlich, dass nur eine solche Prüfung der Götter unsere Namen reinwaschen könne. Es blieb uns nichts anderes übrig, als uns dem Urteil der Götter zu fügen und zu hoffen, dass diese unsere Unschuld bestätigen würden.
 
-
 ### Dämonische Umtriebe in Elburum
 
 Am folgenden Tag erhielten wir eine unerwartete Wendung in unserer Lage: Statt sofortiger Untersuchungshaft wurden wir angewiesen, den Gerüchten über dämonische Umtriebe in der Stadt nachzugehen. Angeblich sei das [[Moghulat Oron]] wieder aktiv – das dunkle Reich, das einst die Stadt in den Schatten der Verzweiflung gestürzt hatte, bevor es durch die Sultana Iphemia von Narhuabad befreit wurde. Mehrere junge, hübsche Frauen waren in den ärmeren Vierteln spurlos verschwunden, und die Bevölkerung befürchtete, dass sich ein Kult außerhalb der Stadt gebildet hatte.
@@ -38,8 +37,6 @@ Am folgenden Tag erhielten wir eine unerwartete Wendung in unserer Lage: Statt s
 [[Link]] begann sofort, die ärmeren Ecken Elburums zu durchkämmen, während [[Gray]] einschlägige Tavernen und Etablissements aufsuchte. Unsere Ermittlungen brachten uns schließlich auf eine erste Spur: Eine der verschwundenen Frauen war zuletzt am Skorpiontor gesehen worden, das als düsterer Ort bekannt ist und von den meisten Stadtbewohnern gemieden wird.
 
 In unseren Nachforschungen entdeckten wir außerdem einen heruntergekommenen Bauernhof nördlich von Elburum. [[Gray]], dessen scharfer Verstand oft entscheidende Hinweise aufspürt, hatte vorgeschlagen, nach verlassenen und ungepflegten Orten Ausschau zu halten. Der Zustand des Hofes ließ uns vermuten, dass sich dort möglicherweise Spuren des Kults finden könnten. Die nächste Etappe unserer Reise in Elburum versprach, mindestens so gefährlich zu werden wie die Ankunft auf der *Sonnenwind*.
-
----
 
 ### Weiteres Vorgehen
 

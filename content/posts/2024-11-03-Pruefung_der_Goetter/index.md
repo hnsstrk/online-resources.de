@@ -22,8 +22,6 @@ Als wir in Elburum einliefen, wurden wir vom strahlenden Licht ihrer blendend we
 
 Wir wussten jedoch, dass wir vor Ort mit den Ereignissen auf hoher See konfrontiert werden würden. Kaum hatten wir festen Boden unter den Füßen, wurde klar, dass die *Sonnenwind* aufwendig repariert werden musste. Die Instandsetzung würde mindestens zwei Wochen dauern, und dies bedeutete, dass wir vorerst in Elburum festsaßen. Noch wussten wir nicht, dass dieser Aufenthalt uns nicht nur Ruhe, sondern neue Prüfungen bringen würde.
 
----
-
 ### Vorladung vor das Tribunal
 
 Kurz nach unserer Ankunft wurden wir vor ein militärisches Tribunal gerufen. Der Angriff auf die *Sonnenwind* hatte Fragen aufgeworfen, insbesondere durch die dämonische Erscheinung, die einige in der Stadt verängstigte. Unter den Anwesenden befand sich [[Gonzalo]], ein Mitglied unserer Crew, der [[Gray]] beschuldigte, den Dämon heraufbeschworen zu haben. Mit großem Ernst schwor er auf die [[Zwölfgötter]], eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete.
@@ -32,7 +30,6 @@ Um den Vorwurf zu überprüfen, wurde [[Praiosmund vom Mistelteich]], ein angese
 
 Der Hauptmann des Tribunals entschied letztlich, dass nur eine solche Prüfung der Götter unsere Namen reinwaschen könne. Es blieb uns nichts anderes übrig, als uns dem Urteil der Götter zu fügen und zu hoffen, dass diese unsere Unschuld bestätigen würden.
 
----
 
 ### Dämonische Umtriebe in Elburum
 

@@ -20,7 +20,7 @@ Nachdem wir auf See fast unser Ende gefunden hatten, erreichten wir mit letzter 
 
 Als wir in Elburum einliefen, wurden wir vom strahlenden Licht ihrer blendend weiß getünchten Fassaden empfangen. Die Häuser leuchteten in der Sonne des goldenen Herbstes als wir das Schiff verließen und ließen erkennen, warum man Elburum auch die weiße Stadt nannte. 
 
-Das Hafenviertel Zhinbabil war erfüllt vom geschäftigen Treiben der Händler, die hier ihre Waren entluden. Der Duft von Gewürzen und das Rufen der Kaufleute, die Arangen, Oliven und den berühmten aranischen Schlauchwein anpriesen, lenkten uns kurz von den Schrecken der See ab.
+Das Hafenviertel Zhinbabil war erfüllt vom geschäftigen Treiben der Händler, die hier ihre Waren entluden. Der Duft von Gewürzen und das Rufen der Kaufleute, die Arangen, Oliven und den berühmten aranischen Schlauchwein anpriesen, lenkten uns kurz von den Schrecken der See ab und wir waren 
 
 Wir wussten jedoch, dass wir vor Ort mit den Ereignissen auf hoher See konfrontiert werden würden. Kaum hatten wir festen Boden unter den Füßen, wurde klar, dass die *Sonnenwind* aufwendig repariert werden musste. Die Instandsetzung würde mindestens zwei Wochen dauern, und dies bedeutete, dass wir vorerst in Elburum festsaßen. Noch wussten wir nicht, dass dieser Aufenthalt uns nicht nur Ruhe, sondern neue Prüfungen bringen würde.
 

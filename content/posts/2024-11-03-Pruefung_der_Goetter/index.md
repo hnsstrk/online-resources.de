@@ -30,7 +30,7 @@ Bei unserer Ankunft fanden wir neben Kapitän Wulftan al’Awan und seinem erste
 
 Der Kapitän und sein Maat hatten ihre Berichte bereits abgeschlossen und nun waren wir an der Reihe. Im großen und ganzen konnten wir die Aussagen des beide Seefahrer bestätigen. Allerdings wurde schnell klar, dass der Hauptmann der Garnison kein Verständnis für unklare oder ungenaue Aussagen hatte. So wurde der eine oder andere unserer Gruppe, der keine militärische Ausbildung genossen hatte, scharf gemaßregelt.
 
-
+Nach uns wurde Boronike vernon
 ---
 
 Unter den Anwesenden befand sich [[Gonzalo]], ein Mitglied unserer Crew, der [[Gray]] beschuldigte, den Dämon heraufbeschworen zu haben. Mit großem Ernst schwor er auf die [[Zwölfgötter]], eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete.

@@ -14,7 +14,7 @@ tags:
 
 ## Das schwarze Auge - 50. Runde der Kampagne: Greifenfurter Adel
 
-### Bericht aus Elburum: Ankunft nach dem Angriff des Wellenwerfers
+### Ankunft in Elburum
 
 Nachdem wir auf See fast unser Ende gefunden hatten, erreichten wir mit letzter Kraft den Hafen von Elburum. Der Angriff des Wellenwerfers, hatte unser Schiff, die Sonnenwind, schwer beschädigt. Nur mit größter Mühe und durch die tapfere Verteidigung der Mannschaft sowie unserer eigenen magischen und kämpferischen Fähigkeiten konnten wir das Schlimmste abwenden. Doch auch nachdem der Dämon sich zurückgezogen hatte, waren die Spuren des Angriffs unübersehbar: Risse im Rumpf, zerfetzte Segel und fast die ganze Crew tot.
 

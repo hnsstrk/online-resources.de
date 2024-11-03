@@ -30,13 +30,17 @@ Bei unserer Ankunft fanden wir neben Kapitän Wulftan al’Awan und seinem erste
 
 Der Kapitän und sein Maat hatten ihre Berichte bereits abgeschlossen und nun waren wir an der Reihe. Im großen und ganzen konnten wir die Aussagen des beide Seefahrer bestätigen. Allerdings wurde schnell klar, dass der Hauptmann der Garnison kein Verständnis für unklare oder ungenaue Aussagen hatte. So wurde der eine oder andere unserer Gruppe, der keine militärische Ausbildung genossen hatte, scharf gemaßregelt.
 
-Nach uns wurde Boronike vernommen. Da sie jedoch während des Angriffes auf das Schiff unter Deck bei dem ehemaligen Abt Borondrian Dergelmund war, konnte sie nicht viel aussagen.
+Nach uns wurde Boronike vernommen. Da sie jedoch während des Angriffes auf das Schiff unter Deck bei dem ehemaligen Abt Borondrian Dergelmund war, konnte sie nicht viel aussagen. Gonzalo hingegen hatte viel zu erzählen. Er beschuldigt Gray, den Dämon beschworen zu haben und behauptet, dass es ihn schon während der ganzen Reise dabei beobachtet hätte seltsame und dunkle Dinge zu tun. Er ging sogar so weit, dies bei den Zwölfen zu schwören, eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete. Zu unserem Glück glaubten die anwesenden Soldaten an Rastullah oder an Rur und Gror, wenn es sich um Maraskaner handelte. 
+
+Um den Schwur von Gonzalo zu bekräftigen, sollte ein reisender Pilger gerufen werden, der sich zufällig in der Stadt aufhielt und ein Geweihter sein sollte. Dafür wurde das Tribunal unterbrochen und Wachen ausgeschickt, den Pilger herbeizuholen. 
+
+Die Fortführung des Tribunals begann mit einem Schock für uns. Bei dem Geweihten, bei dem Gonzalo seinen Schur bekräftigten sollte, handelte es sich um einen alten Bekannten. Praiosmund vom Mistelteich hatte seine Prüfungen abgeschlossen und war nun kein Akoluth mehr, doch er war nach wie vor ein arrogantes Arschloch. Er bestand darauf, mit *Euer Gnaden* adressiert zu werden und verunglimpfte uns ohne Zögern, insbesondere [[Gray]]. Für Praiosmund war die Frage der Schuld scheinbar bereits entschieden. 
+
+Wir beschworen unsere Unschuld und es entspann sich ein hitziger Disput. 
 
 ---
 
-Unter den Anwesenden befand sich [[Gonzalo]], ein Mitglied unserer Crew, der [[Gray]] beschuldigte, den Dämon heraufbeschworen zu haben. Mit großem Ernst schwor er auf die [[Zwölfgötter]], eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete.
-
-Um den Vorwurf zu überprüfen, wurde [[Praiosmund vom Mistelteich]], ein angesehener Pilger, hinzugezogen. Er bestand darauf, mit *Euer Gnaden* angeredet zu werden und verunglimpfte uns ohne Zögern, insbesondere [[Gray]]. Für [[Praiosmund]] war die Frage der Schuld scheinbar bereits entschieden. Seine Anklagen waren hart und ließen uns keine Wahl, als auf eine göttliche Prüfung zu bestehen, um unsere Unschuld zu beweisen.
+Seine Anklagen waren hart und ließen uns keine Wahl, als auf eine göttliche Prüfung zu bestehen, um unsere Unschuld zu beweisen.
 
 Der Hauptmann des Tribunals entschied letztlich, dass nur eine solche Prüfung der Götter unsere Namen reinwaschen könne. Es blieb uns nichts anderes übrig, als uns dem Urteil der Götter zu fügen und zu hoffen, dass diese unsere Unschuld bestätigen würden.
 

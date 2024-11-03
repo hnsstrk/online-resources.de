@@ -24,7 +24,7 @@ Während wir uns in der Stadt umsahen, organisierte Kapitän Wulftan al’Awan d
 
 ### Vorladung vor das Tribunal
 
-Am Tag nach unserer Ankunft wurden wir vor ein militärisches Tribunal gerufen. Der Angriff auf die Sonnenwind, insbesondere durch die dämonische Erscheinung, hatte Fragen aufgeworfen. 
+Am Tag nach unserer Ankunft, wie  wurden wir vor ein militärisches Tribunal gerufen. Der Angriff auf die Sonnenwind, insbesondere durch die dämonische Erscheinung, hatte Fragen aufgeworfen. 
 
 Unter den Anwesenden befand sich [[Gonzalo]], ein Mitglied unserer Crew, der [[Gray]] beschuldigte, den Dämon heraufbeschworen zu haben. Mit großem Ernst schwor er auf die [[Zwölfgötter]], eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete.
 

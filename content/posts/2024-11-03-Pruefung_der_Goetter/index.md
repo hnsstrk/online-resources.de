@@ -16,7 +16,7 @@ tags:
 
 ### Bericht aus Elburum: Ankunft nach dem Angriff des Wellenwerfers
 
-Nachdem wir auf See fast unser Ende gefunden hatten, erreichten wir mit letzter Kraft den Hafen von Elburum. Der Angriff des Wellenwerfers, hatte unser Schiff, die *Sonnenwind*, schwer beschädigt. Nur mit größter Mühe und durch die tapfere Verteidigung der Mannschaft sowie unserer eigenen magischen Fähigkeiten konnten wir das Schlimmste abwenden. Doch auch nachdem der Dämon sich zurückgezogen hatte, waren die Spuren des Angriffs unübersehbar: Risse im Rumpf, zerfetzte Segel und eine Crew, die von Erschöpfung und Angst gezeichnet war.
+Nachdem wir auf See fast unser Ende gefunden hatten, erreichten wir mit letzter Kraft den Hafen von Elburum. Der Angriff des Wellenwerfers, hatte unser Schiff, die *Sonnenwind*, schwer beschädigt. Nur mit größter Mühe und durch die tapfere Verteidigung der Mannschaft sowie unserer eigenen magischen und käm Fähigkeiten konnten wir das Schlimmste abwenden. Doch auch nachdem der Dämon sich zurückgezogen hatte, waren die Spuren des Angriffs unübersehbar: Risse im Rumpf, zerfetzte Segel und eine Crew, die von Erschöpfung und Angst gezeichnet war.
 
 Als wir in Elburum einliefen, der "weißen Stadt" des Südens, wurden wir vom strahlenden Licht ihrer blendend weiß getünchten Fassaden empfangen. Die Häuser leuchteten in der Sonne und tauchten den Hafen in ein fast überirdisches Glänzen – ein Anblick, der uns für einen Moment Trost bot. Das Hafenviertel Zhinbabil war erfüllt vom geschäftigen Treiben der Händler, die hier ihre Waren entluden. Der Duft von Gewürzen und das Rufen der Kaufleute, die Arangen, Oliven und den berühmten aranischen Schlauchwein anpriesen, lenkten uns kurz von den Schrecken der See ab.
 

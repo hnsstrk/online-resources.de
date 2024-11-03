@@ -26,6 +26,8 @@ Während wir uns in der Stadt umsahen, organisierte Kapitän Wulftan al’Awan d
 
 Am Morgen nach unserer Ankunft, wie saßen gerade im Teehaus "Blauer Pfau" wurden wir vor ein militärisches Tribunal gerufen, welches noch am selben Tag stattfinden sollte. Der Angriff auf die Sonnenwind, insbesondere durch die dämonische Erscheinung, hatte Fragen aufgeworfen. Daher hatten wir uns am Nachmittag in der Garnison des Regiments Skorpiongarde einzufinden
 
+B
+
 Unter den Anwesenden befand sich [[Gonzalo]], ein Mitglied unserer Crew, der [[Gray]] beschuldigte, den Dämon heraufbeschworen zu haben. Mit großem Ernst schwor er auf die [[Zwölfgötter]], eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete.
 
 Um den Vorwurf zu überprüfen, wurde [[Praiosmund vom Mistelteich]], ein angesehener Pilger, hinzugezogen. Er bestand darauf, mit *Euer Gnaden* angeredet zu werden und verunglimpfte uns ohne Zögern, insbesondere [[Gray]]. Für [[Praiosmund]] war die Frage der Schuld scheinbar bereits entschieden. Seine Anklagen waren hart und ließen uns keine Wahl, als auf eine göttliche Prüfung zu bestehen, um unsere Unschuld zu beweisen.

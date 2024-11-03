@@ -24,7 +24,7 @@ Während wir uns in der Stadt umsahen, organisierte Kapitän Wulftan al’Awan d
 
 ### Vorladung vor das Tribunal
 
-
+Der Kontor der Sharika ay Mada Basari 
 
 Kurz nach unserer Ankunft wurden wir vor ein militärisches Tribunal gerufen. Der Angriff auf die *Sonnenwind* hatte Fragen aufgeworfen, insbesondere durch die dämonische Erscheinung, die einige in der Stadt verängstigte. Unter den Anwesenden befand sich [[Gonzalo]], ein Mitglied unserer Crew, der [[Gray]] beschuldigte, den Dämon heraufbeschworen zu haben. Mit großem Ernst schwor er auf die [[Zwölfgötter]], eine Geste, die unter den Tulamiden bedeutende Wirkung entfaltete.
 

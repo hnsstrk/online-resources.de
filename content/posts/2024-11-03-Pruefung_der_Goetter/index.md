@@ -20,7 +20,7 @@ Nachdem wir auf See fast unser Ende gefunden hatten, erreichten wir mit letzter 
 
 Als wir in Elburum einliefen, wurden wir vom strahlenden Licht ihrer blendend weiß getünchten Fassaden empfangen. Die Häuser leuchteten in der Sonne des goldenen Herbstes als wir das Schiff verließen und ließen erkennen, warum man Elburum auch die weiße Stadt nannte. Das Hafenviertel Zhinbabil war erfüllt vom geschäftigen Treiben der Händler, die hier ihre Waren entluden. Der Duft von Gewürzen und das Rufen der Kaufleute, die Arangen, Oliven und den berühmten aranischen Schlauchwein anpriesen, lenkten uns kurz von den Schrecken der See ab und wir waren froh, wieder festen Boden unter den Füßen zu haben.
 
-Während wir uns in der Stadt umsahen, organisierte Kapitän Wulftan al’Awan die Reparatur der Sonnenwind und schnell wurde klar, dass die Instandsetzung mindestens zwei Wochen dauern würde. Dies bedeutete, dass wir vorerst in Elburum festsaßen. Der Kontor der Sharika ay Mada Basari bot uns an, dass man uns noch der Reparatur des Schiffes nach Khunchom bringen würde und man brachte uns in der Pension Bei Yulmin im Stadtteil Elburial unter.
+Während wir uns in der Stadt umsahen, organisierte Kapitän Wulftan al’Awan die Reparatur der Sonnenwind und schnell wurde klar, dass die Instandsetzung mindestens zwei Wochen dauern würde. Dies bedeutete, dass wir vorerst in Elburum festsaßen. Der Kontor der Sharika ay Mada Basari bot uns an, dass man uns noch der Reparatur des Schiffes nach Khunchom bringen würde und man brachte uns in der Pension *Bei Yulmin* im Stadtteil Elburial unter.
 
 ### Vorladung vor das Tribunal
 

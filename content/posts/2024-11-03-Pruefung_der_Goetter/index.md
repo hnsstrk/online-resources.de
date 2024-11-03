@@ -36,7 +36,7 @@ Um den Schwur von Gonzalo zu bekräftigen, sollte ein reisender Pilger gerufen w
 
 Die Fortführung des Tribunals begann mit einem Schock für uns. Bei dem Geweihten, bei dem Gonzalo seinen Schur bekräftigten sollte, handelte es sich um einen alten Bekannten. Praiosmund vom Mistelteich hatte seine Prüfungen abgeschlossen und war nun kein Akoluth mehr, doch er war nach wie vor ein arrogantes Arschloch. Er bestand darauf, mit Euer Gnaden adressiert zu werden und verunglimpfte uns ohne Zögern, insbesondere Gray. Für Praiosmund war die Frage der Schuld scheinbar bereits entschieden. 
 
-Wir beschworen unsere Unschuld und es entspann sich ein hitziger Disput. Zu unserem Grüc
+Wir beschworen unsere Unschuld und es entspann sich ein hitziger Disput. Zu unserem Glück 
 
 ---
 

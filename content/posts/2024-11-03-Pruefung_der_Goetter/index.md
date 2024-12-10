@@ -6,7 +6,7 @@ categories:
  - Greifenfurter Adel
 cover:
     image: "elburun_tribunal.webp"
-    alt: " Eine Militärtribunalszene in einem schlicht dekorierten, steinernen Raum.Soldaten in farbenfrohen Gewändern und kunstvoll verzierten Rüstungen sitzen in einer Reihe und ihren Hauptmann, der alleine vor ihnen steht und einen Prozess führt."
+    alt: "Eine Militärtribunalszene in einem schlicht dekorierten, steinernen Raum.Soldaten in farbenfrohen Gewändern und kunstvoll verzierten Rüstungen sitzen in einer Reihe und ihren Hauptmann, der alleine vor ihnen steht und einen Prozess führt."
     caption: "Das Tribunal in Elburum"
 tags:
   - Rollenspiel

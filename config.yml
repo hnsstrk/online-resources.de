@@ -2,7 +2,7 @@ baseURL: "https://www.online-resources.de/"
 languageCode: de-de
 DefaultContentLanguage: de
 title: online-resources.de
-paginate: 10
+pagination.pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true

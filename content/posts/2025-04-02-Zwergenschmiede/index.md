@@ -15,9 +15,9 @@ tags:
 
 Link, Gray und ich zogen uns zurück, um uns zu beraten. Die Andeutungen von Yorlak gaben uns zu denken. *Das Siegel, das er Link gezeigt hatte und sein Nachname... Barbrück, wie die Stadt, in der die Sharika ay Mada Basari ihren Hauptsitz hat.*
 
-Wir waren uns sicher, dass es da eine Verbindung gibt. Yorlak war ganz klar ein Teil der Mada Basari und sein Name ließ vermuten, dass er vermutlich eine bedeutende Rolle in der aranischen Handelsgesellschaft spielen würde, welche eng mit der Phexkirche verbunden ist.
+Wir waren uns sicher, dass es da eine Verbindung gibt. Yorlak war ganz klar ein Teil der Mada Basari und sein Name ließ vermuten, dass er vermutlich eine bedeutende Rolle in der aranischen Handelsgesellschaft spielen würde, welche eng mit der *Phexkirche* verbunden ist.
 
-Doch wir wussten nicht viel über die Gesellschaft vom Mondkontor. Ursprünglich aus einer alten Handelskompanie hervorgegangen wird die Organisation heute von einem dreiköpfigen Gremium, dem Mondsilbernen Rat, bestehend aus Salamon ibn Dafar, Siminja al’Fenneqil und einem geheimnisvollen dritten Mitglied, geleitet. Unter dem Rat agieren die Mondsilberwesire, die eigenständig die einzelnen Handelsniederlassungen führen, während die einfachen Händler als Mondsilberhadjins bezeichnet werden.
+Doch wir wussten nicht viel über die Gesellschaft vom Mondkontor. Ursprünglich aus einer alten Handelskompanie hervorgegangen wird die Organisation heute von einem dreiköpfigen Gremium, dem Mondsilbernen Rat, bestehend aus Salamon ibn Dafar, Siminja al’Fenneqil *und einem geheimnisvollen dritten Mitglied*, geleitet. Unter dem Rat agieren die Mondsilberwesire, die eigenständig die einzelnen Handelsniederlassungen führen, während die einfachen Händler als Mondsilberhadjins bezeichnet werden.
 
 Die wirtschaftliche Macht der Mada Basari beruht auf einem weitreichenden Handelsnetz. Mit der eigenen Kornflotte, die an der gesamten Ostküste im Einsatz ist, transportieren sie hauptsächlich Lebensmittel wie Getreide und Peraineäpfel, aber auch Handwerkswaren und nordländische Produkte. Zudem erstrecken sich ihre Besitzungen über weite Landflächen in Aranien. Doch seit dem Rückzug der Gründerin Sybia gibt es innere Spannungen, die zu unterschiedlichen Zielsetzungen innerhalb der Organisation geführt haben.
 

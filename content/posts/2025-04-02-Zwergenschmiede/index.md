@@ -41,4 +41,4 @@ Die Zwölfe waren mit uns und den Beiden, denn auch sie beherrschten Garethi. So
 
 Das *verdorbene Erz* ließ uns aufhorchen, war es doch erst wenige Tage her, dass wir ein Unelementar des Humus in der Kanalisation besiegt hatten. Wir beschlossen dem Fall nachzugehen und zu schauen, ob wir vielleicht Anzeichen für einen Zusammenhang finden konnten. Außerdem mussten diese Abnormitäten beseitigt werden. 
 
-Gemeinsam mit den beiden Zwergen begaben wir uns ins Schmiedeviertel der Stadt Khunchom. In der Schmiede stand, nah bei der Essen, ein 
+Gemeinsam mit den beiden Zwergen begaben wir uns ins Schmiedeviertel der Stadt Khunchom. In der Schmiede stand, nah bei der Essen, ein Dschinn des Unerzes 

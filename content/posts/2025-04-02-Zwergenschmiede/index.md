@@ -39,4 +39,4 @@ Auf Grund ihres Äußeren vermuteten wir, dass es sich bei den Beiden um Hügelz
 
 Die Zwölfe waren mit uns und den Beiden, denn auch sie beherrschten Garethi. So schilderten Thordra und Gundrabosch Eisenhammer uns, dass vor kurzem ein Fremder bei ihnen aufgetaucht war und darum bat, für ihn ein Schwert aus einem gar seltsamen Metall zu schmieden. Thordra war wohl von Anfang an dagegen aber die enorme Menge Gold die der in eine schwarze Kutte gekleidete Fremde bezahlen wollte, ließ Gundrabosch alle Bedenken in den Wind schlagen. Doch als sein Schmiedehammer das erste mal auf das seltsame Metall traf geschah Furchtbares. Die Esse, das Herzstück der Schmiede, explodierte förmlich und übel stinkender Rauch füllte den Raum. Dann erschienen grausame und verunstaltete Gestalten aus Erz. Sie entsprangen dem Schmiedefeuer und strömten in die Realität von Derre. Gundrabosch und Thordra gelang es gerade eben, sich zu retten und nun suchten sie Hilfe bei den Magiern. 
 
-Das *verdorbene Erz* ließ uns aufhorchen. 
+Das *verdorbene Erz* ließ uns aufhorchen, war es doch erst wenige Tage her, dass wir ein Unelementar des Humus in der Kanal

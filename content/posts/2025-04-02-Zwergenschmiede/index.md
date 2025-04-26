@@ -11,7 +11,7 @@ tags:
   - Rollenspiel
 ---
 
-## Das schwarze Auge - 56. Runde der Kampagne: Greifenfurter Adel
+## Das schwarze Auge - 57. Runde der Kampagne: Greifenfurter Adel
 
 Link, Gray und ich zogen uns zurück, um uns zu beraten. Die Andeutungen von Yorlak gaben uns zu denken. *Das Siegel, das er Link gezeigt hatte und sein Nachname... Barbrück, wie die Stadt, in der die Sharika ay Mada Basari ihren Hauptsitz hat.*
 
@@ -25,7 +25,7 @@ Uns war klar, dass es noch einiges gab, was wir nicht über die Mada Basari wuss
 
 Dort hatten Gray und ich in den letzten Tagen jede freie Stunde verbracht und gelernt. So erlangten wir das geheime Wissen, welches uns gegebenenfalls bei der Entschlüsselung der Schriftrollen helfen könnte. Vielleicht war dieses Wissen sogar eine Möglichkeit, Boronep zu helfen.
 
-Unterwegs drehten sich unsere Gedanken um das Artefakt. Link, Gray und ich rätselten, was es wohl mit den *vier Kammern* auf sich hatte. Vermutlich würden sie etwas beinhalten, was zu den *vier Statuen in der Kammer unter der Höhle *passen könnte. Immerhin streckten diese die Hände aus, als ob man etwas hineinlegen sollte. Wenn wir nur den im Ur-Tulamydia verfassten Text lesen könnten.
+Unterwegs drehten sich unsere Gedanken um das Artefakt. Link, Gray und ich rätselten, was es wohl mit den *vier Kammern* auf sich hatte. Vermutlich würden sie etwas beinhalten, was zu den *vier Statuen in der Kammer unter der Höhle* passen könnte. Immerhin streckten diese die Hände aus, als ob man etwas hineinlegen sollte. Wenn wir nur den im Ur-Tulamydia verfassten Text lesen könnten.
 
 Wir diskutierten lange. So lange, dass wir sogar eine ganze Weile vor der Akademie standen. Zwar außerhalb der üblichen Wege, um ungestört reden zu können, aber nicht unauffällig. Als drei geheimnistuerische Fremde nahe der magischen Fakultät zogen wir viel Aufmerksamkeit auf uns.
 
@@ -37,9 +37,9 @@ Wir waren hin- und hergerissen, ob wir dies alles abbrechen sollten, um Boronep 
 
 Auf Grund ihres Äußeren vermuteten wir, dass es sich bei den Beiden um Hügelzwerge handeln könnte und dass die Chance bestand, dass sie vielleicht sogar Garethi sprechen konnten. Daher machte sich mein stets hilfsbereiter Freund Gray auf, um zu schauen, ob wir etwas für die Zwerge tun könnten und sprach die Frau an.
 
-Die Zwölfe waren mit uns und den Beiden, denn auch sie beherrschten Garethi. So schilderten Thordra und Gundrabosch Eisenhammer uns, dass vor kurzem ein Fremder bei ihnen aufgetaucht war und darum bat, für ihn ein Schwert aus einem gar seltsamen Metall zu schmieden. Thordra war wohl von Anfang an dagegen aber die enorme Menge Gold die der in eine schwarze Kutte gekleidete Fremde bezahlen wollte, ließ Gundrabosch alle Bedenken in den Wind schlagen. Doch als sein Schmiedehammer das erste Mal auf das seltsame Metall traf geschah Furchtbares. Die Esse, das Herzstück der Schmiede, explodierte förmlich und übel stinkender Rauch füllte den Raum. Dann erschienen grausame und verunstaltete Gestalten aus Erz. Sie entsprangen dem Schmiedefeuer und strömten in die Realität von Derre. Gundrabosch und Thordra gelang es gerade eben, sich zu retten und nun suchten sie Hilfe bei den Magiern. 
+Die Zwölfe waren mit uns und den Beiden, denn auch sie beherrschten Garethi. So schilderten Thordra und Gundrabosch Eisenhammer uns, dass vor kurzem ein Fremder bei ihnen aufgetaucht war und darum bat, für ihn ein Schwert aus einem gar seltsamen Metall zu schmieden. Thordra war wohl von Anfang an dagegen aber die enorme Menge Gold die der in eine schwarze Kutte gekleidete Fremde bezahlen wollte, ließ Gundrabosch alle Bedenken in den Wind schlagen. Doch als sein Schmiedehammer das erste Mal auf das seltsame Metall traf geschah Furchtbares. Die Esse, das Herzstück der Schmiede, explodierte förmlich und übel stinkender Rauch füllte den Raum. Dann erschienen grausame und verunstaltete Gestalten aus Erz. Sie entsprangen dem Schmiedefeuer und strömten in die Realität von Derre. Gundrabosch und Thordra gelang es gerade eben, sich zu retten und nun suchten sie Hilfe bei den Magiern.
 
-Das *verdorbene Erz* ließ uns aufhorchen, war es doch erst wenige Tage her, dass wir ein Unelementar des Humus in der Kanalisation besiegt hatten. Wir beschlossen dem Fall nachzugehen und zu schauen, ob wir vielleicht Anzeichen für einen Zusammenhang finden konnten. Außerdem mussten diese Abnormitäten beseitigt werden. 
+Das *verdorbene Erz* ließ uns aufhorchen, war es doch erst wenige Tage her, dass wir ein Unelementar des Humus in der Kanalisation besiegt hatten. Wir beschlossen dem Fall nachzugehen und zu schauen, ob wir vielleicht Anzeichen für einen Zusammenhang finden konnten. Außerdem mussten diese Abnormitäten beseitigt werden.
 
 Gemeinsam mit den beiden Zwergen begaben wir uns ins Schmiedeviertel der Stadt Khunchom. In der Schmiede stand, nah bei der Esse, ein Dschinn des Unerzes und im Raum verteilt fanden wir auch einige Unelemetare. Wir boten alles auf und stellten uns der Bedrohung entgegen, doch wir mussten einiges einstecken. Aber nach einem harten Kampf gelang es uns zu siegen. Allerdings erspähte Gray, gerade als sich der verdrehte Dschinn zurückgezogen hatte, eine Gestalt, die ihm bekannt vorkam...
 

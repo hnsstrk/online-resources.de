@@ -1,9 +1,12 @@
 ---
-title: "Alte_Bekannte"
+title: "Alte Bekannte"
 date: 2025-04-15T17:29:18+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "heist01.webp"
+    caption: "Besuch im Lagerhaus"
 tags:
   - Rollenspiel
 ---

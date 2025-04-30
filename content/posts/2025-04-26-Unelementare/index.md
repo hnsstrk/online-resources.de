@@ -4,6 +4,9 @@ date: 2025-04-26T23:12:04+02:00
 categories:
  - Das schwarze Auge
  - Greifenfurter Adel
+cover:
+    image: "unfeuer02.webp"
+    caption: "Ein Dschinn des Unfeuers begrüßt die Gruppe"
 tags:
   - Rollenspiel
 ---

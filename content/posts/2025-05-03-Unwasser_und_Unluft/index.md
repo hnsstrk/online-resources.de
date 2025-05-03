@@ -43,6 +43,6 @@ Bei unserer Ankunft bot sich uns ein Bild der Verwüstung. Die Mühle war zerst�
 
 Durch den dauerhaften Kontakt mit dem reinen Element der Luft waren die Unelemetare dem Wahnsinn nahe. In ihrer Wut und in ihrem Hass waren sie über die Familie des Müllers hergefallen und so langsam dämmerte uns, dass das Geschrei und das Geheule nicht nur von den Geistern stammten.
 
-Es war furchtbar. Während wir uns zu der Ruine der Mühle vorkämpften, warfen die Geister der Unluft mit den ehemaligen Bewohnern nach uns. Selbst im Nachhinein kann ich nicht sagen, wie wir die Menschen hätten retten können. Aber wir wussten, wen wir dafür zur Rechenschaft ziehen würden. Doch zuerst mussten wir den Dschinn der Unluft vernichten und dieser wartete in der Ruine auf aus.
+Es war furchtbar. Während wir uns zu der Ruine der Mühle vorkämpften, warfen die Geister der Unluft mit den ehemaligen Bewohnern nach uns. Selbst im Nachhinein kann ich nicht sagen, wie wir die Menschen hätten retten können. Aber wir wussten, wen wir dafür zur Rechenschaft ziehen würden. Doch zuerst mussten wir den Dschinn der Unluft vernichten und dieser wartete in der Ruine auf uns.
 
 Es war schwierig, den Windstößen auszuweichen und auf den Beinen zu bleiben. Auch gelang es dem Wesen, uns die Luft zum Atmen zu nehmen. Letztlich konnten wir aber auch diesen Dschinn besiegen.

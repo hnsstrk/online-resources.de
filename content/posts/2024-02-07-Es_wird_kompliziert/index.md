@@ -5,9 +5,6 @@ author: dnlbrggr
 categories:
  - Die schwarze Katze
  - Tagebuch von Inigo
-categories:
- - Die schwarze Katze
- - Tagebuch von Inigo
 tags:
   - Rollenspiel
 ---

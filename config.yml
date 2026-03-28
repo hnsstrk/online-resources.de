@@ -2,7 +2,7 @@ baseURL: "https://www.online-resources.de/"
 languageCode: de-de
 DefaultContentLanguage: de
 title: online-resources.de
-copyright: "© 2023–{{ now.Format \"2006\" }} online-resources.de"
+copyright: "© 2023–2026 online-resources.de"
 pagination.pagerSize: 10
 theme: PaperMod
 

@@ -32,7 +32,7 @@ Dabei stieß Gray auf Gonzalo, welcher mithilfe eines Unsichtbarkeitszaubers ent
 
 ### Der Keller
 
-Außerhalb des Gebäudes fanden wir einen Zugang zu seinem Keller. Andary übernahm draußen die Wache und über eine lange Treppe gelangten wir anderen in eine Art Gewölbe aus dunklem Stein. Eine zentral platzierte Feuerschale spendete ein schwaches Licht, und es roch nach Räucherwerk. Auch hier fanden wir die Kultisten des Moghulat Oron. Als wir uns ihnen stellten, wurden wir auch von Bhurkheschim, dämonischen Fröschen, angegriffen, welche uns mit ihrem berauschenden Gift zusetzten. Dennoch gelang es uns, die Oberhand zu erlangen und weiter ins Gewölbe vorzudringen.
+Außerhalb des Gebäudes fanden wir einen Zugang zu seinem Keller. Andaryn übernahm draußen die Wache und über eine lange Treppe gelangten wir anderen in eine Art Gewölbe aus dunklem Stein. Eine zentral platzierte Feuerschale spendete ein schwaches Licht, und es roch nach Räucherwerk. Auch hier fanden wir die Kultisten des Moghulat Oron. Als wir uns ihnen stellten, wurden wir auch von Bhurkheschim, dämonischen Fröschen, angegriffen, welche uns mit ihrem berauschenden Gift zusetzten. Dennoch gelang es uns, die Oberhand zu erlangen und weiter ins Gewölbe vorzudringen.
 
 Gray gelang es, weitere der jungen Frauen zu retten, die von Gift betäubt und in Ketten gelegt waren. Scheinbar kamen wir gerade noch rechtzeitig, um zu verhindern, was auch immer diese Verrückten mit ihren Gefangenen vorhatten.
 

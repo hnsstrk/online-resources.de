@@ -26,7 +26,7 @@ Andaryn und ich begutachteten gerade die grausigen Relikte, als ein Oger aus der
 
 Dank unserer gemeinsamen Kampferfahrung gelang es uns, diesen Rückzug geordnet anzutreten. Auf dem Weg nach draußen schloss sich uns einer der menschlichen Sklaven, auf den ersten Blick vermutlich ein Tulamide, an. Auch er hatte tapfer gegen die Orks gekämpft und so war ich froh, ihn an unserer Seite zu wissen.
 
-Gemeinsam mit Gray trug ich Link, der bei seinem heldenhaften Versuch, Stordian zu unterstützen, schwer verwundet wurde. Als Andaryn und Storidan, die die Nachhut bildeten, zu uns stießen, sahen wir zu, dass wir von diesem unsäglichen Ort verschwanden und ohne Pause zurück zur Burg Finster ritten.
+Gemeinsam mit Gray trug ich Link, der bei seinem heldenhaften Versuch, Stordian zu unterstützen, schwer verwundet wurde. Als Andaryn und Stordian, die die Nachhut bildeten, zu uns stießen, sahen wir zu, dass wir von diesem unsäglichen Ort verschwanden und ohne Pause zurück zur Burg Finster ritten.
 
 Mit letzter Kraft kamen wir nach einem langen Ritt dort an, versorgten unsere Wunden, aßen und tranken ein wenig und legten uns erst einmal zur Ruhe. Zwei Tage dauerte es, bis wir wieder halbwegs auf den Beinen waren und wir nutzten die Zeit, um ein wenig über und von unserem neuen Begleiter zu erfahren. Er nannte sich Zayn Bassam und stammte aus den Tulamidenlanden, genauer gesagt aus Khunchom.
 
@@ -34,7 +34,7 @@ Zayn konnte uns berichten, dass der Schamane schon vor zwei Tagen mit einem Trup
 
 Es war uns klar, dass es in unserer Verantwortung liegt, diesen versklavten Menschen zu helfen. Doch wir waren uns auch schmerzlich bewusst, dass wir ohne die erwartete Verstärkung keine Chance hatten. So mussten wir uns schweren Herzens zurücknehmen und abwarten.
 
-So widmenden wir unsere Aufmerksamkeit den Schriftrollen, die wir in der Mine gefunden hatten und studieren sie gemeinsam. Hierbei kamen wir zu den nachfolgend geschilderten Ergebnissen.
+So widmeten wir unsere Aufmerksamkeit den Schriftrollen, die wir in der Mine gefunden hatten und studieren sie gemeinsam. Hierbei kamen wir zu den nachfolgend geschilderten Ergebnissen.
 
 ### Rolle des Eises
 
@@ -42,7 +42,7 @@ So widmenden wir unsere Aufmerksamkeit den Schriftrollen, die wir in der Mine ge
 
 Die Schriftrolle ist von einer kühlen Eleganz, die durch die seltenen und wertvollen blauen Tinten hervorgerufen wird, mit welchen Text und Darstellung ausgearbeitet wurden. Das Pergament ist sehr hochwertig und bis auf kleine Risse an den Kanten gut erhalten. Die Zeichnung selbst scheint an einigen Stellen absichtlich verblasst, um den nebelhaften Figuren, die aus dem eisigen Hintergrund hervortreten, mehr Ausdruck zu verleihen.
 
-Bei oberflächlicher Betrachtung präsentiert die Rolle drei sorgfältig gezeichnete Eissterne oder Frostblumen, deren kristalline Strukturen das Licht einfangen und reflektieren, als wären sie aus gefrorenem Himmel geschnitten. Doch eine tiefere Analyse enthüllt das wahre Genie dieser Kreation: Ein Hexagon, gefasst von zwei Heptagrammen, zeugt von einer verborgenen Ordnung und Symmetrie, die in der eisigen Tiefe der Rolle eingebettet liegt. In einer Schlucht, so tief, dass weder Sonnen- noch Mondlicht auf ihren Grund scheinen, wachen zwei gespenstische Hüter aus Raureif. Über ihnen dargestellt ist ein Schwert, umgeben von einer Aura der Ehre, welche aus längst vergangenem Schlachten herrührt. Ein Text in unbekannten Lettern erstrecket sich zwischen den eisigen Rändern der Schlucht, eine geheime Botschaft, die nur jene entschlüsseln können, die der fremden Sprachen mächtig sind.
+Bei oberflächlicher Betrachtung präsentiert die Rolle drei sorgfältig gezeichnete Eissterne oder Frostblumen, deren kristalline Strukturen das Licht einfangen und reflektieren, als wären sie aus gefrorenem Himmel geschnitten. Doch eine tiefere Analyse enthüllt das wahre Genie dieser Kreation: Ein Hexagon, gefasst von zwei Heptagrammen, zeugt von einer verborgenen Ordnung und Symmetrie, die in der eisigen Tiefe der Rolle eingebettet liegt. In einer Schlucht, so tief, dass weder Sonnen- noch Mondlicht auf ihren Grund scheinen, wachen zwei gespenstische Hüter aus Raureif. Über ihnen dargestellt ist ein Schwert, umgeben von einer Aura der Ehre, welche aus längst vergangenem Schlachten herrührt. Ein Text in unbekannten Lettern erstreckt sich zwischen den eisigen Rändern der Schlucht, eine geheime Botschaft, die nur jene entschlüsseln können, die der fremden Sprachen mächtig sind.
 
 Je länger man die Darstellung betrachtet, desto lebendiger werden die nebelhaften Figuren, bis man glauben könnte, dass es Totengeister sind, die einen direkt in die Seele schauen. Ihre blassen Augen sind gefüllt mit der Weisheit und dem Leid unzähliger Jahrhunderte. Die massiven Wände der Eisschlucht ragen immer bedrohlicher empor, als könnten sie jeden Moment einstürzen und alles unter sich begraben. Ein längerer Blick auf die Zeichnung lässt einem die Kälte bis in die Knochen spüren, ein Frösteln, das tiefer geht als die bloße physische Empfindung – es ist, als ob die Rolle eine Brücke schlägt zu einer Welt, in der der Frost herrscht und das Schwert der Ehre von legendärer Bedeutung ist.
 
@@ -51,7 +51,7 @@ Die transparenten Gestalten aus Raureif könnten als visuelle Manifestation von 
 
 Die Darstellung der Geister oder Elementare, eingerahmt von den eisigen Wänden, legt eine Verbindung zur Schlucht der Madalosen Nacht nahe, die sich im Ehrnen Schwert befindet.
 
-Das Hexagon, mit den nach außen weißenden Pfeilen an jeder Kante, könnte ein Wegweiser zu verborgenen Heiligtümern oder Orten großer Macht darstellen, die in den tiefen Eisschluchten versteckt sind.
+Das Hexagon, mit den nach außen weisenden Pfeilen an jeder Kante, könnte ein Wegweiser zu verborgenen Heiligtümern oder Orten großer Macht darstellen, die in den tiefen Eisschluchten versteckt sind.
 
 #### Erkenntnisse der Geographie
 Die eisigen Formationen auf der Schriftrolle sind charakteristisch für die raue, unerbittliche Landschaft des hohen Nordens Aventuriens, weit entfernt von den milderen klimatischen Bedingungen der zentralen Regionen.
@@ -59,15 +59,15 @@ Die eisigen Formationen auf der Schriftrolle sind charakteristisch für die raue
 Die Darstellung könnte die Schlucht der Madalosen Nacht im Ehrnen Schwert repräsentieren, eine Region, die für ihre undurchdringliche Dunkelheit und tiefen Klamm bekannt ist, durch die der Fluss Nagrach fließt.
 
 #### Weitere Erkenntnisse
-Stordian vermutet, dass die Schriftrolle den Weg zu einem mächtigen, vielleicht sogar magischen Schwert weißt.
+Stordian vermutet, dass die Schriftrolle den Weg zu einem mächtigen, vielleicht sogar magischen Schwert weist.
 
 ### Rolle des Verlieses
 
 ![Rolle des Verlieses](DieRolledesVerlieses.webp)
 
-Die kunstvolle Gestaltung der Schriftrolle ist ein wahres Meisterwerk. Jeder Strich, jede Linie und jedes Detail wurde mit größter Präzision ausgeführt. Die Farben wurden sorgfältig ausgewählt und das Blau leuchtet, als ob es gerade erst aufgetragen wurde. Die Präzision, mit der die Schriftrolle bearbeitet wurde, ist beeindruckend. Jeder Linie ist perfekt geformt, jede Verzierung exakt platziert. Es ist, als ob der Künstler eine unfehlbare Hand hatte, die jeden Strich mit einer unglaublichen Genauigkeit setzte. Man kann sich nur vorstellen, wie viel Zeit und Mühe in die Herstellung dieses Werks investiert wurden. Auch der Zustand der Schriftrolle ist bemerkenswert. Keine Spur von Alter oder Abnutzung ist zu erkennen. Es ist, als wäre sie gerade erst erschaffen worden, frisch und unberührt.
+Die kunstvolle Gestaltung der Schriftrolle ist ein wahres Meisterwerk. Jeder Strich, jede Linie und jedes Detail wurde mit größter Präzision ausgeführt. Die Farben wurden sorgfältig ausgewählt und das Blau leuchtet, als ob es gerade erst aufgetragen wurde. Die Präzision, mit der die Schriftrolle bearbeitet wurde, ist beeindruckend. Jede Linie ist perfekt geformt, jede Verzierung exakt platziert. Es ist, als ob der Künstler eine unfehlbare Hand hatte, die jeden Strich mit einer unglaublichen Genauigkeit setzte. Man kann sich nur vorstellen, wie viel Zeit und Mühe in die Herstellung dieses Werks investiert wurden. Auch der Zustand der Schriftrolle ist bemerkenswert. Keine Spur von Alter oder Abnutzung ist zu erkennen. Es ist, als wäre sie gerade erst erschaffen worden, frisch und unberührt.
 
-Die Darstellung stellt den Betrachter inmitten eines verfallen Verlieses, dessen Wände und Nischen von Geheimnissen zu erzählen scheinen. Hierbei steht der Zustand des dargestellten Gewölbes in Gegensatz zum Zustand der Schriftrolle.
+Die Darstellung stellt den Betrachter inmitten eines verfallenen Verlieses, dessen Wände und Nischen von Geheimnissen zu erzählen scheinen. Hierbei steht der Zustand des dargestellten Gewölbes in Gegensatz zum Zustand der Schriftrolle.
 
 Das Zentrum der Darstellung wird von einem Hexagon beherrscht, das strategisch platziert zu sein scheint, um vielleicht Ausgang oder Ziel des Verlieses zu markieren. Von jeder seiner Seitenflächen weist ein Pfeil nach außen, als ob sie den Weg aus der Dunkelheit oder tiefer hinein weisen. Dieses Sechseck ist nicht einfach nur ein Teil des Verlieses, es scheint dessen Herzstück zu sein, der Schlüssel zu einem Rätsel, das sich in den umgebenden Mauern verbirgt.
 
@@ -85,7 +85,7 @@ Die präzise und intakte Darstellung des Hexagons im Zentrum des Verlieses sugge
 
 Die Tatsache, dass die Symbole in einem sonst verfallenen Verlies so präzise dargestellt sind, könnte darauf hindeuten, dass sie einen wichtigen Schlüssel zur Entschlüsselung des dargestellten Ortes darstellen.
 
-Das zentrale Hexagon, mit den nach außen weißenden Pfeilen an jeder Kante und in Kombination mit den Heptagrammen lässt auf eine magische Bedeutung schließen. Die Art und Weise der Darstellung im Verlies lässt einen Weg- oder Zugangspunkt vermuten.
+Das zentrale Hexagon, mit den nach außen weisenden Pfeilen an jeder Kante und in Kombination mit den Heptagrammen lässt auf eine magische Bedeutung schließen. Die Art und Weise der Darstellung im Verlies lässt einen Weg- oder Zugangspunkt vermuten.
 
 #### Weitere Erkenntnisse
 Link entdeckte in der Darstellung ein schuppiges Ei, welches auf einem Sockel im Verlies ruhte. Er vermutete, dass es sich bei dieser Darstellung um ein Drachenei handeln muss. Dies könnte ein Hinweis auf das *Magische Institut und Lehranstalt vom Ei des Drachen zu Yash'Hualay, wiedererrichtet von Tuleyman ibn Dunchaban zur Erforschung von Magie und Materie* sein. Vielleicht ein Zufall, aber dies könnte zu dem in Tulamidya verfassten Schuldschein passen, den wir in der Höhle unter dem alten Turm gefunden hatten. Diese sprach von einer Bezahlung in Alastren, welche in der Drachei Akademie geprägt werden.

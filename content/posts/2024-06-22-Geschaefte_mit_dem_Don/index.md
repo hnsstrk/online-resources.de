@@ -54,7 +54,7 @@ Im Turm Marteniel trafen wir auf eine rätselhafte Katze, die uns den Weg zu But
 
 Auf dem Tisch lagen drei Würfel. Jack nahm sich einen davon und würfelte. Anstelle des Schlüssels bekam er jedoch eine deutlich sichtbare Wunde. Mir war sofort klar, dass diesen Würfeln eine Art Zauberei innewohnen musste und dass es vermutlich nicht ums Würfeln an sich ging. Meiner Meinung nach war viel mehr eine Art Rätsel zu lösen. Eines, das sich meinem brillanten Geist leider nicht sofort erschloss und während ich noch überlegte, würfelte Jack weiter. Er würfelte, bis er schwer verletzt war und kaum noch stehen konnte. Inigo musste ihm sogar einen seiner Heiltränke geben, damit er uns nicht umfiel. 
 
-Als Jack jedoch einfiel, dass er noch diesen seltsamen Würfel aus dem Schiff bei Wolldorf hatte und der diesen zum Würfeln verwendete, wurde die Inigo verwundet. Die seltsame Katze hingegen gab uns den Schlüssel und löste sich dann im Nichts auf.
+Als Jack jedoch einfiel, dass er noch diesen seltsamen Würfel aus dem Schiff bei Wolldorf hatte und der diesen zum Würfeln verwendete, wurde Inigo verwundet. Die seltsame Katze hingegen gab uns den Schlüssel und löste sich dann im Nichts auf.
 
 #### Der Kampf gegen Mygalon
 
@@ -79,7 +79,7 @@ Die Lösung, Raupe und Schmetterling, wusste ich sofort und ich bin mir sicher, 
 
 In dem Raum, den wir nun vorfanden, war ein riesiger Spiegel in den Boden eingelassen und an der Nordseite hing die Statue eines Adlers an der Wand. Eine ähnliche Statue muss früher einmal an der Südseite gehangen haben, heute waren jedoch nur Bruchstücke davon übrig. Als ich den Spiegel umrundete, fiel mir auf, dass der Adler im Süden noch ein Spiegelbild hatte und in seinem Schnabel den Schlüssel trug. Doch wie sollten wir da herankommen? Mein erster Gedanke war es, den Spiegel zu zerschlagen, aber dies schien mir zu einfach, gar zu primitiv, um die Lösung zu sein. Lieber wollte ich alles doppelt und dreifach prüfen, als mich zu früh in einem Exzess der Gewalt hinzugeben.
 
-Vielleicht war der Spiegel ein Fenster. Um sicherzugehen, stieg ich ein Stockwerk hinab, wurde aber nur von dem unfreundlichen Wurzelbold, auf seine besonders herzliche Art, begrüßt. Es war vielleicht ein guter Gedanke, aber nicht des Rätzels Lösung.
+Vielleicht war der Spiegel ein Fenster. Um sicherzugehen, stieg ich ein Stockwerk hinab, wurde aber nur von dem unfreundlichen Wurzelbold, auf seine besonders herzliche Art, begrüßt. Es war vielleicht ein guter Gedanke, aber nicht des Rätsels Lösung.
 
 Wieder zurück bei meinen Kameraden umrundete ich erneut den Spiegel und ein neuer Gedanke formte sich in meinem Verstand. Ich bat Jack zur zerbrochenen Statue zu gehen und Richtung des Schlüssels zu greifen, während ich den Vorgang im Spiegel beobachtete. Leider blieben meine Bemühungen ohne Erfolg.
 

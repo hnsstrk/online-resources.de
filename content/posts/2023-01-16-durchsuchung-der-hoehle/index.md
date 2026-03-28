@@ -31,7 +31,7 @@ Zwar waren wir keine Experten für das Göttliches aber, dass Sophie eine angehe
 
 In der Höhle selbst hatte sich wieder einige Höhlenspinnen angesammelt und nach einer Suche von etwa einem Tag fanden wir die Erklärung. In der Nähe des hinteren Weihers, fast unterhalb der Höhlendecke ist eine Öffnung zu einer weiteren Kammer. Diese ist gerade groß genug, dass ich die Spinner hindurchdrücken können.
 
-Die Suche selbst offenbarte uns auch noch etwas anderes. Gray schein eine Vorlieb dafür zu haben, dunkle Ecken und Spalten anzustarren. Außerdem scheint er entweder ein Problem mit Spinnen oder Aggressionen zu haben.
+Die Suche selbst offenbarte uns auch noch etwas anderes. Gray scheint eine Vorliebe dafür zu haben, dunkle Ecken und Spalten anzustarren. Außerdem scheint er entweder ein Problem mit Spinnen oder Aggressionen zu haben.
 
 ### Schulden
 

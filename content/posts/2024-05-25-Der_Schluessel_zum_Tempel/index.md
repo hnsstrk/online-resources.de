@@ -29,7 +29,7 @@ Da die Nacht noch jung war, machten wir noch einen kleinen Abstecher zum Farbent
 
 ![Karte des Drachentempels](dsk_karte.webp)
 
-Zurück in der Milch schenke setzten wir die Karte zusammen und sahen eine Art Grab oder Gruft. Ich hatte schon so eine Ahnung, dass es sich um einen Ort im Drachentempel handeln muss, doch wollten wir uns nicht allzu lange damit aufhalten, immerhin hatten wir auch endlich die fünf Murmeln in unserem Besitz.
+Zurück in der Milchschenke setzten wir die Karte zusammen und sahen eine Art Grab oder Gruft. Ich hatte schon so eine Ahnung, dass es sich um einen Ort im Drachentempel handeln muss, doch wollten wir uns nicht allzu lange damit aufhalten, immerhin hatten wir auch endlich die fünf Murmeln in unserem Besitz.
 
 Gemeinsam gingen wir also zu der Statue auf dem Dorfplatz und warfen nach kurzem Überlegen die Murmeln und die Löcher der Statue, worauf hin sich eine Kammer öffnete, der wir einen Schlüssel entnehmen konnten.
 

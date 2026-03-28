@@ -19,14 +19,14 @@ Verwirrt und mit weit aufgerissenen Augen erleichterte sich der Gardist nun an L
 
 Bevor sich Link entschließen konnte, den Wachmann in das Reich der Träume zu schicken wurde es plötzlich dunkel…
 
-Der zweite Wachmann, welche dem aufgeregten Geschimpfe seines Kammeranden nachgehen wollte hatte Link eiskalt von hintern erwischt.
+Der zweite Wachmann, welche dem aufgeregten Geschimpfe seines Kameraden nachgehen wollte hatte Link eiskalt von hinten erwischt.
 
 Am darauffolgenden Morgen fand er sich in einer Zelle wieder, da er der Stadtstreicherei, öffentlichem Urinieren, Sauferei, Ruhestörung und der Unzucht angeklagt wurde.
 
 ### Andaryn
 
-Andaryn hat sich in der Herberge Riva-Stube in Eslamsroden einquartiert und über eine Woche durchgefeiert und die Zeche geprellt. Dies allein hätte auf Grund seines adligen Familienstandes noch zu überschaubaren Konsequenzen gehabt. Das Herumgehuren mit den Kellnerinnen war zwar völlig anstandslos, wäre aber verzeihbar gewesen. Was er allerding mit der Wirtin in den darauffolgenden Nächten auch mit der Tochter des Wirts angestellt hat,…
+Andaryn hat sich in der Herberge Riva-Stube in Eslamsroden einquartiert und über eine Woche durchgefeiert und die Zeche geprellt. Dies allein hätte auf Grund seines adligen Familienstandes noch zu überschaubaren Konsequenzen gehabt. Das Herumgehuren mit den Kellnerinnen war zwar völlig anstandslos, wäre aber verzeihbar gewesen. Was er allerdings mit der Wirtin in den darauffolgenden Nächten auch mit der Tochter des Wirts angestellt hat,…
 
 Unfassbar! Dies hat letztendlich dazu geführt, dass von der Stadtwache abgeholt würde.
 
-Acht Gardisten waren nötig um den vollgesoffen und pöbelnden Randalierer zu knebeln und ihn in des Nachts halbwegs würdevoll und ohne die ganze Stadt zu wecken ins Verließ zu werfen.
+Acht Gardisten waren nötig um den vollgesoffen und pöbelnden Randalierer zu knebeln und ihn in des Nachts halbwegs würdevoll und ohne die ganze Stadt zu wecken ins Verlies zu werfen.

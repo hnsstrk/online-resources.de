@@ -21,7 +21,7 @@ Während die Rahjastunde verstrich und verließen nach und nach immer mehr Arbei
 
 Zu unserer großen Überraschung entpuppte sich die verhüllte Gestalt als ein alter Bekannter und Yorlak Barbrück, der die anwesenden Arbeiter in irgendetwas zu unterrichten schien, begrüßte uns freundlich mit den Worten, dass er uns schon erwartet hätte. Klar, er hatte sich damals mit den Worten von uns verabschiedet, dass er wieder zurück nach Khunchom gehen würde und wir ihn dort besuchen sollten. Dies hatten wir aber im Laufe der Ereignisse völlig vergessen.
 
-Er jedoch wusste, dass wir auftauchen würden und zu ersten Mal seit unserer Zeit am alten Turm bekamen wir Antworten. Das Problem war nur die richtigen Fragen zu finden. Daher möchte ich hier die aus meiner Sicht wichtigsten Punkte noch einmal festhalten.
+Er jedoch wusste, dass wir auftauchen würden und zum ersten Mal seit unserer Zeit am alten Turm bekamen wir Antworten. Das Problem war nur die richtigen Fragen zu finden. Daher möchte ich hier die aus meiner Sicht wichtigsten Punkte noch einmal festhalten.
 
 - Yorlak kennt Karlos Jurios und sagt, dass er und Karlos die unterschiedlichen Seiten derselben Münze seien.
 - Yorlak und Karlos suchen und sammeln Informationen, Wissen und Artefakte, wobei Karlos dies tut, um seine Macht und seinen Einfluss zu mehren und Yorlak verhindern möchte, dass so etwas geschieht.

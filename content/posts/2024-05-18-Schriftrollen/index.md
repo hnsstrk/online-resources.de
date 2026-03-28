@@ -14,7 +14,7 @@ tags:
 
 Dank der großzügigen Hilfe der Fakultät des Eises im Ewigen Konzil der Elementaren Gewalten im Raschtulswall und fleißiger Recherchen unsererseits konnten wir die nachfolgend aufgeführten Informationen bezüglich der Schriftrollen zusammentragen.
 
-Dieses Wissen soll uns Wegweiser und Leuchtfeuer aber auch zugleich Warnung und Mahnung beim Lösen der zugrundeliegenden Rätzel sein.
+Dieses Wissen soll uns Wegweiser und Leuchtfeuer aber auch zugleich Warnung und Mahnung beim Lösen der zugrundeliegenden Rätsel sein.
 
 ### Rolle der Ruine
 
@@ -148,7 +148,7 @@ Die transparenten Gestalten aus Raureif könnten als visuelle Manifestation von 
 
 Die Darstellung der Geister oder Elementare, eingerahmt von den eisigen Wänden, legt eine Verbindung zur Schlucht der Madalosen Nacht nahe, die sich im Ehrnen Schwert befindet.
 
-Das Hexagon, mit den nach außen weißenden Pfeilen an jeder Kante, könnte ein Wegweiser zu verborgenen Heiligtümern oder Orten großer Macht darstellen, die in den tiefen Eisschluchten versteckt sind.
+Das Hexagon, mit den nach außen weisenden Pfeilen an jeder Kante, könnte ein Wegweiser zu verborgenen Heiligtümern oder Orten großer Macht darstellen, die in den tiefen Eisschluchten versteckt sind.
 
 Die präzise Anordnung der Symbole deutet auf eine Verbindung zu tiefgründigeren magischen Prinzipien hin, die als Zugangspunkt zu verborgenen Pfaden fungieren könnte.
 
@@ -164,11 +164,11 @@ Die beiden Heptagramme, die ihn in der Tiefe der Darstellung flankieren, dienen 
 
 Inmitten des Labyrinths befindet sich ein Hexagon, von dem Pfeile ausgehen, die sich entlang verschlungener Pfade winden. Sie erschaffen eine Illusion der Bewegung für diejenigen, die den Blick zu lange darauf ruhen lassen, als würden sie sich lebendig durch das Labyrinth schlängeln und den Betrachter tiefer in das Rätsel hineinziehen. Verliert man sich in der Darstellung des Labyrinths, scheint es, als würden sie sich bewegen.
 
-Auch der Lichtkegel des einsamen Wanderers, auf seinem Weg durch die Unendlichkeit der Möglichkeiten, beginnt scheinbar zu unruhig flackern und zu tanzen und auch er selbst schein unermüdlich auf seinem Weg voranzuschreiten. Es entsteht der Eindruck einer Unruhe oder Rastlosigkeit, wie sie nur aus einer tiefen Verzweiflung entstehen kann. Die Heptagramme, die stets eine konstante Entfernung zum Wanderer beibehalten und so immer außer Reichweite blieben, tragen zu diesem Gefühl bei. Doch getrieben von seinem Wahn schreitet der Wanderer stets voran.
+Auch der Lichtkegel des einsamen Wanderers, auf seinem Weg durch die Unendlichkeit der Möglichkeiten, beginnt scheinbar zu unruhig flackern und zu tanzen und auch er selbst scheint unermüdlich auf seinem Weg voranzuschreiten. Es entsteht der Eindruck einer Unruhe oder Rastlosigkeit, wie sie nur aus einer tiefen Verzweiflung entstehen kann. Die Heptagramme, die stets eine konstante Entfernung zum Wanderer beibehalten und so immer außer Reichweite blieben, tragen zu diesem Gefühl bei. Doch getrieben von seinem Wahn schreitet der Wanderer stets voran.
 
 Es ist eine Reise ohne Bestimmungsort, ein endloses Streben nach Erleuchtung inmitten der Schatten, die das Labyrinth wirft. Die Schriftrolle lädt dazu ein, diesem Wanderer auf einem Weg zu folgen, der sich stets verändert und nie endet – eine metaphysische Wanderung durch die Unendlichkeit, bei der jede Wendung und jeder neue Korridor nur die Gewissheit verstärkt, dass es keine Rückkehr gibt, nur den Weg vorwärts, tiefer hinein in die unergründlichen Tiefen des Labyrinths und des eigenen Geistes.
 
-Betrachtet man die Darstellung zu lange, scheint es als ob man vom Wahnsinn des Wanderers ansteckt wird. Obwohl man niemals eine Veränderung beobachten kann, zeigt jeder neue Blick auf das Labyrinth neue Wege, Pfade und Sackgassen. Es fällt immer schwerer sich von der Darstellung loszureißen, da man sich der Lösung des Rätzels nahe wähnt.
+Betrachtet man die Darstellung zu lange, scheint es als ob man vom Wahnsinn des Wanderers ansteckt wird. Obwohl man niemals eine Veränderung beobachten kann, zeigt jeder neue Blick auf das Labyrinth neue Wege, Pfade und Sackgassen. Es fällt immer schwerer sich von der Darstellung loszureißen, da man sich der Lösung des Rätsels nahe wähnt.
 
 #### Erkenntnisse des Geschichtswissen
 Heute nutzt man Labyrinthe hauptsächlich zum Lustwandeln. In der Antike waren sie jedoch nicht für Unterhaltungszwecke gedacht, sondern dienten als Schutz für wichtige Strukturen wie Gräber und Mausoleen. Ihre Komplexität und Verwirrung sollten ungebetene Gäste fernhalten. Neben den verwirrenden Pfaden waren Labyrinthe oft mit tödlichen Fallen ausgestattet, um den Schutz weiter zu verstärken und Eindringlinge abzuschrecken.
@@ -298,7 +298,7 @@ Die präzise und intakte Darstellung des Hexagons im Zentrum des Verlieses sugge
 
 Die Tatsache, dass die Symbole in einem sonst verfallenen Verlies so präzise dargestellt sind, könnte darauf hindeuten, dass sie einen wichtigen Schlüssel zur Entschlüsselung des dargestellten Ortes darstellen.
 
-Das zentrale Hexagon, mit den nach außen weißenden Pfeilen an jeder Kante und in Kombination mit den Heptagrammen lässt auf eine magische Bedeutung schließen. Die Art und Weise der Darstellung im Verlies lässt einen Weg- oder Zugangspunkt vermuten.
+Das zentrale Hexagon, mit den nach außen weisenden Pfeilen an jeder Kante und in Kombination mit den Heptagrammen lässt auf eine magische Bedeutung schließen. Die Art und Weise der Darstellung im Verlies lässt einen Weg- oder Zugangspunkt vermuten.
 
 Die Anordnung und die präzise Ausführung der Symbole innerhalb des Verlieses lassen auf eine tiefere Verbindung zwischen den physischen und verborgenen magischen Prinzipien schließen, die auf verschlüsselte Weise in die Schriftrolle eingewoben sind.
 

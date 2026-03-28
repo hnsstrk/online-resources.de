@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-> Eine in Garthi verfasste Sammlung von Schriftrollen und Blätter, welche mehr schlecht als Recht zusammengebunden wurden. Verfasst im Frühjahr 519 BF durch Haubrecht Secundius zu Liederhofen.
+> Eine in Garthi verfasste Sammlung von Schriftrollen und Blätter, welche mehr schlecht als recht zusammengebunden wurden. Verfasst im Frühjahr 519 BF durch Haubrecht Secundius zu Liederhofen.
 
 ## Reisetagebuch
 

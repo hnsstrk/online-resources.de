@@ -25,4 +25,4 @@ Direkt nach unserer Ankunft in Eslamsroden verabschiedeten sich unsere Begleiter
 
 Auf dem weiteren Weg nach Wehrheim, in der Nähe der Dergelsfurt, war eine Brücke der Reichsstraße kaputt. Diese konnte von uns zwar notdürftig repariert werden, allerdings kostet dies uns fast einen ganzen Tag und wir beschlossen unser Lager zu errichten.
 
-In der Nacht erhielten wir unliebsamen Besuch von einer Räuberbande, was auch die kaputte Brücke erklären könnte. Allerdings funktionierte unsere Wachschicht hervorragen und so konnte sie uns nicht überraschen. So mussten sich den Überfall mir ihren Leben bezahlen.
+In der Nacht erhielten wir unliebsamen Besuch von einer Räuberbande, was auch die kaputte Brücke erklären könnte. Allerdings funktionierte unsere Wachschicht hervorragend und so konnte sie uns nicht überraschen. So mussten sich den Überfall mit ihrem Leben bezahlen.

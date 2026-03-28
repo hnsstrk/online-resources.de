@@ -19,7 +19,7 @@ tags:
 
 Bei der Abreise aus Greifenfurt trafen wir an der Fähre auf Auđur Egilsdottir. Die junge Thorwalerin war ebenfalls auf der Abreise aus Greifenfurt und wollte sich uns für ein Stück des Weges entlang des Finsterkammes anschließen. Nach wenigen Tagen Marsch wurden wir von einer Gruppe Orks angehalten, welche vermutlich einen Wegzoll erpressen wollten&#8230;
 
-Doch so weit kam es erst gar nicht. Gray griff den Anführer der Schwarzpelze sofort an und ohne zögern an. Bei dem darauffolgenden Kampf wurden die meisten von uns schwer verwundet. Nur Andaryn kam wie durch ein Wunder ohne eine Schramme davon. Wäre er in meiner Obhut verletzt worden, so hätte es mir sein Vater, der Graf, nie verziehen. Ich sollte diese Gray, auch wenn er ein Collega ist, deutliche besser im Auge behalten. Eine solche Impulsivität könnte uns allen das Leben kosten.
+Doch so weit kam es erst gar nicht. Gray griff den Anführer der Schwarzpelze sofort an und ohne zögern an. Bei dem darauffolgenden Kampf wurden die meisten von uns schwer verwundet. Nur Andaryn kam wie durch ein Wunder ohne eine Schramme davon. Wäre er in meiner Obhut verletzt worden, so hätte es mir sein Vater, der Graf, nie verziehen. Ich sollte diese Gray, auch wenn er ein Collega ist, deutlich besser im Auge behalten. Eine solche Impulsivität könnte uns allen das Leben kosten.
 
 Leider entkamen zwei der Orks, darunter auch der Anführer. Bei den besiegten Schwarzpelzen könnten wir nicht besonders finden und nach dem wir unsere Wunden einigermaßen versorgt hatte, setzen wir unsere Reise langsam fort.
 

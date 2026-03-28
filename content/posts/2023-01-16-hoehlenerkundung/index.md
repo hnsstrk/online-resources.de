@@ -21,4 +21,4 @@ Dieses war eine handgemalte Karte der Höhle.
 
 In der Höhle stellte sich die Gruppe zwei Höhlenspinnen und vertrieben zwei weitere in die dunklen Gänge.
 
-Bei ihrer Erkundung ist dir Gruppe auf zwei Leichen und eine Schatztruhe gestoßen. So konnten sie einige Dukaten und etwas Ausrüstung bergen.
+Bei ihrer Erkundung ist die Gruppe auf zwei Leichen und eine Schatztruhe gestoßen. So konnten sie einige Dukaten und etwas Ausrüstung bergen.

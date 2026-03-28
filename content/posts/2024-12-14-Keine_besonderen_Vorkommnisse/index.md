@@ -12,7 +12,7 @@ tags:
 
 ## Das schwarze Auge - 53. Runde der Kampagne: Greifenfurter Adel
 
-Die Tage bis zum Abschluss des Tribunals verliefen ruhig und ohne besondere Vorkommnisse. Gerücht über verwerfliche Ausschweifungen eines Praiosgeweihten kann ich werde bestätigen noch dementieren. Elburum ist jedoch eine Stadt, in der alles passieren kann.
+Die Tage bis zum Abschluss des Tribunals verliefen ruhig und ohne besondere Vorkommnisse. Gerücht über verwerfliche Ausschweifungen eines Praiosgeweihten kann ich weder bestätigen noch dementieren. Elburum ist jedoch eine Stadt, in der alles passieren kann.
 
 Wir nutzen die Zeit, um uns ein wenig zu erholen und unsere Ausrüstung aufzustocken.
 

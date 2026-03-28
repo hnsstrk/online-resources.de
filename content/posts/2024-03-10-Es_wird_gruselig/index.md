@@ -16,7 +16,7 @@ So, wir sind also nun Gefangene auf dem Schiff. Hätten wir mal besser nicht auf
 Was auch immer, jetzt sind wir auf einem Schiff. Etwas gruselig ist es schon. Wir sind direkt auf Skelette dieser hässlich Menschen oder Elfen oder was auch immer von diesen Riesen. Wir trafen dann auch Sakura. Eine Gefährtin von Alice, deren Leiche wir in der Zelle gefunden haben. Sie hat große Angst, redete immer wieder von Geistern und das ihr Gefährte verrückt geworden sei und wahrscheinlich Alanna, auch eine Gefährtin, umbringen würde. 
 
 Wir nahmen es zur Kenntnis und durchforsteten erst mal weiter das Schiff. Benni fand eine stylische Brille. Ich glaub, das war bevor wir Sakura fanden, aber das spielt keine Rolle. Auch wenn er das nie von mir hören wird, so bin ich doch etwas neidisch auf die Brille.
-Desweiteren fanden wir auch zwei Fetzen einer Schatzkarte. Zu der wir aber aktuell noch nichts wissen. Okay, es ist auch gerade nicht der richtige Zeitpunkt. 
+Des Weiteren fanden wir auch zwei Fetzen einer Schatzkarte. Zu der wir aber aktuell noch nichts wissen. Okay, es ist auch gerade nicht der richtige Zeitpunkt. 
 
 ## Das Ritual
 
@@ -24,7 +24,7 @@ Von Sakura erfuhren wir, dass noch zwei weitere Katzen ihrer Gruppe auf dem Schi
 
 Wir fanden Kieran im untersten Deck des Schiffes. Er war gerade dabei ein Ritual an Alanna durchzuführen, er wollte wohl mit ihrer Seele einen mächtigen Geist erschaffen. Zuerst mussten wir uns durch ein paar kleinere Geisterwachen durchkämpfen, dann aber könnten wir ihn aufhalten und Alanna retten.
 
-Er war wirklich verrückt geworden, dachte ich zumindest in diesem Augenblick. Jedenfalls hatten wir ihn überwältigt und brachten beide zu Sakura, die sich gleich um ihre Freundin kümmerte. Sowohl Sakura, als auch Kieran sprachen von einem mächtigen Geist, der in der Kapitäns Kajüte sein sollte und wir entschlossen uns mal ein ein genaueres Bild zu verschaffen.
+Er war wirklich verrückt geworden, dachte ich zumindest in diesem Augenblick. Jedenfalls hatten wir ihn überwältigt und brachten beide zu Sakura, die sich gleich um ihre Freundin kümmerte. Sowohl Sakura, als auch Kieran sprachen von einem mächtigen Geist, der in der Kapitäns Kajüte sein sollte und wir entschlossen uns mal ein genaueres Bild zu verschaffen.
 
 ## Die Kapitäns Kajüte
 

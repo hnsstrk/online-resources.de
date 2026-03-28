@@ -37,7 +37,7 @@ Ich verstand so etwas wie:
 
 > "Yog-Sothoth h'shagg li'e hr'an ch'ary... Ph'nglui mglw'nafh..."
 
-Wir versuchten, ihn anzusprechen und ihn wieder ins Hier und Jetzt zu holen. Nach einer Weile würde seine Sprache langsam klarer:
+Wir versuchten, ihn anzusprechen und ihn wieder ins Hier und Jetzt zu holen. Nach einer Weile wurde seine Sprache langsam klarer:
 
 > "Yog-Sothoth**! Zha'lon gu'rath."
 
@@ -59,6 +59,6 @@ Wir zeigten ihm weitere Schriftrollen. Bei der Rolle der Wächterhaut entfuhr es
 
 Was deutete dieser Wahnsinnige da nur an? Das Beschwören von Göttern und Erzdämonen? Er musste wahrlich von Sinnen sein.  Dies zeigte sich besonders deutlich, als er die Rolle des Labyrinths in die Finger bekam. Er wollte sie gar nicht mehr hergeben. Er war wie besessen und behauptete, den Weg klar zu erkennen. Dabei wussten wir alle, dass es auf dem Bildnis keinen Weg gab. Wir mussten ihm die Schriftrolle letztlich abnehmen, da er sich immer tiefer in einen Wahn zu steigern drohte.
 
-Was auch immer mit dem ehemaligen Abt des Klosters des Vergessens vor sich ging, es war sicherlich nicht nur eine einfache Manie, und wir beschlossen, das Erlebte mit der Novizin zu besprechen. Immerhin pflegt diese den seelisch Kranken schon eine ganze Weil und wusste daher vielleicht mehr über seinen Zustand.
+Was auch immer mit dem ehemaligen Abt des Klosters des Vergessens vor sich ging, es war sicherlich nicht nur eine einfache Manie, und wir beschlossen, das Erlebte mit der Novizin zu besprechen. Immerhin pflegt diese den seelisch Kranken schon eine ganze Weile und wusste daher vielleicht mehr über seinen Zustand.
 
 Sie berichtet uns, dass er, noch zu seiner Zeit als Abt, versuchte, einem anderen Patienten, einem verrückten Magier, zu helfen. Dies trieb ihn mit der Zeit dazu, seine Pflichten als Abt zu vernachlässigen, um alte Bücher und Texte zu studieren, von denen er sich Hinweise auf die Krankheit des Magiers erhoffte. Irgendwann war es so schlimm, dass er selbst zu einem Patienten des Klosters wurde, aber man konnte ihm nicht helfen. Genaueres könnte sie uns leider nicht sagen. Aber sie gab uns, in der Hoffnung, dass wir vielleicht helfen könnten, die Aufzeichnungen der Brüder und Schwestern aus dem Kloster, die mit der Seelsorge des verrückten Magiers und des ehemaligen Abtes beauftragt waren.

@@ -33,7 +33,7 @@ Das erste Rätsel lautete:
 
 Dieses Rätsel konnte ich relativ schnell lösen: Ein Fisch mit Rätseln und ein verwunschener Raum mit einem Bassin und Wasserfall – das musste der Ort sein. Vorsichtig, um ihn nicht zu quälen, setzte ich den Goldfisch in das Bassin, welches wir ein Stockwerk tiefer gefunden hatten. Kaum hatte ich dies getan, ertönte ein lautes Poltern und Scheppern, ein gutes Zeichen!
 
-Das zweite Rätse war recht einfach. Sogar meine Kameraden konnten es problemlos lösen.
+Das zweite Rätsel war recht einfach. Sogar meine Kameraden konnten es problemlos lösen.
 
 > "Töte den Unhold und der Priester teilt sein Wissen."
 
@@ -43,7 +43,7 @@ Das dritte Rätsel war etwas kniffliger.
 
 > "Der Schlüssel um weiterzukommen, befindet sich in dem Maul des Tiers, welches es zweimal gibt."
 
-In diesem Raum gab es jedes Tier nur einmal. Also durchsuchten Ruben und ich den Turm. Im untersten Raum entdeckten ich schließlich einen Teppich, der aus einem Bärenfell gemacht war, und tatsächlich befand sich ein Schlüssel in dessen Maul.
+In diesem Raum gab es jedes Tier nur einmal. Also durchsuchten Ruben und ich den Turm. Im untersten Raum entdeckte ich schließlich einen Teppich, der aus einem Bärenfell gemacht war, und tatsächlich befand sich ein Schlüssel in dessen Maul.
 
 Rätsel sind für einen belesenen Kater wie mich halt kein Problem, und so konnten wir endlich in die oberste Kammer des Turms vordringen.
 

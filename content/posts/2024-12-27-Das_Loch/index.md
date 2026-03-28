@@ -24,7 +24,7 @@ Da unser Begleiter ein wenig schüchtern schien, übernahmen wir die Verantwortu
 
 Am nächsten Tag führten uns die verrückten Katzen in die Grube, an der sie schon seit Jahren herumbuddelten. Zu unserer Überraschung fanden wir dort eine Art Schrein und jede Menge Abbilder von Arturo. 
 
-Während wir uns noch umschauten, musste unserem Begleiter die Sache wohl ein wenig zu Kopf gestiegen sein, denn er wollte uns von den Wachen, die das Heiligtum bewachten, auf uns hetzen. Er befahl ihnen sogar, dass sie uns umbringen sollten. Wenn man mich fragt, so hätte ich von ihm ein wenig mehr Dankbarkeit erwartet, nachdem wir alles für ihn mit diesen Verrücken geregelt hatten. Außerdem würde er ohne uns noch in irgendeinem Käfig sitzen.
+Während wir uns noch umschauten, musste unserem Begleiter die Sache wohl ein wenig zu Kopf gestiegen sein, denn er wollte uns von den Wachen, die das Heiligtum bewachten, auf uns hetzen. Er befahl ihnen sogar, dass sie uns umbringen sollten. Wenn man mich fragt, so hätte ich von ihm ein wenig mehr Dankbarkeit erwartet, nachdem wir alles für ihn mit diesen Verrückten geregelt hatten. Außerdem würde er ohne uns noch in irgendeinem Käfig sitzen.
 
 Ich nahm mir vor, diese Unverschämtheit zu ahnden, sobald ich mein Fell aus dieser misslichen Lage gebracht hätte. Meinen Kameraden war wohl der gleiche Gedanke gekommen und so fingen wir alle an zu laufen. 
 

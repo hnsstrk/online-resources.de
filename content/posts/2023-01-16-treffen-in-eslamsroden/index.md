@@ -17,4 +17,4 @@ Die Lindwurmhaut wurde außerhalb des Dorfes vergraben und der immer noch stinke
 
 Kalidor und Stordian kehrten ebenfalls in der Riva-Stube ein.
 
-Etwas später am Tag kam auch Helbrecht auf seinem Weg zum alten Turm in Eslamsroden vorbei. Da auch vor seiner Weiterreise eine Pause machen wollte, traf er den Rest der Gruppe in der Rive-Stube.
+Etwas später am Tag kam auch Helbrecht auf seinem Weg zum alten Turm in Eslamsroden vorbei. Da auch vor seiner Weiterreise eine Pause machen wollte, traf er den Rest der Gruppe in der Riva-Stube.

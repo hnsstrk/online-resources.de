@@ -18,7 +18,7 @@ Als wir die Titanenfeste Drakonia erreichten, wurden wir am Tor des Lichtvogels 
 
 Ihre Vertrautheit ließ mich an meine eigenen Erfahrungen am Kaiserlich Garethischen Lehrinstitut der angewandten kombattiven Magie, vom Schwert und Stabe zu Gareth denken. Dort herrschte zwischen den Studiosi allerdings ein bisschen mehr Konkurrenz als das freundschaftliche Verhältnis, das ich hier beobachtete.
 
-Grays Kollega bracht uns in Wohnräumen der Fakultät des Eises unter, welche nicht weit von der enormen Bibliothek des Ewigen Konzil der Elementaren Gewalten im Raschtulswall entfernt lag. Wobei ich betonen muss, dass diese Angabe auf Grund der schieren Größe der Anlage als relativ zu erachten ist. Dank dieser überraschenden Gastfreundschaft war es uns möglich einen ganzen Monat ungestört in der Bibliothek zu studieren.
+Grays Kollege brachte uns in Wohnräumen der Fakultät des Eises unter, welche nicht weit von der enormen Bibliothek des Ewigen Konzil der Elementaren Gewalten im Raschtulswall entfernt lag. Wobei ich betonen muss, dass diese Angabe auf Grund der schieren Größe der Anlage als relativ zu erachten ist. Dank dieser überraschenden Gastfreundschaft war es uns möglich einen ganzen Monat ungestört in der Bibliothek zu studieren.
 
 In unserer Freizeit erkundeten wir die beeindruckende Titanenfeste Drakonia. Wir besuchten die Haupthalle der Fakultät des Humus, die einer idyllischen Wiesenlandschaft glich, und bewunderten die üppige Flora und Fauna. In der Fakultät des Wassers bestaunten wir die teilweise überfluteten Hallen mit ihren Hausbooten und Inseln. Die trockene Hitze der Fakultät des Feuers mit dem ewig brodelnden Lavabecken und dem Podium für rhetorische Übungen beeindruckte uns ebenso wie die frostigen Hallen der Fakultät des Eises mit ihrem gefrorenen See.
 
@@ -32,10 +32,10 @@ Besonders faszinierend fand ich jedoch die kolossale Bibliothek mit ihren endlos
 
 Bei unseren Studienarbeiten konzentrierten wir uns zuerst einmal auf das Werk über Gemäuer, einem Jahrhunderte alten Codex, die Rolle der Ruine und in Teilen auf die Rolle des Schattentores und uns gelangen die folgenden grundlegenden Erkenntnisse.
 
-- Schon in den ersten Erzählungen über den Kontinent Aventurien finden sich Berichte über die Ruine es alten Turms.
+- Schon in den ersten Erzählungen über den Kontinent Aventurien finden sich Berichte über die Ruine des alten Turms.
 - Der alte Turm wird auf Karten gezeigt, auf denen auch die Orte verzeichnet sind, an denen sich heute einige der bedeutendsten magischen Akademien befinden.
 - An dem Ort, an dem der Turm errichtet wurde, kreuzen sich zwei Kraftlinien oder vielleicht Treffen sogar vier Kraftlinien aufeinander.
 - Die orthogonal aufsteigende Kraftlinie ist eine Besonderheit. Etwas Vergleichbares wird mit der Dämonenschmiede Yol-Ghurmak in Verbindung gebracht, welche gleichzeitig in der gleichnamigen Stadt und den Niederhöllen liegt. Hier gibt es scheinbar eine Verbindung zur Rolle des Schattentores.
 - Die Ruine nahe des Finsterkamms scheint jedoch nicht durch eine göttliche oder dämonische Entität beeinflusst zu sein. Dies könnte darauf hindeuten, dass der Ort neutral ist… Oder er ist seit Äonen umkämpft.
 - Sophie, die Tochter des Försters, ist eine Hesinde-Geweihte und berichtet uns, dass sie in der Nähe des Turms eine starke Verbindung zur Göttin hatte.
-- Amazeroth, der erzdämonische Widersacher der Gottin Hesinde, steht für verbotenes und vergessenes Wissen, Täuschung, Irrsinn und Wahn. Ein Motiv, dass sich auch auf der Rolle des Labyrinthes widerspiegelt.
+- Amazeroth, der erzdämonische Widersacher der Göttin Hesinde, steht für verbotenes und vergessenes Wissen, Täuschung, Irrsinn und Wahn. Ein Motiv, dass sich auch auf der Rolle des Labyrinthes widerspiegelt.

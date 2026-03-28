@@ -26,7 +26,7 @@ Das Erste, was uns merkwürdig vorkam, war die Geschichte über die dummen Diebe
 
 ### Jurios
 
-Auch fanden wir heraus, dass sich das Lagerhaus, aus dem wir Mahmuds große Liebe retteten im Besitz eines Karlos Jurios befand.  Es dauerte ein wenig, bis der Groschen gefallen war und wir die Verbindung herstellen konnten. Aber unser Freund, der alte Apotheker konnte uns einige entscheidende Tipps gehen. Im Nachhinein frage ich mich, warum uns der Nachname nicht direkt aufgefallen war, aber dieser Karlos war der Vater von Gonzalo.
+Auch fanden wir heraus, dass sich das Lagerhaus, aus dem wir Mahmuds große Liebe retteten im Besitz eines Karlos Jurios befand.  Es dauerte ein wenig, bis der Groschen gefallen war und wir die Verbindung herstellen konnten. Aber unser Freund, der alte Apotheker konnte uns einige entscheidende Tipps geben. Im Nachhinein frage ich mich, warum uns der Nachname nicht direkt aufgefallen war, aber dieser Karlos war der Vater von Gonzalo.
 
 Wir erfuhren, dass Karlos eine Art Patriarch einer der wichtigsten Familien in Ragath war, eine bekannte Größe mit einem weitreichenden Freundeskreis in Politik und Adel. Darüber hinaus hatte er sehr gute Verbindungen zu Vertretern des Gesetzes und exzellente Verbindungen zu mächtigen Persönlichkeiten in ganz Aventurien.
 

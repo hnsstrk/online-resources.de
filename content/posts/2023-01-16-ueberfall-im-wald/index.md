@@ -15,10 +15,10 @@ tags:
 
 ## Das schwarze Auge - 05. Runde der Kampagne: Greifenfurter Adel
 
-Auf der Such nach etwas Arbeit während seiner Wanderschaft begab sich Kalidor von Greifenfurt nach Eslamsroden. In einem Waldstück wurde er von drei Goblins angegriffen.
+Auf der Suche nach etwas Arbeit während seiner Wanderschaft begab sich Kalidor von Greifenfurt nach Eslamsroden. In einem Waldstück wurde er von drei Goblins angegriffen.
 
 Durch Zufall war Fire auf dem Weg von Eslamsroden nach Greifenfurt und traf zur rechten Zeit ein, um Kalidor gegen die Rotpelze zu helfen.
 
-Gegen Ende des Kampfes erreichte Stordian, der einige Besorgungen in der Stadt machen wollte, die kleine Lagerstädte und half den Verwundeten.
+Gegen Ende des Kampfes erreichte Stordian, der einige Besorgungen in der Stadt machen wollte, die kleine Lagerstätte und half den Verwundeten.
 
 Gemeinsam machten sie sich erst einmal auf den Weg nach Eslamsroden um sich zu erholen.

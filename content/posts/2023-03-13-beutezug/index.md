@@ -15,7 +15,7 @@ tags:
 
 ## Das schwarze Auge - 22. Runde der Kampagne: Greifenfurter Adel
 
-Zum 11. Efferd 1043 BF beschloss Link, dass er sich nun auch einmal das Händlerviertel von Gareth anschauen wollte. Immerhin ist weitreichend bekannt, dass man hier exotische Waren aus ganz Aventurien erwerben kann. Daher schlossen sich auch Andaryn und Gray kurze Zeit später dem Halbelf an. Während dessen trafen Stordian, Bender und ich weitere Reisevorbereitungen. Unsere Thorwallerin hingegen erkundetete auf eigene Faust die Hauptstadt der Mittelreiches.
+Zum 11. Efferd 1043 BF beschloss Link, dass er sich nun auch einmal das Händlerviertel von Gareth anschauen wollte. Immerhin ist weitreichend bekannt, dass man hier exotische Waren aus ganz Aventurien erwerben kann. Daher schlossen sich auch Andaryn und Gray kurze Zeit später dem Halbelf an. Während dessen trafen Stordian, Bender und ich weitere Reisevorbereitungen. Unsere Thorwallerin hingegen erkundete auf eigene Faust die Hauptstadt des Mittelreiches.
 
 Gegen Mittag des 12. Efferd 1043 BF kehrten die Freunde aus dem Händlerviertel zurück. Sie hatten im örtlichen Auktionshaus die Büste eines kürzlich verstorbenen Politikers sowie eine wunderschön gearbeitete Statue der Göttin Travia erstanden und einen anscheinend hervorragenden Preis dabei erzielt. Dies haben sie auch prompt in einer der Gaststätten des Viertels gefeiert und dabei die Zeit vergessen. Nachdem dann alle Stadttore geschlossen waren, haben sie sich wohl kurzerhand in dieser eingemietet und ihren Rausch ausgeschlafen.
 

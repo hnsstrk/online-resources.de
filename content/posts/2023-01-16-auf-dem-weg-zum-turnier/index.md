@@ -25,8 +25,8 @@ Auf etwa der Hälfte der Strecke trafen wir auf alte Bekannte. Die Schwarzpelze,
 
 ### Gefangene
 
-In einem kurzen aber harten Kampf gelang es uns die Orks zu vertrieben. Dies, obwohl diese mit ihrer Befestigung eine deutlich bessere Ausgangsposition hatten. Vielleicht hatte sie ja der humorvolle Einsatz von Grays kleiner Eiswand völlig aus dem Konzept gebracht.
+In einem kurzen aber harten Kampf gelang es uns die Orks zu vertreiben. Dies, obwohl diese mit ihrer Befestigung eine deutlich bessere Ausgangsposition hatten. Vielleicht hatte sie ja der humorvolle Einsatz von Grays kleiner Eiswand völlig aus dem Konzept gebracht.
 
-Zwar starben einige der Orks beim Kampf, aber es gelang uns zwei der Verwundeten gefangen zunehmen. Da diese nichts voneinander mitbekommen hatten beschlossen wir eine zurück zu seinem Anführer, welcher entkommen konnte, zu schicken. Er sollte diesem mitteilen, dass wir noch immer zu seinem Handel bereit wären.
+Zwar starben einige der Orks beim Kampf, aber es gelang uns zwei der Verwundeten gefangenzunehmen. Da diese nichts voneinander mitbekommen hatten beschlossen wir eine zurück zu seinem Anführer, welcher entkommen konnte, zu schicken. Er sollte diesem mitteilen, dass wir noch immer zu seinem Handel bereit wären.
 
 Den Zweiten fesselten wir um ihn mit nach Greifenfurt zu nehmen, damit wir einen Beweis für die Miliz hatten, dass sich die Orks wieder in der Nähe herumtreiben.

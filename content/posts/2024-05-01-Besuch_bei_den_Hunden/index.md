@@ -16,13 +16,13 @@ tags:
 
 ### Shopping Tour
 
-Wir nutzten die kurze Phase der Ruhe und Besinnung und besannen uns in aller Ruhe auf unsere Ausrüstung, da diese, in Anbetracht der Erlebnisse, durchaus ein kleines Upgrade benötigte. Bei Tala Schiefzahn fand ich eine wunderschöne Tunika, die mit ihrem weißen und roten Stoff meine blauen Augen gelungen unterstrich. Hinzu kam ein neuer Wanderstab mit einer schön ausgearbeiteten metallenen Spitze. Bei Grauauge fand ich noch ein herrliches grünes Stirnband und in Kombination mit meiner coolen Brille sehe ich nun wahrlich aus, wie an Kater von Welt. Ich glaube, dass dies auch Ravenna aufgefallen ist, zumindest schaut sie immer so komisch zu mir herüber.
+Wir nutzten die kurze Phase der Ruhe und Besinnung und besannen uns in aller Ruhe auf unsere Ausrüstung, da diese, in Anbetracht der Erlebnisse, durchaus ein kleines Upgrade benötigte. Bei Tala Schiefzahn fand ich eine wunderschöne Tunika, die mit ihrem weißen und roten Stoff meine blauen Augen gelungen unterstrich. Hinzu kam ein neuer Wanderstab mit einer schön ausgearbeiteten metallenen Spitze. Bei Grauauge fand ich noch ein herrliches grünes Stirnband und in Kombination mit meiner coolen Brille sehe ich nun wahrlich aus, wie ein Kater von Welt. Ich glaube, dass dies auch Ravenna aufgefallen ist, zumindest schaut sie immer so komisch zu mir herüber.
 
 ### Hundehütte
 
 #### Futurus
 
-Nachdem wir alles hatten, von dem wir dachten, dass wir es irgendwann einmal benötigen könnten, machten wir uns auf dem Weg, hinaus aus Wolldorf, zu dem Haus in dem Renzo und seine Bande leben sollten. Auf dem Weg dorthin kamen wir an einer seltsamen Statue mit goldenen Flügeln vorbei. Auf einem Schild stand:
+Nachdem wir alles hatten, von dem wir dachten, dass wir es irgendwann einmal benötigen könnten, machten wir uns auf den Weg, hinaus aus Wolldorf, zu dem Haus in dem Renzo und seine Bande leben sollten. Auf dem Weg dorthin kamen wir an einer seltsamen Statue mit goldenen Flügeln vorbei. Auf einem Schild stand:
 
 > Ich bin der Wächter der Zukunft und **reagiere** auf den Namen **Futurus**.
 

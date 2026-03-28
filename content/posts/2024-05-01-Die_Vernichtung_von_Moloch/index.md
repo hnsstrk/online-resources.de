@@ -19,11 +19,11 @@ tags:
 
 Das Warme Haus war voller Katzen und Kater, die mit dem Dicken Flook befreundet waren und als dieser um Hilfe rief, kamen sie. Wir waren eingekesselt. Draußen versammelten sich erboste Katzen und hier drin jammerte Flook so sehr, dass Ruben und ich uns bemüßigt sahen uns um ihn zu kümmern. Mein Freund tat alles, um den dicken Kater zu beruhigen, während ich seine Wunden versorgte.
 
-Die wütenden Rufe wurden immer lauter und Fäuste hämmerten gegen dir Türe. Doch dann mischten sich andere Laut hinzu. Kratzen und Reißen, Knurren und Schmerzensschreie… Moloch war zurück und griff die Katzen an. Uns war klar, dass wir ihnen helfen mussten, aber das furchtbare Gedränge im Flur machte uns dies nahezu unmöglich, dennoch tat ich mein Bestes, um aus dem Raum zu kommen.
+Die wütenden Rufe wurden immer lauter und Fäuste hämmerten gegen die Türe. Doch dann mischten sich andere Laute hinzu. Kratzen und Reißen, Knurren und Schmerzensschreie… Moloch war zurück und griff die Katzen an. Uns war klar, dass wir ihnen helfen mussten, aber das furchtbare Gedränge im Flur machte uns dies nahezu unmöglich, dennoch tat ich mein Bestes, um aus dem Raum zu kommen.
 
 Ravenna nutzte die Gunst der Stunde, mir nahe zu kommen und warf sich auf mich. In solch einer gefährlichen Situation kann ich es ihr nicht verdenken, dass sie meinen Schutz und meine Nähe suchte. Dennoch, zuerst mussten wir dieses Untier vertreiben. So schoben wir uns alle weiter und weiter nach vorne Richtung der Treppe auf der Moloch stand. Die anderen Katzen, sofern sie nicht von dem monströsen Hund zerrissen wurden, flüchteten. Nur meine Freunde und ich kämpften tapfer weiter.
 
-Ich landete einige gute Treffer mit meinem neuen Wanderstab und auch Jack, Inigo und Ruben teilten ordentlich aus. Ravenna hatte eine gar seltsame Gerätschaft dabei, die an eine kleine Kanone erinnerte. Diese hatte sie auf der Seemöve gefunden. Vermutlich, weil ich ihr von dem Adligen erzählt hatte, der auf den Kugeln der großen Kanonen ritt war sie nun ganz versessen auf das Ding. Ich habe damals schon gemerkt, dass ich sie mit meinem Wissen enorm beeindruckt hatte. Auf alle Fälle setzte sie mit diesem kleinen, lauten Ding Moloch heftig zu. Mit meiner Hilfe gelang es meinen Kameraden so, diesem Vieh ein für alle Mal den Gar auszumachen.
+Ich landete einige gute Treffer mit meinem neuen Wanderstab und auch Jack, Inigo und Ruben teilten ordentlich aus. Ravenna hatte eine gar seltsame Gerätschaft dabei, die an eine kleine Kanone erinnerte. Diese hatte sie auf der Seemöwe gefunden. Vermutlich, weil ich ihr von dem Adligen erzählt hatte, der auf den Kugeln der großen Kanonen ritt war sie nun ganz versessen auf das Ding. Ich habe damals schon gemerkt, dass ich sie mit meinem Wissen enorm beeindruckt hatte. Auf alle Fälle setzte sie mit diesem kleinen, lauten Ding Moloch heftig zu. Mit meiner Hilfe gelang es meinen Kameraden so, diesem Vieh ein für alle Mal den Gar auszumachen.
 
 Warum Jack und Ruben Moloch dann auch in aller Ruhe zerlegten erschließt sich mir noch heute nicht. Mir war es wichtiger nach Flook zu schauen und ihm noch ein wenig gut zuzureden. Zu meinem Glück verplapperte er sich hierbei und ich erfuhr, dass Sial was mit Moloch zu tun hatte. Dies musste ich unbedingt meinen Freunden erzählen.
 
@@ -33,7 +33,7 @@ Doch bevor Ajom uns verlassen konnte berichtet ich ihm von den Hunden und deren 
 
 ### Praeteritus und Presentus
 
-Eigentlich wollten wir uns von Ajom verabschieden, aber mir viel eine Statue mit bronzenen Flügeln auf, die auf der anderen Seite des Platzes stand. Sie glich der Statue beim Haus der Hunde bis aufs Haar. Lediglich die Flügel hatten eine andere Farbe. Auf dem Schild stand:
+Eigentlich wollten wir uns von Ajom verabschieden, aber mir fiel eine Statue mit bronzenen Flügeln auf, die auf der anderen Seite des Platzes stand. Sie glich der Statue beim Haus der Hunde bis aufs Haar. Lediglich die Flügel hatten eine andere Farbe. Auf dem Schild stand:
 
  > Ich bin der Wächter der Vergangenheit und **reagiere** auf den Namen **Praeteritus**.
 

@@ -17,7 +17,7 @@ tags:
 
 Junge, Junge, im Wolldorf ist es doch schon anders wie in Havena und doch irgendwie gleich. Es gibt keinen Don, aber die 3 Krallen, die angeblich sich für das Wohl des Dorfes einsetzen. Naja, noch kann ich das nicht beurteilen. Aber kommen wir mal zur ganzen Geschichte.
 
-Nachdem uns Saytan erzählt hatte, dass der müde Flook sehr viel weiss, hielden wir es für eine gute Idee diesen mal aufzusuchen. Es wurde ja vorher erzählt, dass er etwas dick sei, aber solch einen runden Kater hätte ich nicht erwartet. Das liegt wohl daran, dass es im Warmen Haus haust. Dort wird von den plumpen Riesen jede Menge leckeres Fleisch zubereitet. Es roch so himmlisch. Am liebsten hätte ich direkt zugebissen. Aber wir hatten ja eine Aufgabe. Ruben und Jack konnten nicht wiederstehen und haben gleich zugelangt. Irgendwie beneide ich sie dafür.
+Nachdem uns Saytan erzählt hatte, dass der müde Flook sehr viel weiss, hielten wir es für eine gute Idee diesen mal aufzusuchen. Es wurde ja vorher erzählt, dass er etwas dick sei, aber solch einen runden Kater hätte ich nicht erwartet. Das liegt wohl daran, dass es im Warmen Haus haust. Dort wird von den plumpen Riesen jede Menge leckeres Fleisch zubereitet. Es roch so himmlisch. Am liebsten hätte ich direkt zugebissen. Aber wir hatten ja eine Aufgabe. Ruben und Jack konnten nicht widerstehen und haben gleich zugelangt. Irgendwie beneide ich sie dafür.
 
 Aber wieder zu Flook. Er hat uns dann die Geschichte erzählt. Da es zu viel Streit um die Murmeln gab, wurden sie aufgeteilt. Eine hätte Renzo der Köter, eine Warna, eine Sial, eine die 3 Krallen und er hat eine bekommen. Doch seine hat er bei einer “Sportaktivität” verloren. Alter, der Kater ist so fett, der kann doch nur den Berg runterkugeln.
 

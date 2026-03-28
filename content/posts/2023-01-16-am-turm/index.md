@@ -20,6 +20,6 @@ Andaryn, Link, Bender und Stordian sind am alten Turm angekommen und wurden mehr
 
 Die Gruppe erkundigte oberflächlich das umliegende Gelände und beschloss ein Lager im alten Turm aufzuschlagen.
 
-Auf dem Weg dorthin versuchte Link stiften zu gehen, doch Bender setze nach einigen gescheiterten Versuchen ihn zu überreden und zu bedrohen seinen Charm ein. Seitdem weicht im Link nicht mehr von der Seite.
+Auf dem Weg dorthin versuchte Link stiften zu gehen, doch Bender setzte nach einigen gescheiterten Versuchen ihn zu überreden und zu bedrohen seinen Charm ein. Seitdem weicht im Link nicht mehr von der Seite.
 
 Für die Nacht wurde eine Wache aufgestellt, was sich als Glücksfall erwies, da eine umherstreifende Höhlenspinne die Gruppe angriff. Gemeinsam konnten sie das Biest jedoch besiegen.

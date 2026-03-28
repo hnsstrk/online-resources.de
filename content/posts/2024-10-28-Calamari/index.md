@@ -20,7 +20,7 @@ Jack war der Erste, der eine – seiner Meinung nach passende – Verkleidung fa
 
 Der Rest von uns musste sich weiter umschauen. Doch dabei sollten wir nicht allein bleiben. Der Zufall wollte es, dass die gute Ravenna ebenfalls in dieser seltsamen Menagerie zugegen war. Eigentlich wollte sie in den Wäldern nach dem Rechten schauen, aber ich glaube, dass sie nicht von mir lassen konnte. Als Zeichen der Zuneigung schenkte sie mir sogar einen Heiltrank. Die Ärmste musste es schwer erwischt haben. Bei einem so stattlichen und gepflegten Kater wie mir ist dies aber auch keine Überraschung. Ich fürchte nur, dass ich ihr eines Tages ihr kleines Herz brechen muss. Sie ist so gar nicht mein Typ.
 
-Aber mit ihrer Hilfe fanden wir die Felle eins Löwons, zweier Bären und dreier dieser Füchse mit den großen Ohren. Diese nahmen wir an uns und bastelten in Windeseile ein paar brauchbare Kostüme. Als Anführer unserer kleinen Seilschaft war ich selbstverständlich der Löwon und nahm gemeinsam mit den anderen in einem Käfig mit dem passenden Hinweisschild Platz.
+Aber mit ihrer Hilfe fanden wir die Felle eines Löwons, zweier Bären und dreier dieser Füchse mit den großen Ohren. Diese nahmen wir an uns und bastelten in Windeseile ein paar brauchbare Kostüme. Als Anführer unserer kleinen Seilschaft war ich selbstverständlich der Löwon und nahm gemeinsam mit den anderen in einem Käfig mit dem passenden Hinweisschild Platz.
 
 Dies passende Hinweisschild muss gesondert erwähnt werden, da nicht alle von uns in der Lage sind, die Schrift der Zweibeiner zu lesen und den Sternen sei Dank, dass ich dies vollbringen konnte. Sonst wären wir im schlimmsten Fall noch im falschen Schiff gelandet.
 
@@ -42,4 +42,4 @@ In dem Schiff sah es übel aus. Die Wände waren mit Löchern und Rissen gezeich
 
 Mit großem Entsetzen musste ich jedoch feststellen, dass es beschädigt und geöffnet war, was es uns unmöglich machte, den Auftrag von Kater Karlo – das Kästchen ungeöffnet und unversehrt zu überbringen – auszuführen. Die anderen sahen jedoch eine Chance, ihre Neugierde zu stillen und entdeckten einen hübsch gefertigten metallenen Schlüssel, der, wie ich vermutete, zu einem anderen Kästchen gehören musste. Wir beschlossen, dass wir versuchen würden, wenigstens den Schlüssel zu übergeben.
 
-Bis dahin würde wir uns jedoch gedulden müssen. Das Schiff wurde um Hafen von Salza repariert und lag zwei Wochen im Dock.
+Bis dahin würden wir uns jedoch gedulden müssen. Das Schiff wurde um Hafen von Salza repariert und lag zwei Wochen im Dock.

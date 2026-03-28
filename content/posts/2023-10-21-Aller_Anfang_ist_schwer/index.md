@@ -16,10 +16,10 @@ tags:
 ## Das Treffen
 Tja, wie war das noch gleich. Da habe ich doch in Goldis Taverne gleich 3 Vagabunden getroffen. Die scheinen alle ja nicht ganz Helle zu sein, aber naja ich selber kann bisher ja auch nicht mit cleveren Entscheidungen glänzen. Zumindest sind sie so ehrenhaft, dass sie einem schreiendem Mädchen zur Hilfe eilen. Auch scheinen sie einiges auf dem Kasten zu haben, denn mit diesem Rattenungeziefer sind sie ganz gut klar gekommen.
 
-Leider wurde Goldi von den Ratten verletzt und sie kann die Taverne die nächsten Tage nicht richtig führen. Sie bat uns ihr geäucherten Aal zu besorgen. Den lieben die Katzen hier. Außerdem muss man dafür nicht kochen. Ich bin mir aber nicht sicher, ob es so eine gute Idee von Goldi ist, dass die mich auf dem Weg zum Aal-Haus begleiten. Auch hätte ich dieser Brillenschlange nicht die Mondglöckchen gegeben. Die werde ich definitiv im Auge behalten und wenn sie Goldi abzocken, dann können sie ihr blaues Wunder erleben. Also mal abwarten, was das morgen wird.
+Leider wurde Goldi von den Ratten verletzt und sie kann die Taverne die nächsten Tage nicht richtig führen. Sie bat uns ihr geäucherten Aal zu besorgen. Den lieben die Katzen hier. Außerdem muss man dafür nicht kochen. Ich bin mir aber nicht sicher, ob es so eine gute Idee von Goldi ist, dass die mich auf dem Weg zum Aal-Haus begleiten. Auch hätte ich die Brillenschlange nicht die Mondglöckchen gegeben. Die werde ich definitiv im Auge behalten und wenn sie Goldi abzocken, dann können sie ihr blaues Wunder erleben. Also mal abwarten, was das morgen wird.
 
 ## Der Fischmarkt am Aal-Haus
-Alter das war ein Ding, das glaub mir keine Katze. Aber eins nachdem anderen.
+Alter das war ein Ding, das glaub mir keine Katze. Aber eines nach dem anderen.
 Wir sind plannungsmässig am nächsten Abend losgegangen. Am Fischmarkt angekommen, haben wir uns überwunden, dass wir uns gegenseitig vorstellen.
 
 ## Ruben, der Lumpensammler
@@ -32,13 +32,13 @@ Ein Allessammler oder wie man das auch nennt. Pummelig, dreckig und ungepflegt. 
 
 ![Benjamin Büchernase](token_hans.webp)
 
-Ein Gelehrter, der denk clever zu sein. Sehr clever war er nicht, als er unseren Anschleichersuch torpediert und auch noch ganze Mondglöckchen verloren hat. Aber dazu schreib ich später noch was.
+Ein Gelehrter, der denk clever zu sein. Sehr clever war er nicht, als er unseren Anschleichversuch torpediert und auch noch ganze Mondglöckchen verloren hat. Aber dazu schreib ich später noch was.
 
 ## Ravenna, die Schroffe
 
 ![Ravenna](token_bianca.webp)
 
-Ich muss zugeben, sie sieht schon ganz taff aus und mit dem Bogen kann sie auch umgehen. Doch ihr Benehmen lässt zu wünschen übrig. Über den Lumpensammler und dir Brillenschlange kann man herziehen, aber dass sie Goldi grundlos so schroff angesprochen hat, zweigt nur, dass sie nicht mit anderen Katzen kann.
+Ich muss zugeben, sie sieht schon ganz taff aus und mit dem Bogen kann sie auch umgehen. Doch ihr Benehmen lässt zu wünschen übrig. Über den Lumpensammler und dir Brillenschlange kann man herziehen, aber dass sie Goldi grundlos so schroff angesprochen hat, zeigt nur, dass sie nicht mit anderen Katzen kann.
 
 ## Das Aal-Haus
 Also ich wollte die Aale ja direkt beim Händler kaufen, da wäre einfach gewesen und man hätte eventuell einen guten Preis aushandeln können. So hätten wir bestimmt noch ein paar Glöckchen für uns gehabt. Die Schroffe wollte die Aale ja unbedingt klauen. Doch das war noch nicht mal das Schlimmste. 

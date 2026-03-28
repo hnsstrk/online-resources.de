@@ -31,7 +31,7 @@ Stoffe gab es ja genug, aber wer hätte gedacht, dass Ruben ein Schneidermeister
 
 Natürlich plünderten wir alles. Jake nahm den legendären Würfel, der uns angeblich vom Schiff bringen sollte. Was er dann auch tat, aber nicht so wie wir uns das dachten.
 
-Also wir uns Sakuras Gruppe wieder auf dem Deck waren, wussten wir natürlich nicht, was wir tun sollten, doch dann kam plötzlich ein mächtiges Vieh aus dem Bauch des Schiffes herausgesprungen. Ein mächtiger Hund, würde ja auf einen Untoten tippen, bin mir aber nicht sicher. Der stürmte vom Schiff und tötete alle Wachen in Reichweite, die nicht weglaufen konnten. Und so konnten wir das Schiff einfach verlassen.
+Als wir uns Sakuras Gruppe wieder auf dem Deck waren, wussten wir natürlich nicht, was wir tun sollten, doch dann kam plötzlich ein mächtiges Vieh aus dem Bauch des Schiffes herausgesprungen. Ein mächtiger Hund, würde ja auf einen Untoten tippen, bin mir aber nicht sicher. Der stürmte vom Schiff und tötete alle Wachen in Reichweite, die nicht weglaufen konnten. Und so konnten wir das Schiff einfach verlassen.
 
 ### Eine unerwartete Wendung
 
@@ -43,4 +43,4 @@ Dann ging die Tür auf und einer der 3 Krallen kam rein, allein. Keine Ahnung wi
 
 Ruben fragte noch, ob er bzw. sie mit Saytan unter einer Decke stecken, was von Augenklappe bestätigt wurde.
 
-Dann setze er sich zu uns an den Tisch und wie bestellten alle etwas zu trinken….
+Dann setze er sich zu uns an den Tisch und wir bestellten alle etwas zu trinken….

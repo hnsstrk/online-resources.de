@@ -27,7 +27,7 @@ In der Stadt angekommen konnten wir uns dann aber ganz auf das Turnier und das S
 
 ![](hnsstrk_medieval_craftsmen_at_a_medieval_fair_by_Albert_Biersta_b60d8880-fe1c-4e0c-abe9-c598acd892bb-768x512.png)
 
-Auch bei den Anwesenden Händlern konnten wir für unsere nicht mehr benötigte Ausrüstung anständige Preise erziehen und das, was uns fehlte konnten wir günstig erwerben.
+Auch bei den Anwesenden Händlern konnten wir für unsere nicht mehr benötigte Ausrüstung anständige Preise erzielen und das, was uns fehlte konnten wir günstig erwerben.
 
 ### Bekannte
 
@@ -37,10 +37,10 @@ Andaryn begegnete einer alten Wachtruppe seines Vaters, bestehend aus acht Mann,
 
 ### Verwandte
 
-Getrübt wurde der schöne Tag jedoch durch die Begegnung mit Binsbart Borkfried von Löwenhaupt-Gösselquell, einem entfernten Großcousin von Stordian aus dem durchaus eher buckligen Teil der Verwandtschaft. Es gelang diesem blassen Wurm Stordian zu einem ritterlichen Zweikampf auf’s dritte Blut anzustiften, in welchem er sich so dann, von einem bezahlten Kämpfer vertreten ließ. Dieser Söldner, Geron Waisenmacher war sein Name, besiegte Stordian mit einigen höchst unritterlichen Fußfegern und nur danke der Eitelkeit von Binsbart ist er noch am Leben, da dieser es vorzog Stordian weiter zu erniedrigen.
+Getrübt wurde der schöne Tag jedoch durch die Begegnung mit Binsbart Borkfried von Löwenhaupt-Gösselquell, einem entfernten Großcousin von Stordian aus dem durchaus eher buckligen Teil der Verwandtschaft. Es gelang diesem blassen Wurm Stordian zu einem ritterlichen Zweikampf auf’s dritte Blut anzustiften, in welchem er sich so dann, von einem bezahlten Kämpfer vertreten ließ. Dieser Söldner, Geron Waisenmacher war sein Name, besiegte Stordian mit einigen höchst unritterlichen Fußfegern und nur dank der Eitelkeit von Binsbart ist er noch am Leben, da dieser es vorzog Stordian weiter zu erniedrigen.
 
 ### Schattenseiten
 
-Auch Gray hatte ein wenig Pech mit einem Taschendieb Namens Carolan Calavanti, welcher ihn um seinen Beutel erleichterte. Allerding wurden wir Eingangs für Dieben und Streunern gewarnt und so erkannte Gray seinen Verlust noch rechtzeitig und konnte seinen Besitz zurückfordern. Carolan empfahl sich für den Fall, dass wir einmal einen erfahrenen Dieb benötigen, und suchte das Weite.
+Auch Gray hatte ein wenig Pech mit einem Taschendieb Namens Carolan Calavanti, welcher ihn um seinen Beutel erleichterte. Allerdings wurden wir eingangs vor Dieben und Streunern gewarnt und so erkannte Gray seinen Verlust noch rechtzeitig und konnte seinen Besitz zurückfordern. Carolan empfahl sich für den Fall, dass wir einmal einen erfahrenen Dieb benötigen, und suchte das Weite.
 
 Mehr als unangemessen war Verhalten von Gray, als der Herrn Andaryn in einen Zweikampf mit einem farbenfrohen Ritter zweifelhafter Herkunft redete, um auf den Ausgang wetten zu können. Meines Erachtens sollten wir ein solches Verhalten eines Untergeben keinesfalls durchgehen lassen. Wenn es nach mir gehen würde, so würde ich diesen Magier auf Wochen in Eisen kleiden.

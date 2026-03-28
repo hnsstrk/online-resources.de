@@ -16,4 +16,4 @@ Irgendetwas musste unternommen werden und zwar schnell. So schleuderte ich nach 
 
 In dem Moment in dem ich wieder zu mir kam, sah ich wie Himgi einem Matrosen die Nüsse wegschoss. Kurze Zeit später traf er einem Anderen in den Fuß und nagelte ihn so an der Anlegebrücke fest. Einen weiteren traf er ins Bein. Irgendwie müssen diese Zwerge lernen höher zu zielen.
 
-Leider waren unsere Mühen jedoch vergebens und das Schiff legte ab, wobei wenigstens ein Teil der Ladung zurück gelassen werden musste. Um nicht der Stadtwache in die Hände zu fallen, verschwanden wir ins Gasthaus, in dem wir uns eingemietet hatten.
+Leider waren unsere Mühen jedoch vergebens und das Schiff legte ab, wobei wenigstens ein Teil der Ladung zurückgelassen werden musste. Um nicht der Stadtwache in die Hände zu fallen, verschwanden wir ins Gasthaus, in dem wir uns eingemietet hatten.

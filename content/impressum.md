@@ -1,24 +1,20 @@
 ---
-title: "Impressum & Datenschutz"
+title: "Impressum"
 date: 2023-05-04T20:07:42+02:00
+lastmod: 2026-03-28
 draft: false
-
 ---
 
 ## Impressum
 
-Angaben gemäß § 5 TMG:
+Angaben gemäß § 5 DDG
 
 Hans Jürgen Stark
 Zum Steinberg 23
 53902 Bad Münstereifel
-Deutschland
 
-### Kontakt
-E-Mail: hans.juergen.stark@gmail.com
+E-Mail: hans.juergen.stark [at] gmail.com
 
-### Verantwortlich für den Inhalt:
-Hans Jürgen Stark
+### Hinweis
 
-### Hinweis:
-Diese Webseite ist eine private Homepage, die ausschließlich dazu dient, Zusammenfassungen von Rollenspielrunden zu veröffentlichen. Es werden keine kommerziellen Zwecke verfolgt. Die Inhalte sind für den privaten Gebrauch bestimmt und richten sich an eine spezifische Gruppe von Spielern.
+Diese Webseite ist eine private Homepage, die ausschließlich dazu dient, Zusammenfassungen von Rollenspielrunden zu veröffentlichen. Es werden keine kommerziellen Zwecke verfolgt.

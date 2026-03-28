@@ -2,6 +2,7 @@ baseURL: "https://www.online-resources.de/"
 languageCode: de-de
 DefaultContentLanguage: de
 title: online-resources.de
+copyright: "© 2023–{{ now.Format \"2006\" }} online-resources.de"
 pagination.pagerSize: 10
 theme: PaperMod
 
@@ -92,12 +93,10 @@ params:
       url: "https://github.com/hnsstrk"
     - name: youtube
       url: "https://www.youtube.com/hnsstrk"
-      name: discord
+    - name: discord
       url: "https://discord.gg/QuhEw6YZ"
     - name: linkedin
       url: "https://www.linkedin.com/in/hnsstrk/"
-    - name: paypal
-      url: "https://paypal.me/hnsstrk?country.x=DE&locale.x=de_DE"
     - name: rss
       url: "https://online-resources.de/index.xml"
 
@@ -159,6 +158,10 @@ menu:
       name: "📃 Impressum"
       url: /impressum/
       weight: 50
+    - identifier: datenschutz
+      name: "🔒 Datenschutz"
+      url: /datenschutz/
+      weight: 55
     - identifier: dsa
       name: "👁️  DSA"
       url: https://fvtt1.online-resources.de/

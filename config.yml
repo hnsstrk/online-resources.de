@@ -154,6 +154,10 @@ menu:
       name: "🏷️ Tags"
       url: /tags/
       weight: 40
+    - identifier: about
+      name: "ℹ️ Über"
+      url: /about/
+      weight: 55
     - identifier: impressum
       name: "📃 Impressum"
       url: /impressum/

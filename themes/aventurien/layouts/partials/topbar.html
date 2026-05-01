@@ -1,0 +1,72 @@
+{{- /* topbar.html — drei Modi:
+       - hero    : Home (transparent über Vollbild-Hero, monumentale Wordmark)
+       - single  : Einzel-Post unter content/posts (kompakt, 3-Spalten-Grid mit Crumbs + Ausgaben-Nr)
+       - page    : Default (sticky, Wordmark + Nav + Theme-Toggle)
+       Container-Begrenzung erfolgt über den .page-Wrapper in baseof.html. */ -}}
+{{- $current := . -}}
+{{- $brandText := .Site.Params.brand.text | default "online" -}}
+{{- $brandEm   := .Site.Params.brand.em   | default "resources" -}}
+
+{{- $mode := "page" -}}
+{{- if .IsHome -}}{{ $mode = "hero" }}{{- end -}}
+{{- if and .IsPage (eq .Section "posts") -}}{{ $mode = "single" }}{{- end -}}
+
+{{- /* Roman-Numerale für 2000–2030 — Fallback: arabisches Jahr */ -}}
+{{- $romans := dict
+  "2000" "MM" "2001" "MMI" "2002" "MMII" "2003" "MMIII" "2004" "MMIV"
+  "2005" "MMV" "2006" "MMVI" "2007" "MMVII" "2008" "MMVIII" "2009" "MMIX"
+  "2010" "MMX" "2011" "MMXI" "2012" "MMXII" "2013" "MMXIII" "2014" "MMXIV"
+  "2015" "MMXV" "2016" "MMXVI" "2017" "MMXVII" "2018" "MMXVIII" "2019" "MMXIX"
+  "2020" "MMXX" "2021" "MMXXI" "2022" "MMXXII" "2023" "MMXXIII" "2024" "MMXXIV"
+  "2025" "MMXXV" "2026" "MMXXVI" "2027" "MMXXVII" "2028" "MMXXVIII" "2029" "MMXXIX" "2030" "MMXXX"
+-}}
+
+<header class="topbar topbar--{{ $mode }}">
+  <div class="topbar__inner">
+    {{- if eq $mode "single" -}}
+      {{- /* --- Single-Modus: Wordmark · Crumbs · Ausgaben-Nr --- */ -}}
+      <a href="{{ "/" | relURL }}" class="topbar__brand">
+        {{ $brandText | safeHTML }}&#8202;&mdash;<em>{{ $brandEm | safeHTML }}</em>
+      </a>
+
+      {{- /* Crumbs aufbauen: Archiv · Spielberichte · {Kategorie/Tag} · {Jahr roman} */ -}}
+      {{- $crumbs := slice "Archiv" "Spielberichte" -}}
+      {{- with .Params.categories -}}
+        {{- $cat := index . 0 -}}
+        {{- if $cat -}}{{- $crumbs = $crumbs | append $cat -}}{{- end -}}
+      {{- end -}}
+      {{- $yearKey := printf "%d" .Date.Year -}}
+      {{- $yearRoman := index $romans $yearKey | default $yearKey -}}
+      {{- $crumbs = $crumbs | append $yearRoman -}}
+      <div class="topbar__crumbs">
+        {{- range $i, $c := $crumbs -}}
+          {{- if $i -}}<span class="sep" aria-hidden="true"> &middot; </span>{{- end -}}
+          <span>{{ $c }}</span>
+        {{- end -}}
+      </div>
+
+      <div class="topbar__issue">
+        {{- with .Params.issue -}}
+          {{ . }}
+        {{- else -}}
+          {{ .Date.Format "02.01.2006" }}
+        {{- end -}}
+      </div>
+
+    {{- else -}}
+      {{- /* --- Hero- und Page-Modus: Wordmark + Nav + Theme-Toggle --- */ -}}
+      <a href="{{ "/" | relURL }}" class="topbar__brand">
+        {{ $brandText | safeHTML }}&#8202;&mdash;<em>{{ $brandEm | safeHTML }}</em>
+      </a>
+      <nav class="topbar__nav" aria-label="Hauptnavigation">
+        {{- range site.Menus.main -}}
+          {{- $active := and (ne .URL "/") (or (eq $current.RelPermalink .URL) (hasPrefix $current.RelPermalink .URL)) -}}
+          <a href="{{ .URL }}"{{ if $active }} class="active"{{ end }}{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener"{{ end }}>
+            {{- .Name -}}
+          </a>
+        {{- end }}
+        <button class="theme-toggle" type="button" aria-label="Thema wechseln">☽ Dunkel</button>
+      </nav>
+    {{- end -}}
+  </div>
+</header>

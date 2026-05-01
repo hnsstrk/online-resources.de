@@ -1,0 +1,65 @@
+{{- /* footer.html — 3-Spalten-Layout (1.6fr 1fr 1fr).
+
+       Komplett aus params.footer konfigurierbar (siehe config.yml):
+         params.footer.colophon = { heading, text }      — Spalte 1, plus Social-Row
+         params.footer.rubriken = { heading, items[] }   — Spalte 2
+         params.footer.anderswo = { heading, items[] }   — Spalte 3
+
+       Items: Liste aus { name, url }. URLs mit `http`-Prefix öffnen in neuem Tab.
+       Eine Spalte mit leerem text/items wird ausgelassen.
+       Mobile (< 860px): zu einer Spalte zusammengefaltet (siehe components.css). */ -}}
+{{- $footer   := .Site.Params.footer | default dict -}}
+{{- $colophon := $footer.colophon | default dict -}}
+{{- $rubriken := $footer.rubriken | default dict -}}
+{{- $anderswo := $footer.anderswo | default dict -}}
+{{- $hColophon := $colophon.heading | default "Kolophon" -}}
+{{- $hRubriken := $rubriken.heading | default "Rubriken" -}}
+{{- $hAnderswo := $anderswo.heading | default "Anderswo" -}}
+{{- $colophonText := $colophon.text | default (printf "Gesetzt in <em>Cormorant Garamond</em> und <em>EB Garamond</em>, mit Metadaten in <em>JetBrains Mono</em>. Illustrationen aus den laufenden Kampagnen von %s. Gebaut mit Hugo." (.Site.Params.author | default "hnsstrk")) -}}
+<footer class="footer">
+  <div class="footer__inner">
+    <div class="footer__cols">
+      <section class="footer__col footer__col--colophon">
+        <h5 class="footer__heading">{{ $hColophon }}</h5>
+        <div class="footer__colophon">{{ $colophonText | safeHTML }}</div>
+        {{- partial "social-row.html" . -}}
+      </section>
+
+      {{- with $rubriken.items }}
+      <section class="footer__col footer__col--menu">
+        <h5 class="footer__heading">{{ $hRubriken }}</h5>
+        <ul class="footer__list">
+          {{- range . -}}
+            <li>
+              <a href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
+                {{- .name -}}
+              </a>
+            </li>
+          {{- end }}
+        </ul>
+      </section>
+      {{- end }}
+
+      {{- with $anderswo.items }}
+      <section class="footer__col footer__col--meta">
+        <h5 class="footer__heading">{{ $hAnderswo }}</h5>
+        <ul class="footer__list">
+          {{- range . -}}
+            <li>
+              <a href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
+                {{- .name -}}
+              </a>
+            </li>
+          {{- end }}
+        </ul>
+      </section>
+      {{- end }}
+    </div>
+
+    <hr class="footer__rule" />
+
+    <div class="footer__bottom">
+      <span class="footer__copy">{{ .Site.Copyright | default (printf "© %d %s" now.Year .Site.Title) | markdownify }}</span>
+    </div>
+  </div>
+</footer>

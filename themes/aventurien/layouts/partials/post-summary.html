@@ -1,0 +1,31 @@
+{{- /* post-summary.html — Vorschau-Renderer für Posts.
+
+       Wenn der Content mit einer H2 beginnt (Lead-H2 nach User-Konvention,
+       z. B. "Das schwarze Auge - 60. Runde der Kampagne: Greifenfurter Adel"),
+       wird die erste H2 als <strong> mit Zeilenumbruch dahinter gesetzt und
+       der Vorschautext startet mit dem ersten Absatz danach. Sonst Fallback
+       auf .Summary.
+
+       Aufruf:
+         {{ partial "post-summary.html" (dict "page" . "length" 180) }}
+*/ -}}
+{{- $page := .page -}}
+{{- $length := .length | default 180 -}}
+{{- $content := $page.Content -}}
+{{- $h2Matches := findRE `<h2[^>]*>([\s\S]*?)</h2>` $content 1 -}}
+{{- if $h2Matches -}}
+  {{- $h2HTML := index $h2Matches 0 -}}
+  {{- $h2Text := plainify (replaceRE `^<h2[^>]*>|</h2>$` "" $h2HTML) | strings.TrimSpace -}}
+  {{- /* Alles nach der ersten </h2> nehmen */ -}}
+  {{- $afterH2 := replaceRE `^[\s\S]*?</h2>` "" $content -}}
+  {{- /* Ersten <p>...</p> finden */ -}}
+  {{- $pMatches := findRE `<p[^>]*>[\s\S]*?</p>` $afterH2 1 -}}
+  {{- $pText := "" -}}
+  {{- if $pMatches -}}
+    {{- $pHTML := index $pMatches 0 -}}
+    {{- $pText = plainify $pHTML | strings.TrimSpace -}}
+  {{- end -}}
+  <strong>{{ $h2Text }}</strong>{{ if $pText }}<br/>{{ $pText | truncate $length }}{{ end }}
+{{- else -}}
+  {{ $page.Summary | plainify | truncate $length }}
+{{- end -}}

@@ -1,0 +1,41 @@
+{{- /* archive-card.html — Variant C teaser card for archive/list grids.
+       Context: a Page.
+
+       Layout:
+         - Cover image (.figure.duotone) oder Placeholder via cover-image-Partial
+         - System-Tag (.sys-tag.dsa / .dsk / .gurps)
+         - h3 Title (Link)
+         - Mono-Row: Type · Lesezeit  |  Datum
+       Designentscheidung: Datum als gewohntes DateFormat (DD.MM.YYYY) statt Roman-Quartal,
+       weil das im Rest der Seite konsistent ist und Hugo-DateFormat nativ unterstützt.
+*/ -}}
+{{- $page := . -}}
+{{- $cats := $page.Params.categories | default slice -}}
+{{- $sysKey := "" -}}
+{{- $sysLabel := "" -}}
+{{- range $cats -}}
+  {{- $c := lower . -}}
+  {{- if and (eq $sysKey "") (or (in $c "schwarze auge") (eq $c "dsa")) -}}
+    {{- $sysKey = "dsa" -}}{{- $sysLabel = "Das Schwarze Auge" -}}
+  {{- end -}}
+  {{- if and (eq $sysKey "") (or (in $c "schwarze katze") (eq $c "dsk")) -}}
+    {{- $sysKey = "dsk" -}}{{- $sysLabel = "Die Schwarze Katze" -}}
+  {{- end -}}
+  {{- if and (eq $sysKey "") (in $c "gurps") -}}
+    {{- $sysKey = "gurps" -}}{{- $sysLabel = "GURPS" -}}
+  {{- end -}}
+{{- end -}}
+{{- $postType := $page.Params.post_type | default "Bericht" -}}
+<article class="archive__card">
+  <a class="archive__card-link" href="{{ $page.RelPermalink }}">
+    {{ partial "cover-image.html" (dict "page" $page "ratio" "5/4" "alt" $page.Title) }}
+  </a>
+  {{- if $sysKey }}
+  <span class="sys-tag {{ $sysKey }}"><span class="dot"></span>{{ $sysLabel }}</span>
+  {{- end }}
+  <h3 class="archive__card-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+  <div class="archive__card-row">
+    <span>{{ $postType }}{{ if $page.Site.Params.ShowReadingTime }} · {{ $page.ReadingTime }} Min.{{ end }}</span>
+    <time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format ($page.Site.Params.DateFormat | default "02.01.2006") }}</time>
+  </div>
+</article>

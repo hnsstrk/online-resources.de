@@ -1,0 +1,11 @@
+{{- /* post-card.html — renders a teaser card for a single page. Context: a Page. */ -}}
+<article class="post-card">
+  <div class="post-card__meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (.Site.Params.DateFormat | default "02.01.2006") }}</time>
+    {{- with partial "system-tag.html" . }}<span>·</span>{{ . }}{{ end -}}
+    {{- if .Site.Params.ShowReadingTime }}<span>·</span><span>{{ .ReadingTime }} Min.</span>{{ end -}}
+  </div>
+  <a href="{{ .RelPermalink }}" class="post-card__title">{{ .Title }}</a>
+  <p class="post-card__summary">{{ partial "post-summary.html" (dict "page" . "length" 180) | safeHTML }}</p>
+  <a href="{{ .RelPermalink }}" class="post-card__read">Lesen →</a>
+</article>

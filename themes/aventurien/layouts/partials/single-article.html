@@ -1,0 +1,106 @@
+{{- /* single-article.html — volle Article-Page (Variante B). */ -}}
+{{- $dropcap := .Params.drop_cap | default true -}}
+{{- $author := .Params.author | default .Site.Params.author -}}
+{{- $dek := .Description | default .Params.dek -}}
+{{- /* Caption-Quellen:
+       Default = .Params.cover.caption / .Params.cover.credit (in 70 Posts gepflegt).
+       Override = .Params.hero_caption / .Params.hero_credit (bei Bedarf im Frontmatter). */ -}}
+{{- $coverParams := .Params.cover | default dict -}}
+{{- $heroLabel := .Params.hero_label | default "Abb. I" -}}
+{{- $heroCaption := .Params.hero_caption | default $coverParams.caption -}}
+{{- $heroCredit := .Params.hero_credit | default $coverParams.credit -}}
+{{- $endNote := .Params.end_note -}}
+<div class="article-page{{ if $dropcap }} article--dropcap{{ end }}">
+
+  {{- if .Site.Params.ShowBreadCrumbs -}}
+  <nav class="breadcrumbs" aria-label="Breadcrumbs">
+    <a href="{{ "/" | relURL }}">Start</a>
+    {{- $url := "" -}}
+    {{- range $i, $s := split (strings.TrimPrefix "/" .RelPermalink) "/" -}}
+      {{- if $s -}}
+        {{- $url = printf "%s/%s" $url $s -}}
+        <span class="sep">/</span>
+        {{- if eq (add $i 1) (len (split (strings.TrimPrefix "/" $.RelPermalink) "/")) -}}
+          <span>{{ $.Title }}</span>
+        {{- else -}}
+          <a href="{{ $url }}/">{{ humanize $s }}</a>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </nav>
+  {{- end -}}
+
+  <section class="article-page__title-block">
+    {{- with partial "system-tag.html" . }}{{ . }}{{ end }}
+    <h1 class="article-page__title">{{ .Title }}</h1>
+    {{- with $dek }}
+    <p class="article-page__dek">{{ . }}</p>
+    {{- end }}
+    <div class="article-page__by-row">
+      {{- with $author }}
+      <span>aufgezeichnet von <strong>{{ . }}</strong></span>
+      {{- end }}
+      {{- if .Site.Params.ShowReadingTime }}
+      <span>· {{ .ReadingTime }} min Lesezeit</span>
+      {{- end }}
+      <span>· <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (.Site.Params.DateFormat | default "02.01.2006") }}</time></span>
+    </div>
+  </section>
+
+  {{- /* Hero image */ -}}
+  <div class="article-page__hero">
+    {{ partial "cover-image.html" (dict
+      "page"  .
+      "ratio" "21/9"
+      "alt"   .Title
+      "class" "hero-img"
+    ) }}
+  </div>
+
+  {{- /* Hero caption — nur rendern, wenn Caption oder Credit gesetzt sind.
+         (hero_label hat einen Default und zählt nicht als „Inhalt vorhanden".) */ -}}
+  {{- if or $heroCaption $heroCredit }}
+  <div class="article-page__hero-caption">
+    <span class="label">{{ $heroLabel }}</span>
+    <em>{{ with $heroCaption }}{{ . | safeHTML }}{{ end }}</em>
+    <span class="credit">{{ with $heroCredit }}{{ . }}{{ end }}</span>
+  </div>
+  {{- end }}
+
+  <div class="article-page__body-grid">
+    {{- partial "article-meta.html" . -}}
+
+    <article>
+      {{ .Content }}
+
+      {{- with $endNote }}
+      <p class="end-note"><span class="end-mark"></span>{{ . | safeHTML }}</p>
+      {{- end }}
+    </article>
+  </div>
+
+  <div class="article-page__footer">
+    {{- with .Params.tags }}
+    <div class="tag-list">
+      {{- range . }}<a href="{{ printf "/tags/%s/" (urlize .) | relURL }}">#{{ . }}</a>{{ end -}}
+    </div>
+    {{- end }}
+
+    {{- if .Site.Params.ShowPostNavLinks -}}
+    <nav class="post-nav">
+      {{- with .PrevInSection }}
+      <a href="{{ .RelPermalink }}" class="post-nav__link post-nav__link--prev">
+        <span class="post-nav__label">← Älter</span>
+        <span class="post-nav__title">{{ .Title }}</span>
+      </a>
+      {{- else }}<span></span>{{ end -}}
+      {{- with .NextInSection }}
+      <a href="{{ .RelPermalink }}" class="post-nav__link post-nav__link--next">
+        <span class="post-nav__label">Neuer →</span>
+        <span class="post-nav__title">{{ .Title }}</span>
+      </a>
+      {{- else }}<span></span>{{ end -}}
+    </nav>
+    {{- end -}}
+  </div>
+</div>

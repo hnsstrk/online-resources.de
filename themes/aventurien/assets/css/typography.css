@@ -1,0 +1,79 @@
+/* Aventurien — Typography utilities */
+
+.sc { font-variant-caps: all-small-caps; letter-spacing: 0.14em; }
+.uc { text-transform: uppercase; letter-spacing: 0.22em; }
+.numeric { font-variant-numeric: oldstyle-nums tabular-nums; }
+.oldstyle-num {
+  font-family: var(--serif-display);
+  font-weight: 300;
+  font-variant-numeric: oldstyle-nums;
+  line-height: 1;
+}
+
+.kicker {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--brass-deep);
+}
+html[data-theme="dark"] .kicker { color: var(--brass); }
+
+.eyebrow {
+  font-family: var(--serif-display);
+  font-style: italic;
+  color: var(--ink-muted);
+  font-size: 17px;
+}
+
+.meta {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+}
+
+.headline {
+  font-family: var(--serif-display);
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-wrap: balance;
+  line-height: 1.02;
+}
+
+.monument {
+  font-family: var(--serif-monument);
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* Ornamental divider */
+.ornament {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  color: var(--ink-whisper);
+  font-family: var(--serif-display);
+  font-style: italic;
+  font-size: 14px;
+  letter-spacing: 0.2em;
+  margin: 2.5rem 0;
+}
+.ornament::before,
+.ornament::after {
+  content: "";
+  width: 80px;
+  border-top: 1px solid var(--rule);
+}
+
+hr.rule,
+.rule-h {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 2rem 0;
+}

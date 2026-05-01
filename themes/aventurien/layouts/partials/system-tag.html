@@ -1,0 +1,35 @@
+{{- /* system-tag.html — derives DSA/DSK/GURPS classification from .Params.categories.
+     Called with context = the Page. Emits one or more .sys-tag elements.
+
+     Klassenschema: .sys-tag.dsa / .sys-tag.dsk / .sys-tag.gurps (Mockup-Pattern,
+     ehemals BEM `.sys-tag--dsa`).
+
+     Subtopic-Entscheidung (Agent-1-Designentscheidung):
+     `.Params.categories[1]` wurde geprüft, taugt aber NICHT als „DSA · Seefahrt"-
+     Sub-Topic — die zweite Kategorie ist datenseitig narrativ und meist lang
+     („Aus den Erzählungen von Benjamin Büchernase", „Tagebuch von Inigo",
+     „Greifenfurter Adel"), nicht Region/Genre/Subsystem. Daher wird ein
+     Sub-Topic NUR gerendert, wenn ein Post explizit `subtopic:` im Front-Matter
+     setzt (z. B. `subtopic: Seefahrt`). Ohne dieses Feld bleibt das Tag bei
+     nacktem System-Label. */ -}}
+{{- $cats := .Params.categories | default slice -}}
+{{- $subtopic := .Params.subtopic | default "" -}}
+{{- $sys := slice -}}
+{{- range $cats -}}
+  {{- $c := lower . -}}
+  {{- if or (in $c "schwarze auge") (in $c "dsa") -}}
+    {{- $sys = $sys | append (dict "class" "dsa" "label" "DSA") -}}
+  {{- else if or (in $c "schwarze katze") (in $c "dsk") -}}
+    {{- $sys = $sys | append (dict "class" "dsk" "label" "DSK") -}}
+  {{- else if in $c "gurps" -}}
+    {{- $sys = $sys | append (dict "class" "gurps" "label" "GURPS") -}}
+  {{- end -}}
+{{- end -}}
+{{- /* dedupe by class */ -}}
+{{- $seen := slice -}}
+{{- range $sys -}}
+  {{- if not (in $seen .class) -}}
+    {{- $seen = $seen | append .class -}}
+    <span class="sys-tag {{ .class }}"><span class="dot"></span>{{ .label }}{{ with $subtopic }} · {{ . }}{{ end }}</span>
+  {{- end -}}
+{{- end -}}

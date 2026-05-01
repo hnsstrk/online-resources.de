@@ -1,0 +1,29 @@
+{{- /* Archives — a chronological list by year/month. Expects content/archives.md */ -}}
+{{ define "main" }}
+<section class="list">
+  <header class="list__header">
+    <div class="list__kicker">Archiv</div>
+    <h1 class="list__title">{{ .Title }}</h1>
+    {{- with .Content }}<div class="list__summary">{{ . }}</div>{{ end -}}
+  </header>
+
+  {{- $posts := where site.RegularPages "Type" "posts" -}}
+  {{- range $posts.GroupByDate "2006" -}}
+  <section style="margin-top:2.5rem">
+    <h2 class="headline" style="font-size:28px;margin-bottom:1rem;border-bottom:1px solid var(--rule);padding-bottom:.5rem;">
+      <span class="numeric">{{ .Key }}</span>
+      <span class="meta" style="margin-left:12px;">{{ len .Pages }} Einträge</span>
+    </h2>
+    <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;">
+    {{- range .Pages -}}
+      <li style="display:flex;gap:20px;padding:10px 0;border-bottom:1px solid var(--rule-soft);align-items:baseline;">
+        <time class="meta numeric" datetime="{{ .Date.Format "2006-01-02" }}" style="min-width:8ch;">{{ .Date.Format "02.01." }}</time>
+        <a href="{{ .RelPermalink }}" style="font-family:var(--serif-display);font-size:19px;color:var(--ink);flex:1;">{{ .Title }}</a>
+        {{- with partial "system-tag.html" . }}{{ . }}{{ end -}}
+      </li>
+    {{- end -}}
+    </ul>
+  </section>
+  {{- end -}}
+</section>
+{{ end }}

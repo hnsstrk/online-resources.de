@@ -1,0 +1,12 @@
+name = "Aventurien"
+license = "MIT"
+licenselink = "https://github.com/hnsstrk/online-resources.de/blob/main/LICENSE"
+description = "Editorial Hugo theme for Pen-and-Paper session reports — built for online-resources.de"
+homepage = "https://www.online-resources.de/"
+tags = ["blog", "editorial", "rpg", "german", "minimal"]
+features = ["dark-mode", "search", "rss", "toc", "breadcrumbs", "reading-time"]
+min_version = "0.140.0"
+
+[author]
+  name = "hnsstrk"
+  homepage = "https://hnsstrk.de"

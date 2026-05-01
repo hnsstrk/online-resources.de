@@ -1,0 +1,5 @@
+{{- /* figure shortcode — {{< figure src="..." alt="..." caption="..." >}} */ -}}
+<figure class="figure{{ with .Get "class" }} {{ . }}{{ end }}">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}"{{ with .Get "width" }} width="{{ . }}"{{ end }}{{ with .Get "height" }} height="{{ . }}"{{ end }} loading="lazy" />
+  {{- with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end -}}
+</figure>

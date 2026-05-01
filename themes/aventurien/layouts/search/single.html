@@ -1,0 +1,25 @@
+{{- /* Search page — expects content/search.md with layout: "search" or in section "search" */ -}}
+{{ define "main" }}
+<section class="search">
+  <header class="list__header">
+    <div class="list__kicker">Suche</div>
+    <h1 class="list__title">{{ .Title }}</h1>
+    {{- with .Content }}<div class="list__summary">{{ . }}</div>{{ end -}}
+  </header>
+  <input
+    id="search-input"
+    class="search__input"
+    type="search"
+    autocomplete="off"
+    autocorrect="off"
+    placeholder="Suchbegriff…"
+    aria-label="Suche" />
+  <div id="search-results" class="search__results"></div>
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
+{{- $js := resources.Get "js/search.js" | resources.Minify | resources.Fingerprint -}}
+<script src="{{ $js.RelPermalink }}" defer></script>
+{{ end }}

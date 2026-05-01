@@ -1,0 +1,28 @@
+{{- /* pullfig — Pull-Figure (Bild + Mono-Caption) für den Body von Variante B.
+
+       Aufruf-Varianten:
+         {{< pullfig src="/uploads/foo.webp" caption="Abb. II — …" alt="…" >}}
+         {{< pullfig src="kanal.webp" caption="…" ratio="16/9" >}}
+
+       Args:
+         src     (required) — Bildquelle (relPath oder absolute URL)
+         alt     (optional) — Alt-Text, default leer
+         caption (optional) — Caption-Text unter dem Bild
+         ratio   (optional) — aspect-ratio, default "16/9"
+         class   (optional) — extra Klasse(n) auf der inneren .figure
+*/ -}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" -}}
+{{- $ratio := .Get "ratio" | default "16/9" -}}
+{{- $extra := .Get "class" | default "" -}}
+<figure class="pull-figure">
+  <div class="figure duotone{{ with $extra }} {{ . }}{{ end }}" style="aspect-ratio: {{ $ratio }};">
+    {{- if $src -}}
+    <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy" />
+    {{- end -}}
+  </div>
+  {{- with $caption }}
+  <div class="caption">{{ . | markdownify }}</div>
+  {{- end }}
+</figure>

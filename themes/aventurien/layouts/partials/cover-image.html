@@ -1,0 +1,79 @@
+{{- /* cover-image.html — gemeinsamer Helper für Home, Archive & Single.
+
+       Aufruf:
+         {{ partial "cover-image.html" (dict
+              "page"        .
+              "ratio"       "4/5"           // optional, default: "4/5"
+              "alt"         "Beschreibung"  // optional, default: page.Title
+              "class"       "extra css"     // optional zusätzliche Klassen
+              "showCaption" true            // optional, default: false
+                                            // wenn true → <figcaption> mit
+                                            // .Params.cover.caption + .Params.cover.credit
+         ) }}
+
+       Lookup-Reihenfolge für das Bild (Frontmatter-First!):
+         1. `.Params.cover.image` (in Page-Resources nachgeschlagen) — der häufigste Fall.
+         2. Datei `cover.{webp,jpg,jpeg,png}` aus den Page-Resources (Convention).
+         3. Wenn nichts gefunden: Placeholder mit Diagonal-Hatch + Mono-Caption
+            (System-Tag-Label DSA / DSK / GURPS / Notiz).
+            KEIN Wild-Fallback auf das alphabetisch erste *.webp mehr.
+*/ -}}
+{{- $page    := .page -}}
+{{- $ratio   := .ratio | default "4/5" -}}
+{{- $alt     := .alt | default $page.Title -}}
+{{- $extra   := .class | default "" -}}
+{{- $showCap := .showCaption | default false -}}
+
+{{- /* 1. Frontmatter-First: .Params.cover.image */ -}}
+{{- $coverParams := $page.Params.cover | default dict -}}
+{{- $coverFile := "" -}}
+{{- with $coverParams.image -}}
+  {{- $coverFile = . -}}
+{{- end -}}
+
+{{- $img := "" -}}
+{{- if ne $coverFile "" -}}
+  {{- $img = $page.Resources.GetMatch $coverFile -}}
+{{- end -}}
+
+{{- /* 2. Filename-Convention: cover.{webp,jpg,jpeg,png} */ -}}
+{{- if not $img }}{{ $img = $page.Resources.GetMatch "cover.webp" }}{{ end -}}
+{{- if not $img }}{{ $img = $page.Resources.GetMatch "cover.jpg" }}{{ end -}}
+{{- if not $img }}{{ $img = $page.Resources.GetMatch "cover.jpeg" }}{{ end -}}
+{{- if not $img }}{{ $img = $page.Resources.GetMatch "cover.png" }}{{ end -}}
+
+{{- /* 3. KEIN Wild-Fallback. Wenn nichts gefunden → Placeholder. */ -}}
+
+{{- /* Caption-Daten aus dem Frontmatter (cover.caption / cover.credit). */ -}}
+{{- $caption := $coverParams.caption | default "" -}}
+{{- $credit  := $coverParams.credit  | default "" -}}
+
+{{- /* Placeholder-Caption: System-Tag-Label */ -}}
+{{- $cats := $page.Params.categories | default slice -}}
+{{- $sysLabel := "" -}}
+{{- range $cats -}}
+  {{- $c := lower . -}}
+  {{- if and (eq $sysLabel "") (or (in $c "schwarze auge") (in $c "dsa")) -}}{{- $sysLabel = "DSA" -}}{{- end -}}
+  {{- if and (eq $sysLabel "") (or (in $c "schwarze katze") (in $c "dsk")) -}}{{- $sysLabel = "DSK" -}}{{- end -}}
+  {{- if and (eq $sysLabel "") (in $c "gurps") -}}{{- $sysLabel = "GURPS" -}}{{- end -}}
+{{- end -}}
+{{- $subtopic := $page.Params.subtopic | default "" -}}
+{{- $placeholderCaption := $sysLabel -}}
+{{- if and (ne $sysLabel "") (ne $subtopic "") -}}{{- $placeholderCaption = printf "%s · %s" $sysLabel $subtopic -}}{{- end -}}
+{{- if eq $placeholderCaption "" -}}{{- $placeholderCaption = "Notiz" -}}{{- end -}}
+
+{{- if $img -}}
+<figure class="figure duotone{{ with $extra }} {{ . }}{{ end }}" style="{{ printf "aspect-ratio: %s;" $ratio | safeCSS }}">
+  <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" loading="lazy" />
+</figure>
+{{- if and $showCap (or (ne $caption "") (ne $credit "")) -}}
+<div class="figure__caption-bar">
+  {{- with $caption }}<span class="figure__caption-text">{{ . | safeHTML }}</span>{{ end -}}
+  {{- with $credit }}<span class="figure__caption-credit">Illus. {{ . }}</span>{{ end -}}
+</div>
+{{- end -}}
+{{- else -}}
+<figure class="figure placeholder{{ with $extra }} {{ . }}{{ end }}" style="{{ printf "aspect-ratio: %s;" $ratio | safeCSS }}" aria-label="{{ $alt }}">
+  <span class="figure__caption">// {{ $placeholderCaption }}</span>
+</figure>
+{{- end -}}

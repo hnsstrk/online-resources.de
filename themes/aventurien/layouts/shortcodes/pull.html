@@ -1,0 +1,5 @@
+{{- /* pull shortcode — blockquote with optional attribution. {{< pull author="Inigo" >}}…{{< /pull >}} */ -}}
+<blockquote{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+  {{ .Inner | markdownify }}
+  {{- with .Get "author" }}<footer style="margin-top:.5em;font-size:.9em;color:var(--ink-muted);">— {{ . }}</footer>{{ end -}}
+</blockquote>

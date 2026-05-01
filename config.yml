@@ -3,8 +3,9 @@ languageCode: de-de
 DefaultContentLanguage: de
 title: online-resources.de
 copyright: "© 2023–2026 online-resources.de"
-pagination.pagerSize: 10
-theme: PaperMod
+pagination:
+  pagerSize: 12
+theme: aventurien
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -80,9 +81,69 @@ params:
     Title: "Berichte aus Aventurien"
     Content: "von teilweise fragwürdigen Quellen..."
             
+  # ----------------------------------------------------------------------------
+  # Wordmark der Topbar — Brand-Text + italic em-Teil.
+  # Default: "online" / "resources" → wird zu „online — resources"
+  # ----------------------------------------------------------------------------
+  brand:
+    text: "online"
+    em: "resources"
+
+  # ----------------------------------------------------------------------------
+  # Footer — drei Blöcke nebeneinander (1.6fr 1fr 1fr).
+  # Jeder Block hat seine Überschrift und seinen Inhalt direkt darunter.
+  # Blöcke ohne Inhalt (leere `items` / leerer `text`) werden ausgelassen.
+  # HTML-Tags wie <em> und <br/> sind in Texten erlaubt.
+  # ----------------------------------------------------------------------------
+  footer:
+    # Spalte 1 — Fließtext + Social-Row.
+    colophon:
+      heading: "Kolophon"
+      text: >-
+        Gesetzt in <em>Cormorant Garamond</em> und <em>EB Garamond</em>, mit
+        Metadaten in <em>JetBrains Mono</em>. Illustrationen aus den laufenden
+        Kampagnen von hnsstrk. Gebaut mit Hugo.
+
+    # Spalte 2 — Service / funktionale Verweise.
+    rubriken:
+      heading: "Service"
+      items:
+        - { name: "RSS",         url: "/index.xml" }
+        - { name: "Datenschutz", url: "/datenschutz/" }
+        - { name: "Impressum",   url: "/impressum/" }
+
+    # Spalte 3 — Link-Liste.
+    anderswo:
+      heading: "Welten"
+      items:
+        - { name: "Hexxen 1733",        url: "https://fvtt1.online-resources.de/" }
+        - { name: "Dungeons & Dragons", url: "https://fvtt2.online-resources.de/" }
+        - { name: "Fallout",            url: "https://fvtt2.online-resources.de/" }
+
+  # ----------------------------------------------------------------------------
+  # Home-Texte (Variant E — Hero / Claim-Streifen / Section-Head)
+  # HTML-Tags wie <em> und <br/> sind erlaubt.
+  # ----------------------------------------------------------------------------
+  home:
+    claim:
+      # Großer Italic-Spruch links.
+      big: 'Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen …'
+      # Mono-Block rechts.
+      info: 'Seit MMXVII<br/>DSA · DSK<br/>Hugo'
+    recent:
+      # Section-Head über dem 3-Spalten-Raster: "{title} {em} {suffix}"
+      title: "Jüngst"
+      em: "hinzugekommen"
+      suffix: ""
+    # Italic-Caption rechts unten im Hero, falls der Hero-Post keine
+    # eigene .Description im Frontmatter hat.
+    heroCaptionFallback: "Aufgezeichnet aus den laufenden Kampagnen von hnsstrk."
+
   socialIcons:
     - name: twitter
       url: "https://twitter.com/hnsstrk"
+    - name: mastodon
+      url: "https://mastodon.social/@hnsstrk"
     - name: reddit
       url: "https://www.reddit.com/user/hnsstrk"
     - name: twitch
@@ -138,50 +199,29 @@ outputs:
 
 menu:
   main:
-    - identifier: search
-      name: "🔎 Suche"
-      url: /search/
+    - identifier: archive
+      name: "Archiv"
+      url: /archive/
       weight: 10
-    - identifier: archives
-      name: "📆 Archiv"
-      url: /archives/
-      weight: 20
     - identifier: categories
-      name: "📂 Kategorien"
+      name: "Kategorien"
       url: /categories/
-      weight: 30
+      weight: 20
     - identifier: tags
-      name: "🏷️ Tags"
+      name: "Tags"
       url: /tags/
-      weight: 40
+      weight: 30
     - identifier: about
-      name: "ℹ️ Über"
+      name: "Über"
       url: /about/
-      weight: 55
-    - identifier: impressum
-      name: "📃 Impressum"
-      url: /impressum/
+      weight: 40
+    - identifier: search
+      name: "Suche"
+      url: /search/
       weight: 50
-    - identifier: datenschutz
-      name: "🔒 Datenschutz"
-      url: /datenschutz/
-      weight: 55
-    - identifier: dsa
-      name: "👁️  DSA"
-      url: https://fvtt1.online-resources.de/
-      weight: 70
-    - identifier: dsk
-      name: "🐈 DSK"
-      url: https://fvtt2.online-resources.de/
-      weight: 80
-#    - identifier: test
-#      name: "🎲 Test"
-#      url: https://fvtt3.online-resources.de/
-#      weight: 90
-#    - identifier: example
-#      name: example.org
-#      url: https://example.org
-#      weight: 30
+
+  # Footer-Spalten werden in params.footer konfiguriert (siehe oben),
+  # nicht mehr als Hugo-Menüs.
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

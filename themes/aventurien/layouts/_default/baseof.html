@@ -1,0 +1,77 @@
+{{- /*
+  Aventurien baseof — wraps every page.
+  Assumes config params: title, description, socialIcons, label, menu.main
+*/ -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "de" }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="{{ .Description | default .Site.Params.description }}" />
+  {{- if .Params.keywords }}
+  <meta name="keywords" content="{{ delimit .Params.keywords ", " }}" />
+  {{- else if .Site.Params.keywords }}
+  <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}" />
+  {{- end }}
+  <meta name="author" content="{{ .Params.author | default .Site.Params.author }}" />
+
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+
+  {{- with .OutputFormats.Get "RSS" }}
+  <link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ $.Site.Title }}" />
+  {{- end }}
+
+  {{- /* Favicons */ -}}
+  {{- with .Site.Params.assets.favicon }}<link rel="icon" href="{{ . }}" />{{ end }}
+  {{- with .Site.Params.assets.favicon16x16 }}<link rel="icon" type="image/png" sizes="16x16" href="{{ . }}" />{{ end }}
+  {{- with .Site.Params.assets.favicon32x32 }}<link rel="icon" type="image/png" sizes="32x32" href="{{ . }}" />{{ end }}
+  {{- with .Site.Params.assets.apple_touch_icon }}<link rel="apple-touch-icon" href="{{ . }}" />{{ end }}
+
+  {{- /* OpenGraph */ -}}
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Description | default .Summary | default .Site.Params.description }}" />
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+
+  {{- /* Fonts */ -}}
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Cinzel:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  {{- /* CSS */ -}}
+  {{- $css := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | css.PostCSS | resources.Minify | resources.Fingerprint -}}
+  {{- if not $css -}}{{- $css = resources.Get "css/main.css" | resources.Minify | resources.Fingerprint -}}{{- end -}}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" />
+
+  {{- /* Theme toggle — runs inline to avoid flash */ -}}
+  <script>
+    (function () {
+      var stored = localStorage.getItem('aventurien-theme');
+      if (stored === 'dark' || stored === 'light') {
+        document.documentElement.setAttribute('data-theme', stored);
+      } else {
+        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+      }
+    })();
+  </script>
+
+  {{- block "head" . }}{{ end }}
+</head>
+<body class="{{ if .IsHome }}is-home{{ else }}is-page{{ end }}">
+  <div class="page">
+    {{- partial "topbar.html" . -}}
+
+    <main>
+      {{- block "main" . }}{{ end -}}
+    </main>
+
+    {{- partial "footer.html" . -}}
+  </div>
+
+  {{- $js := resources.Get "js/theme-toggle.js" | resources.Minify | resources.Fingerprint -}}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+
+  {{- block "scripts" . }}{{ end -}}
+</body>
+</html>

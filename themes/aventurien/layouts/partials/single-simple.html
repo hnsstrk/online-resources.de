@@ -1,0 +1,14 @@
+{{- /* single-simple.html — Generic content pages (about, impressum,
+       datenschutz). Nutzt das Article-Page-Layout in der --simple-Variante:
+       kein Hero, keine Marginalie, linksbündige Title-Block. */ -}}
+<div class="article-page article-page--simple">
+  <section class="article-page__title-block">
+    <h1 class="article-page__title">{{ .Title }}</h1>
+    {{- with .Description | default .Params.dek }}
+    <p class="article-page__dek">{{ . }}</p>
+    {{- end }}
+  </section>
+  <article>
+    {{ .Content }}
+  </article>
+</div>

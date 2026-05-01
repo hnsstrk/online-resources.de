@@ -1,0 +1,25 @@
+{{- /* single.html — Article (Variante B / variant-article.jsx).
+
+       Zwei Varianten in EINEM Template:
+         - Standard (Posts in Sections):     volles Hero + Marginalie + Drop-Cap.
+         - --simple (about / impressum / …): kein Hero, keine Marginalie,
+           linksbündige Title-Block, ruhige Lese-Spalte.
+
+       Branch-Kriterium: Section. Top-Level-Pages ohne Section
+       (RelPermalink wie "/about/", "/impressum/", "/datenschutz/")
+       gelten als content pages → --simple. Alles in /posts/ etc. → voll.
+
+       Designentscheidung h2-Numerierung: MANUELL.
+       Autor:innen schreiben die Roman-Span direkt in Markdown:
+         ## <span class="num">II.</span> Die Stimme kennt den Namen
+       Ein Markdown-Render-Hook für h2 wäre fragil (Counter-Reset über
+       Summary-/Partial-Renders, schwer bei Parallelarbeit). Das CSS in
+       single.css stylt `.article-page article h2 .num`. */ -}}
+{{ define "main" }}
+{{- $isSimple := or (eq .Section "") (in (slice "about" "impressum" "datenschutz" "search") .Section) -}}
+{{- if $isSimple -}}
+  {{- partial "single-simple.html" . -}}
+{{- else -}}
+  {{- partial "single-article.html" . -}}
+{{- end -}}
+{{ end }}

@@ -1,0 +1,74 @@
+{{- /* article-meta.html — left marginalie auf Single-Pages (Variante B).
+       Rendert <aside class="margin-left"> mit Mono-Labels und italic-Serif-Werten,
+       gemäß Mockup variant-article.jsx (Zeilen 261–268).
+
+       Inhalte (alle optional, leere Rows werden übersprungen):
+         - Frontmatter `marginalia.<key>` (subtopic-Stil "Kanal · Stimme · Name")
+         - System (aus Kategorien via system-tag.html — als Klartext extrahiert)
+         - Spielleitung (.Params.author | default .Site.Params.author)
+         - Sitzungen (.Params.sessions)  z. B. "№ 31 — 33"
+         - Ort       (.Params.location | .Params.ort)
+         - Stimmung  (.Params.mood     | .Params.stimmung)
+         - Kampagne / Kategorien
+         - Datum     (.Date)
+         - Lesezeit  (.ReadingTime, falls aktiviert)
+*/ -}}
+<aside class="margin-left">
+  {{- /* Free-form "In diesem Bericht"-Topic */ -}}
+  {{- with .Params.subtopic }}
+  <div class="row">In diesem Bericht<div class="v">{{ . }}</div></div>
+  {{- end }}
+
+  {{- /* System-Label aus Kategorien ableiten */ -}}
+  {{- $cats := .Params.categories | default slice -}}
+  {{- $sysLabel := "" -}}
+  {{- range $cats -}}
+    {{- $c := lower . -}}
+    {{- if and (eq $sysLabel "") (or (in $c "schwarze auge") (in $c "dsa")) -}}{{- $sysLabel = "DSA" -}}{{- end -}}
+    {{- if and (eq $sysLabel "") (or (in $c "schwarze katze") (in $c "dsk")) -}}{{- $sysLabel = "DSK" -}}{{- end -}}
+    {{- if and (eq $sysLabel "") (in $c "gurps") -}}{{- $sysLabel = "GURPS" -}}{{- end -}}
+  {{- end -}}
+  {{- with $sysLabel }}
+  <div class="row">System<div class="v">{{ . }}</div></div>
+  {{- end }}
+
+  {{- with .Params.author | default .Site.Params.author }}
+  <div class="row">Spielleitung<div class="v">{{ . }}</div></div>
+  {{- end }}
+
+  {{- with .Params.sessions }}
+  <div class="row">Sitzungen<div class="v">{{ . }}</div></div>
+  {{- end }}
+
+  {{- with .Params.location | default .Params.ort }}
+  <div class="row">Ort<div class="v">{{ . }}</div></div>
+  {{- end }}
+
+  {{- with .Params.mood | default .Params.stimmung }}
+  <div class="row">Stimmung<div class="v">{{ . }}</div></div>
+  {{- end }}
+
+  {{- /* Kampagne / Kategorien (filtere reine Systemlabel raus) */ -}}
+  {{- $campaign := slice -}}
+  {{- range $cats -}}
+    {{- $c := lower . -}}
+    {{- if not (or (in $c "schwarze auge") (in $c "dsa") (in $c "schwarze katze") (in $c "dsk") (in $c "gurps")) -}}
+      {{- $campaign = $campaign | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $campaign }}
+  <div class="row">Kampagne<div class="v">
+    {{- range $i, $c := . }}{{ if $i }} · {{ end }}<a href="{{ printf "/categories/%s/" (urlize $c) | relURL }}">{{ $c }}</a>{{ end -}}
+  </div></div>
+  {{- end }}
+
+  <div class="row">Datum<div class="v">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (.Site.Params.DateFormat | default "02.01.2006") }}</time>
+  </div></div>
+
+  {{- if .Site.Params.ShowReadingTime }}
+  <div class="row">Lesezeit<div class="v">
+    {{ .ReadingTime }} Min.{{ if .Site.Params.ShowWordCount }} · {{ .WordCount }} Wörter{{ end }}
+  </div></div>
+  {{- end }}
+</aside>

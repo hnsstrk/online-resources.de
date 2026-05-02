@@ -23,7 +23,13 @@ notes.sqlite
 .DS_Store
 
 # Lokale Tooling-Caches und Verifikations-Screenshots
-.claude/
+.claude/*
+!.claude/skills
+!.claude/skills/**
+.claude/skills/*
+!.claude/skills/post-summary
+!.claude/skills/post-summary/**
+.claude/skills/post-summary/__pycache__/
 .playwright-mcp/
 *.screenshot.png
 home-*.png

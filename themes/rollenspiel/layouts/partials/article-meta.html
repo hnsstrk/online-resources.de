@@ -1,5 +1,5 @@
-{{- /* article-meta.html — left marginalie auf Single-Pages (Variante B).
-       Rendert <aside class="margin-left"> mit Mono-Labels und italic-Serif-Werten,
+{{- /* article-meta.html — Marginalie rechts neben dem Artikel (Variante B).
+       Rendert <aside class="article-page__meta"> mit Mono-Labels und italic-Serif-Werten,
        gemäß Mockup variant-article.jsx (Zeilen 261–268).
 
        Inhalte (alle optional, leere Rows werden übersprungen):
@@ -13,7 +13,7 @@
          - Datum     (.Date)
          - Lesezeit  (.ReadingTime, falls aktiviert)
 */ -}}
-<aside class="margin-left">
+<aside class="article-page__meta">
   {{- /* Free-form "In diesem Bericht"-Topic */ -}}
   {{- with .Params.subtopic }}
   <div class="row">In diesem Bericht<div class="v">{{ . }}</div></div>

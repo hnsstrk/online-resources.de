@@ -12,39 +12,11 @@
 {{- $endNote := .Params.end_note -}}
 <div class="article-page{{ if $dropcap }} article--dropcap{{ end }}">
 
-  {{- if .Site.Params.ShowBreadCrumbs -}}
-  <nav class="breadcrumbs" aria-label="Breadcrumbs">
-    <a href="{{ "/" | relURL }}">Start</a>
-    {{- $url := "" -}}
-    {{- range $i, $s := split (strings.TrimPrefix "/" .RelPermalink) "/" -}}
-      {{- if $s -}}
-        {{- $url = printf "%s/%s" $url $s -}}
-        <span class="sep">/</span>
-        {{- if eq (add $i 1) (len (split (strings.TrimPrefix "/" $.RelPermalink) "/")) -}}
-          <span>{{ $.Title }}</span>
-        {{- else -}}
-          <a href="{{ $url }}/">{{ humanize $s }}</a>
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
-  </nav>
-  {{- end -}}
-
   <section class="article-page__title-block">
-    {{- with partial "system-tag.html" . }}{{ . }}{{ end }}
     <h1 class="article-page__title">{{ .Title }}</h1>
     {{- with $dek }}
     <p class="article-page__dek">{{ . }}</p>
     {{- end }}
-    <div class="article-page__by-row">
-      {{- with $author }}
-      <span>aufgezeichnet von <strong>{{ . }}</strong></span>
-      {{- end }}
-      {{- if .Site.Params.ShowReadingTime }}
-      <span>· {{ .ReadingTime }} min Lesezeit</span>
-      {{- end }}
-      <span>· <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (.Site.Params.DateFormat | default "02.01.2006") }}</time></span>
-    </div>
   </section>
 
   {{- /* Hero image */ -}}
@@ -68,7 +40,7 @@
   {{- end }}
 
   <div class="article-page__body-grid">
-    {{- partial "article-meta.html" . -}}
+    {{- partial "article-toc.html" . -}}
 
     <article>
       {{ .Content }}
@@ -77,6 +49,8 @@
       <p class="end-note"><span class="end-mark"></span>{{ . | safeHTML }}</p>
       {{- end }}
     </article>
+
+    {{- partial "article-meta.html" . -}}
   </div>
 
   <div class="article-page__footer">

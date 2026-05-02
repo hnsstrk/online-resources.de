@@ -1,0 +1,10 @@
+{{- /* article-toc.html — Inhaltsverzeichnis links neben dem Artikel.
+       Rendert nur, wenn Hugo eine TOC erzeugt hat (mind. ein H2 oder
+       tieferes Heading im Markdown). Sticky position, ruhig im
+       Editorial-Stil. */ -}}
+{{- with .TableOfContents -}}
+<aside class="article-page__toc" aria-label="Inhaltsverzeichnis">
+  <h6 class="article-page__toc-heading">Inhalt</h6>
+  {{ . }}
+</aside>
+{{- end -}}

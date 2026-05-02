@@ -1,5 +1,4 @@
 {{- /* single-article.html — volle Article-Page (Variante B). */ -}}
-{{- $dropcap := .Params.drop_cap | default true -}}
 {{- $author := .Params.author | default .Site.Params.author -}}
 {{- $dek := .Description | default .Params.dek -}}
 {{- /* Caption-Quellen:
@@ -9,7 +8,7 @@
 {{- $heroCaption := .Params.hero_caption | default $coverParams.caption -}}
 {{- $heroCredit := .Params.hero_credit | default $coverParams.credit -}}
 {{- $endNote := .Params.end_note -}}
-<div class="article-page{{ if $dropcap }} article--dropcap{{ end }}">
+<div class="article-page">
 
   <section class="article-page__title-block">
     <h1 class="article-page__title">{{ .Title }}</h1>

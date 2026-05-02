@@ -45,7 +45,6 @@ tags:
 
 Optional per-post:
 
-- `drop_cap: false` — disable the decorative drop-cap on the first paragraph (default: true).
 - `showtoc: false` — disable the inline table of contents (handled by Hugo).
 
 ## Classification

@@ -1,4 +1,4 @@
-/* Aventurien — Components: topbar, footer, social-row, sys-tags, figures, drop-cap */
+/* Aventurien — Components: topbar, footer, social-row, sys-tags, figures */
 
 /* ---- Page-Container — umschließt Topbar, Main, Footer auf max. 1440 px.
        Body wird etwas dunkler (paper-edge) damit der Container visuell absetzt;
@@ -358,18 +358,6 @@ html[data-theme="dark"] .footer__colophon em { color: var(--brass); }
   color: var(--brass-deep);
   margin-top: auto;
   padding-top: 8px;
-}
-
-/* ---- Drop-cap ---- */
-.article--dropcap .article__body > p:first-of-type::first-letter,
-p.drop-cap::first-letter {
-  font-family: var(--serif-display);
-  font-weight: 500;
-  font-size: 5.6em;
-  line-height: 0.9;
-  float: left;
-  padding: 6px 10px 0 0;
-  color: var(--ink);
 }
 
 /* ---- Figures / images ---- */

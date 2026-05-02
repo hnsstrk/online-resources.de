@@ -132,10 +132,9 @@ html[data-theme="dark"] .home {
 }
 .home__hero-side {
   padding: 24px 28px;
-  /* Subtile Hinterlegung bleibt für Lesbarkeit bei hellen Cover-Bildern,
-     Border-Left entfernt — passt nicht zum poetischen Motto-Charakter */
   background: var(--hero-box-side);
   backdrop-filter: blur(4px);
+  border-left: 2px solid color-mix(in oklch, var(--hero-accent) 70%, transparent);
 }
 .home__hero-kicker {
   font-family: var(--mono);

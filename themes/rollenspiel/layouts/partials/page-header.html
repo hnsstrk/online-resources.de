@@ -1,11 +1,16 @@
 {{- /* page-header.html — einheitlicher Page-Anfang für alle Inhaltsseiten
        (nicht Home, nicht Single-Posts).
        Linke Spalte: Page-Title (.page-header__title)
-       Rechte Spalte: konfigurierbarer Side-Text aus
-         page.Params.headerSide (Override) oder
-         site.Params.claim (globaler Default mit <em>-Formatierungen).
+       Rechte Spalte: Side-Text aus drei Stufen:
+         1. page.Params.headerSide                  — Front-Matter-Override
+         2. site.Params.pageHeaders[<slug>]         — zentrale config.yml-Map
+         3. site.Params.claim                       — globaler Default
+       Slug = RelPermalink ohne führenden/abschließenden Slash.
        Eine border-bottom als Zierlinie unten. */ -}}
-{{- $side := .Params.headerSide | default .Site.Params.claim -}}
+{{- $slug := strings.Trim .RelPermalink "/" -}}
+{{- $headers := .Site.Params.pageHeaders | default dict -}}
+{{- $sideFromConfig := index $headers $slug -}}
+{{- $side := .Params.headerSide | default $sideFromConfig | default .Site.Params.claim -}}
 <header class="page-header">
   <h1 class="page-header__title">{{ .Title }}</h1>
   {{- with $side }}

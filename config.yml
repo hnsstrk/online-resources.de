@@ -81,11 +81,33 @@ params:
 
   # ----------------------------------------------------------------------------
   # Claim — Standard-Side-Text neben jeder Seitenüberschrift.
-  # Verwendet sowohl im Hero-Side auf der Startseite als auch im Page-Header-Side
-  # auf allen Inhaltsseiten. Pro Seite via Front-Matter `headerSide:` überschreibbar.
+  # Verwendet sowohl im Hero-Side auf der Startseite als auch im Page-Header-Side,
+  # wenn keine seitenspezifische Variante in `pageHeaders` gesetzt ist.
   # HTML-Tags wie <em> und <br/> sind erlaubt.
   # ----------------------------------------------------------------------------
   claim: 'Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen.'
+
+  # ----------------------------------------------------------------------------
+  # Page-Header-Side-Texte pro Seite. Schlüssel ist die URL ohne führenden/
+  # abschließenden Slash (z.B. `blog`, `archiv`, `blog/dsa`).
+  #
+  # Cascade in `partials/page-header.html`:
+  #   1. Front-Matter `headerSide:` (höchste Priorität, pro-Seite-Override)
+  #   2. Eintrag in `pageHeaders` (zentrale Konfiguration hier)
+  #   3. `claim` (globaler Default)
+  #
+  # Leerzeilen / fehlende Schlüssel fallen automatisch auf `claim` zurück.
+  # HTML-Tags wie <em> und <br/> sind erlaubt.
+  # ----------------------------------------------------------------------------
+  pageHeaders:
+    blog:       'Neun Jahre <em>Spielberichte</em> und Werkstattgespräche, durchsuchbar nach Regelwerk.'
+    blog/dsa:   'Spielberichte aus dem <em>Schwarzen Auge</em>.'
+    blog/dsk:   'Berichte aus der <em>Schwarzen Katze</em>.'
+    archiv:     'Chronologisches Verzeichnis aller Beiträge — nach <em>Jahr</em> und <em>Monat</em> geordnet.'
+    categories: '<em>Werkkanon</em> nach Welt sortiert.'
+    tags:       'Schlagworte und <em>Streifzüge</em>.'
+    about:      'Wer hier schreibt — und warum.'
+    search:     'Volltextsuche durch alle Berichte.'
 
   # ----------------------------------------------------------------------------
   # Home-Texte (Section-Head über dem 3-Spalten-Raster)

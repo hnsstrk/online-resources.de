@@ -39,23 +39,10 @@
       <div class="home__hero-main">
         <div class="home__hero-kicker">
           <span class="home__hero-rule"></span>
-          {{- $kicker := "Aktueller Eintrag" -}}
-          {{- $cats := .Params.categories | default slice -}}
-          {{- range $cats -}}
-            {{- $c := lower . -}}
-            {{- if or (in $c "schwarze auge") (in $c "dsa") -}}{{- $kicker = "Spielbericht · DSA" -}}{{- end -}}
-            {{- if or (in $c "schwarze katze") (in $c "dsk") -}}{{- $kicker = "Spielbericht · DSK" -}}{{- end -}}
-            {{- if in $c "gurps" -}}{{- $kicker = "Spielbericht · GURPS" -}}{{- end -}}
-          {{- end -}}
-          <span>{{ $kicker }} · {{ .Date.Format "2006" }}</span>
+          <span>{{ .Date.Format $dateFmt }}{{ if $.Site.Params.ShowReadingTime }} &middot; {{ .ReadingTime }} Min.{{ end }}{{ with .Params.author | default $.Site.Params.author }} &middot; {{ . }}{{ end }}</span>
         </div>
         <h1 class="home__hero-title">{{ .Title }}</h1>
         <p class="home__hero-dek">{{ partial "post-summary.html" (dict "page" . "length" 220) | safeHTML }}</p>
-        <div class="home__hero-meta">
-          {{ .Date.Format $dateFmt }}
-          {{- if $.Site.Params.ShowReadingTime }} · {{ .ReadingTime }} Min.{{ end -}}
-          {{- with .Params.author | default $.Site.Params.author }} · {{ . }}{{ end -}}
-        </div>
       </div>
       <div class="home__hero-side">
         <div class="home__hero-claim">{{ $claim | safeHTML }}</div>
@@ -67,7 +54,6 @@
   <section class="home__under">
     <div class="home__section-head">
       <h2>{{ $recentTitle }} <em>{{ $recentEm }}</em>{{ with $recentSuffix }} {{ . }}{{ end }}</h2>
-      <div class="home__section-side">{{ len $rest }} Einträge</div>
     </div>
 
     <div class="home__grid3">

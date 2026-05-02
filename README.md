@@ -15,10 +15,12 @@ Spielberichte und Notizen aus laufenden und abgeschlossenen Kampagnen:
 
 | Komponente | Details |
 |---|---|
-| Static Site Generator | [Hugo](https://gohugo.io/) |
-| Theme | [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (Git-Submodul) |
+| Static Site Generator | [Hugo](https://gohugo.io/) (extended) |
+| Theme | `rollenspiel` (eigenes Theme unter `themes/rollenspiel/`) |
+| CSS-Pipeline | PostCSS (`postcss-import`, `autoprefixer`) — installiert via `npm ci` im Build |
 | Sprache | Deutsch (`de-de`) |
-| Hosting | [online-resources.de](https://www.online-resources.de/) |
+| Hosting | Contabo Ubuntu VPS + Nginx, GitHub-Actions-SSH-Trigger |
+| Live | https://www.online-resources.de/ |
 
 ## Lokale Entwicklung
 
@@ -53,16 +55,27 @@ Die fertige Site wird im Verzeichnis `public/` erzeugt.
 
 ```
 online-resources.de/
-├── config.yml          # Hugo-Konfiguration (Theme, Parameter, Menü)
+├── config.yml             # Hugo-Konfiguration (Theme, Parameter, Menü)
 ├── content/
-│   ├── posts/          # Blogbeiträge (Markdown)
-│   ├── archives.md     # Archivseite
-│   ├── search.md       # Suchseite
-│   └── impressum.md    # Impressum
-├── themes/PaperMod/    # Theme (Git-Submodul)
-└── archetypes/         # Hugo-Archetypen für neue Inhalte
+│   ├── posts/             # Blogbeiträge (Markdown)
+│   ├── archiv.md          # Archivseite
+│   ├── search.md          # Suchseite
+│   ├── about.md           # Über
+│   ├── impressum.md       # Impressum
+│   ├── datenschutz.md     # Datenschutz
+│   ├── blog/_index.md     # Blog-Section
+│   └── categories/        # Term-Index-Pages mit deutschen Titeln
+├── themes/rollenspiel/    # Eigenes Theme (kein Submodul)
+├── deploy/build.sh        # Server-Build-Skript
+├── package.json           # PostCSS-Pipeline-Dependencies
+└── archetypes/            # Hugo-Archetypen für neue Inhalte
 ```
 
 ## Lizenz
 
-[MIT](LICENSE)
+Die Inhalte dieses Repositorys (Texte, Theme-Code, Konfiguration, Bilder)
+stehen unter der **Creative Commons Attribution 4.0 International**
+(CC BY 4.0) — siehe [LICENSE](LICENSE).
+
+Drittkomponenten (Hugo, Fuse.js, PostCSS, Schriften) stehen unter ihren
+eigenen Lizenzen — siehe [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md).

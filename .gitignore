@@ -31,6 +31,7 @@ notes.sqlite
 !.claude/skills/post-summary/**
 .claude/skills/post-summary/__pycache__/
 .playwright-mcp/
+.qa-shots/
 *.screenshot.png
 home-*.png
 single-*.png

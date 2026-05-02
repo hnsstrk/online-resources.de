@@ -155,11 +155,11 @@ menu:
     - identifier: archiv
       name: "Archiv"
       url: /archiv/
-      weight: 15
+      weight: 20
     - identifier: categories
       name: "Kategorien"
       url: /categories/
-      weight: 20
+      weight: 15
     - identifier: tags
       name: "Tags"
       url: /tags/

@@ -412,6 +412,38 @@ html[data-theme="dark"] .page-header__side em { color: var(--brass); }
   }
 }
 
+/* ---- Page-Intro (optionaler Markdown-Body unter dem Header) ---- */
+.page-intro {
+  max-width: var(--container);
+  margin: 0 auto 48px;
+  padding: 0 32px;
+  font-family: var(--serif-text);
+  font-size: 17px;
+  line-height: 1.65;
+  color: var(--ink-soft);
+}
+.page-intro > * {
+  max-width: 60ch;
+}
+.page-intro p {
+  margin: 0 0 14px;
+}
+.page-intro p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 1024px) {
+  .page-intro {
+    padding: 0 24px;
+    margin-bottom: 32px;
+  }
+}
+@media (max-width: 580px) {
+  .page-intro {
+    padding: 0 20px;
+  }
+}
+
 /* ---- List (taxonomies, archives index) ---- */
 .list {
   max-width: var(--container);

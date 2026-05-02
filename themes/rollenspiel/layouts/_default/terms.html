@@ -1,6 +1,9 @@
 {{- /* terms.html — taxonomy overview (categories, tags) */ -}}
 {{ define "main" }}
 {{ partial "page-header.html" . }}
+{{- with .Content }}
+<section class="page-intro">{{ . }}</section>
+{{- end }}
 <section class="terms">
   <div class="terms__grid">
     {{- range .Pages.ByTitle -}}

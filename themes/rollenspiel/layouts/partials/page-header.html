@@ -5,7 +5,7 @@
          page.Params.headerSide (Override) oder
          site.Params.pageHeader.side (Default).
        Eine border-bottom als Zierlinie unten. */ -}}
-{{- $side := .Params.headerSide | default .Site.Params.pageHeader.side -}}
+{{- $side := .Params.headerSide | default .Description | default .Site.Params.pageHeader.side -}}
 <header class="page-header">
   <h1 class="page-header__title">{{ .Title }}</h1>
   {{- with $side }}

@@ -20,7 +20,14 @@ fi
 # --prefer-offline und --no-audit halten den Schritt schnell, sobald der Cache warm ist.
 npm ci --no-audit --prefer-offline
 
-hugo --minify --gc --cleanDestinationDir --destination "$DEPLOY_DIR"
+# Destination komplett leeren vor Hugo. Hugos --cleanDestinationDir räumt nur
+# static-Files raus, nicht generierte Geistereinträge aus früheren Builds
+# (z.B. Term-Pages für gelöschte Kategorien). Ein hartes rm -rf macht den
+# Build idempotent. Während der ~300 ms zwischen Leerung und Hugo-Output
+# liefert nginx 404, das ist akzeptabel.
+rm -rf "$DEPLOY_DIR"/*
+
+hugo --minify --gc --destination "$DEPLOY_DIR"
 
 # Prüfe ob Build erfolgreich
 [ -f "$DEPLOY_DIR/index.html" ] || { echo "Build fehlgeschlagen: index.html fehlt"; exit 1; }

@@ -1,22 +1,14 @@
-{{- /* list.html — Variant C blog/list layout (sections, taxonomies, content bundles).
-       Auf der `blog`-Section respektiert das Layout den Frontmatter-Filter
-       `filter_system` (z.B. /blog/dsa/, /blog/dsk/) — die UI-Filter-Bar wurde
-       entfernt; Filterung erfolgt nur noch über die jeweilige Section-Page. */ -}}
+{{- /* list.html — Generisches Listing für Sections, Taxonomies und Content-Bundles.
+       Auf der `blog`-Section werden alle Posts gezeigt; auf Taxonomy-Term-Pages
+       die jeweils zugewiesenen Posts. Filterung pro System läuft über die
+       Categories (/categories/das-schwarze-auge/ etc.). */ -}}
 {{ define "main" }}
 {{- $isBlog := eq .Section "blog" -}}
-{{- $filter := .Params.filter_system -}}
 
 {{- /* Grid-Quelle bestimmen */ -}}
 {{- $posts := slice -}}
 {{- if $isBlog -}}
-  {{- $all := where site.RegularPages "Type" "posts" -}}
-  {{- if eq $filter "dsa" -}}
-    {{- $posts = where $all "Params.categories" "intersect" (slice "Das schwarze Auge") -}}
-  {{- else if eq $filter "dsk" -}}
-    {{- $posts = where $all "Params.categories" "intersect" (slice "Die schwarze Katze") -}}
-  {{- else -}}
-    {{- $posts = $all -}}
-  {{- end -}}
+  {{- $posts = where site.RegularPages "Type" "posts" -}}
 {{- else -}}
   {{- $posts = where .Pages "Type" "posts" -}}
   {{- if eq (len $posts) 0 -}}{{- $posts = .Pages -}}{{- end -}}

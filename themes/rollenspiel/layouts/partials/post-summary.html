@@ -1,0 +1,17 @@
+{{- /* post-summary.html — Vorschau-Renderer für Posts.
+
+       Rendert die Zusammenfassung eines Posts via Hugos .Summary-Variable.
+       Voraussetzung: Jeder Post hat ein `summary:` im Frontmatter
+       (Skill `.claude/skills/post-summary/`, hartes Limit 400 Zeichen).
+       Fallback: Hugo generiert .Summary automatisch aus den ersten Wörtern,
+       gesteuert über `summaryLength` (Default 70 Wörter).
+
+       Das `length`-Argument wird beibehalten für Backwards-Compat, aber
+       nicht mehr ausgewertet — die Länge wird im Frontmatter selbst
+       garantiert.
+
+       Aufruf:
+         {{ partial "post-summary.html" (dict "page" . "length" 400) }}
+*/ -}}
+{{- $page := .page -}}
+{{ $page.Summary | plainify }}

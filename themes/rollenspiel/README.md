@@ -1,4 +1,4 @@
-# Aventurien — Hugo theme
+# Rollenspiel — Hugo theme
 
 Editorial Hugo theme for **[online-resources.de](https://www.online-resources.de/)**. Pergament/Grimoire palette, serif editorial typography (Cormorant Garamond / EB Garamond / Cinzel), Light+Dark via `data-theme`, Fuse.js search, Hugo resource pipeline for CSS.
 
@@ -6,13 +6,13 @@ Editorial Hugo theme for **[online-resources.de](https://www.online-resources.de
 
 ```bash
 cd themes
-git submodule add https://github.com/hnsstrk/theme-aventurien aventurien
+git submodule add https://github.com/hnsstrk/theme-rollenspiel rollenspiel
 ```
 
 In `config.yml`:
 
 ```yaml
-theme: aventurien
+theme: rollenspiel
 ```
 
 ## Compatibility with PaperMod

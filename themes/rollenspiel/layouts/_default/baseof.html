@@ -1,5 +1,5 @@
 {{- /*
-  Aventurien baseof — wraps every page.
+  Rollenspiel baseof — wraps every page.
   Assumes config params: title, description, socialIcons, label, menu.main
 */ -}}
 <!DOCTYPE html>
@@ -46,7 +46,7 @@
   {{- /* Theme toggle — runs inline to avoid flash */ -}}
   <script>
     (function () {
-      var stored = localStorage.getItem('aventurien-theme');
+      var stored = localStorage.getItem('rollenspiel-theme');
       if (stored === 'dark' || stored === 'light') {
         document.documentElement.setAttribute('data-theme', stored);
       } else {

@@ -1,6 +1,6 @@
 // Theme toggle — persists in localStorage, respects prefers-color-scheme
 (function () {
-  const KEY = 'aventurien-theme';
+  const KEY = 'rollenspiel-theme';
   const root = document.documentElement;
 
   function apply(theme) {

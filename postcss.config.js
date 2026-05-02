@@ -1,7 +1,7 @@
 module.exports = {
   plugins: {
     'postcss-import': {
-      path: ['themes/aventurien/assets/css'],
+      path: ['themes/rollenspiel/assets/css'],
     },
     autoprefixer: {},
   },

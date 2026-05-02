@@ -16,7 +16,9 @@ tags:
 
 Wir wurden gebeten, unsere Mitreisenden abzuholen. Daher begaben wir uns zum Kloster des Vergessens, am westlichen Rand der Stadt. An diesem Ort, an dem die seelisch Kranken gepflegt werden, war es anders als erwartet. Es war ruhig, sehr ruhig. Ich hätte mit Schreien oder Ähnlichem gerechnet. Mit Verrückten, die durch die Flure und Säle toben. Aber es war einfach nur ruhig. Wenn man innehielt und lauschte, konnte man das leise Murmeln von Gebeten hören, aber dieser Ort zeigte wie kein Zweiter, dass Boron auch den Beinamen "der Schweigsame" trug.
 
-![Der ehemalige Abt Borondrian Dergelmunds](token_BorondrianDergelmunds.webp "Borondrian Dergelmund, ehemaliger Abt") ![Die Novizin Boronike Dengler](token_BoronikeDengler.webp "Boronike Dengler, treue Novizin")
+![Der ehemalige Abt Borondrian Dergelmunds](token_BorondrianDergelmunds.webp "Borondrian Dergelmund, ehemaliger Abt")
+
+![Die Novizin Boronike Dengler](token_BoronikeDengler.webp "Boronike Dengler, treue Novizin")
 
 Wir wurden zur Äbtissin des Klosters, Kalina Niodas, geleitet. Die Geweihte berichtete uns mit wenigen, aber mitfühlenden Worten vom Schicksal des ehemaligen Abtes Borondrian Dergelmund, welcher einer Art Manie anheimgefallen war und dem man hier in Perricum nicht mehr helfen konnte. Nun bestand die letzte Hoffnung darin, den alten Mönch zum Gründungsort der Noioniten, dem Kloster der Heiligen Noiona in Selem zu bringen.
 

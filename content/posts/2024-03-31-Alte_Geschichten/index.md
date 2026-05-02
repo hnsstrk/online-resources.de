@@ -17,7 +17,9 @@ tags:
 
 ### Die Bitte
 
-![](token_Mahmud.webp "Mahmud ibn Umran, Grays Studienfreund") ![](token_Aishulibeth.webp "Aishulibeth abu'l Aram, die Entführte")
+![](token_Mahmud.webp "Mahmud ibn Umran, Grays Studienfreund")
+
+![](token_Aishulibeth.webp "Aishulibeth abu'l Aram, die Entführte")
 
 Nach etwas über einem Monat der Recherche tat es gut, endlich einmal aus der Bibliothek herauszukommen. Und ich muss gestehen, dies galt vor allem für die Fakultät des Eises. Man muss diesem Element schon in besonderer Weise zugetan sein, um für längere Zeit freiwillig in einem Iglu zu leben. Hätte es nicht die vielen magischen Annehmlichkeiten gegeben, ich hätte wohl ein oder zwei Zehen verloren.
 
@@ -27,7 +29,9 @@ Zu ihren Studienzeiten hatten sich Gray und Mahmud wohl mit zwei schnöseligen S
 
 ### In Ragath
 
-![](token_Federigo_Alcorta.webp "Federigo Alcorta, Entführer aus Ragath") ![](token_Gonzalo_Jurios.webp "Gonzalo Jurios, Spießgeselle Federigos")
+![](token_Federigo_Alcorta.webp "Federigo Alcorta, Entführer aus Ragath")
+
+![](token_Gonzalo_Jurios.webp "Gonzalo Jurios, Spießgeselle Federigos")
 
 Für meine Kameraden und mich war es selbstverständlich Grays Freund zu helfen, die Liebe seines Lebens zu retten und so machten wir uns, abgesehen von Link auf den Weg nach Ragath. Schon auf dem Weg genossen wir, dass sich das Wetter gebessert hatte und der Herbst sich von seiner besten Seite zeigte. Kaum angekommen quartierten wir uns in einem herrlichen Gasthaus mit Weinstube ein. Letzteres ist eine besondere Eigenart im Fürstentum Almada, in der sich die Gastfreundschaft von Land und Leuten zeigt. In der Weinstube des Gasthauses konnten wir die reiche Weinkultur von Almada erleben. Die Auswahl an Weinen war beeindruckend, mit Sorten, die die Vielfalt der Region widerspiegeln. Jeder Wein erzählte eine Geschichte, von der sorgfältigen Pflege der Reben bis zur Kunst der Weinherstellung. Wir hatten das Glück, die subtilen Unterschiede zwischen den verschiedenen Weinen kennenlernen zu können. Es war faszinierend zu erfahren, wie das Klima und der Boden der Region die Aromen und Texturen der Weine beeinflussen. Doch ich schweife ab.
 

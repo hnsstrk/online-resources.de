@@ -34,6 +34,9 @@
   <span class="sys-tag {{ $sysKey }}"><span class="dot"></span>{{ $sysLabel }}</span>
   {{- end }}
   <h3 class="archive__card-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+  {{- with $page.Params.summary }}
+  <p class="archive__card-summary">{{ . }}</p>
+  {{- end }}
   <div class="archive__card-row">
     <span>{{ $postType }}{{ if $page.Site.Params.ShowReadingTime }} · {{ $page.ReadingTime }} Min.{{ end }}</span>
     <time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format ($page.Site.Params.DateFormat | default "02.01.2006") }}</time>

@@ -424,16 +424,8 @@ html[data-theme="dark"] .article-page article h2 .num { color: var(--brass); }
 /* ---- Generic content page (about, impressum, datenschutz) — Variante B Lite ---- */
 .article-page--simple {
   max-width: 48rem;
-  padding: 56px 32px 64px;
-}
-.article-page--simple .article-page__title-block {
-  text-align: left;
-  padding: 24px 0 32px;
-}
-.article-page--simple .article-page__title {
-  font-size: clamp(36px, 5vw, 64px);
-  max-width: none;
-  margin: 0 0 12px;
+  margin: 0 auto;
+  padding: 0 32px 64px;
 }
 .article-page--simple article {
   font-family: var(--serif-text);

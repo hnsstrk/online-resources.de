@@ -1,0 +1,14 @@
+{{- /* page-header.html — einheitlicher Page-Anfang für alle Inhaltsseiten
+       (nicht Home, nicht Single-Posts).
+       Linke Spalte: Page-Title (.page-header__title)
+       Rechte Spalte: konfigurierbarer Side-Text aus
+         page.Params.headerSide (Override) oder
+         site.Params.pageHeader.side (Default).
+       Eine border-bottom als Zierlinie unten. */ -}}
+{{- $side := .Params.headerSide | default .Site.Params.pageHeader.side -}}
+<header class="page-header">
+  <h1 class="page-header__title">{{ .Title }}</h1>
+  {{- with $side }}
+  <div class="page-header__side">{{ . | safeHTML }}</div>
+  {{- end }}
+</header>

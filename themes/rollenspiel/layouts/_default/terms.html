@@ -1,16 +1,16 @@
 {{- /* terms.html — taxonomy overview (categories, tags) */ -}}
 {{ define "main" }}
+{{ partial "page-header.html" . }}
 <section class="terms">
-  <header class="list__header">
-    <h1 class="list__title">{{ .Title }}</h1>
-    {{- with .Content }}<div class="list__summary">{{ . }}</div>{{ end -}}
-  </header>
   <div class="terms__grid">
-    {{- range $name, $taxonomy := .Data.Terms.ByCount -}}
-    <a href="{{ printf "/%s/%s/" (lower $.Data.Plural) (urlize $taxonomy.Name) | relURL }}" class="terms__item">
-      <span class="terms__name">{{ $taxonomy.Name | humanize }}</span>
-      <span class="terms__count">{{ $taxonomy.Count }} {{ if eq $taxonomy.Count 1 }}Eintrag{{ else }}Einträge{{ end }}</span>
+    {{- range .Pages.ByTitle -}}
+    {{- $count := len .Pages -}}
+    {{- if gt $count 0 -}}
+    <a href="{{ .RelPermalink }}" class="terms__item">
+      <span class="terms__name">{{ .Title }}</span>
+      <span class="terms__count">{{ $count }} {{ if eq $count 1 }}Eintrag{{ else }}Einträge{{ end }}</span>
     </a>
+    {{- end -}}
     {{- end -}}
   </div>
 </section>

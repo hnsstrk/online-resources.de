@@ -1,0 +1,38 @@
+{{- /* Archives — chronologische Liste aller Posts, gruppiert nach Jahr und Monat. */ -}}
+{{ define "main" }}
+{{- $monate := dict
+  "01" "Januar"   "02" "Februar" "03" "März"
+  "04" "April"    "05" "Mai"     "06" "Juni"
+  "07" "Juli"     "08" "August"  "09" "September"
+  "10" "Oktober"  "11" "November" "12" "Dezember"
+-}}
+{{ partial "page-header.html" . }}
+<section class="list">
+
+  {{- $posts := where site.RegularPages "Type" "posts" -}}
+  {{- range $posts.GroupByDate "2006" -}}
+    {{- $year := .Key -}}
+    <section class="archiv__year">
+      <h2 class="archiv__year-head">
+        <span class="numeric">{{ $year }}</span>
+        <span class="meta">{{ len .Pages }} Einträge</span>
+      </h2>
+
+      {{- range .Pages.GroupByDate "2006-01" -}}
+        {{- $monatNr := substr .Key 5 2 -}}
+        {{- $monatName := index $monate $monatNr -}}
+        <h3 class="archiv__month-head">{{ $monatName }}</h3>
+        <ul class="archiv__list">
+        {{- range .Pages.ByDate.Reverse -}}
+          <li class="archiv__item">
+            <time class="archiv__date numeric" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01." }}</time>
+            <a class="archiv__title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{- with partial "system-tag.html" . }}{{ . }}{{ end -}}
+          </li>
+        {{- end -}}
+        </ul>
+      {{- end -}}
+    </section>
+  {{- end -}}
+</section>
+{{ end }}

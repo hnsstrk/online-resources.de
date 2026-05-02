@@ -6,117 +6,7 @@
 .archive {
   max-width: var(--container);
   margin: 0 auto;
-  padding: 56px 32px 96px;
-}
-
-/* ---- Head: 2-col Masthead ---- */
-.archive__head {
-  display: grid;
-  grid-template-columns: 1.6fr 1fr;
-  gap: 56px;
-  padding: 32px 0 48px;
-  border-bottom: 1px solid var(--rule);
-  align-items: end;
-}
-.archive__head-title {
-  font-family: var(--serif-display);
-  font-size: clamp(44px, 5.5vw, 80px);
-  line-height: 0.98;
-  letter-spacing: -0.018em;
-  font-weight: 500;
-  color: var(--ink);
-  text-wrap: balance;
-  margin: 0;
-}
-.archive__head-title em {
-  font-style: italic;
-  font-weight: 400;
-  color: var(--brass-deep);
-}
-html[data-theme="dark"] .archive__head-title em { color: var(--brass); }
-
-.archive__head-side { min-width: 0; }
-.archive__head-lead {
-  font-family: var(--serif-display);
-  font-style: italic;
-  font-size: 20px;
-  line-height: 1.4;
-  color: var(--ink-soft);
-  max-width: 40ch;
-  margin: 0 0 12px;
-}
-.archive__head-lead p { margin: 0 0 8px; }
-
-.archive__head-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--ink-muted);
-  padding-top: 16px;
-  border-top: 1px solid var(--rule-soft);
-}
-
-/* ---- Filter-Bar ---- */
-.archive__filter {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 0;
-  padding: 32px 0;
-  border-bottom: 1px solid var(--rule);
-}
-.archive__filter-btn {
-  display: block;
-  padding: 24px 0 24px 28px;
-  text-align: left;
-  color: var(--ink-muted);
-  border-right: 1px solid var(--rule-soft);
-  position: relative;
-  transition: color .2s;
-}
-.archive__filter-btn:first-child { padding-left: 0; }
-.archive__filter-btn:last-child { border-right: 0; }
-.archive__filter-btn:hover .archive__filter-num { color: var(--ink-soft); }
-
-.archive__filter-num {
-  font-family: var(--serif-display);
-  font-weight: 300;
-  font-size: 56px;
-  line-height: 1;
-  color: var(--ink-whisper);
-  font-variant-numeric: oldstyle-nums;
-  display: block;
-  margin-bottom: 8px;
-  transition: color .2s;
-}
-.archive__filter-lbl {
-  font-family: var(--serif-display);
-  font-style: italic;
-  font-size: 20px;
-  color: var(--ink);
-  display: block;
-  margin-bottom: 4px;
-}
-.archive__filter-sub {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--ink-muted);
-  display: block;
-}
-
-.archive__filter-btn.active .archive__filter-num { color: var(--brass); }
-.archive__filter-btn.active::before {
-  content: "";
-  position: absolute;
-  top: -33px;
-  left: 0;
-  right: 0;
-  border-top: 2px solid var(--brass);
+  padding: 0 32px 96px;
 }
 
 /* ---- Grid ---- */
@@ -158,6 +48,19 @@ html[data-theme="dark"] .archive__head-title em { color: var(--brass); }
 .archive__card-title a { color: inherit; }
 .archive__card-title a:hover { color: var(--brass-deep); }
 
+.archive__card-summary {
+  font-family: var(--serif-text);
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0;
+  /* mehrzeilig clampen, damit Karten gleich hoch bleiben */
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .archive__card-row {
   display: flex;
   justify-content: space-between;
@@ -172,34 +75,11 @@ html[data-theme="dark"] .archive__head-title em { color: var(--brass); }
 }
 
 /* ---- Mobile ---- */
-@media (max-width: 1024px) {
-  .archive__head {
-    grid-template-columns: 1fr;
-    gap: 28px;
-    padding: 24px 0 40px;
-  }
-}
 @media (max-width: 860px) {
   .archive__grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 40px 32px;
   }
-}
-@media (max-width: 720px) {
-  .archive__filter {
-    grid-template-columns: 1fr;
-  }
-  .archive__filter-btn {
-    border-right: 0;
-    border-bottom: 1px solid var(--rule-soft);
-    padding: 20px 0;
-  }
-  .archive__filter-btn:last-child { border-bottom: 0; }
-  .archive__filter-btn.active::before {
-    top: 0;
-    bottom: auto;
-  }
-  .archive__filter-num { font-size: 44px; }
 }
 @media (max-width: 580px) {
   .archive {

@@ -1,11 +1,7 @@
 {{- /* Search page — expects content/search.md with layout: "search" or in section "search" */ -}}
 {{ define "main" }}
+{{ partial "page-header.html" . }}
 <section class="search">
-  <header class="list__header">
-    <div class="list__kicker">Suche</div>
-    <h1 class="list__title">{{ .Title }}</h1>
-    {{- with .Content }}<div class="list__summary">{{ . }}</div>{{ end -}}
-  </header>
   <input
     id="search-input"
     class="search__input"

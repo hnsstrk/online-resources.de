@@ -1,27 +1,19 @@
-{{- /* list.html — Variant C archive layout (sections, taxonomies, archive bundles).
-
-       Filter-Bar wird NUR auf der `archive`-Section gerendert
-       (`/archive/`, `/archive/dsa/`, `/archive/dsk/`).
-       Auf Sections, Categories und Tags läuft das gleiche Markup, nur ohne Filter-Bar
-       und mit `.Pages` als Quelle.
-*/ -}}
+{{- /* list.html — Variant C blog/list layout (sections, taxonomies, content bundles).
+       Auf der `blog`-Section respektiert das Layout den Frontmatter-Filter
+       `filter_system` (z.B. /blog/dsa/, /blog/dsk/) — die UI-Filter-Bar wurde
+       entfernt; Filterung erfolgt nur noch über die jeweilige Section-Page. */ -}}
 {{ define "main" }}
-{{- $isArchive := eq .Section "archive" -}}
+{{- $isBlog := eq .Section "blog" -}}
 {{- $filter := .Params.filter_system -}}
-
-{{- /* Counts werden aus site.RegularPages berechnet — exakt dieselbe Quelle,
-       die der Filter unten rendert. So bleiben Counts und Grid konsistent. */ -}}
-{{- $all := where site.RegularPages "Type" "posts" -}}
-{{- $dsa := where $all "Params.categories" "intersect" (slice "Das schwarze Auge") -}}
-{{- $dsk := where $all "Params.categories" "intersect" (slice "Die schwarze Katze") -}}
 
 {{- /* Grid-Quelle bestimmen */ -}}
 {{- $posts := slice -}}
-{{- if $isArchive -}}
+{{- if $isBlog -}}
+  {{- $all := where site.RegularPages "Type" "posts" -}}
   {{- if eq $filter "dsa" -}}
-    {{- $posts = $dsa -}}
+    {{- $posts = where $all "Params.categories" "intersect" (slice "Das schwarze Auge") -}}
   {{- else if eq $filter "dsk" -}}
-    {{- $posts = $dsk -}}
+    {{- $posts = where $all "Params.categories" "intersect" (slice "Die schwarze Katze") -}}
   {{- else -}}
     {{- $posts = $all -}}
   {{- end -}}
@@ -32,44 +24,8 @@
 
 {{- $paginator := .Paginate $posts -}}
 
+{{ partial "page-header.html" . }}
 <section class="archive">
-  <header class="archive__head">
-    <h1 class="archive__head-title">{{ .Title }}</h1>
-    <div class="archive__head-side">
-      {{- with .Description }}<p class="archive__head-lead">{{ . }}</p>{{ end -}}
-      {{- with .Content }}<div class="archive__head-lead">{{ . }}</div>{{ end -}}
-      {{- if $isArchive }}
-      <div class="archive__head-meta">
-        <span>{{ printf "%02d" (len $posts) }} Einträge</span>
-        <span>Zwei Systeme</span>
-        <span>{{ if gt (len $posts) 0 -}}
-          {{- $first := index (sort $posts "Date" "asc") 0 -}}
-          {{- $last  := index (sort $posts "Date" "desc") 0 -}}
-          {{ $first.Date.Format "2006" }} — {{ $last.Date.Format "2006" }}
-        {{- else }}—{{ end }}</span>
-      </div>
-      {{- end }}
-    </div>
-  </header>
-
-  {{- if $isArchive }}
-  <nav class="archive__filter" aria-label="System-Filter">
-    {{- $btns := slice
-      (dict "key" ""    "url" "/archive/"     "lbl" "Alle"               "sub" "Sammelregister"  "n" (len $all))
-      (dict "key" "dsa" "url" "/archive/dsa/" "lbl" "Das Schwarze Auge"  "sub" "DSA · 5.1"       "n" (len $dsa))
-      (dict "key" "dsk" "url" "/archive/dsk/" "lbl" "Die Schwarze Katze" "sub" "Ulisses · 2018"  "n" (len $dsk))
-    -}}
-    {{- range $btns }}
-      {{- $active := eq $filter .key -}}
-      <a class="archive__filter-btn{{ if $active }} active{{ end }}" href="{{ .url | relURL }}">
-        <span class="archive__filter-num">{{ printf "%02d" .n }}</span>
-        <span class="archive__filter-lbl">{{ .lbl }}</span>
-        <span class="archive__filter-sub">{{ .sub }}</span>
-      </a>
-    {{- end }}
-  </nav>
-  {{- end }}
-
   <section class="archive__grid">
     {{- range $paginator.Pages -}}
       {{ partial "archive-card.html" . }}

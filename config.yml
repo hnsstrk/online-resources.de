@@ -80,6 +80,15 @@ params:
         - { name: "Fallout",            url: "https://fvtt2.online-resources.de/" }
 
   # ----------------------------------------------------------------------------
+  # Page-Header — einheitlicher Anfang für alle Inhaltsseiten (nicht Home).
+  # Linke Spalte zeigt den Page-Title, rechte Spalte zeigt diesen Side-Text.
+  # Pro-Seite-Override via Front-Matter `headerSide:`.
+  # HTML-Tags wie <em> und <br/> erlaubt.
+  # ----------------------------------------------------------------------------
+  pageHeader:
+    side: 'Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen.'
+
+  # ----------------------------------------------------------------------------
   # Home-Texte (Hero / Section-Head)
   # HTML-Tags wie <em> und <br/> sind erlaubt.
   # ----------------------------------------------------------------------------
@@ -123,10 +132,14 @@ outputs:
 
 menu:
   main:
-    - identifier: archive
-      name: "Archiv"
-      url: /archive/
+    - identifier: blog
+      name: "Blog"
+      url: /blog/
       weight: 10
+    - identifier: archiv
+      name: "Archiv"
+      url: /archiv/
+      weight: 15
     - identifier: categories
       name: "Kategorien"
       url: /categories/

@@ -68,6 +68,7 @@ params:
       heading: "Service"
       items:
         - { name: "RSS",         url: "/index.xml" }
+        - { name: "Lizenz",      url: "/lizenz/" }
         - { name: "Datenschutz", url: "/datenschutz/" }
         - { name: "Impressum",   url: "/impressum/" }
 

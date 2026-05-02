@@ -36,10 +36,26 @@
     {{- end -}}
     <div class="home__hero-fade" aria-hidden="true"></div>
     <div class="home__hero-content">
+      {{- /* System-Label aus Categories ableiten */ -}}
+      {{- $system := "" -}}
+      {{- range .Params.categories -}}
+        {{- $c := lower . -}}
+        {{- if and (eq $system "") (or (in $c "schwarze auge") (in $c "dsa")) -}}{{- $system = "DSA" -}}{{- end -}}
+        {{- if and (eq $system "") (or (in $c "schwarze katze") (in $c "dsk")) -}}{{- $system = "DSK" -}}{{- end -}}
+        {{- if and (eq $system "") (or (in $c "dungeons") (in $c "dnd") (in $c "d&d")) -}}{{- $system = "DnD 5e" -}}{{- end -}}
+        {{- if and (eq $system "") (in $c "hexxen") -}}{{- $system = "Hexxen 1733" -}}{{- end -}}
+        {{- if and (eq $system "") (in $c "gurps") -}}{{- $system = "GURPS" -}}{{- end -}}
+        {{- if and (eq $system "") (in $c "warhammer") -}}{{- $system = "Warhammer" -}}{{- end -}}
+      {{- end -}}
       <div class="home__hero-main">
         <div class="home__hero-kicker">
           <span class="home__hero-rule"></span>
-          <span>{{ .Date.Format $dateFmt }}{{ if $.Site.Params.ShowReadingTime }} &middot; {{ .ReadingTime }} Min.{{ end }}{{ with .Params.author | default $.Site.Params.author }} &middot; {{ . }}{{ end }}</span>
+          <span>
+            {{- with $system }}{{ . }} &middot; {{ end -}}
+            {{ .Date.Format $dateFmt }}
+            {{- if $.Site.Params.ShowReadingTime }} &middot; {{ .ReadingTime }} Min.{{ end -}}
+            {{- with .Params.author | default $.Site.Params.author }} &middot; {{ . }}{{ end -}}
+          </span>
         </div>
         <h1 class="home__hero-title">{{ .Title }}</h1>
         <p class="home__hero-dek">{{ partial "post-summary.html" (dict "page" . "length" 220) | safeHTML }}</p>

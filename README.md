@@ -74,8 +74,8 @@ online-resources.de/
 ## Lizenz
 
 Die Inhalte dieses Repositorys (Texte, Theme-Code, Konfiguration, Bilder)
-stehen unter der **Creative Commons Attribution 4.0 International**
-(CC BY 4.0) — siehe [LICENSE](LICENSE).
+stehen unter der **Creative Commons Attribution-NonCommercial 4.0
+International** (CC BY-NC 4.0) — siehe [LICENSE](LICENSE).
 
 Drittkomponenten (Hugo, Fuse.js, PostCSS, Schriften) stehen unter ihren
 eigenen Lizenzen — siehe [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md).

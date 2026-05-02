@@ -2,8 +2,8 @@
 
 Dieses Projekt verwendet Software und Schriften Dritter. Die eigenen
 Inhalte (siehe [LICENSE](LICENSE)) stehen unter Creative Commons
-Attribution 4.0 International (CC BY 4.0); die folgenden Komponenten
-stehen unter ihren jeweils eigenen Lizenzen.
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0); die
+folgenden Komponenten stehen unter ihren jeweils eigenen Lizenzen.
 
 ## Software
 

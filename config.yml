@@ -5,7 +5,7 @@ title: online-resources.de
 copyright: "© 2023–2026 online-resources.de"
 pagination:
   pagerSize: 12
-theme: aventurien
+theme: rollenspiel
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,33 +19,18 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: online-resources.de
   description: "Meine kleine Sammlung von Allem..."
   keywords: [Rollenspiel, RPG, Das Schwarze Auge, DSA5, Greifenfurter Adel, DSK, Die Schwarze Katze]
   author: hnsstrk
-  # author: ["Me", "You"] # multiple authors
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  # author: ["Me", "You"] # mehrere Autoren möglich
 # DateFormat: "January 2, 2006"
   DateFormat: "02.01.2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
   ShowFullTextinRSS: true
   ShowReadingTime: true
-  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: true
-  tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -54,33 +39,7 @@ params:
     favicon16x16: "https://online-resources.de/favicon/favicon-16x16.png"
     favicon32x32: "https://online-resources.de/favicon/favicon-32x32.png"
     apple_touch_icon: "https://online-resources.de/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "https://online-resources.de/favicon/apple-touch-icon.png"
 
-  label:
-    text: "online-resources.de"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: online-resources.de
-    subtitle: "Meine kleine Sammlung von Allem..."
-    imageUrl: "./uploads/avatar.webp"
-    imageWidth: 256
-    imageHeight: 256
-    imageTitle: Avatar
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Berichte aus Aventurien"
-    Content: "von teilweise fragwürdigen Quellen..."
-            
   # ----------------------------------------------------------------------------
   # Wordmark der Topbar — Brand-Text + italic em-Teil.
   # Default: "online" / "resources" → wird zu „online — resources"
@@ -161,36 +120,6 @@ params:
     - name: rss
       url: "https://online-resources.de/index.xml"
 
-#  analytics:
-#    google:
-#      SiteVerificationTag: "XYZabc"
-#    bing:
-#      SiteVerificationTag: "XYZabc"
-#    yandex:
-#      SiteVerificationTag: "XYZabc"
-
-  cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
-    responsiveImages: true
-    linkFullImages: true
-
-  editPost:
-    URL: "https://github.com/hnsstrk/online-resources.de/tree/main/content"
-    Text: "Änderungswünsche" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
 outputs:
     home:
         - HTML

@@ -132,9 +132,10 @@ html[data-theme="dark"] .home {
 }
 .home__hero-side {
   padding: 24px 28px;
+  /* Subtile Hinterlegung bleibt für Lesbarkeit bei hellen Cover-Bildern,
+     Border-Left entfernt — passt nicht zum poetischen Motto-Charakter */
   background: var(--hero-box-side);
-  backdrop-filter: blur(6px);
-  border-left: 2px solid color-mix(in oklch, var(--hero-accent) 70%, transparent);
+  backdrop-filter: blur(4px);
 }
 .home__hero-kicker {
   font-family: var(--mono);
@@ -179,55 +180,32 @@ html[data-theme="dark"] .home {
   margin: 0;
 }
 .home__hero-meta {
+  /* Meta-Zeile jetzt im Hero-Main unter dem Lead-Text:
+     kein unterer Border — würde im Fließkontext zu schwer wirken */
   font-family: var(--mono);
   font-size: 10px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: oklch(0.72 0.095 75);
-  padding-bottom: 8px;
-  border-bottom: 1px solid color-mix(in oklch, var(--hero-fg) 22%, transparent);
-  margin-bottom: 18px;
-}
-.home__hero-caption {
-  font-family: var(--serif-display);
-  font-style: italic;
-  font-size: 14px;
-  line-height: 1.5;
-  opacity: 0.75;
-  max-width: 40ch;
+  margin-top: 14px;
 }
 
-/* Claim-Streifen */
-.home__claim {
-  padding: 44px 56px;
-  border-bottom: 1px solid var(--rule);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 40px;
-}
-.home__claim-big {
+/* Italic-Motto im Hero-Side — ersetzt die frühere Meta+Caption-Box */
+.home__hero-claim {
   font-family: var(--serif-display);
-  font-size: 32px;
-  line-height: 1.2;
-  font-weight: 400;
-  max-width: 64ch;
-  text-wrap: balance;
-  color: var(--ink);
-}
-.home__claim-big em {
   font-style: italic;
-  color: var(--brass);
-}
-.home__claim-info {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--ink-muted);
+  font-size: 28px;
+  line-height: 1.35;
+  font-weight: 400;
   text-align: right;
-  line-height: 1.8;
-  white-space: nowrap;
+  color: var(--hero-fg);
+  opacity: 0.92;
+  max-width: 36ch;
+  margin-left: auto;
+}
+.home__hero-claim em {
+  font-style: italic;
+  color: var(--hero-accent);
 }
 
 /* 3-Spalten-Raster */
@@ -351,17 +329,12 @@ html[data-theme="dark"] .home {
   .home__hero-dek {
     font-size: 18px;
   }
-  .home__claim {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 32px 20px;
-    gap: 20px;
-  }
-  .home__claim-big {
-    font-size: 24px;
-  }
-  .home__claim-info {
+  /* Claim-Motto auf Mobile: kleinere Schrift, linksbündig —
+     rechts-Ausrichtung wirkt im Einspaltenlayout verloren */
+  .home__hero-claim {
+    font-size: 20px;
     text-align: left;
+    margin-left: 0;
   }
   .home__under {
     padding: 48px 20px 64px;

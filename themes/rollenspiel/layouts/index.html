@@ -1,15 +1,13 @@
-{{- /* index.html — Home (Variant E: Vollbild-Hero + Claim-Streifen + 3-Spalten-Raster).
+{{- /* index.html — Home (Vollbild-Hero + 3-Spalten-Raster).
        Bezieht sich auf /Users/hnsstrk/Repositories/online-resources-design/variant-hero.jsx.
        Topbar/Footer/Social-Row/System-Tag/Cover-Image kommen aus Foundation-Partials.
 
        Redaktionelle Texte sind via params.home.* in config.yml überschreibbar:
-         params.home.claim.big        — Markdown, *Italics* werden als <em> gesetzt
-         params.home.claim.info       — Mehrzeiler, jede Zeile via \n oder als Liste
+         params.home.claim.big        — Markdown, *Italics* werden als <em> gesetzt;
+                                        erscheint als Italic-Motto im Hero-Side
          params.home.recent.title     — Default „Jüngst"
          params.home.recent.em        — Default „hinzugekommen" (italic-em-Teil)
-         params.home.recent.suffix    — optionaler Text nach dem em-Teil
-         params.home.heroCaptionFallback — Italic-Caption rechts unten im Hero,
-                                           wenn der Hero-Post keine .Description hat */ -}}
+         params.home.recent.suffix    — optionaler Text nach dem em-Teil */ -}}
 {{ define "main" }}
 {{- $posts := where site.RegularPages "Type" "posts" -}}
 {{- $hero := index $posts 0 -}}
@@ -19,11 +17,9 @@
 {{- $claim := $home.claim | default dict -}}
 {{- $recent := $home.recent | default dict -}}
 {{- $claimBig := $claim.big | default "Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen …" -}}
-{{- $claimInfo := $claim.info | default "Seit MMXVII<br/>DSA · DSK<br/>Hugo" -}}
 {{- $recentTitle := $recent.title | default "Jüngst" -}}
 {{- $recentEm := $recent.em | default "hinzugekommen" -}}
 {{- $recentSuffix := $recent.suffix | default "" -}}
-{{- $heroCaptionFallback := $home.heroCaptionFallback | default (printf "Aufgezeichnet aus den laufenden Kampagnen von %s." ($.Site.Params.author | default "hnsstrk")) -}}
 
 <section class="home">
   {{- with $hero -}}
@@ -55,29 +51,18 @@
         </div>
         <h1 class="home__hero-title">{{ .Title }}</h1>
         <p class="home__hero-dek">{{ partial "post-summary.html" (dict "page" . "length" 220) | safeHTML }}</p>
-      </div>
-      <div class="home__hero-side">
         <div class="home__hero-meta">
           {{ .Date.Format $dateFmt }}
           {{- if $.Site.Params.ShowReadingTime }} · {{ .ReadingTime }} Min.{{ end -}}
           {{- with .Params.author | default $.Site.Params.author }} · {{ . }}{{ end -}}
         </div>
-        <div class="home__hero-caption">
-          {{- with .Description -}}
-            {{ . }}
-          {{- else -}}
-            {{ $heroCaptionFallback }}
-          {{- end -}}
-        </div>
+      </div>
+      <div class="home__hero-side">
+        <div class="home__hero-claim">{{ $claimBig | safeHTML }}</div>
       </div>
     </div>
   </a>
   {{- end -}}
-
-  <div class="home__claim">
-    <div class="home__claim-big">{{ $claimBig | safeHTML }}</div>
-    <div class="home__claim-info">{{ $claimInfo | safeHTML }}</div>
-  </div>
 
   <section class="home__under">
     <div class="home__section-head">

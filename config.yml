@@ -80,23 +80,18 @@ params:
         - { name: "Fallout",            url: "https://fvtt2.online-resources.de/" }
 
   # ----------------------------------------------------------------------------
-  # Home-Texte (Variant E — Hero / Claim-Streifen / Section-Head)
+  # Home-Texte (Hero / Section-Head)
   # HTML-Tags wie <em> und <br/> sind erlaubt.
   # ----------------------------------------------------------------------------
   home:
     claim:
-      # Großer Italic-Spruch links.
+      # Italic-Motto im Hero-Side (rechte Spalte des Heroes).
       big: 'Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen …'
-      # Mono-Block rechts.
-      info: 'Seit MMXVII<br/>DSA · DSK<br/>Hugo'
     recent:
       # Section-Head über dem 3-Spalten-Raster: "{title} {em} {suffix}"
       title: "Jüngst"
       em: "hinzugekommen"
       suffix: ""
-    # Italic-Caption rechts unten im Hero, falls der Hero-Post keine
-    # eigene .Description im Frontmatter hat.
-    heroCaptionFallback: "Aufgezeichnet aus den laufenden Kampagnen von hnsstrk."
 
   socialIcons:
     - name: twitter
@@ -121,10 +116,10 @@ params:
       url: "https://online-resources.de/index.xml"
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 
 menu:
   main:
@@ -151,7 +146,6 @@ menu:
 
   # Footer-Spalten werden in params.footer konfiguriert (siehe oben),
   # nicht mehr als Hugo-Menüs.
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:

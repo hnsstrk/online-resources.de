@@ -80,22 +80,18 @@ params:
         - { name: "Fallout",            url: "https://fvtt2.online-resources.de/" }
 
   # ----------------------------------------------------------------------------
-  # Page-Header — einheitlicher Anfang für alle Inhaltsseiten (nicht Home).
-  # Linke Spalte zeigt den Page-Title, rechte Spalte zeigt diesen Side-Text.
-  # Pro-Seite-Override via Front-Matter `headerSide:`.
-  # HTML-Tags wie <em> und <br/> erlaubt.
+  # Claim — Standard-Side-Text neben jeder Seitenüberschrift.
+  # Verwendet sowohl im Hero-Side auf der Startseite als auch im Page-Header-Side
+  # auf allen Inhaltsseiten. Pro Seite via Front-Matter `headerSide:` überschreibbar.
+  # HTML-Tags wie <em> und <br/> sind erlaubt.
   # ----------------------------------------------------------------------------
-  pageHeader:
-    side: 'Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen.'
+  claim: 'Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen.'
 
   # ----------------------------------------------------------------------------
-  # Home-Texte (Hero / Section-Head)
+  # Home-Texte (Section-Head über dem 3-Spalten-Raster)
   # HTML-Tags wie <em> und <br/> sind erlaubt.
   # ----------------------------------------------------------------------------
   home:
-    claim:
-      # Italic-Motto im Hero-Side (rechte Spalte des Heroes).
-      big: 'Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen …'
     recent:
       # Section-Head über dem 3-Spalten-Raster: "{title} {em} {suffix}"
       title: "Jüngst"

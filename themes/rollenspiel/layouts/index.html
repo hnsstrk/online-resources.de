@@ -2,9 +2,10 @@
        Bezieht sich auf /Users/hnsstrk/Repositories/online-resources-design/variant-hero.jsx.
        Topbar/Footer/Social-Row/System-Tag/Cover-Image kommen aus Foundation-Partials.
 
-       Redaktionelle Texte sind via params.home.* in config.yml überschreibbar:
-         params.home.claim.big        — Markdown, *Italics* werden als <em> gesetzt;
+       Redaktionelle Texte sind via params in config.yml überschreibbar:
+         params.claim                 — Standard-Side-Text mit <em>-Formatierungen,
                                         erscheint als Italic-Motto im Hero-Side
+                                        (gleicher Default wie auf allen anderen Pages)
          params.home.recent.title     — Default „Jüngst"
          params.home.recent.em        — Default „hinzugekommen" (italic-em-Teil)
          params.home.recent.suffix    — optionaler Text nach dem em-Teil */ -}}
@@ -14,9 +15,8 @@
 {{- $rest := after 1 $posts | first 6 -}}
 {{- $dateFmt := $.Site.Params.DateFormat | default "02.01.2006" -}}
 {{- $home := $.Site.Params.home | default dict -}}
-{{- $claim := $home.claim | default dict -}}
 {{- $recent := $home.recent | default dict -}}
-{{- $claimBig := $claim.big | default "Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen …" -}}
+{{- $claim := $.Site.Params.claim | default "Berichte aus <em>Aventurien</em> und <em>Faerûn</em>,<br/>von teilweise fragwürdigen Quellen." -}}
 {{- $recentTitle := $recent.title | default "Jüngst" -}}
 {{- $recentEm := $recent.em | default "hinzugekommen" -}}
 {{- $recentSuffix := $recent.suffix | default "" -}}
@@ -58,7 +58,7 @@
         </div>
       </div>
       <div class="home__hero-side">
-        <div class="home__hero-claim">{{ $claimBig | safeHTML }}</div>
+        <div class="home__hero-claim">{{ $claim | safeHTML }}</div>
       </div>
     </div>
   </a>

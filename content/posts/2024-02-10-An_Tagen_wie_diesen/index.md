@@ -4,7 +4,7 @@ summary: "Gerade als ich mich in der Milchschenke standesgemäß erholen wollte,
 date: 2024-02-10T18:51:00+01:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "Pferdestall.jpg"
     # can also paste direct link from external site
@@ -15,7 +15,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 7 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 7 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### In der Milchschenke
 

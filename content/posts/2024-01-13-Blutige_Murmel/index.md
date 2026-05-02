@@ -4,7 +4,7 @@ summary: "Ein vorzügliches Mahl hätte der Höhepunkt sein können, wäre da ni
 date: 2024-01-13T20:57:36+01:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "lila_murmel2.webp"
     # can also paste direct link from external site
@@ -15,7 +15,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 6 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 6 - Aus den Erzaehlungen von Benjamin Buechernase
 
 Nach unserem Einkauf gönnten wir uns zunächst erst einmal einen Tag Ruhe. Immerhin lebt der kreative Geist von seiner Ausgeglichenheit. Und da es auch dem Körper an nichts fehlen sollte freute ich mich um so mehr über das feine Abendmahl, dass Saytan Wollsammler für uns organisiert hatte. Zwar trübten die drei primitiven Kater am Nachbartisch meine Freude ein wenig, doch wurde ich vom Lächeln einiger hübscher Kätzchen mehr als entschädigt.
 

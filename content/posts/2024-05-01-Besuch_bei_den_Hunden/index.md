@@ -4,7 +4,7 @@ summary: "In meiner neuen Tunika war ich die glanzvollste Erscheinung, was wohl 
 date: 2024-05-01T10:37:51+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "bennis_rede.png"
     alt: "Süßer grauer Kater mit friedlichen Absichten hält eine Rede in einer schönen Landschaft."
@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 11 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 11 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Shopping Tour
 

@@ -4,7 +4,7 @@ summary: "Das Tor des Drachentempels wich zurück, doch mein kostbares Fell litt
 date: 2024-05-25T20:42:33+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "drachentempel01.webp"
     alt: "In einer großen, von Fackeln erleuchteten Höhle steht eine imposante Drachenstatue im Zentrum. Vor der Statue kämpft eine Gruppe heldenhafter, anthropomorpher Katzen in Abenteurerkleidung tapfer gegen den bedrohlichen Meckerdrachen Toblin. Eine mutige Katze, der wissensreiche und tapfere Anführer, steht dem Drachen zugewandt und führt den Kampf an. Die Szene ist intensiv und voller Action, was die Entschlossenheit der Katzen zeigt, ihre Heimat zu schützen."
@@ -14,7 +14,7 @@ tags:
 ---
 
 
-## DSK Session 14 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 14 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Kammern und Gänge
 

@@ -4,7 +4,7 @@ summary: "In meiner unnachahmlichen Eleganz tarnte ich uns mit Tierfellen als ex
 date: 2024-10-28T11:04:26+01:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "calamari01.webp"
     alt: "Ein mittelalterliches Schiff auf stürmischer See, das von riesigen Tentakeln angegriffen wird. Der dunkle, violett gefärbte Himmel ist von bedrohlichen Wolken bedeckt, und ein großer Vollmond wirft sein Licht auf die Szene. Die massiven Tentakel umschlingen das Schiff und werfen tiefe Schatten, während Wellen gegen das Schiff schlagen und das gedämpfte Mondlicht reflektieren."
@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 20 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 20 - Aus den Erzaehlungen von Benjamin Buechernase
 
 Da standen wir nun und meine Freunde wussten nicht mehr weiter. Klar, wir wollten das Kästchen in den Käfig mit dem seltsamen Hund tun, aber wie sollte es weitergehen? Sicherlich war es sinnvoll, sich in einem der Käfige zu verstecken, und nachdem wir den Fuchs mit den riesigen Ohren befreit hatten, war auch ein passender Käfig leer. Allerdings würden eine Handvoll Katzen in einem Käfig sicherlich auffallen. Wir brauchten dringend gute Verkleidungen und gemeinsam sahen wir uns auf dem Gelände, in der Hoffnung etwas zu finden, um.
 

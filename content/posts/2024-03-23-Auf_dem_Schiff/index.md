@@ -4,7 +4,7 @@ summary: "Auf dem Wrack der Möwe rettete mein unvergleichlicher Scharfsinn die 
 date: 2024-03-23T14:10:00+01:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "auf_dem_schiff.png"
     alt: "Ein Mensch und drei Katzen in einem überfüllten Bücherzimmer, fasziniert von einer großen, leuchtenden, gespenstischen Figur."
@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 8 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 8 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Die Erkundung des Schiffes mit dem Namen Möwe
 

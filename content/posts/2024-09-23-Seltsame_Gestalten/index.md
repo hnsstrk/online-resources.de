@@ -4,7 +4,7 @@ summary: "Obgleich mein brillanter Reiseplan abgelehnt wurde, akzeptierte ich gr
 date: 2024-09-23T12:30:28+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "pfauenkatze.webp"
     alt: "Das Bild zeigt eine blaue Katze mit einem prächtigen, pfauenähnlichen Schwanz, die in einem hölzernen Käfig sitzt. Der Käfig steht vor einer lebhaften Zirkuskulisse mit Zelten im Hintergrund. Die Katze schaut direkt in die Kamera, ihre Ausdruck vermittelt eine ruhige Würde. Der Hintergrund ist von warmen Sonnenlicht durchflutet, das die Szene in ein sanftes Licht taucht."
@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 19 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 19 - Aus den Erzaehlungen von Benjamin Buechernase
 
 Nachdem ich die Karten studiert hatte, war mir klar, dass wir wohl nach Norden reisen mussten, um die vermissten Freunde zu finden. Es würde eine lange Reise werden und ich hatte Bedenken, was geschehen würde, wenn sich niemand um die Zweibeiner in meinem Haus kümmern würde. Ohne mich und völlig auf sich allein gestellt, wären diese hilflosen Geschöpfe aufgeschmissen. Aber ich habe mein Wort gegeben und dies bedeutete, dass ich die Bürde der Reise auf mich nehmen musste. 
 

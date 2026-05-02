@@ -4,7 +4,7 @@ summary: "Während Ravennas Melodie einen Teppich zum Tanzen brachte, bewies ich
 date: 2024-08-02T11:24:46+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "turm.webp"
     alt: "Ein kreisförmiger, von Steinmauern umgebener Raum, erfüllt von magischer Atmosphäre. Zwei Treppen führen nach oben, links und rechts des Raumes. In der Mitte brennt ein Feuer in einer steinernen Feuerstelle, umgeben von leuchtenden blauen Pilzen und Kletterpflanzen, die die Wände erklimmen. Eine kleine Wasserfläche mit sanften Wellen und Stufen liegt am oberen Ende des Raumes. Rechts neben der Feuerstelle steht ein runder Tisch mit einem dekorativen Gegenstand, während links ein kleiner Brunnen plätschert. Der Raum strahlt Ruhe und magische Mystik aus, ein versteckter Rückzugsort inmitten der Natur."
@@ -12,7 +12,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 17 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 17 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Teppich
 

@@ -4,7 +4,7 @@ summary: "In Wolldorf versuchte ich, meine Gefährten vor der Entwürdigung durc
 date: 2023-12-23T13:13:33+01:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "ruben_springt.webp"
     # can also paste direct link from external site
@@ -15,7 +15,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 5 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 5 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Milchschenke
 

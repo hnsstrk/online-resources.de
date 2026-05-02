@@ -4,7 +4,7 @@ summary: "In der Milchschenke bewog mich die Kunde über das Monster Moloch zu e
 date: 2024-04-12T18:10:00+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "keller01.png"
     alt: "Eine Gruppe Katzen kämpft in einem dunklen Keller gegen untote Katzen-Zombies."
@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 10 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 10 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Waffenstillstand
 

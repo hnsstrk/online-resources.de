@@ -4,7 +4,7 @@ summary: "Statt wohliger Wärme im frostigen Prem fand ich mich inmitten einer H
 date: 2024-12-27T15:40:07+01:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "loch.webp"
     alt: ""
@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 21 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 21 - Aus den Erzaehlungen von Benjamin Buechernase
 
 So waren wir nun im Prem gestrandet. Eine Stadt, die angeblich für ihr Feuer berühmt ist. Gerne hätte ich mich an einem solchen Feuer gewärmt, aber wir fanden nur einen kalten Hafen mit einem Haufen betrunkener Zweibeiner vor, die Geschichten erzählten. 
 

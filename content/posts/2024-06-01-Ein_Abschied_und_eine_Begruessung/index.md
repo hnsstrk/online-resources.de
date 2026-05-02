@@ -4,7 +4,7 @@ summary: "Mein unnachahmlicher Scharfsinn bescherte uns im Tempel kostbare Edels
 date: 2024-06-01T18:35:21+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "schatz.png"
     alt: "Eine Kiste voller bunter Edelsteine"
@@ -14,7 +14,7 @@ tags:
 ---
 
 
-## DSK Session 15 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 15 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Schätze und andere Fundsachen.
 

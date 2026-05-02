@@ -4,7 +4,7 @@ summary: "Nach einem erlesenen Diskurs mit dem gelehrten Joka Schlaufuss führte
 date: 2024-05-25T16:21:01+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "Benni_Karte03.png"
     alt: "Graue Katze mit goldener Brille an einem Tisch in einer fantastischen Tavernen-Umgebung. Sie liegt über einer alten Karte gebeugt, neben einem Whiskyglas. Die Szenerie ist detailreich illustriert mit mittelalterlich anmutenden Lampen und Fenstern im Hintergrund."
@@ -14,7 +14,7 @@ tags:
 ---
 
 
-## DSK Session 13 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 13 - Aus den Erzaehlungen von Benjamin Buechernase
 
 In der Milchschenke trafen wir Joka Schlaufuss, einen durch und durch gebildeten Kater. Selbstverständlich nutzte ich die Gelegenheit, nach all den Tagen wieder einmal einen gebildeten Diskurs zu führen und so lud ich den feinen Herren auf eine feine Tasse Sahne ein.
 

@@ -4,7 +4,7 @@ summary: "Als das Untier Moloch unser Refugium bedrohte, war es mein Wanderstab,
 date: 2024-05-01T10:58:39+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "benni_ravenna.png"
     alt: "Zwei niedlichen, verliebte Kätzchen. Eines trägt ein rotes Cape, das andere eine goldene Brille."
@@ -14,7 +14,7 @@ tags:
 ---
 
 
-## DSK Session 12 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 12 - Aus den Erzaehlungen von Benjamin Buechernase
 
 ### Das Ende von Moloch
 

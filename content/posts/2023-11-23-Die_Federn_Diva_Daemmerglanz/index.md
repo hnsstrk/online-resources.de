@@ -5,7 +5,7 @@ date: 2023-11-22T17:30:33+01:00
 author: hnsstrk
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "mondlichthort.png"
     # can also paste direct link from external site
@@ -16,7 +16,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 3 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 3 - Aus den Erzaehlungen von Benjamin Buechernase
 
 In Goldi's Taverne begannen die Geschehnisse sich in einer Weise zu entfalten, die mich erneut in den Mittelpunkt des Geschehens rückte. Der Abend begann, wie so oft, mit dem üblichen Gezänk und Geraune, das unsere Gruppe umgab. Ravenna und Inigo Montoya stritten sich hitzig über einige Statuetten, ein typisches Beispiel für die kleinen Streitereien, die unsere Tage füllten. Ravenna hatte diese Statuetten entwendet und sie Goldi zur Aufbewahrung gegeben, eine kluge Entscheidung, da Goldi sie sicher im Lager verwahrte.
 

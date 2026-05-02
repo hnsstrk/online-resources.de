@@ -4,7 +4,7 @@ summary: "Gerade als ich die Sonne Havenas genoss, störte Kitty Kuschelpfote me
 date: 2024-08-24T13:26:06+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "orakel.webp"
     alt: "Das Bild zeigt eine Eule mit großen, leuchtenden blauen Augen, die auf einem Fensterbrett in einer alten Steinruine sitzt. Die Szene wird von einem hellen Vollmond im Hintergrund erleuchtet, der durch das Fenster scheint und die Umgebung in ein sanftes, bläuliches Licht taucht. Die Eule ist detailliert dargestellt, mit schimmernden blauen und weißen Federn, die im Licht des Mondes glitzern. Die Umgebung um die Eule herum ist dunkel und geheimnisvoll, was eine mystische und magische Atmosphäre erzeugt."
@@ -13,7 +13,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 18 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 18 - Aus den Erzaehlungen von Benjamin Buechernase
 
 Es war ein schöner Tag in Havena, und ich genoss die ersten Sonnenstrahlen auf der Treppe meines beschaulichen Hauses. Es lag zentral in einer der besseren Gegenden der Stadt und war recht groß. Daher machte es mir auch nicht allzu viel aus, es mit einigen Zweibeinern zu teilen. Immerhin versorgten sie mich dafür auch mit allem, was ich im Leben brauchte. Gerade als ich dachte, dass es nicht besser sein könnte, vernahm ich ein schüchternes "Hallo". Zugegebenermaßen etwas träge öffnete ich ein Auge und erblickte die wunderschöne Kitty Kuschelpfote aus Wolldorf.
 

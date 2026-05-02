@@ -5,7 +5,7 @@ date: 2023-12-09T20:12:32+01:00
 author: hnsstrk
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "spinne.png"
     # can also paste direct link from external site
@@ -16,7 +16,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 4 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 4 - Aus den Erzaehlungen von Benjamin Buechernase
 
 Es war ein Abend, der in der Taverne von Layla Goldschimmer seinen Anfang nahm, ein Abend, der in seiner scheinbaren Friedfertigkeit den Auftakt zu einer Reihe beunruhigender Ereignisse markierte. Wie es oft bei solchen Gelegenheiten der Fall ist, widmeten wir uns, ahnungslos über das, was kommen sollte, den vielfältigen Freuden des Daseins. Ich, in meiner erlesenen Vorliebe für kulinarische Genüsse, ergötzte mich an einem Glas Mäusemilch, während Ravenna, stets bereit für eine Auseinandersetzung, sich in Streitigkeiten verstrickte. Die anderen unserer kleinen Schar gingen ihren eigenen Vergnügungen nach. Doch diese Idylle wurde jäh unterbrochen, als ein Waschbär, bekannt unter dem Namen Hase, die Gaststube betrat und unsere Aufmerksamkeit auf sich zog. Er hatte dieses Mal zwar keinen konkreten Auftrag für uns, doch lockte er uns mit der Aussicht auf Krimskrams, wenn wir uns nach Wolldorf begeben würden, um einem Vorschlag seines Freundes Saytan Wollsammler Gehör zu schenken.
 

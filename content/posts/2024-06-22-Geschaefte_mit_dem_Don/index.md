@@ -4,7 +4,7 @@ summary: "Um den Don zu besänftigen, suchten wir nach jenem gefiederten Objekt 
 date: 2024-06-22T20:03:29+02:00
 categories:
  - Die schwarze Katze
- - Aus den Erzählungen von Benjamin Büchernase
+ - Aus den Erzaehlungen von Benjamin Buechernase
 cover:
     image: "Mygalon01.webp"
     alt: "Stilisierte Illustration eines aggressiven, mutierenden Chihuahua-ähnlichen Hundes. Das Tier hat ein braunes Fell, große schwarze Augen und einen weit aufgerissenen Mund mit scharfen Zähnen. Sein Körper ist von spinnenartigen Beinen umgeben. Die Szene ist in düsteren Braun- und Rottönen gehalten, mit Blutspritzern und Bewegungslinien, die eine intensive, gewalttätige Atmosphäre vermitteln."
@@ -12,7 +12,7 @@ tags:
   - Rollenspiel
 ---
 
-## DSK Session 16 - Aus den Erzählungen von Benjamin Büchernase
+## DSK Session 16 - Aus den Erzaehlungen von Benjamin Buechernase
 
 Nach der ... ähm "Sache" mit dem Köter starteten wir unsere weitere Erkundung im Erdgeschoss, wo überall Wollfäden gespannt waren. Offensichtlich hatte Ramon hier einige Fallen aufgestellt. Nachdem wir die Fäden mehr oder weniger geschickt umgangen hatten, beschlossen wir, das Obergeschoss in Angriff zu nehmen.
 

@@ -334,6 +334,14 @@ html[data-theme="dark"] .article-page article h2 .num { color: var(--brass); }
   border-radius: var(--radius);
 }
 .article-page article figure { margin: 2rem 0; }
+.article-page article .article-figure {
+  margin: 2.5rem 0;
+  text-align: center;
+}
+.article-page article .article-figure img {
+  margin: 0 auto;
+  display: block;
+}
 .article-page article figcaption {
   font-family: var(--mono);
   font-size: 10px;

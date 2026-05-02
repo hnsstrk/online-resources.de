@@ -1,0 +1,27 @@
+{{- /* render-image.html — Hugo Markdown Render-Hook für Bilder.
+
+       Markdown-Syntax in Posts:
+         ![alt-text](pfad/bild.webp)                  → <img alt> (kein figure)
+         ![alt-text](pfad/bild.webp "Bildunterschrift") → <figure> mit
+                                                         <figcaption>Bildunterschrift</figcaption>
+
+       Block-Bilder (allein in einem Absatz) werden als <figure> gerendert,
+       inline-Bilder (mit Text drumherum) bleiben einfache <img>-Tags.
+
+       Der Title-Wert (Anführungszeichen nach dem src) ist die sichtbare
+       Bildunterschrift; der Alt-Text bleibt für Screenreader und Suche
+       (nicht visuell ausgegeben).
+*/ -}}
+{{- $alt := .PlainText -}}
+{{- $caption := .Title -}}
+{{- $src := .Destination | safeURL -}}
+{{- if .IsBlock -}}
+<figure class="article-figure">
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" />
+  {{- with $caption }}
+  <figcaption>{{ . | safeHTML }}</figcaption>
+  {{- end }}
+</figure>
+{{- else -}}
+<img src="{{ $src }}" alt="{{ $alt }}"{{ with $caption }} title="{{ . }}"{{ end }} loading="lazy" />
+{{- end -}}

@@ -179,6 +179,11 @@ menu:
   # nicht mehr als Hugo-Menüs.
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    parser:
+      # Standalone-Bilder im Markdown nicht in <p> wrappen, damit sie vom
+      # Image-Render-Hook als Block-Bilder erkannt werden (figure + figcaption).
+      wrapStandAloneImageWithinParagraph: false
   highlight:
     noClasses: false
     # anchorLineNos: true

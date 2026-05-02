@@ -1,8 +1,10 @@
 ---
 title: "Lizenz und Credits"
-url: "/lizenz/"
+url: "/license/"
 description: "Lizenz der Inhalte und Drittkomponenten."
 summary: "Wie dieses Magazin lizenziert ist, und welche Schriften und Bibliotheken hinter den Kulissen stehen."
+aliases:
+  - /lizenz/
 ---
 
 ## Eigene Inhalte

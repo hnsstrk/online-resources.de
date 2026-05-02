@@ -68,7 +68,7 @@ params:
       heading: "Service"
       items:
         - { name: "RSS",         url: "/index.xml" }
-        - { name: "Lizenz",      url: "/lizenz/" }
+        - { name: "Lizenz",      url: "/license/" }
         - { name: "Datenschutz", url: "/datenschutz/" }
         - { name: "Impressum",   url: "/impressum/" }
 
@@ -107,6 +107,7 @@ params:
     tags:       'Schlagworte und <em>Streifzüge</em>.'
     about:      'Wer hier schreibt — und warum.'
     search:     'Volltextsuche durch alle Berichte.'
+    license:    '<em>Hausordnung</em> für Zitate, Schriften und Werkzeuge.'
 
   # ----------------------------------------------------------------------------
   # Home-Texte (Section-Head über dem 3-Spalten-Raster)

@@ -15,7 +15,7 @@ tags:
 
 ## Akte des Patienten Abdul al-Hazred ibn Jafar
 
-![Abdul al-Hazred ibn Jafar](abdul.webp)
+![Abdul al-Hazred ibn Jafar](abdul.webp "Abdul al-Hazred ibn Jafar, Patient")
 
 > **TL;DR**  
 > Der wahnsinnige Magier Abdul al-Hazred ibn Jafar, geplagt von Visionen fremder Welten und Mächte, ward in die Obhut eines Boron-Klosters gegeben. Trotz der Bemühungen der Brüder und Schwestern, insbesondere des Abtes Borondrian Dergelmund, verschlimmerte sich sein Zustand stetig. Der Abt, von den Geheimnissen des Magiers besessen, vertiefte sich in dunkle Studien. Am Ende fand man Abdul grausam verstümmelt, doch mit friedvollem Antlitz, während der Abt selbst dem Wahnsinn anheimzufallen droht.
@@ -163,7 +163,7 @@ Ich muss jedoch auch meine wachsende Sorge um unseren ehemaligen Abt Borondrian 
 
 ## Akte des Patienten Borondrian Dergelmund
 
-![Borondrian Dergelmund](borondrian.webp)
+![Borondrian Dergelmund](borondrian.webp "Borondrian Dergelmund, Abt und Patient")
 
 > **TL;DR:**  
 > Abt Borondrian Dergelmund entwickelte eine Obsession für die Heilung des geisteskranken Magiers Abdul al-Hazred ibn Jafar. Dies führte zu einer zunehmenden Vernachlässigung seiner Pflichten und einer Verschlechterung seiner eigenen geistigen und körperlichen Gesundheit. Trotz des Todes des Magiers und vorübergehender Besserungen verschlechterte sich Borondrians Zustand weiter. Er zog sich immer mehr zurück, litt unter Halluzinationen und wurde zunehmend pflegebedürftig. Schließlich wurde eine Verlegung nach Selem zur intensiveren Behandlung geplant, da sein Zustand kritisch wurde.

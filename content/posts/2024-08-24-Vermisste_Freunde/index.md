@@ -71,7 +71,7 @@ Daraufhin erzählte er uns freudig von einem geheimnisvollen Buch im Keller des 
 
 ### Keller
 
-![Wasserspeier](gargoyle.webp)
+![Wasserspeier](gargoyle.webp "Steinstatue im Bibliothekskeller")
 
 Aus vielen meiner Bücher weiß ich, dass in Kellern Ratten hausen und es Helden bedarf, die diese widerlichen Tiere erschlagen. Genau diese Aufgabe erwartete uns auch im Keller der Bibliothek. Ich machte kurzen Prozess mit den Viechern, aber meine Kameraden schlugen sich ebenfalls relativ gut. Kaum hatten wir die Ratten vertrieben, sah ich mich in dem ersten Kellerraum um. Schnell fiel mir eine alte hölzerne Standuhr auf, wie nicht so richtig in den Raum passen wollte und Ruben sah sich das Ding einmal genauer an. In der Uhr entdeckte er einen versteckten Heiltrank, den wir noch gut gebrauchen konnten.
 

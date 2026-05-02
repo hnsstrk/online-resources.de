@@ -26,7 +26,7 @@ Sie führte eine erste Untersuchung des Armbandes durch, wobei sie einen dämoni
 
 Wir zeigten ihr auch den Schuldschein, den wir bei dem Toten in der Höhle unterhalb des alten Turms gefunden hatten. Diese konnte sie anhand einiger der Symbole und Stempel tatsächlich der Akademie zuordnen. Allerdings war er wohl sehr alt und die Magistra spectabilitas erbat sich mehr Zeit.
 
-![Alter Schuldschein](alter_schuldschein.webp)
+![Alter Schuldschein](alter_schuldschein.webp "Alter Schuldschein der Drachenei-Akademie")
 
 Als wir die Drachenei-Akademie am nächsten Tag kurz nach der Mittagsstunde wieder besuchten, erfuhren wir mehr. Die Magistra spectabilitas Ashtarra Okharim, konnte bestätigen, dass dieser Schuldschein zu Zeiten ihres Urgroßvaters Zakhaban Okharim al'Amulsahib, vor etwa 150 Jahren, ausgestellt wurde. Aziru ben Melahath ai Beni Shadif, der damalige Schatzmeister der Akademie, beauftragte den Archäologen und Abenteurer Hassan y ben Khorim Al'jamila mit der Bergung eines Artefakts. Allerdings wollte sie uns nicht mehr sagen, ohne dass wir uns nicht in einem besonderen Maße als vertrauenswürdig erwiesen hätten. Dieses Vertrauen könnten wir aber durch die Untersuchung des Einsturzes einer Straße erarbeiten. Dieser Einsturz war erst vor wenigen Stunden erfolgt und schuf einen Zugang zur Kanalisation unterhalb der Stadt. Auch wenn dies erst vor wenigen Stunden geschehen war, gab es bereits Gerüchte im entsprechenden Stadtviertel, dass etwas Unheimliches dort unten war und dass es heraufkam.
 
@@ -40,6 +40,6 @@ Wir sammelten einige Proben als Beweis und machten uns auf den Rückweg zur Drac
 
 Nachdem wir von unserer Entdeckung berichtet hatten, erhielten wir mehr Informationen zum so lange gesuchten Artefakt. Bei diesem handelte sich um eine Art mechanisches Rätsel in Form eines Würfels mit vier Kammern. Wir erhielten die Kopien von zwei Seiten mit Zeichnungen und Notizen zu dem Artefakt. Diese sind jedoch in Ur-Tulamidya und scheinen obendrein in einer Art Rätsel oder Geheimsprache verfasst zu sein.
 
-![Zeichnung des Artefakts](artefakt.webp)
+![Zeichnung des Artefakts](artefakt.webp "Zeichnung des mechanischen Artefakts")
 
-![Hinweise zu dem Artefakt](heinweis_artefakt.webp)
+![Hinweise zu dem Artefakt](heinweis_artefakt.webp "Notizen in Ur-Tulamidya zum Artefakt")

@@ -28,7 +28,7 @@ Eigentlich sollte ich mich freuen, dass es nicht nur tote Tiere im Haus der Fell
 
 Da die Nacht noch jung war, machten wir noch einen kleinen Abstecher zum Farbenteich. Dort färben die Zweibeiner ihre Stoffe. Eine höchst interessante Sache, aber ich muss gestehen, für einen Kater mit so einer feinen Nase, wie ich eine mein Eigen nenne, ist dies kein besonders angenehmer Ort. Ruben hingegen schien sich wohlzufühlen. Wir schauten uns ein wenig um, aber das Haus oder die Hütte, war derart von Ratten überrannt, dass wir kurzerhand beschlossen diese zu töten. Ich bin sicher, dass ich die Zweibeiner am nächsten Morgen über all die toten Nager gefreut haben.
 
-![Karte des Drachentempels](dsk_karte.webp)
+![Karte des Drachentempels](dsk_karte.webp "Karte des Drachentempels")
 
 Zurück in der Milchschenke setzten wir die Karte zusammen und sahen eine Art Grab oder Gruft. Ich hatte schon so eine Ahnung, dass es sich um einen Ort im Drachentempel handeln muss, doch wollten wir uns nicht allzu lange damit aufhalten, immerhin hatten wir auch endlich die fünf Murmeln in unserem Besitz.
 

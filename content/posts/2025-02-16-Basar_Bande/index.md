@@ -25,7 +25,7 @@ Im Keller des Hauses fanden wir die Kinder – sowohl jene, die es gewagt hatten
 
 Es war eine Mischung aus Angst und der Tatsache, dass Gray in einer fremden Sprache auf sie einredete, die die Situation immer weiter verschlimmerte. Selbst Andary, der im Tulamidya mächtig war, konnte die weinenden Kinder nicht beruhigen. Dennoch wollten wir den Kleinen helfen, also versuchten wir es weiter – ohne zu bemerken, dass sich jemand von hinten an uns herangeschlichen hatte. Ein dürres Mädchen von höchstens dreizehn oder vierzehn Jahren hielt einen alten Dolch in der Hand und forderte uns in gebrochenem Garethi auf, von den Kleinen abzulassen.
 
-![Layla al-Fadir](token_Layla_al-Fadir.webp)
+![Layla al-Fadir](token_Layla_al-Fadir.webp "Layla al-Fadir, Anführerin der Basarbande")
 
 Mit viel Geduld und einigen Münzen konnten wir sie davon überzeugen, dass wir gerne helfen würden. Als sich die Situation etwas beruhigt hatte, erfuhren wir, dass die Bande einen Gönner hatte, der Mâlik hieß. Außerdem erfuhren wir zum ersten Mal etwas über diese sogenannte "Universität". Es kursierten hauptsächlich Märchen und Gerüchte, doch Layla al-Fadir – die Anführerin der Basarbande – war sich sicher, dass einige der älteren Mitglieder mehr wussten. Allerdings wollte sie zunächst allein mit ihnen sprechen. Wir sollten in drei Stunden zu einer Adresse am Hafen kommen.
 

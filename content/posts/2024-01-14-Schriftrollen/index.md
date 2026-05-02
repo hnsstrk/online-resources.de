@@ -39,7 +39,7 @@ So widmeten wir unsere Aufmerksamkeit den Schriftrollen, die wir in der Mine gef
 
 ### Rolle des Eises
 
-![Rolle des Eises](DieRolledesEises.webp)
+![Rolle des Eises](DieRolledesEises.webp "Rolle des Eises, Wegweiser zum Ehrnen Schwert")
 
 Die Schriftrolle ist von einer kühlen Eleganz, die durch die seltenen und wertvollen blauen Tinten hervorgerufen wird, mit welchen Text und Darstellung ausgearbeitet wurden. Das Pergament ist sehr hochwertig und bis auf kleine Risse an den Kanten gut erhalten. Die Zeichnung selbst scheint an einigen Stellen absichtlich verblasst, um den nebelhaften Figuren, die aus dem eisigen Hintergrund hervortreten, mehr Ausdruck zu verleihen.
 
@@ -64,7 +64,7 @@ Stordian vermutet, dass die Schriftrolle den Weg zu einem mächtigen, vielleicht
 
 ### Rolle des Verlieses
 
-![Rolle des Verlieses](DieRolledesVerlieses.webp)
+![Rolle des Verlieses](DieRolledesVerlieses.webp "Rolle des Verlieses, Hinweis auf ein Drachenei")
 
 Die kunstvolle Gestaltung der Schriftrolle ist ein wahres Meisterwerk. Jeder Strich, jede Linie und jedes Detail wurde mit größter Präzision ausgeführt. Die Farben wurden sorgfältig ausgewählt und das Blau leuchtet, als ob es gerade erst aufgetragen wurde. Die Präzision, mit der die Schriftrolle bearbeitet wurde, ist beeindruckend. Jede Linie ist perfekt geformt, jede Verzierung exakt platziert. Es ist, als ob der Künstler eine unfehlbare Hand hatte, die jeden Strich mit einer unglaublichen Genauigkeit setzte. Man kann sich nur vorstellen, wie viel Zeit und Mühe in die Herstellung dieses Werks investiert wurden. Auch der Zustand der Schriftrolle ist bemerkenswert. Keine Spur von Alter oder Abnutzung ist zu erkennen. Es ist, als wäre sie gerade erst erschaffen worden, frisch und unberührt.
 
@@ -93,7 +93,7 @@ Link entdeckte in der Darstellung ein schuppiges Ei, welches auf einem Sockel im
 
 ### Rolle der Ruine
 
-![Rolle der Ruine](DieRollederRuine.webp)
+![Rolle der Ruine](DieRollederRuine.webp "Rolle der Ruine, Abbild des Finsterturms")
 
 Diese Schriftrolle, geschätzt auf ein halbes Jahrtausend an Jahren, ist sorgfältig auf Haut gezeichnet, deren Farbton das Blutrot vergangener Tage bewahrt, nun überzogen mit einer bräunlichen Patina der Alterung. Der Text und die Abbildung einer Ruine sind über die Jahre verblasst, doch immer noch sichtbar, ein stummes Zeugnis der Geschichte, die sie erzählen. Im Gegensatz dazu stehen die Linien, das zentrale Hexagon und die umgebenden Heptagramme, deren Kanten trotz des Alters scharf und deutlich bleiben, fast so, als wären sie immun gegen die Erosion der Zeit.
 
@@ -121,7 +121,7 @@ In der Kriegskunst diente die Positionierung solcher Türme strategisch der Übe
 
 ### Rolle der Wächterhaut
 
-![Rolle der Wächterhaut](DieRollederWaechterhaut.webp)
+![Rolle der Wächterhaut](DieRollederWaechterhaut.webp "Rolle der Wächterhaut, Tätowierung eines Seefahrers")
 
 Diese Schriftrolle ist eine Tätowierung auf menschlicher Haut, die ein Leben lang Wind und Wetter ausgesetzt war – eine Leinwand, die vielleicht einst einem Seefahrer gehörte. Eingraviert in die Haut sind seltsame Kreaturen, deren bloßer Anblick genügt, um den Betrachter zu verwirren. Ihre Gesichter sind ein Rätsel: mit außerweltlichen Zügen und Augen, die an die Abgründe des Ozeans erinnern – oder sind es vielleicht doch nur Masken? Ihre Gewänder, wirken seltsam und faltig, man könnte vermuten, dass sich Tentakeln darunter verbergen und sich an manchen Stellen daraus hervorwinden.
 
@@ -139,7 +139,7 @@ Der Dreizack des Efferd ist zwar erkennbar, aber es sieht aus, als ob sich die K
 
 ### Rolle des Blutgottes
 
-![Rolle des Blutgottes](DieRolledesBlutgottes.webp)
+![Rolle des Blutgottes](DieRolledesBlutgottes.webp "Rolle des Blutgottes, orkisches Kultdokument")
 
 Gefertigt aus der Haut eines Sklaven, entfaltet sich die Schriftrolle als ein Dokument, das zwar nicht Jahrhunderte, sondern nur Jahrzehnte überdauert hat. Die makabre Herkunft des Materials ist bezeichnend für diejenigen, die sie in Händen hielten – die Orks, deren rauer Umgang mit heiligen Gegenständen ebenso roh ist wie ihre Sitten. Die Haut ist stellenweise abgenutzt, an einigen Stellen rissig und mit Flecken übersät, die von blutigen Ritualen und der rauen Behandlung ihrer Besitzer zeugen. Die Schriftrolle ist robust, doch die Spuren ihres Gebrauchs sind unverkennbar, und man kann erahnen, dass sie Zeuge von dunklen Zeremonien und barbarischen Festen war.
 
@@ -157,7 +157,7 @@ Die Darstellung der roten Mondscheibe auf der Schriftrolle wird als Symbol des B
 
 ### Rolle des Labyrinths
 
-![Rolle des Labyrinths](DieRolledesLabyrinths.webp)
+![Rolle des Labyrinths](DieRolledesLabyrinths.webp "Rolle des Labyrinths, Warnung vor dem Wahnsinn")
 
 Das Ziegenleder, ein Meisterstück alter Handwerkskunst, dessen Oberfläche die Zeiten überdauert hat, zeigt sich als ein Zeugnis alten Wissens. Es strahlt Beständigkeit aus und wirkt trotz der leichten Zerschlissenheit an den Rändern – den stummen Zeugen einer langen Reise – robust. Der Kern der Schriftrolle, mit der Darstellung eines Labyrinths ist bemerkenswert gut erhalten, fast als ob er die unzähligen Blicke, die über ihn geglitten sind, willkommen heißt, ja sogar anzieht.
 
@@ -194,7 +194,7 @@ Das Hexagon im Zentrum könnte als ein Wegweiser innerhalb des Labyrinths fungie
 
 ### Rolle des Schattentores
 
-![Rolle des Schattentores](DieRolledesSchattentores.webp)
+![Rolle des Schattentores](DieRolledesSchattentores.webp "Rolle des Schattentores, Tor zur siebten Sphäre")
 
 Das Pergament zeigt eine Braunfärbung, die an die Seiten eines alten, viel gelesenen Buches erinnert. Über die Jahre hat es an manchen Stellen Flecken angesammelt, die sich in das Material eingebettet haben und es stellenweise schwierig machen, die ursprünglichen Zeichnungen von den Markierungen der Zeit zu unterscheiden. Die Tinte der Zeichnungen ist dunkel und deutlich, trotzt den Jahren und hebt sich stolz vom Hintergrund ab. Sie hat eine bemerkenswerte Tiefe bewahrt und zieht klare, entschlossene Linien über das Pergament, das die Hände vieler Generationen überdauert hat.
 
@@ -223,7 +223,7 @@ Bei näherer Betrachtung des architektonischen Stils des Durchgangs offenbart si
 
 ### Rolle des Sternenkompass
 
-![Rolle des Sternenkompass](DieRolledesSternenkompass.webp)
+![Rolle des Sternenkompass](DieRolledesSternenkompass.webp "Rolle des Sternenkompass, Karte des Südhimmels")
 
 Das Pergament, ein Zeugnis vergangener Epochen, präsentiert sich in einem Zustand, der sowohl seine Zerbrechlichkeit als auch seine Widerstandsfähigkeit gegen die Zeit offenbart. Der Hauptteil ist von einer hellen, gleichmäßigen Beschaffenheit, während die Braunfärbung, ein subtiles, aber deutliches Zeichen des Alters, bereits am unteren Rand nagt.
 

@@ -18,7 +18,7 @@ tags:
 
 ### In der Nähe des Bauernhofes
 
-![](hnsstrk_small_medieval_farm_e76f447d-5e2d-4e34-9f73-6485280d9f23-768x512.png)
+![](hnsstrk_small_medieval_farm_e76f447d-5e2d-4e34-9f73-6485280d9f23-768x512.png "Der Bauernhof am Vorgebirge des Finsterkammes")
 
 Als die Lebensmittel- und Proviantvorräte sich wieder dem Ende neigten zogen Kalidor, Link Bender und Helbrecht gegen Süden, Richtung des Bauernhofes eines Schwagers des Holzfällers.
 
@@ -36,7 +36,7 @@ In einem zähen Kampf, mit Gegnern, die von allen Seiten anzugreifen schienen, k
 
 ### Die Siedlung im Nord-Westen
 
-![](hnsstrk_very_small_medieval_rural_village_with_a_femal_blacksmi_f764a560-38e1-4c5e-b9e5-055d5929ff64-768x512.png)
+![](hnsstrk_very_small_medieval_rural_village_with_a_femal_blacksmi_f764a560-38e1-4c5e-b9e5-055d5929ff64-768x512.png "Finsterdorf im Vorland des Finsterkammes")
 
 Andaryn und Stordian erkundeten zur gleichen Zeit die Gegend zum Nord-Westen des alten Turmes. Dort stießen sie auf eine kleine Siedlung, Finsterdorf, im Vorland des Finsterkammes.
 

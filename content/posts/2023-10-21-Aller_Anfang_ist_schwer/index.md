@@ -12,7 +12,7 @@ tags:
 
 ## DSK Session 1 - Tagebuch von Inigo
 
-![Inigo Montoya](token_daniel.webp)
+![Inigo Montoya](token_daniel.webp "Inigo Montoya, Kater und Chronist")
 
 ## Das Treffen
 Tja, wie war das noch gleich. Da habe ich doch in Goldis Taverne gleich 3 Vagabunden getroffen. Die scheinen alle ja nicht ganz Helle zu sein, aber naja ich selber kann bisher ja auch nicht mit cleveren Entscheidungen glänzen. Zumindest sind sie so ehrenhaft, dass sie einem schreiendem Mädchen zur Hilfe eilen. Auch scheinen sie einiges auf dem Kasten zu haben, denn mit diesem Rattenungeziefer sind sie ganz gut klar gekommen.
@@ -25,19 +25,19 @@ Wir sind plannungsmässig am nächsten Abend losgegangen. Am Fischmarkt angekomm
 
 ## Ruben, der Lumpensammler
 
-![Ruben](token_marcel.webp)
+![Ruben](token_marcel.webp "Ruben, der Lumpensammler")
 
 Ein Allessammler oder wie man das auch nennt. Pummelig, dreckig und ungepflegt. Aktuell fällt mir nicht mehr dazu ein. Kommt aber vielleicht noch.
 
 ## Benni, die Brillenschlange
 
-![Benjamin Büchernase](token_hans.webp)
+![Benjamin Büchernase](token_hans.webp "Benjamin Büchernase, der Gelehrte")
 
 Ein Gelehrter, der denk clever zu sein. Sehr clever war er nicht, als er unseren Anschleichversuch torpediert und auch noch ganze Mondglöckchen verloren hat. Aber dazu schreib ich später noch was.
 
 ## Ravenna, die Schroffe
 
-![Ravenna](token_bianca.webp)
+![Ravenna](token_bianca.webp "Ravenna, die Schroffe")
 
 Ich muss zugeben, sie sieht schon ganz taff aus und mit dem Bogen kann sie auch umgehen. Doch ihr Benehmen lässt zu wünschen übrig. Über den Lumpensammler und dir Brillenschlange kann man herziehen, aber dass sie Goldi grundlos so schroff angesprochen hat, zeigt nur, dass sie nicht mit anderen Katzen kann.
 

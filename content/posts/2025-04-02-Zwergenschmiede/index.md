@@ -34,7 +34,7 @@ Um nicht noch weiter Verdacht zu erregen, betraten wir das Gebäude, um mit Ihre
 
 Wir waren hin- und hergerissen, ob wir dies alles abbrechen sollten, um Boronep auf den Weg zu schicken, oder ob wir die Akademie weiterarbeiten lassen sollten. Doch da wurden unsere Überlegungen von zwei Zwergen, einem Mann und einer Frau, unterbrochen, die sich lautstark mit dem niederen Verwaltungs-Magier am Empfang unterhielten. Da dies in Tulamydia geschah verstanden wir kein Wort. Dennoch erkannten wir, dass sie unter großem Stress standen.
 
-![Gundrabosch Eisenhammer](token_GundraboschEisenhammer.webp) ![Thordra Eisenhammer](token_ThordraEisenhammer.webp)
+![Gundrabosch Eisenhammer](token_GundraboschEisenhammer.webp "Gundrabosch Eisenhammer, Hügelzwerg und Schmied") ![Thordra Eisenhammer](token_ThordraEisenhammer.webp "Thordra Eisenhammer, Hügelzwergin")
 
 Auf Grund ihres Äußeren vermuteten wir, dass es sich bei den Beiden um Hügelzwerge handeln könnte und dass die Chance bestand, dass sie vielleicht sogar Garethi sprechen konnten. Daher machte sich mein stets hilfsbereiter Freund Gray auf, um zu schauen, ob wir etwas für die Zwerge tun könnten und sprach die Frau an.
 
@@ -44,4 +44,4 @@ Das *verdorbene Erz* ließ uns aufhorchen, war es doch erst wenige Tage her, das
 
 Gemeinsam mit den beiden Zwergen begaben wir uns ins Schmiedeviertel der Stadt Khunchom. In der Schmiede stand, nah bei der Esse, ein Dschinn des Unerzes und im Raum verteilt fanden wir auch einige Unelementare. Wir boten alles auf und stellten uns der Bedrohung entgegen, doch wir mussten einiges einstecken. Aber nach einem harten Kampf gelang es uns zu siegen. Allerdings erspähte Gray, gerade als sich der verdrehte Dschinn zurückgezogen hatte, eine Gestalt, die ihm bekannt vorkam...
 
-![Pentagor Dunkelstein](token_green_phylakteriker.webp)
+![Pentagor Dunkelstein](token_green_phylakteriker.webp "Pentagor Dunkelstein, Phylakteriker")

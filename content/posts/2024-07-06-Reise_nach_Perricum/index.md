@@ -43,7 +43,7 @@ So traten wir an diesem Tag unsere Reise durch die frostige Landschaft der Baron
 
 ### Von Wiesengrund nach Wandleth
 
-![alt text](reise_nach_perricum04.webp)
+![alt text](reise_nach_perricum04.webp "Beschwerlicher Ritt durch Schnee und Frost")
 
 Nach einer schmerzhaften Nacht setzten wir am darauffolgenden Tag unsere Reise fort. Die Kälte wurde unerträglich, und die ersten Schneeflocken fielen bereits vom Himmel. Nach ca. neun Stunden erreichten wir Wandleth. Die Stadt ist geprägt von zwergischer Architektur und bot alle erdenklichen Annehmlichkeiten. Die Burg, das Wiesenschlösschen, ein aus rosafarbenem Marmor erbautes Schloss, wirkte in der Abenddämmerung einladend und imposant. Wir fanden Unterschlupf im Gasthaus „Zum Wiesenschlösschen“, das für seine Gemütlichkeit und gute Küche bekannt ist.
 
@@ -76,7 +76,7 @@ Die Nacht in Perricum war ruhig, doch die Geräusche der Großstadt und das Raus
 
 ### In Perricum
 
-![Perricum](perricum01.webp)
+![Perricum](perricum01.webp "Perricum im Wintergestöber")
 
 Am Morgen genossen wir ein einfaches Frühstück im Gasthaus „Der Hartsteener“ welches im Stadtteil Darpatstieg, nahe dem Ingerimm-Tempel und dem Hafen lag. Trotz der Kriegsnarben in Darpatstieg hatte das Gasthaus überlebt und bot eine einfache, aber gemütliche Atmosphäre. Der Wirt, Hartmut, servierte uns frisches Brot, dicken Käse und Haferbrei. Der Duft von heißem Tee und gebratenem Speck erfüllte den Raum.
 

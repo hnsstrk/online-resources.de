@@ -36,7 +36,7 @@ Die Suche selbst offenbarte uns auch noch etwas anderes. Gray scheint eine Vorli
 
 ### Schulden
 
-![](alter_schuldschein-768x768.webp)
+![](alter_schuldschein-768x768.webp "Der tulamidische Schuldschein aus der Höhle")
 
 Auch die bei den Leichen in der Höhle gefunden Schuldscheine sah sich die Gruppe noch einmal ein bisschen genauer an. Zwar war es unmöglich das Alter zu bestimmen, aber Andaryn könnte den Text aus dem Tulamidischen übersetzen. Dieser lautet wie folgt:
 

@@ -31,10 +31,10 @@ In der Nacht konnte ich auf Grund des Helms kaum schlafen und während die Stund
 
 ### Geschäfte
 
-![Karlos Jurios](token_karlos.webp)
-![Gonzalo Jurios](token_Gonzalo_Jurios.webp)
-![Fernando Jurios](token_FernandoJurios.webp)
-![Esteban Carvajal](token_EstebanCarvajal.webp)
+![Karlos Jurios](token_karlos.webp "Karlos Jurios, Patriarch der Familie")
+![Gonzalo Jurios](token_Gonzalo_Jurios.webp "Gonzalo Jurios, der Widersacher")
+![Fernando Jurios](token_FernandoJurios.webp "Fernando Jurios, Bruder des Patriarchen")
+![Esteban Carvajal](token_EstebanCarvajal.webp "Esteban Carvajal, Chef der Stadtwache")
 
 Am nächsten Tag wurde ich am späten Nachmittag oder frühen Abend von vier Wächtern zu den Pferdestallungen des Anwesens gebracht. Diese waren groß und im ragathischen Stil gehalten. Massive Steinwände, kunstvoll verzierte Türen und Fenster sowie ein gepflegter Innenhof mit Orangenbäumen prägten das Bild. Die Pferde standen in geräumigen Boxen aus dunklem Holz, versehen mit glänzenden Beschlägen. Die Atmosphäre strahlte Eleganz und Stolz aus, ein Zeugnis der tiefen Leidenschaft des Hausherrn für seine Tiere oder eine beeindruckende Zurschaustellung von Reichtum und Status.
 
@@ -48,7 +48,7 @@ Es war widerwärtig, was da von uns verlangt wurde, aber Gray führte die Verhan
 
 ### Ein ungewolltes Geschenk
 
-![Das Armband](armband.webp)
+![Das Armband](armband.webp "Das Armband, Kette des Karlos Jurios")
 
 Das Armband bestand aus dunklem, fast schwarzem Metall, das wie verschlungene Wurzeln oder Äste geformt war. Die Struktur hatte etwas Lebendiges an sich, als würden die Metallstränge sich ständig bewegen und ineinander verschlingen. Eingebettet in diese unheimliche Metallstruktur waren mehrere irisierende Edelsteine, die in einem verführerischen, jedoch bedrohlichen Schimmer leuchteten. Die Edelsteine reflektierten das Licht in schillernden Farben, die von tiefem Violett bis zu glühendem Grün reichten, und strahlten eine düstere Aura aus, die sofort alle Blicke auf sich zog. Die Fertigung des Armbands war meisterhaft und doch unheimlich.
 

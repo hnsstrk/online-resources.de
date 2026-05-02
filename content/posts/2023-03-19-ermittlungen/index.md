@@ -1,5 +1,6 @@
 ---
 title: Ermittlungen
+summary: "Am Tische des Grafen von Tannenwald weicht die Festfreude jäh dem kalten Grauen, als ein Gast dem Gift erliegt. Während Baron von Hochland vor dem Einfluss zwielichtiger Gestalten warnt, entlarven wir den Wein als Werkzeug des Mörders. Gemeinsam mit Wachtmeister Falk Peterson und dem Akoluthen Praiosmund vom Mistelteich suchen wir in den Mauern des Anwesens nach der verborgenen Wahrheit."
 author: hnsstrk
 date: 2023-03-19T19:42:05+00:00
 categories:

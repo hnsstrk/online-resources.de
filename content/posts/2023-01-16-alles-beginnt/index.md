@@ -1,5 +1,6 @@
 ---
 title: Alles beginnt
+summary: "In den Gassen von Eslamsroden nimmt unser Schicksal einen wenig glanzvollen Anfang. Während Link bei seinem nächtlichen Streifzug an der Wachsamkeit der Garde scheitert, büßt der adlige Andaryn nach exzessivem Treiben in der Riva-Stube seine Freiheit ein. So finden wir uns unverhofft in der Enge des Kerkers wieder, wo die erste Stunde unserer Gemeinschaft schlägt."
 author: hnsstrk
 date: 2023-01-16T15:01:00+00:00
 categories:

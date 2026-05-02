@@ -1,5 +1,6 @@
 ---
 title: "Gastfreundschaft"
+summary: "Inmitten der Weinstube ereilt uns das Schicksal, als Gonzalo Jurios mit brutaler Gewalt den magischen Beistand unserer Gruppe entführt. In einem luxuriösen Turmgefängnis, gepeinigt von einem Helm aus kaltem Eisen, harrt der Gefährte seiner Rettung aus. Erst Karlos Jurios gewährt die Freiheit gegen einen blutigen Preis in den fernen Gassen von Khunchom. Ein düsterer Pakt ist besiegelt."
 date: 2024-06-09T19:09:01+02:00
 categories:
  - Das schwarze Auge

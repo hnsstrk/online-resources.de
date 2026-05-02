@@ -1,5 +1,6 @@
 ---
 title: In der Zelle
+summary: "Link harrt in karger Zelle aus, bis ihm der trunkene Andaryn bei unerwartet besserer Bewirtung Gesellschaft leistet. Trotz frischen Brotes bleibt der Gestank der Gefangenschaft allgegenwärtig. Schließlich ereilt uns das Urteil der Stadtwache wegen mancherlei Frevel. Während Link harte Strafarbeit droht, zeigt sich das Schicksal gegenüber dem einsichtigen Edelmann weitaus gnädiger."
 author: hnsstrk
 date: 2023-01-16T15:02:00+00:00
 categories:

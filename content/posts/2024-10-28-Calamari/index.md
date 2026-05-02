@@ -1,5 +1,6 @@
 ---
 title: "Calamari"
+summary: "In meiner unnachahmlichen Eleganz tarnte ich uns mit Tierfellen als exotische Menagerie, um unbemerkt an Bord eines Schiffes zu gelangen. Während Ravenna ein Kästchen bei einem monströsen Köter verbarg, hielt ich wachsam meine schützende Pfote über Jack und die Gruppe."
 date: 2024-10-28T11:04:26+01:00
 categories:
  - Die schwarze Katze

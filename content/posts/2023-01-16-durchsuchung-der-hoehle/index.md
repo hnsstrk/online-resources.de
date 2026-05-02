@@ -1,5 +1,6 @@
 ---
 title: Durchsuchung der Höhle
+summary: "Wir folgten den rätselhaften Träumen der kleinen Sophie in die finstere Tiefe unter dem Turm. Während Andaryn sein Erbe auf Junkergut Finsterwacht antritt, offenbart die Suche neben räuberischem Getier einen uralten tulamidischen Schuldschein. Ein kostbares Artefakt und die Spur der Alaster-Münzen weisen uns nun den fernen Weg zur Drachenei-Akademie von Khunchom."
 author: hnsstrk
 date: 2023-01-16T15:11:00+00:00
 categories:

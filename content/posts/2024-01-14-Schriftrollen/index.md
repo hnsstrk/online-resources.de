@@ -1,5 +1,6 @@
 ---
 title: "Schriftrollen"
+summary: "In der Tiefe der Mine drängen wir die Schwarzpelze zurück, bis ein gewaltiger Oger unseren Pfad kreuzt. Andaryns Tapferkeit sichert uns den Rückzug und die Bergung geheimnisvoller Schriftrollen. Gemeinsam mit Zayn Bassam aus Khunchom studieren wir auf Burg Finster die eisigen Dokumente. Die Rolle des Eises weist uns den gefahrvollen Weg in das Ehrne Schwert."
 date: 2024-01-14T14:43:24+01:00
 categories:
  - Das schwarze Auge

@@ -1,5 +1,6 @@
 ---
 title: "Seltsame Gestalten"
+summary: "Obgleich mein brillanter Reiseplan abgelehnt wurde, akzeptierte ich großmütig die Überfahrt per Schiff. Während ich am Hafen galant juristischen Beistand leistete, regelten meine Leute die Geschäfte mit Kater Karlo. In einem bizarren Zirkus stießen wir auf namenlose Schrecken und unsere geschundenen Gefährten."
 date: 2024-09-23T12:30:28+02:00
 categories:
  - Die schwarze Katze

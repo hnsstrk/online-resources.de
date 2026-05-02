@@ -1,5 +1,6 @@
 ---
 title: Ein Abend in der Taverne
+summary: "Im Vollen Humpen zu Gareth fanden wir uns zusammen, um die Bande unserer Gemeinschaft zu festigen und künftige Taten zu planen. Während Bender und der Magus die Hallen ihrer Lehrmeister besuchten, suchten Andaryn und Gray das Glück in zwielichtigen Gassen. Ein Silberstück besänftigte die Gaukler, ehe ein Bote den Weg zu Graf Hermann von Tannenwald und seinem Bankett ebnete."
 author: hnsstrk
 date: 2023-03-13T20:28:03+00:00
 categories:

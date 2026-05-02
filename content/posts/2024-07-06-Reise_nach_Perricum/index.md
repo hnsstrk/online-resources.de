@@ -1,5 +1,6 @@
 ---
 title: "Reise nach Perricum"
+summary: "Unter dem Argusauge des Gonzalo Jurios verlassen wir Ragath, während die Reiter Esteban Carvajals uns bedrohlich überschatten. Frost und Schneegestöber begleiten unseren beschwerlichen Ritt durch Erlenstamm bis in das zwergisch geprägte Wandleth. Dort künden Prediger vom nahen Unheil, ehe uns der Weg am eisigen Darpat entlang nach Wasserburg führt. Die Ungewissheit bleibt unser steter Begleiter."
 date: 2024-07-06T17:24:35+02:00
 categories:
  - Das schwarze Auge

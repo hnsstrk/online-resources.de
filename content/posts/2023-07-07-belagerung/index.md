@@ -1,5 +1,6 @@
 ---
 title: "Belagerung"
+summary: "Nach der blutigen Schlacht gegen die Schwarzpelze halten wir die Mauern von Burg Finster. Während wir die Toten bergen, deckt Andaryn den Verrat des Burgvogts auf, der uns schändlich hinterging. Ein Tribunal fordert unsere Urteilskraft, während der Halbork Tuzzugh von den Umtrieben eines Tairach-Priesters kündet. Mysteriöse Symbole werfen bereits lange Schatten auf unser Schicksal."
 author: hnsstrk
 date: 2023-07-10T16:01:01+02:00
 categories:

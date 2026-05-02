@@ -1,5 +1,6 @@
 ---
 title: "Unwasser und Unluft"
+summary: "In der stinkenden Kanalisation von Khunchom trotzen wir der Macht eines Dschinns des Unwassers. Während Nga'Churr im Blutrausch wütet, ringen wir mit den Fluten, bis Andaryns Klinge das Verderben bannt. Kaum vom Unrat befreit, führt uns die Suche nach einem Müller zu einer zerstörten Windmühle. Dort treiben Unelementare der Luft ein grausames Spiel mit den Toten und fordern uns erneut."
 date: 2025-05-03T21:29:58+02:00
 categories:
  - Das schwarze Auge

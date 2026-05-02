@@ -1,5 +1,6 @@
 ---
 title: "Die vierte Murmel"
+summary: "In der Milchschenke bewog mich die Kunde über das Monster Moloch zu einem taktischen Waffenstillstand mit Ajom Fleckfell. Da meine Gefährten ohne meine Führung hoffnungslos zerstritten waren, lenkte ich unsere Schritte zum Maushaus. Während ich Sial Pfotenglück mit einer vorzüglichen Maus bezirzte, stießen wir auf schaurige Zombienes."
 date: 2024-04-12T18:10:00+02:00
 categories:
  - Die schwarze Katze

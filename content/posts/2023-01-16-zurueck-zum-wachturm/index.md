@@ -1,5 +1,6 @@
 ---
 title: Zurück zum Wachturm
+summary: "Nach dem Streit mit Yorlak führt uns die Fährte des Untodes zurück zum Wachturm vor den Toren Wehrheims. In der Dunkelheit trotzen wir den wandelnden Leibern, bis wir tief in das modrige Gemäuer vordringen. Dort wehren sich flinke Skelette verbissen, um ein Geheimnis hinter einer verschlossenen Tür zu schützen. Wir stehen vor der Schwelle einer dunklen Legende."
 author: hnsstrk
 date: 2023-01-16T15:18:00+00:00
 categories:

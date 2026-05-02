@@ -1,5 +1,6 @@
 ---
 title: "Mysterien von Häpschbach: Auf der Spur des Unbekannten"
+summary: "Während Himgi den Biervorrat von Häpschbach im Alleingang vernichtet, schlage ich mich mit dem störrischen Bürgermeister Magan herum. Der alte Müller Teslig erweist sich als ergiebigere Quelle für lokale Mythen und blutige Historie. Wir erfahren von verfallenen Mauern und dem grausamen Ende der Nika am Eichenhain. Ein wahrlich reizender Ort für meine Studien."
 date: 2007-01-05T14:28:38+01:00
 categories:
   - GURPS

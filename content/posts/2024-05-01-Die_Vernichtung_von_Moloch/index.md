@@ -1,5 +1,6 @@
 ---
 title: "Die Vernichtung von Moloch"
+summary: "Als das Untier Moloch unser Refugium bedrohte, war es mein Wanderstab, der den Kameraden den Weg zum Siege wies. Ravenna mochte durch lautstarke Apparaturen glänzen, doch erst mein Scharfsinn enthüllte Sials finstere Verstrickungen. Nun rufen die mysteriösen Wächter Praeteritus und Presentus nach meiner Gelehrsamkeit, während wir die letzte Murmel den Klauen räudiger Köter entrissen."
 date: 2024-05-01T10:58:39+02:00
 categories:
  - Die schwarze Katze

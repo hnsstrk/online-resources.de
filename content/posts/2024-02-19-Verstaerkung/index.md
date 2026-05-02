@@ -1,5 +1,6 @@
 ---
 title: "Verstärkung"
+summary: "Im düsteren Monat Boron erreicht Graf Praiodor von Arestehr die Burg Finster, um sie gegen die drohende Belagerung zu rüsten. Doch bald fordert der gewaltige Krrachtt Schildbein die Auslieferung von Gurrgak Pestauge. Wir erkennen die finstere Macht des Blutgottes Tairach und rüsten uns für eine Reise, um ein Unheil abzuwenden, das ganz Aventurien bedroht."
 date: 2024-02-19T21:45:00+01:00
 categories:
  - Das schwarze Auge

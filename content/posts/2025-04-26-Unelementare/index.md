@@ -1,5 +1,6 @@
 ---
 title: "Unelementare"
+summary: "In den Hallen der Drachenei empfing uns Ashtarra Okharim, um über das Verderben der Unelementaren zu beraten. Die Jagd nach dem entweihten Feuer führte uns auf einen Friedhof, wo wir unter Schmerzen eine Kreatur aus brodelnder Glut und Qualm bezwangen. In der Tiefe der Gruft erwartete uns schließlich Pentagor Dunkelstein, dessen rätselhafte Worte einen Schatten auf Grays Schicksal warfen."
 date: 2025-04-26T23:12:04+02:00
 categories:
  - Das schwarze Auge

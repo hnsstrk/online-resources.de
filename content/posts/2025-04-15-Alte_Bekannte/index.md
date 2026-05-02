@@ -1,5 +1,6 @@
 ---
 title: "Alte Bekannte"
+summary: "Während Gray seine Wunden im Hotel Erhabener Mhanadi pflegt, suchen wir in der Schmiede von Gundrabosch Eisenhammer nach Spuren. Ein unheilvolles Erz nährt unseren finsteren Verdacht gegen Pentagor Dunkelstein. Doch erst die Begegnung mit Branibart Pausbäcker und Roban Honorald führt uns an die Docks. Dort lauert ein stinkendes Grauen im Hafenbecken auf unvorsichtige Recken."
 date: 2025-04-15T17:29:18+02:00
 categories:
  - Das schwarze Auge

@@ -1,5 +1,6 @@
 ---
 title: Schwertfest
+summary: "In Greifenfurt angekommen, entgleitet uns der gefangene Schwarzpelz in die Nacht, während wir beim Schwertfest ritterlichen Ruhm suchen. Stordian, Auđur und Andaryn erringen Siege auf dem Turnierplatz, doch der tückische Binsbart Borkfried trübt unsere Freude. Er lässt Stordian durch den Söldner Geron Waisenmacher demütigen."
 author: hnsstrk
 date: 2023-01-16T15:13:00+00:00
 categories:

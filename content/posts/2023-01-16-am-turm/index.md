@@ -1,5 +1,6 @@
 ---
 title: Am Turm
+summary: "Am alten Turm empfängt uns der mürrische Förster mit harter Arbeit, während wir die Zwangsarbeiter beim Holzfällen unterstützen. Link versucht die Flucht, doch Benders Charme bindet ihn fester an unsere Seite als jede Kette. Als in der Nacht eine giftige Höhlenspinne aus den Schatten bricht, bewährt sich unsere Wachsamkeit und wir schlagen die Bestie gemeinsam zurück."
 author: hnsstrk
 date: 2023-01-16T15:04:00+00:00
 categories:

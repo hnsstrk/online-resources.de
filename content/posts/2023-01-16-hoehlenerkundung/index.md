@@ -1,5 +1,6 @@
 ---
 title: Höhlenerkundung
+summary: "Um den Spinnenplagen ein Ende zu setzen, drangen Andaryn, Kalidor, Stordian und Fire in die finstere Höhle ein. Sophies Karte wies uns den Weg durch die tückischen Gänge unter dem Fels. Wir rangen mit achtfüßigen Schrecken und fanden zwischen den Gebeinen Verblichener eine schwere Truhe. Gold glänzte im Fackelschein, doch die Dunkelheit barg noch weitaus mehr."
 author: hnsstrk
 date: 2023-01-16T15:07:00+00:00
 categories:

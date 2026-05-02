@@ -1,5 +1,6 @@
 ---
 title: "Es wird kompliziert"
+summary: "Havena-Zustände mitten in Wolldorf, als Quattre den armen Five einfach vor aller Augen umlegt. Die Befreiung von Saytan aus dem Pferdestall war blutig, doch Ruben und Ravenna hielten am Ende stand. Jetzt sitzen wir auf einem Piratenschiff fest. Beim Anblick der entwachten Katze frage ich mich besorgt, ob uns bald dasselbe Schicksal erwartet."
 date: 2024-02-07T16:37:00+01:00
 author: dnlbrggr
 categories:

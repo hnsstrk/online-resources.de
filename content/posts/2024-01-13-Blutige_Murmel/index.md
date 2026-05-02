@@ -1,5 +1,6 @@
 ---
 title: "Blutige Murmel"
+summary: "Ein vorzügliches Mahl hätte der Höhepunkt sein können, wäre da nicht der profane Drang nach der lila Murmel gewesen. Im Wollhimmel bewiesen Ruben, Ravenna und meine Wenigkeit artistische Brillanz, um das Kleinod von Five zu gewinnen. Doch der Triumph wird von Quatres unvorstellbarer Grausamkeit überschattet, die unser Dorf in Aufruhr versetzt. Wo sind wir da nur hineingeraten?"
 date: 2024-01-13T20:57:36+01:00
 categories:
  - Die schwarze Katze

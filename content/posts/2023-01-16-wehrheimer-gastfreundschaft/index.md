@@ -1,5 +1,6 @@
 ---
 title: Wehrheimer Gastfreundschaft
+summary: "In den Schatten des verfallenen Wehrheims empfängt uns Yorlak Barbrück mit aranischer Gastfreundschaft und einer feurigen Prüfung. Wir verpflichten uns, einen geistlosen Boten in den Ruinen aufzuspüren, um längst verlorene Dokumente zu bergen. Zwischen Schreckensraben und wandelnden Leichen suchen wir des Nachts unseren Pfad, während Silber mühsam den Frieden mit den Lebenden wahrt."
 author: hnsstrk
 date: 2023-01-16T15:16:00+00:00
 categories:

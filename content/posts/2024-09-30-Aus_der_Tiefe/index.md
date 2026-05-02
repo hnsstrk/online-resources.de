@@ -1,5 +1,6 @@
 ---
 title: "Aus der Tiefe"
+summary: "Auf der Sonnenwind peitscht die See gegen das Gebälk, als sich Turgoth, der finstere Diener der Charyptoroth, aus den Wogen erhebt. Während Gray, Boronep, Andaryn und Link gegen schleimige Wesen kämpfen, wird Borondrian Dergelmund in den Abgrund gerissen. Unter schwersten Verlusten gelingt uns die Flucht, bis wir schließlich den rettenden Hafen von Elburun erreichen."
 date: 2024-09-30T15:49:49+02:00
 categories:
  - Das schwarze Auge

@@ -1,5 +1,6 @@
 ---
 title: "Der verrückte Abt"
+summary: "Im Kloster des Vergessens zu Perricum übernehmen wir den Schutz des abgemergelten Abtes Borondrian Dergelmund. Gemeinsam mit der Novizin Boronike Dengler führen wir den Gezeichneten an Bord der Sonnenwind. Doch auf stürmischer See verfällt der Greis in blasphemische Zungen und raunt von fremden Schlüsseln, während unsere Schriftrollen seinen tiefen Wahnsinn nur noch weiter befeuern."
 date: 2024-09-08T11:51:09+02:00
 categories:
  - Das schwarze Auge

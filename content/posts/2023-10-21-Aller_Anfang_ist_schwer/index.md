@@ -1,5 +1,6 @@
 ---
 title: "Aller Anfang ist schwer"
+summary: "In Goldis Taverne treffe ich auf Ruben, Benni und Ravenna. Seltsame Typen, aber immerhin ehrenhaft genug, einem Mädchen gegen Ratten beizustehen. Da Goldi verletzt ist, suchen wir am Aal-Haus nach geräuchertem Fisch. Trotz Bennis peinlichem Nacktauftritt und einem bissigen Köter bringen wir die Beute heim. Mal sehen, ob diese Truppe morgen noch lebt."
 date: 2023-10-25T06:35:46+02:00
 author: dnlbrggr
 categories:

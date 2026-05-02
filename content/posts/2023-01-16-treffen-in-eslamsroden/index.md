@@ -1,5 +1,6 @@
 ---
 title: Treffen in Eslamsroden
+summary: "In den Gassen von Eslamsroden fordert Fire den Unmut der Stadtwache heraus, als er sein Lager ungeachtet aller Sitten in einer Parkanlage aufschlägt. Erst das Eingreifen Stordians wendet das Unheil ab, woraufhin die übelriechende Lindwurmhaut der Erde übergeben wird. In der Riva-Stube finden wir schließlich zusammen, als auch Helbrecht zu uns stößt und die Gemeinschaft vor dem Aufbruch eint."
 author: hnsstrk
 date: 2023-01-16T15:06:00+00:00
 categories:

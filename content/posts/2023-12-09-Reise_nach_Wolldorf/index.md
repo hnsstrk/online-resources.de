@@ -1,5 +1,6 @@
 ---
 title: "Reise nach Wolldorf"
+summary: "Mein feiner Gaumen schwelgte noch bei Layla Goldschimmer, als uns der Waschbär Hase nach Wolldorf lockte. Obschon man meinen Plan einer bequemen Karrenreise ignorierte, zwang mich die Gruppe zu einem barbarischen Fußmarsch. Zwischen monströsen Stechmücken und einer abscheulichen Riesenspinne musste ich mein kostbares Leben für Ravenna wagen."
 date: 2023-12-09T20:12:32+01:00
 author: hnsstrk
 categories:

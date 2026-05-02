@@ -1,5 +1,6 @@
 ---
 title: "Das Loch"
+summary: "Statt wohliger Wärme im frostigen Prem fand ich mich inmitten einer Horde wahnsinniger Katzen in einer Grube wieder. Unser Begleiter Arturo verstieg sich ob göttlicher Verehrung zu abscheulicher Undankbarkeit und hetzte uns Mörder auf den Pelz. Mühsam rettete ich mein edles Antlitz vor den Klauen der Verrückten, während meine Gefährten kopflos in alle Richtungen flohen."
 date: 2024-12-27T15:40:07+01:00
 categories:
  - Die schwarze Katze

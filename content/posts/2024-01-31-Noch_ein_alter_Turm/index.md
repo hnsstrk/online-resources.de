@@ -1,5 +1,6 @@
 ---
 title: "Noch ein alter Turm"
+summary: "Wir ritten aus, um ein Lager der Schwarzpelze bei einer vergessenen Turmruine auszuheben. In den modrigen Mauern bezwangen wir widernatürliche Zombies und entgingen nur knapp dem Zorn eines gewaltigen Minotaurus. Schwer gezeichnet von Stahl und Klauen retteten uns erst die Heiltränke aus einer eisernen Truhe das Leben. So kehrten wir erschöpft, doch siegreich heim."
 date: 2024-01-31T18:56:00+01:00
 categories:
  - Das schwarze Auge

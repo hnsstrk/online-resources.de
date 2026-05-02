@@ -1,5 +1,6 @@
 ---
 title: Abtransport
+summary: "In Eslamsroden verdingt sich Bender als Gardist und meldet sich für die Bewachung zweier Zwangsarbeiter. Gemeinsam mit Stordian führen wir Andaryn und Link dem alten Turm entgegen. Ein vermeintlich lukrativer Auftrag bindet unser Schicksal an diesen düsteren Ort. Unter den wachsamen Augen der Garde beginnt ein Weg, dessen Ende noch ungewiss bleibt."
 author: hnsstrk
 date: 2023-01-16T15:03:00+00:00
 categories:

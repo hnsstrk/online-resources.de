@@ -1,5 +1,6 @@
 ---
 title: "Hort des Mondlichtrudels"
+summary: "In Goldis Taverne gabelten wir Benni auf, auch wenn ich an unserer abgehalfterten Truppe zweifelte. Der Plan im Mondlichtviertel ging natürlich schief; die Diva rührte die nach Likör stinkende Feder nicht an. Schließlich mussten Ruben und ich das Mondlichtrudel im Kampf bändigen und Wachen von Dächern schubsen. Der Schatz brannte zwar, doch Hase zahlte uns immerhin aus."
 date: 2023-11-22T17:23:12+01:00
 author: dnlbrggr
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Die Universität"
+summary: "In den Gassen Khunchoms suchen wir die verborgene Universität und finden sie in einer einfachen Schänke. Dort erwartet uns Yorlak Barbrück, ein alter Bekannter, der uns Kunde von Karlos Jurios und Boroneps Schicksal bringt. Wir erhalten Antworten auf längst vergessene Fragen, während Yorlak uns hilft, den eigenen Pfad durch eine kluge List zu ebnen."
 date: 2025-03-02T18:55:14+01:00
 categories:
  - Das schwarze Auge

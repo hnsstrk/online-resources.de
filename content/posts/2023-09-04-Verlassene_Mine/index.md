@@ -1,5 +1,6 @@
 ---
 title: "Verlassene Mine"
+summary: "Tief in einer verborgenen Senke südlich des Finsterkamms entdeckten wir das befestigte Hauptlager der Schwarzpelze. Während Gray mächtige Eiselementare beschwor, zwang uns ein missglückter Hinterhalt Links in einen erbitterten Kampf gegen Orkkrieger und einen Minotaurus. In der Finsternis der Mine stießen wir auf blutige Altäre und eine Schlachtbank, die von schaurigen Ritualen künden."
 date: 2023-09-04T21:20:43+02:00
 author: hnsstrk
 categories:

@@ -1,5 +1,6 @@
 ---
 title: Überfall im Wald
+summary: "Auf unserer Wanderschaft nach Eslamsroden gerät Kalidor von Greifenfurt in einen Hinterhalt tückischer Goblins. Glücklicherweise greift Fire im rechten Augenblick ein, um die Rotpelze zurückzuschlagen, während Stordian sich später der Verwundeten annimmt. Gezeichnet von den Gefahren des Waldes suchen wir gemeinsam die Sicherheit der nahen Stadt, um neue Kräfte zu sammeln."
 author: hnsstrk
 date: 2023-01-16T15:05:00+00:00
 categories:

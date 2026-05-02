@@ -1,5 +1,6 @@
 ---
 title: "Endlich wieder Murmeln"
+summary: "Ajom erzählte uns vom Moloch und wir nahmen die dritte Murmel mit. Ich werde helfen, diesen Hund zu erledigen. Im Maushaus mussten wir uns für die Menschen nackig machen, was Benni sichtlich gefiel. Schließlich stibitzten wir Sial Pfotenglück die vierte Murmel, doch dort blicken wir wohl besser nicht mehr rein."
 date: 2024-04-13T17:42:11+02:00
 author: dnlbrggr
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Befreiungsschlag"
+summary: "Sengender Brand und Not zeichnen den Pfad der Orks durch das Junkertum. Während ein Tross die Schutzsuchenden von der überfüllten Burg Finster gen Greifenfurt führt, folgen wir den Spuren eines Spähers tief in die Wälder. Am Hang des Finsterhaupts haben wir das Lager der Schwarzpelze endlich entdeckt. Nun harren wir des Augenblicks, um die Bestien zu stellen."
 author: hnsstrk
 date: 2023-05-16T15:56:01+02:00
 categories:

@@ -1,5 +1,6 @@
 ---
 title: Auf dem Weg nach Wehrheim
+summary: "Wir geleiten die Händler Branibart Pausbäcker und Roban Honorald auf ihrem Weg gen Gareth. Wilde Keiler und eine zerstörte Brücke an der Dergelsfurt verzögern unser Vorankommen, während eine Schatulle von Calvin Cordozar Broadus Jr. neue Pflichten bringt. Als Räuber im Schutze der Finsternis zuschlagen, finden sie unsere Klingen bereit und unsere Wachsamkeit ungebrochen."
 author: hnsstrk
 date: 2023-01-16T15:15:00+00:00
 categories:

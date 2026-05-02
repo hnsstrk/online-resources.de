@@ -1,5 +1,6 @@
 ---
 title: "Verfolgung von Federigo"
+summary: "Wir observierten die Apotheke und stellten Federigo nach, doch der Giftmischer entwich uns in die Schatten der Stadt. Seine Spur führte uns zu einem Lagerhaus, wo er sich mit Gonzalo verbarg. Unser Versuch, die Mauern bei Nacht zu erklimmen, endete jedoch in schmerzhaftem Lärm und Missgeschick. In jener dunklen Stunde schienen uns die Zwölfgötter wahrlich nicht wohlgesonnen."
 date: 2024-04-14T18:23:50+02:00
 categories:
  - Das schwarze Auge

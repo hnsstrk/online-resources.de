@@ -1,5 +1,6 @@
 ---
 title: Auf dem Weg zum Turnier
+summary: "Wir eilten mit Andaryn und Gray den Gefährten voraus nach Greifenfurt, um die Anmeldung zum Turnier zu sichern. Doch Schwarzpelze versperrten uns den Pfad und forderten Zoll für geraubtes Gut. Ein harter Kampf entbrannte, in dem arkaner Frost die Orks bezwang. Mit einem Gefangenen als Beweis für die Miliz setzen wir unsere Reise fort."
 author: hnsstrk
 date: 2023-01-16T15:12:00+00:00
 categories:

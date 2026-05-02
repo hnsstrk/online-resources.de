@@ -1,5 +1,6 @@
 ---
 title: "Reise durch den Wald: Geheimnisse der Nacht"
+summary: "Den fetten Himgi musste ich erst mit Schnaps abfüllen, um ihn überhaupt auf das Schiff nach Ehrengard zu befördern. Im Wald lauerte uns räudiges Pack auf, doch während der Zwerg nur wild um sich trat, erledigte meine Magie die eigentliche Arbeit. In einer Höhle entdeckten wir schließlich eine zwergische Rune, die auf eine mysteriöse Verbindung hindeutet."
 date: 2006-12-30T14:28:22+01:00
 categories:
   - GURPS

@@ -1,5 +1,6 @@
 ---
 title: "Postraub"
+summary: "In der Schankstube zum Hartsteener vernehmen wir die Pläne finsterer Posträuber. Rasch folgen wir ihren Spuren durch den Neuschnee vor Perricum, um den Hinterhalt auf die Kutsche zu vereiteln. Nach hartem Streite übergeben wir die Banditen der Stadtwache und wahren die Fracht. Nun harrt die Sonnenwind unserer, bereit für die Fahrt nach Khunchom mit Gefährten aus dem Kloster des Vergessens."
 date: 2024-08-14T16:15:10+02:00
 categories:
  - Das schwarze Auge

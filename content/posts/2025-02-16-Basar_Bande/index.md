@@ -1,5 +1,6 @@
 ---
 title: "Basar Bande"
+summary: "In den Gassen Khunchoms erstarkt unser Bund durch den Recken Stordian, während die Suche nach der Universität uns keine Ruhe lässt. Eine Bande diebischer Kinder führt uns zur mutigen Layla al-Fadir und fordert unser Mitgefühl heraus. Als Praiosmund vom Mistelteich erneut unseren Pfad kreuzt, müssen wir Klugheit beweisen, um die Spur bis in eine zwielichtige Taverne zu verfolgen."
 date: 2025-02-16T18:52:20+01:00
 categories:
  - Das schwarze Auge

@@ -1,5 +1,6 @@
 ---
 title: "Der Drachentempel"
+summary: "Das Tor des Drachentempels wich zurück, doch mein kostbares Fell litt unter unappetitlichen Spinnweben, während Praeteritus und Futurus uns den Weg ebneten. Im Hauptsaal harrte der Meckerdrache Toblin mit seinem untoten Gefolge. Trotz der Sorge der guten Ravenna war es letztlich mein brillanter Geist, der das Schicksal dieses düsteren Ortes entschied."
 date: 2024-05-25T20:42:33+02:00
 categories:
  - Die schwarze Katze

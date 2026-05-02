@@ -1,5 +1,6 @@
 ---
 title: "Sturm auf Burg Finster"
+summary: "Nach dem bitteren Verlust Benders erreichen wir mit letzter Kraft die rettenden Mauern von Burg Finster. Als die Schwarzpelze mit gewaltigen Ogern den Berg ersteigen, verlangen uns die Verteidigung und Grays Künste alles ab. Zwar schlagen wir den Ansturm vorerst zurück, doch die Flucht eines unheilvollen Priesters kündet von einer weitaus größeren Bedrohung für den Greifenfurter Adel."
 author: hnsstrk
 date: 2023-06-24T13:46:42+02:00
 categories:

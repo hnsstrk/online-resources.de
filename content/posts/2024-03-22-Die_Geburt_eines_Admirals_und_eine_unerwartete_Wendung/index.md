@@ -1,5 +1,6 @@
 ---
 title: "Die Geburt des Admirals & Eine unerwartete Wendung"
+summary: "Rubens Schneiderkünste und Ravennas Auftritt als Admiral haben den Geist erlöst, doch das Wesen vom Schiff bereitet mir noch immer Gänsehaut. Zurück in der Milchschenke erwartete uns jedoch einer der 3 Krallen. Sein offenes Geständnis über Saytan bestätigt meine schlimmsten Befürchtungen. Wir stecken nun tiefer im Sumpf als jemals zuvor."
 date: 2024-03-22T18:03:00+01:00
 author: dnlbrggr
 categories:

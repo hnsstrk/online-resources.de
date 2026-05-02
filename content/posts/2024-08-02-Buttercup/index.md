@@ -1,5 +1,6 @@
 ---
 title: "Buttercup"
+summary: "Während Ravennas Melodie einen Teppich zum Tanzen brachte, bewies ich beim Lösen staubiger Rätsel erneut meine geistige Überlegenheit. Wir bezwangen eine tentakelbewehrte Täuschung und ich geleitete einen Goldfisch in seine nasse Heimat. In der Turmspitze harrte die liebreizende Buttercup ihres Schicksals."
 date: 2024-08-02T11:24:46+02:00
 categories:
  - Die schwarze Katze

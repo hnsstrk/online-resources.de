@@ -1,5 +1,6 @@
 ---
 title: "Schatten am Hafen: Das Rätsel der versteckten Waffen"
+summary: "Hinter stinkenden Fässern belauerten wir die Schmuggler, während Himgi mangels Verstand alles kurz und klein hauen wollte. Mein meisterhafter Feuerball hinterließ nur einen Rußfleck, doch die Flammenwand saß – auch wenn sie mich prompt aus den Stiefeln hob. Während ich flachlag, durchlöcherte der Zwerg fachgerecht diverse Matrosen-Weichteile."
 date: 2006-03-04T14:27:48+01:00
 categories:
   - GURPS

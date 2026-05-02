@@ -1,5 +1,6 @@
 ---
 title: "Glöckchen für den Don"
+summary: "Goldi schickt uns zur Mäuse-Rennbahn, um die Rate für den Don abzuliefern. Während ich zur Ablenkung im Hinterhof Prügel kassiere, klauen die anderen zwei Statuen. Für den Waschbären Hase sollen wir nun den Federnschatz der Diva Dämmerglanz vernichten. Die Jagd auf einen weißen Pfau war schmerzhaft, doch das Waldkätzchen hat am Ende meine Wunden versorgt."
 date: 2023-11-15T17:58:57+01:00
 author: dnlbrggr
 categories:

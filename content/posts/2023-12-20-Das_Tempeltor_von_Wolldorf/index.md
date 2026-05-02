@@ -1,5 +1,6 @@
 ---
 title: "Das Tempeltor von Wolldorf"
+summary: "Der Waschbär Hase schickt uns nach Wolldorf, doch schon der Weg fordert im Unterholz seinen Tribut. Eine monströse Spinne verletzt Jack schwer, während ich mühsam den Rückzug decke. In der Stadt zeigt uns Saytan ein mysteriöses Felsentor, verschlossen durch ein Rätsel um fünf geraubte Murmeln. Ob wir dieses Wissen wirklich ergründen können, bleibt abzuwarten."
 date: 2023-12-20T18:11:41+01:00
 author: dnlbrggr
 categories:

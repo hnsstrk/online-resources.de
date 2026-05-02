@@ -1,5 +1,6 @@
 ---
 title: "Neue Probleme"
+summary: "Das Schicksal der Familie Eslamsrodener mahnt uns zur Eile, während wir die Gräueltaten der Orks bezeugen. Den Spuren des Haubrecht Secundius folgend, bargen wir magische Ringe und stießen in ein Verlies unter dem alten Turm vor. Inmitten von Silber und geisterhaften Klagen offenbart ein Heptagramm neue Rätsel. Sechs Ringe scheinen das Schicksal dieses Ortes zu bestimmen."
 author: hnsstrk
 date: 2023-04-30T07:04:35+02:00
 categories:

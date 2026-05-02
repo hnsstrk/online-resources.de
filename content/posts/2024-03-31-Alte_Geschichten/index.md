@@ -1,5 +1,6 @@
 ---
 title: "Alte Geschichten"
+summary: "Wir verlassen die Hallen des Konzils, um Mahmud bei der Errettung seiner geliebten Aishulibeth abu’l Aram beizustehen. In Ragath suchen wir nach Spuren der Widersacher Federigo Alcorta und Gonzalo Jurios. Ein zwielichtiges Pulver enthüllt die finsteren Wege, die unser Feind beschreitet. Während wir den Wein Almadas kosten, rückt die Wahrheit über das Schicksal der Entführten näher."
 date: 2024-03-31T18:30:00+00:00
 categories:
  - Das schwarze Auge

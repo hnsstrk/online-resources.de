@@ -1,5 +1,6 @@
 ---
 title: "Ein Abschied und eine Begrüßung"
+summary: "Mein unnachahmlicher Scharfsinn bescherte uns im Tempel kostbare Edelsteine, während meine ungestümen Gefährten grässliche Monstrositäten ausgruben. Nur knapp entging mein kostbares Fell dem Tode, bevor Jack die Krone von Toblin dem arroganten Quatre überließ. Ein mörderisches Rätsel trieb uns nach Havena, wo Don Gato bereits auf uns wartete. Nun schulden wir dem Patron einen Gefallen."
 date: 2024-06-01T18:35:21+02:00
 categories:
  - Die schwarze Katze

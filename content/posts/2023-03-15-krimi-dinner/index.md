@@ -1,5 +1,6 @@
 ---
 title: Krimi Dinner
+summary: "An der Tafel des Grafen Hermann von Tannenwald saßen wir beisammen, während finstere Intrigen die Luft schwängerten. Wir beobachteten verstohlene Blicke und wachsenden Groll gegen den Weinhändler Heinrich von der Lippe. Doch beim Dessert wurde das Festmahl jäh zum schaurigen Totenmahl. Ein plötzlicher Tod und die Anklage gegen Stordian stürzten die Gesellschaft in tiefes Chaos."
 author: hnsstrk
 date: 2023-03-15T22:06:27+00:00
 categories:

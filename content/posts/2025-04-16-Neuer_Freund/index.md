@@ -1,5 +1,6 @@
 ---
 title: "Ein neuer Freund"
+summary: "In Khunchom erreicht uns im Hotel Zum Erhabenen Mhanadi die Kunde von einer Notlage an den Docks. Dort harrt Nga’Churr A’Sar aus, ein Achaz, dessen Anblick die Hafenarbeiter in bedrohliche Unruhe versetzt. In Grays Umhang gehüllt, entziehen wir den neuen Gefährten den blickgierigen Mengen. Gemeinsam blicken wir nun gen Selem, wo Antworten auf das Schicksal des wahnsinnigen Abtes warten."
 date: 2025-04-16T13:30:20+02:00
 categories:
  - Das schwarze Auge

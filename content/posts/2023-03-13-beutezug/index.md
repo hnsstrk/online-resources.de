@@ -1,5 +1,6 @@
 ---
 title: Beutezug
+summary: "In den Gassen von Gareth suchen Link, Andaryn und Gray nach einer Gabe für unsere Bestimmung. Während sie eine Statue der Travia erstehen, wirft ein nächtlicher Frevel im Auktionshaus lange Schatten auf ihre Heimkehr. Wir erwählen das Bildnis der Gütigen als Geschenk für Graf Hermann von Tannenwald. Sorge und Hoffnung leiten fortan unser Handeln."
 author: hnsstrk
 date: 2023-03-13T21:57:08+00:00
 categories:

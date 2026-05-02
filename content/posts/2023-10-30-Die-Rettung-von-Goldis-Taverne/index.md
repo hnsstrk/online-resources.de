@@ -1,5 +1,6 @@
 ---
 title: "Die Rettung von Goldi's Taverne"
+summary: "Mein Abend bei einer Mäusemilch endete jäh, als ein Schrei aus Goldis Küche meine Kreise störte. Beherzt wies ich räuberische Ratten in ihre Schranken, nur um mich später am Hafen mit fischigen Gütern und einem räudigen Köter abzuplagen. Dass dabei die kostbaren Mondglöckchen verschwanden, empört meinen feinen Geist zutiefst. Eine ungebührliche Plackerei für einen Kater meines Standes."
 date: 2023-10-30T21:24:52+01:00
 author: hnsstrk
 categories:

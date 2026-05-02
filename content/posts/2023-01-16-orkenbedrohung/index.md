@@ -1,5 +1,6 @@
 ---
 title: Orkenbedrohung
+summary: "Um unsere Vorräte zu sichern, spürten wir eine Orkenbande im Vorgebirge des Finsterkammes auf. In der Höhle stießen Kalidor, Link und Helbrecht auf rituelle Machenschaften und einen Untoten, ehe unser Stahl gegen die Schwarzpelze sprach. Derweil vernahmen Andaryn und Stordian in Finsterdorf die verzweifelten Schreie einer Mutter, deren Sohn in die Knechtschaft entführt wurde."
 author: hnsstrk
 date: 2023-01-16T15:08:00+00:00
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Besuch bei den Hunden"
+summary: "In meiner neuen Tunika war ich die glanzvollste Erscheinung, was wohl auch Ravenna nicht entging. Während ich versuchte, den störrischen Argar Knurrmaul mit Esprit zur Herausgabe der Murmel zu bewegen, offenbarte sich ein altes Unrecht. Zurück im Warmen Haus eskalierte die Befragung des dicken Flook durch Jacks ungeschliffenes Gebaren leider auf höchst unästhetische Weise."
 date: 2024-05-01T10:37:51+02:00
 categories:
  - Die schwarze Katze

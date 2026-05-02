@@ -1,5 +1,6 @@
 ---
 title: Nach dem Schwertfest
+summary: "Wir verweilten noch in den Mauern Greifenfurts, um die Nachwehen des Festes zu ordnen. Dank Carolan Calavanti erspähten wir die Spur von Binsbarts Gefährten, die im Gasthaus Drei Kronen ihre Maskerade ablegten. Ihre trunkene Prahlerei um das Erbe Weidens offenbarte dunkle Pläne, bis die Gerechtigkeit sie schließlich in die Kerkerstille führte."
 author: hnsstrk
 date: 2023-01-16T15:14:00+00:00
 categories:

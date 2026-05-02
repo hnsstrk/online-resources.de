@@ -1,5 +1,6 @@
 ---
 title: "Die Reise beginnt"
+summary: "Wir verlassen Burg Finster und geleiten den Alchimisten Boronep Hairan durch herbstliche Wälder gen Gareth. In Eslamsroden verdingen wir uns bei Calvin Cordozar Broadus Jr. als Geleitschutz, ehe uns der beschwerliche Weg tief in den Süden führt. Hinter dem Fürstentum Almada erwarten uns schließlich die gewaltigen Drachentore von Drakonia, wo Gray einen alten Gefährten wiedertrifft."
 date: 2024-03-18T17:57:00+01:00
 categories:
  - Das schwarze Auge

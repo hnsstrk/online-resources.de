@@ -1,5 +1,6 @@
 ---
 title: "Zurück nach Ragath"
+summary: "Die Sorge um ungesühntes Unrecht treibt uns zurück in die Gassen von Ragath. Wir enttarnen Karlos Jurios als mächtigen Kopf hinter dunklen Geschäften mit Artefakten und mitleidloser Magie. Während Gray und die Gefährten forschen, offenbaren uns Zeugen in der Weinstube das wahre Ausmaß seines Einflusses."
 date: 2024-05-19T14:36:35+02:00
 categories:
  - Das schwarze Auge

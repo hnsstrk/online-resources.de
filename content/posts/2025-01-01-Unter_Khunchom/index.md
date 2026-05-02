@@ -1,5 +1,6 @@
 ---
 title: "Unter Khunchom"
+summary: "Im verregneten Khunchom suchen wir in der Drachenei-Akademie Hilfe für den verfluchten Boronep. Spektabilität Ashtarra Okharim fordert einen Dienst, ehe sie das Rätsel eines uralten Schuldscheins lüftet. In der Kanalisation trotzen wir bissigen Alligatoren und einem pervertierten Unelementargeist des Unhumus. Gezeichnet vom Gestank erstreiten wir uns so das Vertrauen der Magier."
 date: 2025-01-01T15:52:50+01:00
 categories:
  - Das schwarze Auge

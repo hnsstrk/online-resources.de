@@ -1,5 +1,6 @@
 ---
 title: "Vermisste Freunde"
+summary: "Gerade als ich die Sonne Havenas genoss, störte Kitty Kuschelpfote meine Ruhe mit einer Schar betrübter Gäste. Um deren verschollene Gefährten aufzuspüren, führte ich meine Getreuen zum Orakel im Goldenen Haus. Trotz meines Charmes, dem die Aranierkatzen erlagen, büßte ich schändlicherweise mein kostbares Medaillon ein."
 date: 2024-08-24T13:26:06+02:00
 categories:
  - Die schwarze Katze

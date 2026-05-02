@@ -1,5 +1,6 @@
 ---
 title: "Die zweite Murmel und ihre Folgen"
+summary: "Ein sattes Mahl bei Saytan war der letzte friedliche Moment. In Warnas Werkstätten ekelte mich das ausgestellte Löwenfell an, auch wenn Benni es besser zu wissen glaubte. Ruben erkämpfte uns die zweite Murmel, doch der Preis dafür war blutig. Dass Quatre den armen Five vor aller Augen hinrichtete, verheißt nichts Gutes für unsere Zeit in der Stadt."
 date: 2024-01-17T16:55:07+01:00
 author: dnlbrggr
 categories:

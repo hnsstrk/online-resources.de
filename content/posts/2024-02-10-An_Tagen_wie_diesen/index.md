@@ -1,5 +1,6 @@
 ---
 title: "An Tagen wie diesen"
+summary: "Gerade als ich mich in der Milchschenke standesgemäß erholen wollte, erschütterte Saytans Verhaftung durch die Drei Krallen mein sensibles Gemüt. Im Tanzsaal bewies ich bei einer bezaubernden Dame diplomatisches Geschick, während Ravenna sich dem profanen Tanz hingab. Die Spur führte schließlich zu einem unappetitlichen Pferdestall, wo uns ein Scharmützel und eine blutige Entdeckung erwarteten."
 date: 2024-02-10T18:51:00+01:00
 categories:
  - Die schwarze Katze

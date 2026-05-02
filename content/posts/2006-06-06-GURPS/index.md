@@ -1,5 +1,6 @@
 ---
 title: "Intrigen und Rettung: Der verschwundene Zwergenabgesandte"
+summary: "Da die Zwerge vor Angst erstarrten, mussten Himgi und ich den entführten Kanzler eben selbst aus dem Kerker holen. Während mein bärtiger Gefährte den Experten mimte, schüchterte ich die einfältigen Wachen mit bloßem Papierkram ein. Kiley erledigte den Kerkermeister mit einem gezielten Axtschlag, bevor wir den lädierten Kanzler heimlich evakuierten."
 date: 2006-06-06T14:28:06+01:00
 categories:
   - GURPS

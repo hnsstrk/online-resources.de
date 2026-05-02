@@ -1,5 +1,6 @@
 ---
 title: Das Bankett beginnt
+summary: "Nach dem Handel mit Norbarden führt uns der Weg zum Anwesen des Grafen Hermann von Tannenwald. Wir überreichen die Statue der Göttin Travia und mischen uns unter die illustre Gästeschar. Während exotische Speisen und Gaukler die Sinne betören, sorgt Stordians Groß-Cousin Binsbart für leises Raunen. Das Bankett beginnt, doch hinter höfischer Etikette lauern erste Zweifel."
 author: hnsstrk
 date: 2023-03-15T19:00:35+00:00
 categories:

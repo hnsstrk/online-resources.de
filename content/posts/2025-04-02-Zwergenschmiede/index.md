@@ -1,5 +1,6 @@
 ---
 title: "Unheil in der Zwergenschmiede"
+summary: "In den heißen Gassen Khunchoms suchen wir Rat für unseren Gefährten Boronep, als das Flehen der Hügelzwerge Thordra und Gundrabosch Eisenhammer unseren Pfad kreuzt. Verdorbenes Erz entfesselte in ihrer Schmiede abscheuliche Unelementare des Erzes, die wir im Namen der Götter mit Stahl und Mut niederwarfen."
 date: 2025-04-02T18:46:21+02:00
 categories:
  - Das schwarze Auge

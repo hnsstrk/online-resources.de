@@ -1,5 +1,6 @@
 ---
 title: "Patientenakten"
+summary: "In den stillen Hallen des Klosters stießen wir auf die Berichte über Abdul al-Hazred ibn Jafar. Der Geist des Magiers weilte in fremden Sphären, während Abt Borondrian Dergelmund von finsterem Wissensdurst gepackt wurde. Grausame Funde künden von einem Schicksal, das wir nur zu erahnen vermögen. Schweigend bewahrt der Herr Boron nun das Geheimnis dieser blutigen Akten."
 date: 2024-09-15T17:28:09+02:00
 categories:
  - Das schwarze Auge

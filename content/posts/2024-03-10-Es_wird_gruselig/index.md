@@ -1,5 +1,6 @@
 ---
 title: "Es wird gruselig!"
+summary: "Gefangen auf einem Schiff voller Skelette – hätte ich bloß nicht auf Benni gehört. Kieran verfiel dem Wahnsinn und wollte Alanna opfern, doch wir konnten das Ritual im letzten Moment stoppen. Während Benni seine neue Brille bewundert, irritieren mich fliegende Goldfische in der Kapitänskajüte. Dort erwartete uns schließlich der gewaltige Geist eines Riesen."
 date: 2024-03-10T11:47:00+01:00
 author: dnlbrggr
 categories:

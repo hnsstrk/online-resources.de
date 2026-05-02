@@ -1,5 +1,6 @@
 ---
 title: "Der Schlüssel zum Tempel"
+summary: "Nach einem erlesenen Diskurs mit dem gelehrten Joka Schlaufuss führte uns die Suche nach den Kartenteilen durch die Abgründe Wolldorfs. Ob im Laden der 1000 Wunder oder dem schauerlichen Haus der Felle – überall lauerten ungewaschene Bestien auf mein kostbares Haupt. Dank der Murmeln bargen wir schließlich den antiken Schlüssel aus der Statue. Nun harrt der Drachentempel unserer Ankunft."
 date: 2024-05-25T16:21:01+02:00
 categories:
  - Die schwarze Katze

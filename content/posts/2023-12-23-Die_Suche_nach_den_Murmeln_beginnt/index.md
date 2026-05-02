@@ -1,5 +1,6 @@
 ---
 title: "Die Suche nach den Murmeln beginnt"
+summary: "In Wolldorf versuchte ich, meine Gefährten vor der Entwürdigung durch menschliche Streicheleinheiten zu bewahren. Lysa Taubenfeder enthüllte die Geschichte der fünf Murmeln, die einst einem Zweibeiner gehörten. Wir suchten den trägen Flook im Warmen Haus auf, nur um zu erfahren, dass der Vielfraß sein Kleinod beim Sport verlor. Nun muss ich mein kostbares Fell wohl am Badetümpel riskieren."
 date: 2023-12-23T13:13:33+01:00
 categories:
  - Die schwarze Katze

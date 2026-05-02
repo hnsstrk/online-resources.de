@@ -1,5 +1,6 @@
 ---
 title: "Die erste Murmel"
+summary: "Wolldorf ist anders als Havena, doch die Gier nach Murmeln bleibt gleich. Beim dicken Flook erfuhren wir von der Aufteilung der Schätze, bevor Ruben im Wollhimmel allen die Show stahl. Ich beobachtete, wie Ravenna das erste Objekt unserer Begierde im weichen Weiß fand. Die Begegnung mit den 3 Krallen lässt uns nun als Verdächtige zurück."
 date: 2024-01-04T09:52:29+01:00
 author: dnlbrggr
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Auf dem Schiff"
+summary: "Auf dem Wrack der Möwe rettete mein unvergleichlicher Scharfsinn die arme Alanna vor Kierans finsterem Wahnsinn. Während ich kurzzeitig mit einer überaus kleidsamen Brille brillierte, mussten wir uns gegen den donnernden Geist eines Menschen behaupten. Ein schwebender Goldfisch und rätselhafte Logbücher fordern nun mein exquisites Verständnis heraus, während wir nach Alice suchen."
 date: 2024-03-23T14:10:00+01:00
 categories:
  - Die schwarze Katze

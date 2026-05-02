@@ -1,5 +1,6 @@
 ---
 title: "Recherche im Ewigen Konzil der Elementaren Gewalten im Raschtulswall"
+summary: "In der Titanenfeste Drakonia empfängt uns Mahmud ibn Umran sal Hidaybeth Al'achami am Tor des Lichtvogels. Wir durchstreifen die Fakultäten im Raschtulswall, ehe uns Falka von Paavi Einlass in die gewaltige Bibliothek gewährt. Alte Codices enthüllen Geheimnisse über die Ruine am Finsterkamm und das Schattentor, doch im Verborgenen regt sich bereits der Einfluss Amazeroths."
 date: 2024-03-23T12:25:00+01:00 
 categories:
  - Das schwarze Auge

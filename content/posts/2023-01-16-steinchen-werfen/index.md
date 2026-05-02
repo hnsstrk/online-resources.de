@@ -1,5 +1,6 @@
 ---
 title: Steinchen werfen
+summary: "An der zerfallenen Mauer Wehrheims belauern wir die Heerscharen der kalten Alriks, um einem Boten seine wertvolle Last zu entreißen. Grays arkanes Wirken formt Wälle aus Eis, während wir uns im Angesicht der Gefahr mit müßigem Steinchenwerfen die Zeit vertreiben. Erst der Stahl gieriger Söldner und das ferne Stöhnen der Untoten treiben uns in eine rettende Zuflucht."
 author: hnsstrk
 date: 2023-01-16T15:17:00+00:00
 categories:

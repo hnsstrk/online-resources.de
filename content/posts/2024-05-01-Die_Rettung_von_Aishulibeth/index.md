@@ -1,5 +1,6 @@
 ---
 title: "Die Rettung von Aishulibeth"
+summary: "Vom Dach des Lagerhauses drangen wir vor, wo uns Gonzalo Jurios und seine Bluthunde grimmig erwarteten. In verborgenen Tiefen unter den Dielen entrissen wir die geschundene Aishulibeth ihren Häschern. Noch in finsterer Nacht führte uns die Flucht zum Raschtulswall. In der Stille des Ewigen Konzils suchen wir nun in staubigen Folianten nach der Wahrheit über die geheimnisvollen Schriftrollen."
 date: 2024-05-01T10:49:26+02:00
 categories:
  - Das schwarze Auge

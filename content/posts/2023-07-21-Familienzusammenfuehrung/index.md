@@ -1,5 +1,6 @@
 ---
 title: "Familienzusammenführung"
+summary: "Der Schatten des Verrats führt uns tief in die Wälder vor Burg Finster, wo wir die bittere Not Helmut Auerbachs entdecken. In finsterer Nacht entreißen wir seine Familie den Klauen der Schwarzpelze und führen sie in die Sicherheit der Mauern. Tuzzughs Rückkehr mit der Karte des Feindes schenkt uns neue Hoffnung, während wir auf das ferne Entsatzheer aus Greifenfurt harren."
 author: hnsstrk
 date: 2023-07-23T12:12:08+02:00
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Prüfung der Götter"
+summary: "Nach dem verheerenden Angriff auf die Sonnenwind erreichen wir mit letzter Kraft die weiße Stadt Elburum. Ein militärisches Tribunal fordert Rechenschaft, während Gonzalo Jurios und Praiosmund vom Mistelteich schwere Anschuldigungen gegen Gray erheben. Zur Klärung unserer Unschuld verlangt der Hauptmann eine Prüfung der Götter."
 date: 2024-11-03T14:16:53+01:00
 categories:
  - Das schwarze Auge

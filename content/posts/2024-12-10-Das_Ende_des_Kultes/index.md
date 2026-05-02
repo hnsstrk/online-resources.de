@@ -1,5 +1,6 @@
 ---
 title: "Das Ende des Kultes"
+summary: "Ein verfallener Hof im Norden von Elburum birgt ein schändliches Geheimnis. Wir folgen der Spur verschleppter Frauen in die finsteren Gewölbe des Moghulat Oron. Zwischen Zombies und giftigen Bhurkheschim müssen wir unser Leben teuer verkaufen. In der entweihten Kapelle erwartet uns schließlich ein Khelevathan, der unseren Zusammenhalt auf eine harte Probe stellt."
 date: 2024-12-10T19:43:59+01:00
 categories:
  - Das schwarze Auge

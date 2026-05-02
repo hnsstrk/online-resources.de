@@ -1,5 +1,6 @@
 ---
 title: Unter dem Wachturm
+summary: "In der stickigen Finsternis unter dem Turm rangen wir mit knöchernen Kriegern, bis Link die letzte Pforte bezwang. Dort lauerte Pentagor Dunkelstein, ein beseelter Untoter von schrecklicher Macht, der nun Wehrheim zu unterwerfen gedenkt. Mit tiefen Wunden und verfinstertem Augenlicht blicken wir der neuen Gefahr entgegen, die wir unwissentlich selbst entfesselt haben."
 author: hnsstrk
 date: 2023-01-16T15:19:00+00:00
 categories:

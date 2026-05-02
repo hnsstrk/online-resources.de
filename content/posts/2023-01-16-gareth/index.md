@@ -1,5 +1,6 @@
 ---
 title: Gareth
+summary: "Nach der finsteren Begegnung mit dem Nekromanten suchen wir bei Yorlak Einkehr, doch nagender Zweifel an seiner Treue trübt den flüchtigen Frieden. Wir beraten über Pentagor Dunkelsteins Seelengefäß, ehe uns die Reise in die Kaiserstadt Gareth führt."
 author: hnsstrk
 date: 2023-01-16T15:20:00+00:00
 categories:

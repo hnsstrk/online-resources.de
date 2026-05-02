@@ -1,5 +1,6 @@
 ---
 title: "Keine besonderen Vorkommnisse"
+summary: "Die Tage in Elburum verstreichen in trügerischer Ruhe, während wir die Zeit zur Rast und Rüstung nutzen. Obgleich Gerüchte über die Verfehlungen eines Geweihten die Runde machen, lenkt das nahende Ende des Tribunals unsere Aufmerksamkeit auf Höheres. Die Reinwaschung von dämonischem Verdacht durch Praiosmund vom Mistelteich ebnet uns schließlich den Pfad gen Khunchom."
 date: 2024-12-14T15:37:51+01:00
 categories:
  - Das schwarze Auge

@@ -1,5 +1,6 @@
 ---
 title: "Die Federn der Diva Dämmerglanz"
+summary: "In Goldis Taverne glänzte ich durch pure Anwesenheit, während meine Gefährten sich in Gezänk verloren. Wir planten, den Federschatz der Diva Dämmerglanz zu ruinieren, doch Jacks stümperhafter Versuch mit einer nach Likör stinkenden Feder endete im Fiasko. Mit gewohnter Eloquenz führte ich die Gruppe über die Dächer, bis uns die bezaubernde Sunny Sonnenglanz eine neue Fährte wies."
 date: 2023-11-22T17:30:33+01:00
 author: hnsstrk
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Auflösung"
+summary: "Gemeinsam mit der Garde suchten wir im Hause des Grafen von Tannenwald nach der Wahrheit hinter dem giftigen Wein. Ein winziger Einstich im Korken lenkte unseren Blick auf die Schatten in den prunkvollen Hallen. Durch List und vergessene Kleinode brachten wir den Übeltäter schließlich zur Strecke. Zum Lohne empfingen wir die Anerkennung des Grafen und ein Schreiben der Stadtgarde."
 author: hnsstrk
 date: 2023-04-13T01:21:27+02:00
 categories:

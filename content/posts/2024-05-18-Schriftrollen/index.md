@@ -1,5 +1,6 @@
 ---
 title: "Schriftrollen"
+summary: "Im Ewigen Konzil im Raschtulswall haben wir das Geheimnis der Schriftrollen ergründet. Die Rolle der Ruine zeigt einen verblichenen Turm, umgeben von scharfen Heptagrammen und einer rätselhaften Gestalt. Während die Kriegskunst von strategischer Überwachung kündet, deuten die disharmonischen Zeichen auf verborgene Kultstätten hin."
 date: 2024-05-18T18:29:18+02:00
 categories:
  - Das schwarze Auge

@@ -1,5 +1,6 @@
 ---
 title: "Geschäfte mit dem Don"
+summary: "Um den Don zu besänftigen, suchten wir nach jenem gefiederten Objekt der Begierde. Leider mangelte es Ruben und Ravenna an meinem Taktgefühl, was uns unliebsame Kuscheleinheiten mit kleinen Zweibeinern bescherte. Nur mein heldenhafter Einsatz rettete Ruben vor den Tritten eines groben Riesen."
 date: 2024-06-22T20:03:29+02:00
 categories:
  - Die schwarze Katze

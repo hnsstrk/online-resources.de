@@ -1,5 +1,6 @@
 ---
 title: Besuch in Greifenfurt
+summary: "Um Kunde vom alten Turm zu erlangen und vor der Orkgefahr zu warnen, lenkten wir unsere Schritte nach Greifenfurt. In Gray dem Eisigen fanden wir einen mächtigen Verbündeten, doch die Archive der Stadt verwehrten uns ihr Wissen. Während die Garnison unsere Berichte ignorierte, rüstete sich Stordian bei Schmied Darrag für die bevorstehende Prüfung."
 author: hnsstrk
 date: 2023-01-16T15:09:00+00:00
 categories:

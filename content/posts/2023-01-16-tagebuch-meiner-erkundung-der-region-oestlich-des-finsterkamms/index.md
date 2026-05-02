@@ -1,5 +1,6 @@
 ---
 title: Tagebuch meiner Erkundung der Region östlich des Finsterkamms
+summary: "Im Frühjahr 519 BF bricht Haubrecht Secundius zu Liederhofen auf, um Karten des Finsterkamms zu korrigieren. Am Eslamsquell entdeckt er den Finsterturm und wird Zeuge einer okkulten Zeremonie im Mondlicht. Ein blauer Lichtblitz beendet den Spuk und hinterlässt eine verkohlte Leiche samt einem mysteriösen Ring. Wir vernehmen die Kunde von Schatten, die tiefer reichen als das Auge sieht."
 author: hnsstrk
 date: 2023-01-16T15:21:00+00:00
 categories:

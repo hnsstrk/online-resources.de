@@ -1,5 +1,6 @@
 ---
 title: Zurück zum Turm
+summary: "Auf unserem Weg entlang des Finsterkammes schließt sich uns die Thorwalerin Auđur Egilsdottir an. Ein jäher Angriff Grays auf lauernde Orks lässt uns gezeichnet zum alten Turm zurückkehren. Dort harrt bereits Baron Praiodor von Arestehr, um seinen Sohn Andaryn mit neuer Verantwortung zu prüfen. Das Junkertum Finsterwacht verlangt nun nach einer führenden Hand."
 author: hnsstrk
 date: 2023-01-16T15:10:00+00:00
 categories:

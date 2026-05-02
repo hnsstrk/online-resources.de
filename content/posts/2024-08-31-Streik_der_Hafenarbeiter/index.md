@@ -1,5 +1,6 @@
 ---
 title: "Streik der Hafenarbeiter"
+summary: "Im eisigen Perricum erwacht der Hafen zum Aufruhr, als die Arbeiter die Arbeit niederlegen. Zwischen blitzenden Speeren der Stadtgarde suchen wir einen friedvollen Weg, während Andaryn von Arestehr und Gray der Eisige vermitteln. Mit Wein besänftigen wir die Gemüter, doch im Phex-Tempel wartet bereits Streit mit den unnachgiebigen Händlern des Hauses Stoerrebrandt."
 date: 2024-08-31T15:32:09+02:00
 categories:
  - Das schwarze Auge

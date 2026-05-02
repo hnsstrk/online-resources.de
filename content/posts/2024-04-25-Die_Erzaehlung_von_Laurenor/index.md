@@ -1,5 +1,6 @@
 ---
 title: "Die Erzählung von Laurenor beginnt"
+summary: "In Marienburg erkennt Laurenor, dass Traditionen allein keinen Aufstieg sichern. Zwischen kurzlebigen Menschen lernt der Hochelf die Macht der Lüge und den kalten Nutzen von Schießpulver kennen. Unter dem Blick von Loec, dem Schwindlergott, beginnt sein langer Weg zu Macht und Reichtum. List wiegt für ihn schwerer als jeder Pfeil aus dem Langbogen."
 date: 2024-04-25T18:54:40+02:00
 author: dnlbrggr
 draft: true

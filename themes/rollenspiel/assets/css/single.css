@@ -47,19 +47,23 @@ html[data-theme="dark"] .article-page__title em { color: var(--brass); }
   line-height: 1.35;
 }
 
-/* ---- Hero image + caption bar ---- */
+/* ---- Hero image + caption ---- */
 .article-page__hero {
-  margin: 0 0 8px;
+  margin: 0 0 12px;
 }
-.article-page .hero-img {
-  aspect-ratio: 21/9;
+.article-page__hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
 }
 
 .article-page__hero-caption {
-  display: grid;
-  grid-template-columns: auto 1fr auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: baseline;
-  gap: 24px;
+  gap: 16px 24px;
   padding: 10px 0 0;
   border-top: 1px solid var(--rule);
   font-family: var(--mono);
@@ -69,15 +73,13 @@ html[data-theme="dark"] .article-page__title em { color: var(--brass); }
   color: var(--ink-muted);
   margin-bottom: 64px;
 }
-.article-page__hero-caption .label { white-space: nowrap; }
 .article-page__hero-caption .credit {
   white-space: nowrap;
-  text-align: right;
 }
 .article-page__hero-caption em {
   font-family: var(--serif-display);
   font-style: italic;
-  font-size: 13px;
+  font-size: 14px;
   letter-spacing: 0.02em;
   text-transform: none;
   text-align: center;
@@ -348,11 +350,16 @@ html[data-theme="dark"] .article-page article h2 .num { color: var(--brass); }
 .article-page.article--dropcap article > .drop-cap-wrap > p:first-of-type::first-letter {
   font-family: var(--serif-display);
   font-weight: 500;
-  font-size: 5.6em;
-  line-height: 0.9;
+  font-size: 4.6em;
+  line-height: 1;
   float: left;
-  padding: 6px 10px 0 0;
-  color: var(--ink);
+  margin: 0.08em 0.12em -0.05em 0;
+  padding: 0;
+  color: var(--brass-deep);
+}
+html[data-theme="dark"] .article-page article p.drop-cap::first-letter,
+html[data-theme="dark"] .article-page.article--dropcap article > p:first-of-type::first-letter {
+  color: var(--brass);
 }
 
 /* Ornament (.ornament from typography.css already provides flex + side rules;

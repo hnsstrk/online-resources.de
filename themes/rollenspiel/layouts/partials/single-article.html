@@ -6,7 +6,6 @@
        Default = .Params.cover.caption / .Params.cover.credit (in 70 Posts gepflegt).
        Override = .Params.hero_caption / .Params.hero_credit (bei Bedarf im Frontmatter). */ -}}
 {{- $coverParams := .Params.cover | default dict -}}
-{{- $heroLabel := .Params.hero_label | default "Abb. I" -}}
 {{- $heroCaption := .Params.hero_caption | default $coverParams.caption -}}
 {{- $heroCredit := .Params.hero_credit | default $coverParams.credit -}}
 {{- $endNote := .Params.end_note -}}
@@ -19,23 +18,25 @@
     {{- end }}
   </section>
 
-  {{- /* Hero image */ -}}
-  <div class="article-page__hero">
-    {{ partial "cover-image.html" (dict
-      "page"  .
-      "ratio" "21/9"
-      "alt"   .Title
-      "class" "hero-img"
-    ) }}
-  </div>
+  {{- /* Hero image — natürliches Seitenverhältnis, kein Crop */ -}}
+  {{- $cover := .Resources.GetMatch "cover.webp" -}}
+  {{- if not $cover }}{{ $cover = .Resources.GetMatch "cover.jpg" }}{{ end -}}
+  {{- if not $cover }}{{ $cover = .Resources.GetMatch "cover.jpeg" }}{{ end -}}
+  {{- if not $cover }}{{ $cover = .Resources.GetMatch "cover.png" }}{{ end -}}
+  {{- with $coverParams.image -}}
+    {{- if not $cover }}{{ $cover = $.Resources.GetMatch . }}{{ end -}}
+  {{- end -}}
+  {{- with $cover }}
+  <figure class="article-page__hero">
+    <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" loading="eager" />
+  </figure>
+  {{- end }}
 
-  {{- /* Hero caption — nur rendern, wenn Caption oder Credit gesetzt sind.
-         (hero_label hat einen Default und zählt nicht als „Inhalt vorhanden".) */ -}}
+  {{- /* Hero caption — nur rendern, wenn Caption oder Credit gesetzt sind. */ -}}
   {{- if or $heroCaption $heroCredit }}
   <div class="article-page__hero-caption">
-    <span class="label">{{ $heroLabel }}</span>
-    <em>{{ with $heroCaption }}{{ . | safeHTML }}{{ end }}</em>
-    <span class="credit">{{ with $heroCredit }}{{ . }}{{ end }}</span>
+    {{- with $heroCaption }}<em>{{ . | safeHTML }}</em>{{ end }}
+    {{- with $heroCredit }}<span class="credit">{{ . }}</span>{{ end }}
   </div>
   {{- end }}
 

@@ -25,9 +25,6 @@
 {{- $paginator := .Paginate $posts -}}
 
 {{ partial "page-header.html" . }}
-{{- with .Content }}
-<section class="page-intro">{{ . }}</section>
-{{- end }}
 <section class="archive">
   <section class="archive__grid">
     {{- range $paginator.Pages -}}

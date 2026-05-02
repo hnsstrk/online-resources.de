@@ -7,9 +7,6 @@
   "10" "Oktober"  "11" "November" "12" "Dezember"
 -}}
 {{ partial "page-header.html" . }}
-{{- with .Content }}
-<section class="page-intro">{{ . }}</section>
-{{- end }}
 <section class="list">
 
   {{- $posts := where site.RegularPages "Type" "posts" -}}

@@ -101,8 +101,6 @@ params:
   # ----------------------------------------------------------------------------
   pageHeaders:
     blog:       'Neun Jahre <em>Spielberichte</em> und Werkstattgespräche, durchsuchbar nach Regelwerk.'
-    blog/dsa:   'Spielberichte aus dem <em>Schwarzen Auge</em>.'
-    blog/dsk:   'Berichte aus der <em>Schwarzen Katze</em>.'
     archiv:     'Chronologisches Verzeichnis aller Beiträge — nach <em>Jahr</em> und <em>Monat</em> geordnet.'
     categories: '<em>Werkkanon</em> nach Welt sortiert.'
     tags:       'Schlagworte und <em>Streifzüge</em>.'

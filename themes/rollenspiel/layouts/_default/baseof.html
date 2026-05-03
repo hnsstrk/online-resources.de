@@ -40,10 +40,13 @@
   {{- $ogType := "" -}}
   {{- with .Params.cover.image -}}
     {{- with $.Resources.GetMatch . -}}
-      {{- $ogImg = .Permalink -}}
-      {{- $ogWidth = string .Width -}}
-      {{- $ogHeight = string .Height -}}
-      {{- $ogType = .MediaType.Type -}}
+      {{- if reflect.IsImageResourceProcessable . -}}
+        {{- $resized := .Fill "1200x630 jpg q80 Center" -}}
+        {{- $ogImg = $resized.Permalink -}}
+        {{- $ogWidth = "1200" -}}
+        {{- $ogHeight = "630" -}}
+        {{- $ogType = "image/jpeg" -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
   {{- if eq $ogImg "" -}}

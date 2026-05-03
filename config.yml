@@ -32,14 +32,6 @@ params:
   ShowBreadCrumbs: true
   ShowWordCount: true
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "https://online-resources.de/favicon/favicon.ico"
-    favicon16x16: "https://online-resources.de/favicon/favicon-16x16.png"
-    favicon32x32: "https://online-resources.de/favicon/favicon-32x32.png"
-    apple_touch_icon: "https://online-resources.de/favicon/apple-touch-icon.png"
-
   # ----------------------------------------------------------------------------
   # Wordmark der Topbar — Brand-Text + italic em-Teil.
   # Default: "online" / "resources" → wird zu „online — resources"

@@ -22,10 +22,17 @@
   {{- end }}
 
   {{- /* Favicons */ -}}
-  {{- with .Site.Params.assets.favicon }}<link rel="icon" href="{{ . }}" />{{ end }}
-  {{- with .Site.Params.assets.favicon16x16 }}<link rel="icon" type="image/png" sizes="16x16" href="{{ . }}" />{{ end }}
-  {{- with .Site.Params.assets.favicon32x32 }}<link rel="icon" type="image/png" sizes="32x32" href="{{ . }}" />{{ end }}
-  {{- with .Site.Params.assets.apple_touch_icon }}<link rel="apple-touch-icon" href="{{ . }}" />{{ end }}
+  <link rel="icon" href="{{ "favicon/favicon.ico" | absURL }}" />
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon/favicon-16x16.png" | absURL }}" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon/favicon-32x32.png" | absURL }}" />
+  <link rel="icon" type="image/png" sizes="48x48" href="{{ "favicon/favicon-48x48.png" | absURL }}" />
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ "favicon/favicon-96x96.png" | absURL }}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "favicon/apple-touch-icon.png" | absURL }}" />
+  <link rel="mask-icon" href="{{ "favicon/safari-pinned-tab.svg" | absURL }}" color="#3a2a14" />
+  <link rel="manifest" href="{{ "favicon/site.webmanifest" | absURL }}" />
+  <meta name="msapplication-config" content="{{ "favicon/browserconfig.xml" | absURL }}" />
+  <meta name="msapplication-TileColor" content="#3a2a14" />
+  <meta name="theme-color" content="#3a2a14" />
 
   {{- /* OpenGraph */ -}}
   <meta property="og:title" content="{{ .Title }}" />

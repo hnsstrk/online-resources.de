@@ -33,6 +33,32 @@
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
 
+  {{- /* OpenGraph Image: Cover-Resource bevorzugt, sonst Default. */ -}}
+  {{- $ogImg := "" -}}
+  {{- $ogWidth := "" -}}
+  {{- $ogHeight := "" -}}
+  {{- $ogType := "" -}}
+  {{- with .Params.cover.image -}}
+    {{- with $.Resources.GetMatch . -}}
+      {{- $ogImg = .Permalink -}}
+      {{- $ogWidth = string .Width -}}
+      {{- $ogHeight = string .Height -}}
+      {{- $ogType = .MediaType.Type -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if eq $ogImg "" -}}
+    {{- $ogImg = "og-images/og-default.jpg" | absURL -}}
+    {{- $ogWidth = "1200" -}}
+    {{- $ogHeight = "630" -}}
+    {{- $ogType = "image/jpeg" -}}
+  {{- end }}
+  <meta property="og:image" content="{{ $ogImg }}" />
+  <meta property="og:image:type" content="{{ $ogType }}" />
+  <meta property="og:image:width" content="{{ $ogWidth }}" />
+  <meta property="og:image:height" content="{{ $ogHeight }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="{{ $ogImg }}" />
+
   {{- /* Fonts */ -}}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

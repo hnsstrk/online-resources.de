@@ -1,0 +1,16 @@
+{
+  "enabledPlugins": {
+    "playwright@claude-plugins-official": true,
+    "context7@claude-plugins-official": true
+  },
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(npm ci:*)",
+      "Bash(npm install:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ]
+  }
+}

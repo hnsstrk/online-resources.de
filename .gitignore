@@ -24,12 +24,15 @@ notes.sqlite
 
 # Lokale Tooling-Caches und Verifikations-Screenshots
 .claude/*
+!.claude/settings.json
 !.claude/skills
 !.claude/skills/**
 .claude/skills/*
 !.claude/skills/post-summary
 !.claude/skills/post-summary/**
 .claude/skills/post-summary/__pycache__/
+!.claude/skills/hugo-ssg
+!.claude/skills/hugo-ssg/**
 .playwright-mcp/
 .qa-shots/
 *.screenshot.png

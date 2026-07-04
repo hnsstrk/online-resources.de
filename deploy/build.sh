@@ -6,7 +6,6 @@ DEPLOY_DIR="/var/www/online-resources.de"
 
 cd "$REPO_DIR"
 git pull --ff-only origin main
-git submodule update --init --recursive
 
 # Wenn build.sh selbst durch den Pull aktualisiert wurde, läuft der bash-Prozess
 # noch mit der alten Skript-Sequenz im Speicher. Re-exec einmal in der neuen

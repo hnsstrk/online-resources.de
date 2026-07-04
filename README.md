@@ -60,7 +60,10 @@ online-resources.de/
 │   ├── impressum.md       # Impressum
 │   ├── datenschutz.md     # Datenschutz
 │   ├── blog/_index.md     # Blog-Section
-│   └── categories/        # Term-Index-Pages mit deutschen Titeln
+│   ├── categories/        # Term-Index-Pages mit deutschen Titeln
+│   ├── favicon/           # Favicon-Dateien
+│   ├── og-images/         # Open-Graph-Bilder (Cover-Fallback)
+│   └── uploads/           # Sonstige Content-Assets
 ├── themes/rollenspiel/    # Eigenes Theme (kein Submodul)
 ├── deploy/build.sh        # Server-Build-Skript
 ├── package.json           # PostCSS-Pipeline-Dependencies

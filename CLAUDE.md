@@ -78,7 +78,7 @@ Push auf `main` triggert automatisches Deployment:
 
 1. GitHub Actions verbindet per SSH zum Contabo Server (User: `deploy`, forced command).
 2. Server-Skript `deploy/build.sh`:
-   - `git pull` + `git submodule update`
+   - `git pull --ff-only origin main`
    - **Re-exec via `exec "$0"`** falls `build.sh` selbst durch den Pull aktualisiert wurde (geschützt gegen Endlos-Loop via `BUILD_REEXECED`).
    - `npm ci --no-audit --prefer-offline` — installiert PostCSS-Pipeline.
    - `rm -rf "$DEPLOY_DIR"/*` — räumt Geistereinträge aus früheren Builds.

@@ -33,6 +33,8 @@ notes.sqlite
 .claude/skills/post-summary/__pycache__/
 !.claude/skills/hugo-ssg
 !.claude/skills/hugo-ssg/**
+!.claude/skills/edrics-notizen
+!.claude/skills/edrics-notizen/**
 .playwright-mcp/
 .qa-shots/
 *.screenshot.png

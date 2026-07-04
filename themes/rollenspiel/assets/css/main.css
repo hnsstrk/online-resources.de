@@ -1,7 +1,14 @@
-@import "tokens.css";
-@import "typography.css";
-@import "components.css";
-@import "layouts.css";
-@import "single.css";
-@import "list.css";
-@import "archiv.css";
+/* Absichtlich projekt-root-relative Importpfade (nicht auf "tokens.css" o.ä.
+   kürzen): Hugo verarbeitet diese Datei per resources.ExecuteAsTemplate,
+   wodurch postcss-import als Basisverzeichnis den Projekt-Root statt diesen
+   Ordner erhält. Kurze Pfade brauchen dann postcss-import's `path`-Fallback,
+   der unter Hugos Subprozess-Aufruf unzuverlässig ist (siehe
+   postcss.config.js). Volle Pfade lösen zuverlässig über den ersten,
+   relativen Auflösungsversuch auf. */
+@import "themes/rollenspiel/assets/css/tokens.css";
+@import "themes/rollenspiel/assets/css/typography.css";
+@import "themes/rollenspiel/assets/css/components.css";
+@import "themes/rollenspiel/assets/css/layouts.css";
+@import "themes/rollenspiel/assets/css/single.css";
+@import "themes/rollenspiel/assets/css/list.css";
+@import "themes/rollenspiel/assets/css/archiv.css";

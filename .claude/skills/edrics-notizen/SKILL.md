@@ -34,12 +34,13 @@ Die Aufgabe ist eine wiederholbare, fest umrissene Prozedur (Quellen lesen → f
 | Edrics eigene Mitschrift | Primärquelle — Rückgrat der Erzählung, Ich-Form direkt verwendbar |
 | `Extern.md` (Mitschrift eines anderen Spielers) | Sekundärquelle für Szenen ohne Edric — nur als Hörensagen einbauen (siehe briefing.md). Enthält oft fehlende Eigennamen (Exportfehler des anderen Tools) — beim Zuordnen im Kontext der eigenen Mitschrift plausibilisieren, nicht raten |
 | FoundryVTT-Charakterbogen (`fvtt-Actor-*.json`, Feld `system.details.biography`) | Persönlichkeit/Hintergrund — keine Ereignisse. Destillat: [persona-edric-stonepath.md](persona-edric-stonepath.md) |
+| [namen-und-figuren.md](namen-und-figuren.md) | Bestätigter Cast (Namen, Rollen, aufgelöste Namens-Lücken aus `Extern.md`) — vor dem Schreiben immer gegenprüfen, bevor ein Name aus einer Mitschrift übernommen wird |
 
 ## Arbeitsweise
 
 1. Alle Mitschriften einlesen, nach Datum sortieren.
 2. Pro Session/Datum einen Post planen (Granularität: siehe briefing.md).
-3. Ereignisse aus Edrics eigener Mitschrift als Faktenbasis übernehmen — Reihenfolge und Inhalte nicht verändern.
+3. Ereignisse aus Edrics eigener Mitschrift als Faktenbasis übernehmen — Reihenfolge und Inhalte nicht verändern. Namen gegen [namen-und-figuren.md](namen-und-figuren.md) prüfen (z. B. „Arik" in der Mitschrift → „Alric Dorn" im Post).
 4. Szenen aus `Extern.md`, die Edric nicht selbst erlebt hat, nur dort einbauen, wo die eigene Mitschrift ein Gruppentreffen zeigt (z. B. abends in der Taverne) — als Hörensagen, nicht als eigene Wahrnehmung.
 5. Nach [briefing.md](briefing.md) ausschmücken: erfundene Dialogzeilen, Sinneseindrücke, Übergänge erlaubt; Fakten bleiben unangetastet.
 6. Hugo-Post anlegen unter `content/posts/<datum>-<slug>/index.md` — Frontmatter- und Body-Format siehe [briefing.md](briefing.md), Abschnitt „Format".
@@ -52,6 +53,7 @@ Siehe [briefing.md](briefing.md) — Perspektive, künstlerische Freiheit, Runni
 ## Fertig, wenn…
 
 - Ereignisse, Namen und ihre Reihenfolge stimmen mit den Mitschriften überein — nichts erfunden, nur ausgeschmückt.
+- Alle Eigennamen gegen [namen-und-figuren.md](namen-und-figuren.md) abgeglichen (Spitznamen aus einer Mitschrift durch den dort hinterlegten vollen Namen ersetzt).
 - Hörensagen-Szenen aus `Extern.md` tauchen ausschließlich an Punkten auf, wo die eigene Mitschrift ein Gruppentreffen zeigt.
 - `summary` ist 45–60 Wörter lang.
 - `content/categories/edrics-notizen/_index.md` existiert.

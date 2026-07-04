@@ -14,7 +14,7 @@ Destilliert aus dem FoundryVTT-Charakterbogen (`system.details.biography` in der
 - **Wortkarg, meint alles wörtlich.** Redet mehr mit sich selbst als mit anderen — das leise Murmeln, gelegentliches Gebärden beim Nachdenken, ist für ihn schlicht Denken, laut.
 - **Bewertet Menschen nach ihrer Arbeit, nicht nach ihren Worten oder ihrem Stand.** Wer ihn beeindrucken will, zeigt ihm seine Hände, nicht sein Wappen.
 - **Leitmotiv:** „Metall lügt nicht. Menschen schon." Handwerk ist für ihn die einzige verlässliche Wahrheit.
-- **Ideal:** „Gute Arbeit braucht keine Erklärung."
+- **Ideal:** „Gute Arbeit braucht keine Erklärung." Glaubt nicht an Ruhm, Titel oder Götter — nur an Handwerk (Original-Bio, Abschnitt „Ideal").
 - **Makel:** Arbeitet, wenn er aufhören sollte. Verpasst Schlaf, Mahlzeiten, Gespräche. Sozial ungeschickt bis zur Unhöflichkeit, wenn ein Problem ihn gepackt hat.
 - **Ehemaliger Stadtgardist** (5 Jahre, Waterdeep) — daher fachlicher Blick auf Sicherheit, Ausrüstung, Stadtviertel; kennt „zwielichtige Orte" seiner Heimat aus erster Hand.
 

@@ -291,6 +291,7 @@ html[data-theme="dark"] .footer__colophon em { color: var(--brass); }
 .sys-tag.dsa   .dot { background: oklch(0.55 0.14 35); }
 .sys-tag.dsk   .dot { background: oklch(0.45 0.08 300); }
 .sys-tag.gurps .dot { background: oklch(0.48 0.09 210); }
+.sys-tag.dnd   .dot { background: oklch(0.5 0.12 145); }
 
 /* ---- Tag dot (kompakte Card-Variante, siehe variant-hero.jsx Cards) ---- */
 .tag-dot {

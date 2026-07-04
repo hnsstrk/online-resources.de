@@ -89,6 +89,9 @@
         {{- if and (eq $sysLabel "") (in $c "gurps") -}}
           {{- $sysLabel = "GURPS" -}}{{- $sysClass = "gurps" -}}
         {{- end -}}
+        {{- if and (eq $sysLabel "") (or (in $c "dungeons") (in $c "dnd") (in $c "d&d")) -}}
+          {{- $sysLabel = "DnD 5e" -}}{{- $sysClass = "dnd" -}}
+        {{- end -}}
       {{- end -}}
       {{- $subtopic := .Params.subtopic | default "" -}}
       {{- $tagText := "" -}}

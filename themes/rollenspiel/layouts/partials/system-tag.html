@@ -23,6 +23,8 @@
     {{- $sys = $sys | append (dict "class" "dsk" "label" "DSK") -}}
   {{- else if in $c "gurps" -}}
     {{- $sys = $sys | append (dict "class" "gurps" "label" "GURPS") -}}
+  {{- else if or (in $c "dungeons") (in $c "dnd") (in $c "d&d") -}}
+    {{- $sys = $sys | append (dict "class" "dnd" "label" "DnD 5e") -}}
   {{- end -}}
 {{- end -}}
 {{- /* dedupe by class */ -}}

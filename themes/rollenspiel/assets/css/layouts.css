@@ -244,6 +244,7 @@ html[data-theme="dark"] .home {
 .home__card-tag--dsa { color: oklch(0.55 0.14 35); }
 .home__card-tag--dsk { color: oklch(0.45 0.08 300); }
 .home__card-tag--gurps { color: oklch(0.48 0.09 210); }
+.home__card-tag--dnd { color: oklch(0.5 0.12 145); }
 .home__card-title {
   font-family: var(--serif-display);
   font-weight: 400;

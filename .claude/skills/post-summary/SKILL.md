@@ -4,7 +4,8 @@ description: |
   Generiert stimmungsvolle Hugo-Frontmatter-Summaries für Blog-Posts via Gemini CLI.
   Kategorie-aware Erzählstimme (DSA/Greifenfurter Adel — Wir-Chronist; DSK/Benjamin
   Büchernase — Ich-Form Kater; Tagebuch von Inigo — Tagebuch; Warhammer Fantasy —
-  episch). Patcht das `summary:`-Feld ins YAML-Frontmatter, überspringt Posts,
+  episch; GURPS — Ich-Form aus Sicht eines Magier-Erzählers). Patcht das
+  `summary:`-Feld ins YAML-Frontmatter, überspringt Posts,
   die bereits ein Summary haben.
   TRIGGER when: user wants to add or regenerate Hugo post summaries, mentions
   "summary", "Vorschau für Posts", "summary für Beiträge", "Frontmatter-Summary",
@@ -62,7 +63,7 @@ python3 .claude/skills/post-summary/generate.py --force --parallel 8
    - Body-Text extrahieren, auf 6000 Zeichen kürzen.
    - Kategorien lesen → Stilstimme bestimmen ([briefing.md](briefing.md)).
    - Gemini-Call mit Briefing + Body.
-   - Antwort einfügen als `summary: |` (literal block) **direkt nach `title:`**.
+   - Antwort einfügen als gequotete Einzeile `summary: "..."` **direkt nach `title:`**.
 3. Parallel via `concurrent.futures.ThreadPoolExecutor`.
 4. Schreibt Logbuch nach stdout: ✓ generiert / ⏭ skipped / ✗ Fehler.
 

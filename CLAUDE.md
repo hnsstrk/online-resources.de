@@ -4,13 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**online-resources.de** is a personal blog/website built with Hugo and a custom theme called `rollenspiel`. Content focuses on tabletop RPGs — Das Schwarze Auge (DSA5), Die Schwarze Katze (DSK), Dungeons & Dragons 5e and Hexxen 1733. German language.
+**online-resources.de** is a personal blog/website built with Hugo and a custom theme called `rollenspiel`. Content focuses on tabletop RPGs — Das Schwarze Auge (DSA5), Die Schwarze Katze (DSK) and GURPS. German language.
 
 ## Tech Stack
 
 | Komponente | Technologie |
 |------------|-------------|
-| SSG | Hugo 0.159.1 extended |
+| SSG | Hugo extended |
 | Theme | `rollenspiel` (eigenes Theme unter `themes/rollenspiel/`) |
 | CSS-Pipeline | PostCSS (`postcss-import`, `autoprefixer`) — installiert via `npm ci` im Build |
 | Suche | Fuse.js (clientseitig, via CDN) |
@@ -34,7 +34,7 @@ online-resources.de/
 │   ├── archiv.md             # Archiv-Übersicht (Layout: archives.html)
 │   ├── about.md              # Über-Seite
 │   ├── search.md             # Suchseite (Layout: search/single.html)
-│   ├── lizenz.md             # Lizenz und Credits (CC BY-NC 4.0 + Drittlizenzen)
+│   ├── license.md            # Lizenz und Credits (CC BY-NC 4.0 + Drittlizenzen)
 │   ├── impressum.md          # Impressum
 │   ├── datenschutz.md        # Datenschutzerklärung
 │   ├── blog/_index.md        # Blog-Section
@@ -92,7 +92,7 @@ Kein Build auf dem GitHub Runner — der Server baut selbst.
 ## Lizenz
 
 - Eigene Inhalte: **CC BY-NC 4.0** (siehe `LICENSE`).
-- Drittkomponenten: siehe `THIRD-PARTY-LICENSES.md` (Repo) und `/lizenz/` (Live-Site).
+- Drittkomponenten: siehe `THIRD-PARTY-LICENSES.md` (Repo) und `/license/` (Live-Site).
 
 ## Projektdokumentation
 

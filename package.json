@@ -2,7 +2,7 @@
   "name": "online-resources.de",
   "version": "1.0.0",
   "private": true,
-  "description": "Build dependencies for the Aventurien Hugo theme (PostCSS pipeline).",
+  "description": "Build dependencies for the rollenspiel Hugo theme (PostCSS pipeline).",
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",

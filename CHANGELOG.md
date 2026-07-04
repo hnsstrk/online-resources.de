@@ -17,23 +17,6 @@ Git-Verlauf vollständig nachvollziehbar.
 
 ---
 
-## [Unreleased]
-
-### Geändert
-- Archiv-Struktur überarbeitet: `content/archive/` zu `content/blog/`
-  umbenannt (inkl. der Sub-Sections `dsa/` und `dsk/`), die Übersichts-Seite
-  `content/archives.md` heißt jetzt `content/archiv.md`.
-- Theme-Layout entsprechend nachgezogen: `layouts/archives/single.html`
-  verschoben nach `layouts/_default/archives.html`, plus Anpassungen in
-  `list.html`, `archive-card.html` und den CSS-Dateien `list.css`,
-  `main.css`.
-
-### Hinzugefügt
-- Eigenes Stylesheet `themes/rollenspiel/assets/css/archiv.css` für die
-  neue Archiv-Seite.
-
----
-
 ## 2026-05-02 — Theme-Refactor und Page-Header-Vereinheitlichung
 
 ### Hinzugefügt
@@ -50,8 +33,17 @@ Git-Verlauf vollständig nachvollziehbar.
   Sektionen, Taxonomien, About).
 - `npm ci` als Vorstufe im Server-Build, damit das Theme-Bundle (PostCSS
   und Co.) reproduzierbar erzeugt wird.
+- Eigenes Stylesheet `themes/rollenspiel/assets/css/archiv.css` für die
+  neue Archiv-Seite.
 
 ### Geändert
+- **Archiv-Struktur überarbeitet**: `content/archive/` zu `content/blog/`
+  umbenannt (inkl. der Sub-Sections `dsa/` und `dsk/`, die später wieder
+  entfernt wurden), die Übersichts-Seite `content/archives.md` heißt jetzt
+  `content/archiv.md`. Theme-Layout entsprechend nachgezogen:
+  `layouts/archives/single.html` verschoben nach
+  `layouts/_default/archives.html`, plus Anpassungen in `list.html`,
+  `archive-card.html` und den CSS-Dateien `list.css`, `main.css`.
 - **Hugo-Theme komplett ausgetauscht**: PaperMod-Submodul entfernt, das
   zuvor neu eingeführte Eigen-Theme `aventurien` aus markenrechtlicher
   Vorsicht zu `rollenspiel` umbenannt. `localStorage`-Key

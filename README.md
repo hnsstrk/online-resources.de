@@ -10,6 +10,7 @@ Spielberichte und Notizen aus laufenden und abgeschlossenen Kampagnen:
 
 - **DSA5** – Das Schwarze Auge 5. Edition (Greifenfurter Adel)
 - **DSK** – Die Schwarze Katze
+- **GURPS** – historischer Bestand aus früheren Runden
 
 ## Tech-Stack
 
@@ -27,8 +28,8 @@ Spielberichte und Notizen aus laufenden und abgeschlossenen Kampagnen:
 Voraussetzungen: Hugo installiert (`hugo version` zum Prüfen).
 
 ```bash
-# Repository klonen (inkl. Theme-Submodul)
-git clone --recurse-submodules https://github.com/hnsstrk/online-resources.de.git
+# Repository klonen
+git clone https://github.com/hnsstrk/online-resources.de.git
 cd online-resources.de
 
 # Entwicklungsserver starten (inkl. Entwürfe)
@@ -36,12 +37,6 @@ hugo server -D
 ```
 
 Der Server ist dann unter [http://localhost:1313](http://localhost:1313) erreichbar.
-
-Falls das Submodul fehlt:
-
-```bash
-git submodule update --init --recursive
-```
 
 ## Build
 
@@ -61,6 +56,7 @@ online-resources.de/
 │   ├── archiv.md          # Archivseite
 │   ├── search.md          # Suchseite
 │   ├── about.md           # Über
+│   ├── license.md         # Lizenz und Credits
 │   ├── impressum.md       # Impressum
 │   ├── datenschutz.md     # Datenschutz
 │   ├── blog/_index.md     # Blog-Section

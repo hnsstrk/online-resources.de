@@ -3,6 +3,7 @@ title: "Der Anfang, den ich nicht aufgeschrieben habe"
 summary: "Bevor ich anfange, selbst Buch zu führen, gibt es nur meine eigenen Besorgungen: Werkstattarbeit, ein Metallklumpen mit Runen für meine alte Rüstung, ein Probeknüppel für Alric Dorn. Der hat eigene Sorgen – eine verschwundene Botin, eine Erpresserbande im Hafen. Was die anderen in der Zeit trieben, kann ich nicht sagen. Ich war beschäftigt."
 date: 2026-04-23T21:00:00+02:00
 categories:
+ - Dungeons & Dragons 5e
  - Edrics Notizen
 cover:
     image: "journal.webp"

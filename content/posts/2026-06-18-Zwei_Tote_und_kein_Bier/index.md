@@ -3,6 +3,7 @@ title: "Zwei Tote und kein Bier"
 summary: "Nach Feierabend will ich nur ein Bier in der Krummen Möwe, finde aber zwei Leichen und eine Gesellschaft, die sich selbst Ärger mit der Wache eingehandelt hat. Während Gregor erklärt und Lysa abgeführt wird, hole ich alte Kameraden zur Aufklärung. Am Ende übernehme ich die Suche nach der verschwundenen Botin Sera – das Bier hatte ich mir redlich verdient."
 date: 2026-06-18T20:00:00+02:00
 categories:
+ - Dungeons & Dragons 5e
  - Edrics Notizen
 cover:
     image: "taverne.webp"

@@ -3,6 +3,7 @@ title: "Nicht ganz tödliche Waffen"
 summary: "Die anderen wollen Waffen, die niemanden gleich umbringen, und schleppen mich in meine eigene Werkstatt. Keule und Stock sind schnell gemacht, Thyras Glöckchen trage ich trotzdem nicht. Bei der Boten-Gilde erfahren wir mehr über die verschwundene Sera, bei einer alten Nachbarin noch mehr über ihre neuen, seltsamen Freunde – nur nicht, wo sie jetzt steckt."
 date: 2026-07-02T20:00:00+02:00
 categories:
+ - Dungeons & Dragons 5e
  - Edrics Notizen
 cover:
     image: "hafenviertel.webp"

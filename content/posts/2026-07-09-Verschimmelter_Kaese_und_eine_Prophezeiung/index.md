@@ -14,7 +14,7 @@ tags:
 
 ## Die Nachtwache
 
-Gregors Keule und der Stock waren fertig – Holz im Feuer gehärtet, mit Metallschleifen verstärkt, solide Arbeit. An Thyras Stab mit den Glöckchen saß ich noch; so etwas baut man nicht zwischen zwei Handgriffen. 
+Gregors Keule und der Stock waren fertig – Holz im Feuer gehärtet, mit Metallschleifen verstärkt, solide Arbeit. An Thyras Stab mit den Glöckchen saß ich noch; so etwas baut man nicht zwischen zwei Handgriffen.
 
 Am Abend kamen wir in der Krummen Möwe zusammen und besprachen uns. Was wir bis dahin über die verschwundene Botin Sera zusammengetragen hatten, war wenig Handfestes: eine Zeichnung von ihr, das Gerede ein paar inoffizieller Boten, die sich in einer Kneipe trafen, und eine alte Nachbarin, die aus ihrem Fenster mehr sah, als ihr guttat. Gregor wiederum hatte sich, wie er erzählte, in der Kapelle des Valor umgesehen – das ist seine Sache, nicht meine.
 

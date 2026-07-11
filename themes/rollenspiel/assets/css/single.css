@@ -195,10 +195,6 @@ html[data-theme="dark"] .article-page__title em { color: var(--brass); }
   text-indent: 0;
   hyphens: auto;
 }
-.article-page article p + p {
-  text-indent: 2em;
-  margin-bottom: 0;
-}
 .article-page article h2 {
   font-family: var(--serif-display);
   font-weight: 500;

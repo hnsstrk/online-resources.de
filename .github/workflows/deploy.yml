@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main
+  schedule:
+    # Täglicher Build für terminierte Posts (publishDate): 17:05 UTC = 19:05 MESZ
+    # (18:05 MEZ im Winter). Ohne diesen Lauf erscheinen Posts mit publishDate
+    # in der Zukunft erst beim nächsten Push.
+    - cron: "5 17 * * *"
+  workflow_dispatch:
 
 jobs:
   deploy:

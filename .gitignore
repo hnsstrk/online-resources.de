@@ -14,7 +14,6 @@ hugo.linux
 
 # SQLite database
 notes.sqlite
-.env
 
 # Node.js dependencies (installed via npm ci)
 /node_modules/
@@ -35,8 +34,29 @@ notes.sqlite
 !.claude/skills/hugo-ssg/**
 !.claude/skills/edrics-notizen
 !.claude/skills/edrics-notizen/**
+!.claude/skills/helbrechts-chronik
+!.claude/skills/helbrechts-chronik/**
+!.claude/skills/flux-cover
+!.claude/skills/flux-cover/**
 .playwright-mcp/
 .qa-shots/
 *.screenshot.png
 home-*.png
 single-*.png
+
+# Zugangsdaten — niemals ins Repo.
+# Bewusst am Dateiende: bei gitignore gewinnt die zuletzt passende Regel, damit
+# kann keine der !-Ausnahmen weiter oben diesen Block wieder aufheben.
+# Das Repo ist öffentlich — ein einmal gepushter Key ist praktisch nicht mehr
+# zurückzuholen, weil Forks und Crawler ihn binnen Minuten haben.
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*credential*
+.netrc
+.htpasswd

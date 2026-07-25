@@ -43,6 +43,8 @@
     {{- partial "article-toc.html" . -}}
 
     <article>
+      {{- partial "article-audio.html" . -}}
+
       {{ .Content }}
 
       {{- with $endNote }}

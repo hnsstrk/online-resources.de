@@ -10,6 +10,7 @@ cover:
     image: "hnsstrk_portrait_of_a_medieval_scout_ink_on_old_paper_8f5a616c-51e6-44de-9a5c-83941da2ceac-768x1152.png"
     alt: "Haubrecht Secundius zu Liederhofen"
     caption: "Haubrecht Secundius zu Liederhofen"
+audio: "reisetagebuch.ogg"
 tags:
   - Rollenspiel
 ---

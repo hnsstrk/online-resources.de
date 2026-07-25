@@ -1,0 +1,17 @@
+{{- /* article-audio.html — Audio-Fassung des Beitrags, falls im Bundle vorhanden.
+       Quelle: Frontmatter `audio:` (Dateiname im Page-Bundle) mit Fallback auf die
+       Konvention `vertonung.mp3`. Ohne Datei rendert das Partial nichts. */ -}}
+{{- $audio := "" -}}
+{{- with .Params.audio -}}
+  {{- $audio = $.Resources.GetMatch . -}}
+{{- end -}}
+{{- if not $audio }}{{ $audio = .Resources.GetMatch "vertonung.mp3" }}{{ end -}}
+{{- with $audio }}
+<div class="article-audio">
+  <p class="article-audio__label">Vorgelesen</p>
+  {{- /* preload="none" — sonst zieht jeder Seitenaufruf mehrere Megabyte. */}}
+  <audio class="article-audio__player" controls preload="none" src="{{ .RelPermalink }}">
+    <a href="{{ .RelPermalink }}">Audiofassung herunterladen</a>
+  </audio>
+</div>
+{{- end }}

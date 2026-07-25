@@ -1,17 +1,23 @@
 {{- /* article-audio.html — Audio-Fassung des Beitrags, falls im Bundle vorhanden.
        Quelle: Frontmatter `audio:` (Dateiname im Page-Bundle) mit Fallback auf die
-       Konvention `vertonung.mp3`. Ohne Datei rendert das Partial nichts. */ -}}
+       Konvention `vertonung.mp3`. Ohne Datei rendert das Partial nichts.
+
+       Das <audio>-Element trägt `controls` im Markup: ohne JavaScript bleibt der
+       native Player als voll funktionsfähiger Rückfall stehen. Erst audio-player.js
+       nimmt das Attribut weg und setzt die Theme-Steuerung davor. */ -}}
 {{- $audio := "" -}}
 {{- with .Params.audio -}}
   {{- $audio = $.Resources.GetMatch . -}}
 {{- end -}}
 {{- if not $audio }}{{ $audio = .Resources.GetMatch "vertonung.mp3" }}{{ end -}}
 {{- with $audio }}
-<div class="article-audio">
-  <p class="article-audio__label">Vorgelesen</p>
-  {{- /* preload="none" — sonst zieht jeder Seitenaufruf mehrere Megabyte. */}}
-  <audio class="article-audio__player" controls preload="none" src="{{ .RelPermalink }}">
+<figure class="article-audio">
+  <figcaption class="article-audio__label">Vorgelesen</figcaption>
+  {{- /* preload="metadata" — lädt nur den Header für die Laufzeitanzeige, nicht die Datei. */}}
+  <audio class="article-audio__el" controls preload="metadata" src="{{ .RelPermalink }}">
     <a href="{{ .RelPermalink }}">Audiofassung herunterladen</a>
   </audio>
-</div>
+</figure>
+{{- $js := resources.Get "js/audio-player.js" | resources.Minify | resources.Fingerprint -}}
+<script src="{{ $js.RelPermalink }}" defer></script>
 {{- end }}

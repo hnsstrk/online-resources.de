@@ -11,6 +11,16 @@ on:
     - cron: "5 17 * * *"
   workflow_dispatch:
 
+# Es darf immer nur ein Deployment zugleich laufen. Alle Läufe greifen über SSH
+# auf dasselbe Server-Repo zu; zwei gleichzeitige `git fetch` kollidieren dort am
+# Ref-Lock ("cannot lock ref 'refs/remotes/origin/main'") und einer schlägt fehl.
+# cancel-in-progress bleibt aus: ein laufender Build wird zu Ende geführt, der
+# nächste wartet. Abbrechen könnte den Server mit halb geschriebenem
+# Ausgabeverzeichnis zurücklassen, und ausgeliefert wird direkt von dort.
+concurrency:
+  group: deploy-contabo
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

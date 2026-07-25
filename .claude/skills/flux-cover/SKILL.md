@@ -1,12 +1,13 @@
 ---
 name: flux-cover
 description: |
-  Erzeugt aus einem Hugo-Blogpost einen fertigen Bildprompt für FLUX.2 [klein] —
-  ausformulierte Prosa statt Keyword-Liste, mit dem Stil-Baustein der jeweiligen
-  Reihe, damit die Cover einer Serie zusammenpassen. Liefert dazu ComfyUI-Settings
-  und einen Dateinamen-Vorschlag fürs Post-Bundle.
+  Erzeugt aus einem Hugo-Blogpost einen fertigen Bildprompt fürs Cover — in der
+  Fassung, die zum verfügbaren Bildgenerator passt: FLUX.2 [klein] lokal in
+  ComfyUI (nur Ganymed), sonst Midjourney, FLUX.2 [pro] oder Seedream 5 Pro.
+  Hält den Reihenstil über den Stil-Baustein und ein Referenzbild zusammen.
   TRIGGER when: user wants a cover/title image prompt for a post, mentions "Cover",
   "Titelbild", "Bildprompt", "Prompt für das Bild", "Flux", "Klein", "ComfyUI",
+  "Midjourney", "Seedream", "ElevenLabs" in the context of images,
   or asks what to feed into the image generator for a blog post.
   DO NOT TRIGGER when: user wants the post text itself (use edrics-notizen or
   helbrechts-chronik), only the summary field (use post-summary), or works on
@@ -16,7 +17,9 @@ allowed-tools: Read, Glob, Grep, Bash
 
 # flux-cover — Skill
 
-Baut aus einem Post unter `content/posts/` einen Bildprompt für **FLUX.2 [klein]**, lokal in ComfyUI. Ausgabe ist Text — der Skill generiert kein Bild und schreibt nichts ins Repo.
+Baut aus einem Post unter `content/posts/` einen Bildprompt fürs Cover. Ausgabe ist Text — der Skill generiert kein Bild und schreibt nichts ins Repo.
+
+**Der Prompt hängt davon ab, wo gearbeitet wird.** FLUX.2 [klein] läuft lokal in ComfyUI, und ComfyUI gibt es nur auf **Ganymed**. Auf jedem anderen Rechner mit diesem Repo — MacBook voran — sind Midjourney, FLUX.2 [pro] und Seedream 5 Pro die Ziele, und die wollen anders angesprochen werden. Der Motivteil bleibt in allen Fällen derselbe; was sich ändert, ist der Dialekt und der Weg, auf dem der Reihenstil gehalten wird.
 
 ## Warum Klein anders geprompted wird als Midjourney oder Flux [pro]
 
@@ -28,9 +31,18 @@ Zweitwichtigster Hebel ist das **Licht** — laut BFL der Einzelfaktor mit dem g
 
 ## Ablauf
 
+0. **Ziel bestimmen.** Läuft ComfyUI?
+
+   ```bash
+   curl -s -m 2 -o /dev/null -w "%{http_code}" -H "comfy-user: default" \
+     http://127.0.0.1:8188/system_stats
+   ```
+
+   `200` → Ganymed, der lokale Klein-Weg ist die Hauptfassung. Alles andere (`000`, Zeitüberschreitung) → Cloud-Fassungen ausgeben. Der Nutzer kann das überstimmen: Nennt er ein Ziel ausdrücklich („für Midjourney"), gilt seine Angabe ohne Prüfung.
+
 1. **Post lesen.** Titel, `summary`, `categories` und Fließtext. Ist kein Pfad genannt, den jüngsten Post nehmen (`ls -t content/posts/`).
 2. **Reihe bestimmen** über `categories:` im Frontmatter, dann den passenden Stil-Baustein aus [stile.md](stile.md) holen. Steht die Reihe dort nicht, mit dem Nutzer einen Stil festlegen statt einen zu erfinden — ein geratener Stil bricht die Serie, und das sieht man auf der Übersichtsseite sofort.
-3. **Motiv wählen:** ein **Ort oder eine Szene**, keine Handlung mit Gesichtern. Das ist keine Stilfrage, sondern folgt zwei Dingen: Die Cover dieses Blogs erzählen durchgehend über Schauplätze, und Klein zeichnet Menschen unzuverlässig — Anatomie ist seine bekannteste Schwäche. Figuren gehören als kleine dunkle Silhouetten ins Bild, die den Maßstab setzen, nicht als Porträts.
+3. **Motiv wählen:** ein **Ort oder eine Szene**, keine Handlung mit Gesichtern. Die Cover dieses Blogs erzählen durchgehend über Schauplätze; Figuren sind kleine dunkle Silhouetten, die den Maßstab setzen, nicht Porträts. Das gilt für jedes Ziel — bei Klein kommt hinzu, dass er Menschen unzuverlässig zeichnet, aber die Regel folgt der Reihe, nicht dem Modell.
 4. **Prompt bauen** nach dem Aufbau unten.
 5. **Ausgeben** im Format unten — Prompt, Settings, Dateiname.
 
@@ -55,13 +67,19 @@ Style: [Medium und Machart]. Mood: [zwei bis drei Stimmungsworte].
 
 ## Was den Prompt verdirbt
 
-- **Negationen im Prompt.** „ohne Menschen" macht Menschen wahrscheinlicher, weil das Modell auf das Substantiv anspringt. Frag stattdessen: Was sähe man, wenn das Ding nicht da wäre? → `deserted`, `empty`, `unmarked`. Ein separates Negativ-Feld hilft hier nicht — siehe unten.
+Die ersten beiden Punkte gelten überall, die letzten drei sind Klein-Eigenheiten.
+
+- **Negationen im Prompt.** „ohne Menschen" macht Menschen wahrscheinlicher, weil das Modell auf das Substantiv anspringt. Frag stattdessen: Was sähe man, wenn das Ding nicht da wäre? → `deserted`, `empty`, `unmarked`. Bei Midjourney gibt es dafür `--no`; Klein hat kein brauchbares Gegenstück (siehe unten).
 - **Stimmungsworte statt Sichtbarem.** „düster" ist keine Bildinformation. Was macht es düster — welcher Anteil des Bildes liegt im Schatten, wo ist die einzige Lichtquelle, wie weit reicht sie?
-- **Keyword-Ketten** mit Kommas. Siehe oben: es gibt niemanden, der sie ausformuliert.
+- **Keyword-Ketten** mit Kommas — bei Klein. Siehe oben: es gibt niemanden, der sie ausformuliert. Midjourney und die [pro]-Modelle kommen damit zurecht; der Prosa-Prompt schadet dort aber auch nicht, deshalb wird er einmal gebaut und überall verwendet.
 - **Text im Bild.** Die Model Card von klein 4B sagt selbst, gerenderter Text könne *„inaccurate or subject to distortion"* sein; in einem Test von wiro.ai kippte bei 6 von 10 Prompts die Schreibung. Die Cover dieses Blogs tragen ohnehin keinen Text — dabei bleiben.
 - **Zahlen als Mengenangabe.** „acht tote Ratten" wird nicht acht. `a heap of dead rats` liefert verläßlich ein stimmiges Bild.
 
 ## Ausgabeformat
+
+Immer zuerst die Fassung fürs erkannte Ziel, darunter die Alternativen in Kurzform. Dateiname und Frontmatter stehen nur einmal am Ende — sie gelten unabhängig vom Generator.
+
+**Auf Ganymed (ComfyUI antwortet):**
 
 ````markdown
 ## Prompt — [Titel des Posts]
@@ -73,6 +91,35 @@ Style: [Medium und Machart]. Mood: [zwei bis drei Stimmungsworte].
 **Settings** (ComfyUI, klein 9B distilled): euler · Flux2Scheduler [4, 1456, 816] · CFG 1 · Seed notieren
 **LoRA-Kette:** `anatomy 2.0` → `chiaroscuro 2.5` → `detail −5.0`
 **Zielmaß:** 1456×816 erzeugen, dann **Lanczos 2×** auf 2912×1632 — **kein Refine-Pass**
+**Workflow:** `hnsstrk - Blog-Cover (Flux2 Klein 9B)`
+````
+
+**Auf jedem anderen Rechner** — derselbe Motivtext, dreimal anders verpackt:
+
+````markdown
+## Prompt — [Titel des Posts]
+
+### Midjourney
+```
+[Motivtext + Stil-Baustein] --ar 16:9 --sref [URL aus stile.md] --sw 100 --style raw
+```
+
+### Seedream 5 Pro (ElevenLabs)
+```
+[Motivtext + Stil-Baustein]
+```
+Referenzbild: [URL aus stile.md] · Seitenverhältnis 16:9
+
+### FLUX.2 [pro] (ElevenLabs)
+```
+[Motivtext + Stil-Baustein + Hex-Palette der Reihe]
+```
+Referenzbild: [URL aus stile.md] · Seitenverhältnis 16:9
+````
+
+**Immer am Ende, unabhängig vom Weg:**
+
+````markdown
 **Dateiname:** `<motiv>.webp`
 
 **Frontmatter:**
@@ -83,7 +130,68 @@ cover:
 ```
 ````
 
-Maße und Dateinamenskonvention stehen in [stile.md](stile.md) — sie sind Vorgabe dieses Projekts, keine Empfehlung von BFL.
+Maße und Dateinamenskonvention stehen in [stile.md](stile.md) — sie sind Vorgabe dieses Projekts, keine Empfehlung eines Anbieters. Das Zielmaß 2912×1632 gilt auch für die Cloud-Wege; liefert der Dienst kleiner, hinterher hochskalieren.
+
+## Reihentreue ohne LoRAs — das Referenzbild
+
+Auf Ganymed tragen die LoRA-Slider den Reihenstil. Kein Cloud-Dienst kennt LoRAs, und ein Cover, das den Look der Serie verfehlt, fällt auf der Übersichtsseite sofort auf. **Der Ersatz ist ein Referenzbild:** ein vorhandenes Cover derselben Reihe, das der Dienst als Stilvorlage bekommt.
+
+Die Cover liegen öffentlich unter berechenbaren URLs, sind also direkt verlinkbar — geprüft am 26.07.2026 (`HTTP 200`, `image/webp`, rund 1 MB, 2912×1632). Midjourney akzeptiert `.webp` und empfiehlt Referenzen ab 1024 px; unsere liegen deutlich darüber.
+
+Die URL je Reihe steht in [stile.md](stile.md). Nie ein Cover einer *anderen* Reihe als Referenz nehmen, und bei „Greifenfurter Adel" keins von 2023 oder früher — das holt den fotorealistischen Bruch zurück.
+
+## Der gleiche Prompt in vier Dialekten
+
+Der Motivteil — Hauptmotiv, Raumschichtung, Licht — ist überall identisch. Was sich unterscheidet:
+
+| | Klein (lokal) | Midjourney | FLUX.2 [pro] | Seedream 5 Pro |
+|---|---|---|---|---|
+| Prosa nötig | **ja**, kein Upsampling | nein, verträgt Ketten | nein, hat Upsampling | nein |
+| Stil-Baustein | unverändert anhängen | anhängen **plus** `--sref` | anhängen plus Referenzbild | anhängen plus Referenzbild |
+| Seitenverhältnis | über Breite/Höhe | `--ar 16:9` | Parameter der API | Parameter der Oberfläche |
+| Negativ-Prompt | nein (siehe unten) | `--no <begriff>` | nein dokumentiert | nein dokumentiert |
+| HEX-Farben | **nein** | nein | ja, dokumentiert | ungeprüft |
+| Wiederholbarkeit | Seed exakt | `--seed`, nur ungefähr | Seed, aber Upsampling stört | Referenzbild |
+
+### Midjourney
+
+Stil-Baustein in den Prompt, Referenzbild als `--sref`, Rest über Parameter:
+
+```
+<Motivteil als Fließtext, Stil-Baustein am Ende>
+--ar 16:9 --sref <URL aus stile.md> --sw 100 --style raw
+```
+
+`--sw` steuert, wie stark die Vorlage durchschlägt (0–1000, Standard 100). Trifft der Look nicht, zuerst `--sw` erhöhen — nicht den Stil-Baustein aufblähen. `--style raw` nimmt Midjourneys eigene Verschönerung heraus, die sonst gegen den ruhigen Reihenlook arbeitet. Für Motive ohne Figuren zusätzlich `--no people`; das ist hier zulässig, anders als bei Klein.
+
+### FLUX.2 [pro] über ElevenLabs
+
+Prosa funktioniert, ist aber nicht nötig — [pro] schickt den Prompt durch ein Sprachmodell, das ihn ausformuliert. Zwei Folgen daraus:
+
+- **HEX-Farben sind dokumentiert und wirken.** Die Palette je Reihe steht als Hex-Zeile in [stile.md](stile.md) — bei [pro] gehört sie in den Prompt, bei Klein nicht.
+- **Wer Wiederholbarkeit braucht, schaltet das Upsampling ab** (`disable_pup: true` in der API). Sonst wird der Prompt vor jeder Generierung neu umgeschrieben und der Seed nützt nichts. Über die Oberfläche von ElevenLabs ist der Schalter nicht erreichbar — dort führt nur das Referenzbild zu Serientreue.
+
+### Seedream 5 Pro über ElevenLabs
+
+Nach Einschätzung des Nutzers mindestens auf Midjourney-Niveau, seit Anfang 2026 besonders stark bei Komposition und mehrfigurigen Szenen. Steuerung läuft über Referenzbilder, nicht über Parameter: klarer Prompt aus Motiv, Aufbau und Stil, dazu die Referenz aus [stile.md](stile.md).
+
+**Nicht verwechseln:** *Seedream* erzeugt Bilder, *Seedance* Videos — beide gibt es bei ElevenLabs. Und Seedream 5 Pro ist in den USA gesperrt; von Deutschland aus nutzbar.
+
+### Wann welcher Weg
+
+| Weg | Wann |
+|---|---|
+| **Klein lokal** (nur Ganymed) | Reihen-Cover, wenn die Maschine erreichbar ist. Kostenlos, beliebig oft wiederholbar, Seed-treu. |
+| **Midjourney** | Erster Griff außerhalb von Ganymed, wenn Serientreue zählt — `--sref` ist die beste Stilbindung der drei. |
+| **Seedream 5 Pro** | Wenn das Motiv Komposition oder mehrere Figuren verlangt. |
+| **FLUX.2 [pro]** | Wenn die Farbpalette exakt sitzen muss (HEX) oder derselbe Prompt gebraucht wird, den Klein nicht hinbekommt. |
+
+
+---
+
+## Nur auf Ganymed: der lokale Klein-Weg
+
+Alles ab hier setzt ComfyUI voraus und gilt für kein anderes Ziel.
 
 ## ComfyUI-Settings
 
@@ -179,32 +287,26 @@ Die Stil-Bausteine je Reihe stehen in [stile.md](stile.md). Kommt eine Reihe daz
 
 ## Fertig, wenn
 
+Für jedes Ziel:
+
 - Der Prompt ist durchgehend Prosa, keine Kommakette.
 - Alle drei Bildebenen sind benannt und gefüllt.
 - Lichtquelle, Reichweite und Wirkung auf Oberflächen stehen ausformuliert da.
 - Der Stil-Baustein der Reihe steckt unverändert drin.
 - `Style:`/`Mood:`-Suffix schließt ab.
-- Keine Negation, keine Mengenzahl, kein Text im Bild.
+- Keine Mengenzahl, kein Text im Bild.
 - 110–170 Wörter.
+- Dateiname und Frontmatter-Block stehen dabei.
+
+Zusätzlich außerhalb von Ganymed:
+
+- Die Referenzbild-URL der Reihe ist genannt und stammt aus [stile.md](stile.md).
+- Bei Midjourney hängen `--ar 16:9 --sref … --sw 100 --style raw` am Prompt.
 
 ## Grenzen
 
-- **512 Token** Encoder-Limit, hart abgeschnitten (`MAX_LENGTH=512, truncation=True` im flux2-Quellcode).
-- **Keine Gewichtungssyntax** — `(wort:1.2)` und `[]` haben bei Klein keine Wirkung.
-- **JSON-Prompting und HEX-Farbcodes** sind nur für [pro]/[max] dokumentiert, für Klein nicht. Farben deshalb ausschreiben: `deep teal-grey`, `warm amber`.
-- Klein liegt qualitativ unter [pro]. Der lokale Weg ist nicht der einzige verfügbare.
-
-## Wenn Klein nicht reicht — die anderen Wege
-
-Für die Cover der laufenden Reihen bleibt Klein gesetzt, und das hat einen technischen Grund, keinen preislichen: **Der Reihenstil hängt an den LoRA-Slidern.** `chiaroscuro` und `detail` im Minus sind das, was aus dem Rendering eine Malerei macht — und LoRAs gibt es in keinem der Cloud-Dienste. Ein über Midjourney erzeugtes Cover träfe den Look der Serie nicht, und das sieht man auf der Übersichtsseite sofort nebeneinander.
-
-Für alles außerhalb der Reihen — Einzelbilder, DSK, GURPS, Illustrationen im Fließtext — sind die anderen Wege oft die bessere Wahl:
-
-| Weg | Wann |
-|---|---|
-| **ElevenLabs** (Seedream 5 Pro, Flux.2 Pro) | Wenn ein Bild einfach gut werden soll. Pay per use, Ergebnisse nach Einschätzung des Nutzers mindestens auf Midjourney-Niveau. Erster Griff für Einzelbilder. |
-| **Midjourney** | Vorhandenes Abo, stärkste Bildsprache bei freien Motiven — aber am wenigsten steuerbar und ohne Seed-Treue über Serien hinweg. Siehe `Midjourney` im Vault. |
-| **BFL-API direkt** ([pro]/[max]) | Wenn derselbe Prompt gebraucht wird, den Klein nicht hinbekommt. Dann `disable_pup: true` setzen, sonst schreibt das Upsampling ihn vor der Generierung um und der Seed nützt nichts. Abrechnung pro Megapixel. |
-| **Klein lokal** | Reihen-Cover, Serien mit Stilbindung, Iteration bei festem Seed. Kostenlos und beliebig oft wiederholbar. |
-
-Die Prompt-Regeln dieses Skills gelten **nur für Klein**. [pro], [max] und Seedream haben Prompt-Upsampling — dort funktionieren Stichwortketten, JSON-Prompting und HEX-Farbcodes, die hier ausdrücklich ausgeschlossen sind. Ein Klein-Prompt läuft dort zwar durch, nutzt aber deren Stärken nicht.
+- **512 Token** Encoder-Limit bei Klein, hart abgeschnitten (`MAX_LENGTH=512, truncation=True` im flux2-Quellcode).
+- **Keine Gewichtungssyntax** — `(wort:1.2)` und `[]` haben bei Klein keine Wirkung. Midjourney kennt `::` als Gewichtung, das ist ein anderer Mechanismus.
+- **JSON-Prompting und HEX-Farbcodes** sind für [pro]/[max] dokumentiert, für Klein nicht. In der Klein-Fassung Farben deshalb ausschreiben: `deep teal-grey`, `warm amber`.
+- **Der Skill prüft nicht, ob ein Cloud-Dienst tatsächlich erreichbar ist** — er liefert nur den Prompt. Ob das ElevenLabs-Guthaben reicht oder Midjourney gerade läuft, steht auf einem anderen Blatt.
+- Klein liegt qualitativ unter [pro]; dafür ist er kostenlos, wiederholbar und der einzige Weg mit LoRA-Steuerung.

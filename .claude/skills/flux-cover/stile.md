@@ -13,7 +13,11 @@ Geführt werden nur die beiden laufenden Reihen. Die DSK-Reihen (Benjamin Büche
 **Kategorien:** `Dungeons & Dragons 5e` + `Edrics Notizen`
 **Grundlage:** alle 5 Cover der Reihe (04/2026–07/2026), streng einheitlich
 
-> `Painterly digital matte painting with soft oil-like brushwork, a single warm amber light source glowing at the vanishing point against deep teal-grey shadows, cinematic one-point perspective receding into depth, weathered stone and worn timber, atmospheric haze, muted earthy palette of near-black bark brown, burnt sienna and cold slate green, distant figures as small dark silhouettes.`
+> `Traditional oil painting on coarse canvas, thick visible impasto brushstrokes, paint dragged and scumbled, edges dissolving into brushwork rather than drawn, forms suggested instead of rendered, visible canvas weave in the highlights, a single warm amber light source glowing at the vanishing point against deep teal-grey shadows, cinematic one-point perspective receding into depth, muted earthy palette of near-black bark brown, burnt sienna and cold slate green, figures as solid black shapes against the glow.`
+
+**Warum diese Formulierung — am 25.07.2026 im Vergleich erarbeitet:** Der erste Baustein lautete „painterly digital matte painting with soft oil-like brushwork". Das beschreibt ein *digitales Bild, das nach Öl aussieht* — und genau das lieferte Klein: glatte Flächen, gerenderte Rohre, jeder Ziegel einzeln. Erst die Beschreibung der **Machart statt der Wirkung** kippte das Ergebnis: Farbe geschleppt und geschrubbt, Kanten die sich in Pinselstrich auflösen, „forms suggested instead of rendered". Merksatz für neue Reihen: nicht sagen, wonach es aussehen soll, sondern was der Pinsel tut.
+
+Ebenso `figures as solid black shapes against the glow` statt „small dark silhouettes" — der Refine-Pass modelliert Figuren sonst wieder aus, und Menschen sind Kleins schwächste Stelle.
 
 **Motivkreis:** Kanalisation und Gewölbe unter Waterdeep, Hafenviertel mit Fachwerk und Schiffsmasten, verwohnte Schankräume, Schmiede und Werkstatt mit Amboß, verrostete Rohre mit Dampf, nasses Kopfsteinpflaster mit Lichtreflex.
 
@@ -28,7 +32,9 @@ Geführt werden nur die beiden laufenden Reihen. Die DSK-Reihen (Benjamin Büche
 **Kategorien:** `Das schwarze Auge` + `Greifenfurter Adel`
 **Grundlage:** die 4 neuesten Cover (2025). **Achtung:** Die Reihe hat einen Stilbruch — die Cover bis 2023 sind fotorealistische Nebellandschaften. Maßgeblich ist der gemalte Stil ab 2024.
 
-> `Dramatic painterly digital fantasy illustration, one warm amber light source glowing against cool desaturated blue-grey gloom, symmetrical central vanishing point framed by weathered stone architecture, drifting haze and a wet reflective floor, high architectural detail, tiny silhouetted figures for scale, palette of deep olive black, cold sage grey and burnt copper.`
+> `Dramatic oil painting on canvas, loaded brush and visible impasto, edges dissolving into brushwork rather than drawn, one warm amber light source glowing against cool desaturated blue-grey gloom, symmetrical central vanishing point framed by weathered stone architecture, drifting haze and a wet reflective floor, tiny figures as solid black shapes for scale, palette of deep olive black, cold sage grey and burnt copper.`
+
+*Analog zum Edric-Baustein auf Machart umgestellt (25.07.2026) — die Öl-Formulierung ist dort am Bild belegt, für diese Reihe noch nicht gegengeprüft. Der frühere Zusatz „high architectural detail" ist bewusst entfallen: Er zog das Ergebnis ins Gerenderte, während `klein_slider_detail` im negativen Bereich gerade dagegen arbeitet.*
 
 **Motivkreis:** Gewölbe und Kanäle mit Wasserlauf in der Mittelachse, Fackelreihen an Quadermauern, Elementarwesen aus Feuer, Wasser und Nebel, Lagerhäuser und Kellergänge, tulamidisch-orientalische Basar- und Wüstenarchitektur, Zwergenschmiede.
 

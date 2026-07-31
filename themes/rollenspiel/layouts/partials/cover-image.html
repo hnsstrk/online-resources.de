@@ -56,6 +56,7 @@
   {{- if and (eq $sysLabel "") (or (in $c "schwarze auge") (in $c "dsa")) -}}{{- $sysLabel = "DSA" -}}{{- end -}}
   {{- if and (eq $sysLabel "") (or (in $c "schwarze katze") (in $c "dsk")) -}}{{- $sysLabel = "DSK" -}}{{- end -}}
   {{- if and (eq $sysLabel "") (in $c "gurps") -}}{{- $sysLabel = "GURPS" -}}{{- end -}}
+  {{- if and (eq $sysLabel "") (or (in $c "dungeons") (in $c "dnd") (in $c "d&d")) -}}{{- $sysLabel = "DnD 5e" -}}{{- end -}}
 {{- end -}}
 {{- $subtopic := $page.Params.subtopic | default "" -}}
 {{- $placeholderCaption := $sysLabel -}}

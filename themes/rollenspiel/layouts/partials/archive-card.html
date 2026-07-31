@@ -3,7 +3,7 @@
 
        Layout:
          - Cover image (.figure.duotone) oder Placeholder via cover-image-Partial
-         - System-Tag (.sys-tag.dsa / .dsk / .gurps)
+         - System-Tag (.sys-tag.dsa / .dsk / .gurps / .dnd)
          - h3 Title (Link)
          - Mono-Row: Type · Lesezeit  |  Datum
        Designentscheidung: Datum als gewohntes DateFormat (DD.MM.YYYY) statt Roman-Quartal,
@@ -23,6 +23,9 @@
   {{- end -}}
   {{- if and (eq $sysKey "") (in $c "gurps") -}}
     {{- $sysKey = "gurps" -}}{{- $sysLabel = "GURPS" -}}
+  {{- end -}}
+  {{- if and (eq $sysKey "") (or (in $c "dungeons") (in $c "dnd") (in $c "d&d")) -}}
+    {{- $sysKey = "dnd" -}}{{- $sysLabel = "Dungeons & Dragons 5e" -}}
   {{- end -}}
 {{- end -}}
 {{- $postType := $page.Params.post_type | default "Bericht" -}}

@@ -2,7 +2,7 @@
 title: "Gefunden und vergessen"
 summary: "Wir folgten dem Wasser hinter die eingestürzte Stelle und fanden Sera — lebend, mit einer Platzwunde, an einem alten Brunnen voller Runen. Sie sagte nur ein Wort: Vergessen. Celestina hörte die Zeichen flüstern und vergaß es. Etwas kicherte im Dunkeln. Oben wartete ein Heiler mit offener Hand, und meine Kleidung brannte grün."
 date: 2026-07-30T20:00:00+02:00
-publishDate: 2026-07-31T16:00:00+02:00
+publishDate: 2026-07-31T14:03:00+02:00
 categories:
  - Dungeons & Dragons 5e
  - Edrics Notizen

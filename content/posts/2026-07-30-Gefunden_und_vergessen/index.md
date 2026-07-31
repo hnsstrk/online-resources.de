@@ -65,6 +65,6 @@ Dass man sich die Zeichen noch einmal ansehen musste, bestritt niemand. Mit jema
 
 Blieb das Letzte, und das duldete keinen Aufschub: das Waschen. Celestina schlug das Badehaus vor — erst reinigen, dann die Bäder und Schwitzbäder, Badehut aus hygienischen Gründen, Handtuch nicht vergessen. Lysa stimmte zu: Man musste sicher noch einmal dort hinunter, aber für heute kam der Dreck aus den Poren. Gregor hielt Schwitzhöhlen für albern, er wollte sich nur sauber machen — sonst wusch er sich zu neun Zehnteln der Zeit in kalten Strömen. Für die Bibliothek war es an diesem Tag ohnehin zu spät, die schloss bald. Das war etwas für morgen.
 
-Ich ging nach Hause und verbrannte meine Kleidung in der Esse. Das Feuer brannte grün — Kupfer in der Kleidung; bei meinem Handwerk sammelt sich das. Ein Schmied sieht gern in Flammen. Grüne hatte ich lange nicht.
+Ich ging nach Hause und verbrannte meine Kleidung in der Esse. Das Feuer brannte grün. Ein Schmied sieht gern in Flammen. Grüne hatte ich lange nicht.
 
 Danach schlief ich, wie man nach so einem Tag schläft: gründlich. Am Morgen fühlten wir uns alle gestärkt — die Botin gefunden, der erste Abschnitt der Arbeit getan. Man merkt es einem Werkstück an, wenn es die erste Härtung übersteht. Als Nächstes die Bibliothek. Bücher sagen einem nicht, ob ihr Inhalt hält — aber Runen, die einer Frau das Erinnern nehmen, sehe ich mir lieber auf Papier an als noch einmal aus der Nähe.

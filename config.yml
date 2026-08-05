@@ -72,6 +72,12 @@ params:
         - { name: "Dungeons & Dragons", url: "https://fvtt2.online-resources.de/" }
         - { name: "Fallout",            url: "https://fvtt2.online-resources.de/" }
 
+    # Fußzeile unter der Trennlinie — Links stehen links, das Copyright
+    # (Top-Level `copyright:`) bleibt rechts. Leere Liste = nur Copyright.
+    bottom:
+      items:
+        - { name: "hnsstrk.de", url: "https://hnsstrk.de/" }
+
   # ----------------------------------------------------------------------------
   # Claim — Standard-Side-Text neben jeder Seitenüberschrift.
   # Verwendet sowohl im Hero-Side auf der Startseite als auch im Page-Header-Side,

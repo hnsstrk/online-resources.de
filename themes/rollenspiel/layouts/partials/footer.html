@@ -4,6 +4,8 @@
          params.footer.colophon = { heading, text }      — Spalte 1, plus Social-Row
          params.footer.rubriken = { heading, items[] }   — Spalte 2
          params.footer.anderswo = { heading, items[] }   — Spalte 3
+         params.footer.bottom   = { items[] }            — Zeile unter der Trennlinie,
+                                                           links neben dem Copyright
 
        Items: Liste aus { name, url }. URLs mit `http`-Prefix öffnen in neuem Tab.
        Eine Spalte mit leerem text/items wird ausgelassen.
@@ -12,6 +14,7 @@
 {{- $colophon := $footer.colophon | default dict -}}
 {{- $rubriken := $footer.rubriken | default dict -}}
 {{- $anderswo := $footer.anderswo | default dict -}}
+{{- $bottom   := $footer.bottom | default dict -}}
 {{- $hColophon := $colophon.heading | default "Kolophon" -}}
 {{- $hRubriken := $rubriken.heading | default "Rubriken" -}}
 {{- $hAnderswo := $anderswo.heading | default "Anderswo" -}}
@@ -59,6 +62,17 @@
     <hr class="footer__rule" />
 
     <div class="footer__bottom">
+      {{- with $bottom.items }}
+      <ul class="footer__bottom-links">
+        {{- range . -}}
+          <li>
+            <a href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
+              {{- .name -}}
+            </a>
+          </li>
+        {{- end }}
+      </ul>
+      {{- end }}
       <span class="footer__copy">{{ .Site.Copyright | default (printf "© %d %s" now.Year .Site.Title) | markdownify }}</span>
     </div>
   </div>

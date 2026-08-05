@@ -17,6 +17,30 @@ Git-Verlauf vollständig nachvollziehbar.
 
 ---
 
+## 2026-08-05 — Konfigurierbare Fußzeile und Rest-Bereinigung des Theme-Namens
+
+### Hinzugefügt
+- **`params.footer.bottom.items` in `config.yml`**: Die Zeile unter dem
+  Trennstrich trägt jetzt eine frei konfigurierbare Link-Liste, gleiche
+  `{ name, url }`-Konvention wie die drei Footer-Spalten darüber. Damit ist
+  der Footer vollständig aus der Konfiguration heraus bestimmbar. Erster
+  Eintrag: Backlink zu hnsstrk.de.
+- Zugehörige Regeln `.footer__bottom-links` in `components.css` (Mono/11px
+  wie das Copyright; unter 860 px stehen Links und Copyright links
+  nebeneinander und dürfen umbrechen).
+
+### Geändert
+- **Markenrechtliche Bereinigung nachgezogen**: Die Umbenennung
+  `aventurien` → `rollenspiel` vom 02.05.2026 hatte den Theme-*Namen* an
+  zwei Stellen stehen lassen. `themes/rollenspiel/theme.toml` trug weiterhin
+  `name = "Aventurien"` — genau der Wert, der bei einer Veröffentlichung im
+  Hugo-Theme-Katalog erscheint —, dazu die Kopfkommentare von `tokens.css`,
+  `typography.css`, `list.css`, `single.css`, `layouts.css` und
+  `components.css`. Alle auf `Rollenspiel` gesetzt.
+- Unberührt bleibt die redaktionelle Nennung der Spielwelt im Fließtext
+  (`claim` in `config.yml`, About-Seite, Blog-Beschreibung,
+  `site.webmanifest`) — beschreibende Nennung, kein Produktname.
+
 ## 2026-05-02 — Theme-Refactor und Page-Header-Vereinheitlichung
 
 ### Hinzugefügt

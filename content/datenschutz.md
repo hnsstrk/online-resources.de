@@ -10,12 +10,12 @@ Stand: 6. August 2026
 
 ### 1. Verantwortlicher
 
-Hans Jürgen Stark
-Zum Steinberg 23
-53902 Bad Münstereifel
+Hans Jürgen Stark  
+Zum Steinberg 23  
+53902 Bad Münstereifel  
 Deutschland
 
-E-Mail: hans.juergen.stark@gmail.com
+E-Mail: [hans.juergen.stark@gmail.com](mailto:hans.juergen.stark+datenschutz@gmail.com)
 
 Diese Erklärung gilt für die Website unter `www.online-resources.de`. Die Spielserver unter `fvtt1.online-resources.de`, `fvtt2.online-resources.de` und `fvtt3.online-resources.de` sind ein geschlossener Bereich für einen festen, persönlich bekannten Personenkreis und nicht Gegenstand dieser Erklärung.
 
@@ -84,9 +84,9 @@ Du hast gemäß DSGVO folgende Rechte:
 - **Widerspruch** (Art. 21 DSGVO) — Widerspruch gegen die Verarbeitung
 - **Beschwerde** bei einer Aufsichtsbehörde (Art. 77 DSGVO)
 
-Zuständige Aufsichtsbehörde:
-Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen
-Kavalleriestraße 2–4, 40213 Düsseldorf
+Zuständige Aufsichtsbehörde:  
+Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen  
+Kavalleriestraße 2–4, 40213 Düsseldorf  
 https://www.ldi.nrw.de
 
 **Was eine Auskunft praktisch bedeutet:** Gespeichert sind ausschließlich die oben genannten Protokolldaten, und die IP-Adresse darin ist gekürzt. Eine Zuordnung dieser Einträge zu deiner Person ist mir dadurch nicht möglich, auch nicht mit Zusatzwissen. Nach Art. 11 Abs. 2 DSGVO bin ich nicht verpflichtet, allein zu deiner Identifizierung zusätzliche Daten zu erheben — ich könnte es in diesem Fall auch gar nicht. Eine auf dich bezogene Auskunft zu einzelnen Zugriffen kann ich dir deshalb nicht erteilen; unabhängig davon wird jeder Eintrag nach längstens 15 Tagen gelöscht.

@@ -15,7 +15,8 @@
 {{ end }}
 
 {{ define "scripts" }}
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
+{{- $fuse := resources.Get "js/vendor/fuse.min.js" | resources.Fingerprint -}}
+<script src="{{ $fuse.RelPermalink }}" integrity="{{ $fuse.Data.Integrity }}" defer></script>
 {{- $js := resources.Get "js/search.js" | resources.Minify | resources.Fingerprint -}}
 <script src="{{ $js.RelPermalink }}" defer></script>
 {{ end }}

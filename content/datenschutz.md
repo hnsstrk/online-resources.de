@@ -6,7 +6,7 @@ draft: false
 
 ## Datenschutzerklärung
 
-Stand: 28. März 2026
+Stand: 6. August 2026
 
 ### 1. Verantwortlicher
 
@@ -21,13 +21,17 @@ E-Mail: hans.juergen.stark@gmail.com
 
 Diese Website wird auf einem Server der Contabo GmbH (Aschauer Straße 32a, 81549 München) gehostet. Der Server steht in Deutschland. Beim Aufruf dieser Website werden durch den Webserver (Nginx) automatisch Informationen in sogenannten Server-Logfiles gespeichert:
 
-- IP-Adresse des anfragenden Geräts
+- IP-Adresse des anfragenden Geräts (ungekürzt)
 - Datum und Uhrzeit des Zugriffs
-- Aufgerufene URL und Referrer-URL
-- Verwendeter Browser und Betriebssystem
+- Angeforderte URL samt HTTP-Methode und Protokollversion
+- Referrer-URL — die Seite, von der aus der Zugriff erfolgte
+- Verwendeter Browser und Betriebssystem (User-Agent)
 - Übertragene Datenmenge
+- HTTP-Statuscode, also ob der Abruf erfolgreich war
 
-Die Server-Logfiles werden für maximal 14 Tage gespeichert und anschließend automatisch gelöscht. Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Sicherheit und dem fehlerfreien Betrieb der Website).
+Weitere Angaben werden nicht protokolliert. Die Daten werden nicht ausgewertet, nicht zu Nutzungsprofilen zusammengeführt und nicht mit anderen Datenquellen verknüpft; es ist keine Statistik- oder Auswertungssoftware installiert.
+
+Die Protokolldateien werden täglich gewechselt; aufbewahrt werden vierzehn abgeschlossene Tage zuzüglich des laufenden Tages. Ein einzelner Eintrag wird damit längstens 15 Tage gespeichert und anschließend automatisch gelöscht. Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Sicherheit und dem fehlerfreien Betrieb der Website).
 
 ### 3. Statische Website — kein Tracking
 
@@ -41,7 +45,15 @@ Diese Website ist eine statische Website, die mit Hugo generiert wird. Es werden
 
 ### 4. localStorage
 
-Das verwendete Theme (PaperMod) speichert die gewählte Farbschema-Einstellung (hell/dunkel) im localStorage des Browsers. Dies ist technisch notwendig, um die Einstellung beim nächsten Besuch beizubehalten. Es handelt sich nicht um Cookies und die Daten verlassen den Browser nicht.
+Diese Website nutzt ein eigenes, für sie entwickeltes Theme (`rollenspiel`). Es speichert genau einen Eintrag im localStorage deines Browsers:
+
+| Schlüssel | Mögliche Werte | Zweck |
+|---|---|---|
+| `rollenspiel-theme` | `light` oder `dark` | Merkt sich das gewählte Farbschema |
+
+Der Eintrag entsteht erst, wenn du den Umschalter für Hell/Dunkel betätigst — bis dahin richtet sich die Darstellung nach der Einstellung deines Betriebssystems, ohne dass etwas gespeichert wird. Andere Werte werden nicht abgelegt, es gibt keine Kennungen, keine Zählerstände und keine Besuchshistorie.
+
+Es handelt sich nicht um Cookies. Die Daten verlassen deinen Browser nicht und werden nicht an den Server übermittelt. Du kannst den Eintrag jederzeit über die Einstellungen deines Browsers löschen.
 
 Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Benutzerfreundlichkeit).
 
@@ -50,6 +62,8 @@ Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Benut
 Diese Website enthält Links zu externen Diensten (GitHub, Discord, YouTube, LinkedIn u.a.). Beim Klicken auf diese Links verlässt du diese Website. Für die Datenverarbeitung auf den Zielseiten gelten die jeweiligen Datenschutzerklärungen der Anbieter.
 
 Es werden keine Social-Media-Plugins oder eingebettete Inhalte externer Dienste geladen. Die Links sind reine Textverweise.
+
+Auch alle technischen Bestandteile der Seite liegen auf demselben Server wie die Website: die verwendeten Schriften (Cormorant Garamond, EB Garamond, Cinzel, JetBrains Mono) und die Suchbibliothek der Suchseite (Fuse.js). Es besteht damit beim Aufruf keine Verbindung zu Google Fonts, zu einem Content Delivery Network oder zu anderen Dritten.
 
 ### 6. Kontaktaufnahme per E-Mail
 

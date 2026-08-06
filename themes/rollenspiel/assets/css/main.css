@@ -5,6 +5,7 @@
    der unter Hugos Subprozess-Aufruf unzuverlässig ist (siehe
    postcss.config.js). Volle Pfade lösen zuverlässig über den ersten,
    relativen Auflösungsversuch auf. */
+@import "themes/rollenspiel/assets/css/fonts.css";
 @import "themes/rollenspiel/assets/css/tokens.css";
 @import "themes/rollenspiel/assets/css/typography.css";
 @import "themes/rollenspiel/assets/css/components.css";

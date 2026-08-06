@@ -23,8 +23,8 @@ Static-Site-Generator. Wird zum Bauen der Website verwendet.
 - Lizenztext: https://github.com/krisk/Fuse/blob/main/LICENSE
 - Copyright: © Kiro Risk
 
-Clientseitige Fuzzy-Search-Bibliothek. Wird auf der Suchseite via CDN
-geladen.
+Clientseitige Fuzzy-Search-Bibliothek. Wird auf der Suchseite geladen und
+liegt als Kopie im Theme (`themes/rollenspiel/assets/js/vendor/`).
 
 ### PostCSS
 
@@ -66,6 +66,10 @@ Kommandozeilen-Werkzeug für PostCSS.
 Alle eingesetzten Schriften stehen unter der SIL Open Font License 1.1
 (OFL). Der vollständige Lizenztext ist unter
 https://openfontlicense.org/open-font-license-official-text/ abrufbar.
+
+Die Schriftdateien werden lokal mit der Website ausgeliefert
+(`themes/rollenspiel/static/fonts/`, im Web unter `/fonts/`). Der
+Lizenztext mit allen Urhebervermerken liegt dort als `OFL.txt`.
 
 ### Cormorant Garamond
 

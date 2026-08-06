@@ -17,11 +17,13 @@ Deutschland
 
 E-Mail: hans.juergen.stark@gmail.com
 
+Diese Erklärung gilt für die Website unter `www.online-resources.de`. Die Spielserver unter `fvtt1.online-resources.de`, `fvtt2.online-resources.de` und `fvtt3.online-resources.de` sind ein geschlossener Bereich für einen festen, persönlich bekannten Personenkreis und nicht Gegenstand dieser Erklärung.
+
 ### 2. Hosting
 
 Diese Website wird auf einem Server der Contabo GmbH (Aschauer Straße 32a, 81549 München) gehostet. Der Server steht in Deutschland. Beim Aufruf dieser Website werden durch den Webserver (Nginx) automatisch Informationen in sogenannten Server-Logfiles gespeichert:
 
-- IP-Adresse des anfragenden Geräts (ungekürzt)
+- IP-Adresse des anfragenden Geräts, **gekürzt** — das letzte Oktett wird durch Null ersetzt (aus `203.0.113.42` wird `203.0.113.0`); bei IPv6-Adressen werden nur die ersten drei Blöcke gespeichert
 - Datum und Uhrzeit des Zugriffs
 - Angeforderte URL samt HTTP-Methode und Protokollversion
 - Referrer-URL — die Seite, von der aus der Zugriff erfolgte
@@ -29,7 +31,7 @@ Diese Website wird auf einem Server der Contabo GmbH (Aschauer Straße 32a, 8154
 - Übertragene Datenmenge
 - HTTP-Statuscode, also ob der Abruf erfolgreich war
 
-Weitere Angaben werden nicht protokolliert. Die Daten werden nicht ausgewertet, nicht zu Nutzungsprofilen zusammengeführt und nicht mit anderen Datenquellen verknüpft; es ist keine Statistik- oder Auswertungssoftware installiert.
+Weitere Angaben werden nicht protokolliert. Die Daten werden nicht ausgewertet, nicht zu Nutzungsprofilen zusammengeführt und nicht mit anderen Datenquellen verknüpft; es ist keine Statistik- oder Auswertungssoftware installiert. Die Kürzung der IP-Adresse erfolgt bereits beim Schreiben des Protokolls; die vollständige Adresse wird zu keinem Zeitpunkt gespeichert.
 
 Die Protokolldateien werden täglich gewechselt; aufbewahrt werden vierzehn abgeschlossene Tage zuzüglich des laufenden Tages. Ein einzelner Eintrag wird damit längstens 15 Tage gespeichert und anschließend automatisch gelöscht. Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Sicherheit und dem fehlerfreien Betrieb der Website).
 
@@ -86,6 +88,8 @@ Zuständige Aufsichtsbehörde:
 Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen
 Kavalleriestraße 2–4, 40213 Düsseldorf
 https://www.ldi.nrw.de
+
+**Was eine Auskunft praktisch bedeutet:** Gespeichert sind ausschließlich die oben genannten Protokolldaten, und die IP-Adresse darin ist gekürzt. Eine Zuordnung dieser Einträge zu deiner Person ist mir dadurch nicht möglich, auch nicht mit Zusatzwissen. Nach Art. 11 Abs. 2 DSGVO bin ich nicht verpflichtet, allein zu deiner Identifizierung zusätzliche Daten zu erheben — ich könnte es in diesem Fall auch gar nicht. Eine auf dich bezogene Auskunft zu einzelnen Zugriffen kann ich dir deshalb nicht erteilen; unabhängig davon wird jeder Eintrag nach längstens 15 Tagen gelöscht.
 
 ### 8. Änderungen
 

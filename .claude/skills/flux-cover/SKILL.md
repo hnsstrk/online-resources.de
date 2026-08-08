@@ -19,7 +19,7 @@ allowed-tools: Read, Glob, Grep, Bash
 
 Baut aus einem Post unter `content/posts/` einen Bildprompt fürs Cover. Ausgabe ist Text — der Skill generiert kein Bild und schreibt nichts ins Repo.
 
-**Der Prompt hängt davon ab, wo gearbeitet wird.** FLUX.2 [klein] läuft lokal in ComfyUI, und ComfyUI gibt es nur auf **Ganymed**. Auf jedem anderen Rechner mit diesem Repo — MacBook voran — sind Midjourney, FLUX.2 [pro] und Seedream 5 Pro die Ziele, und die wollen anders angesprochen werden. Der Motivteil bleibt in allen Fällen derselbe; was sich ändert, ist der Dialekt und der Weg, auf dem der Reihenstil gehalten wird.
+**Der Prompt hängt davon ab, wo gearbeitet wird.** FLUX.2 [klein] läuft lokal in ComfyUI, und ComfyUI gibt es nur auf **Ganymed**. Auf jedem anderen Rechner mit diesem Repo — Europa voran — sind Midjourney, FLUX.2 [pro] und Seedream 5 Pro die Ziele, und die wollen anders angesprochen werden. Der Motivteil bleibt in allen Fällen derselbe; was sich ändert, ist der Dialekt und der Weg, auf dem der Reihenstil gehalten wird.
 
 ## Warum Klein anders geprompted wird als Midjourney oder Flux [pro]
 

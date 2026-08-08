@@ -103,7 +103,7 @@ Alle Konzepte, Entscheidungen und ADRs im Obsidian Vault:
 | System | Vault-Basispfad |
 |--------|----------------|
 | Linux (Ganymed) | `/home/hnsstrk/Insync/hans.juergen.stark@gmail.com/Google Drive/Vault Obsidian/` |
-| macOS (MacBook) | `/Users/hnsstrk/Meine Ablage/Vault Obsidian/` |
+| Europa (macOS) | `/Users/hnsstrk/Meine Ablage/Vault Obsidian/` |
 
 **Projektordner im Vault:** `Projekte/online-resources.de/`
 

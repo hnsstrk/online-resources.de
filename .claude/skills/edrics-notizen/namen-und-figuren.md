@@ -18,7 +18,7 @@ Bestätigter Cast, destilliert aus den Campfire-Tags des Nutzers (2026-07-04) �
 |---|---|
 | Alric Dorn | Hauptmann der Wache, Edrics alter Kollege. **Edrics eigene Mitschrift nennt ihn „Arik"** (Kurzform/Spitzname) — der volle, korrekte Name ist Alric Dorn. Bei künftigen Posts „Alric Dorn" verwenden, auch wenn eine Mitschrift nur „Arik" schreibt. |
 | Old Jordan | Wirt der Krummen Möwe |
-| Sera | Verschwundene Botin, Gegenstand der Suche ab 18.06.2026 |
+| Sera | Verschwundene Botin, Gegenstand der Suche ab 18.06.2026. Sitzungszusammenfassungen schreiben sie teilweise **„Sarah"** — nach Nutzerbestätigung (2026-08-16) ist **Sera** der korrekte Name; in Posts immer so schreiben. |
 | Pater Havel | Von einer alten Nachbarin empfohlener Pater/Heiler (nur in `Extern.md`, nicht in Edrics eigener Mitschrift — als Hörensagen behandeln) |
 | Mutter Brina | Heilerin an den Docks |
 | Abt Michael | Im Kloster für die Sekten-Beobachtung zuständig erklärt |

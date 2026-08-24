@@ -374,6 +374,23 @@ Am 25.07.2026 im direkten Vergleich belegt (gleicher Prompt, gleicher Seed, nur 
 
 Kette: `UnetLoaderGGUF` → anatomy → chiaroscuro → detail → `CFGGuider`.
 
+> [!warning] Diese Werte gehören zum Baustein vom 25.07.2026
+> Für den feineren Baustein, den „Edrics Notizen" seit 08/2026 verlangt, gilt **`detail +1.0` und 8 Steps** statt −5.0 und 4. Der Slider steht dann im Positiven, weil das Ziel ausmodellierte Formen sind und nicht mehr die Andeutung. Welcher Baustein für welche Reihe gilt, steht in [stile.md](stile.md) — dort auch die Begründung.
+
+### Referenzbilder gehen auch lokal
+
+`stile.md` führt Referenzbilder als Ersatz für die LoRAs *in der Cloud*. Das ist unvollständig: **ComfyUI kann sie ebenfalls**, und für wiederkehrende Schauplätze ist das der einzige verlässliche Weg, denselben Raum zweimal zu treffen. Am 24.08.2026 erprobt — die Schmiede aus `esse.webp` kam mit Ziegelwand, Rauchhaube und Steinboden wieder.
+
+Der Cover-Workflow hat den Zweig nicht; er wird an den Graphen angehängt, je Bild vier Knoten:
+
+```
+LoadImage → ImageScaleToTotalPixels (megapixels 1.0, resolution_steps 16) → VAEEncode → ReferenceLatent
+```
+
+`ReferenceLatent` nimmt `conditioning` und `latent`; mehrere Bilder werden verkettet (jedes bekommt das Conditioning des vorherigen), das letzte geht als `positive` in den `CFGGuider`. Die Datei muss in `~/Projekte/comfyui/input/` liegen. Vorbild und Feinheiten: `~/.claude/skills/comfyui-bild/scripts/render.py`, Funktion `referenz_kette` — `resolution_steps` ist dort Pflicht, sonst weist ComfyUI den Auftrag ab.
+
+**Eine Referenz, nicht zwei.** Mit zwei Vorlagen malte Klein am 24.08. Bildinhalte doppelt — aus einem Dolch wurden zwei gekreuzte Klingen. Mit einer war das Ergebnis sauber.
+
 `detail` steht bewußt weit im Minus. Der Slot-Titel im großen Workflow nennt „3 … 8" — das ist die Civitai-Empfehlung für *mehr* Detail und damit die falsche Richtung für diesen Stil. Bei −3.0 war das Ergebnis noch zu sauber; −5.0 ist der belegte Wert der Öl-Läufe und im Cover-Workflow bereits eingestellt.
 
 **Warum Slider und keine Stil-LoRA:** Die Fantasy-LoRAs (`80sFantasy`, `DarkGhibli`, `EtherialGothic`) brauchen ein Trigger-Wort **am Anfang des Prompts** — das verwässert die sorgfältig gebaute Bildbeschreibung. Slider wirken ohne Trigger, allein über die Stärke, und sind stufenlos dosierbar. Sie arbeiten dabei **nicht** im 0–1-Bereich: Wer bei 1.0 stehenbleibt, hält sie für wirkungslos.

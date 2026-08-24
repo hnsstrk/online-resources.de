@@ -8,7 +8,7 @@ Bestätigter Cast, destilliert aus den Campfire-Tags des Nutzers (2026-07-04) �
 |---|---|---|
 | Edric Stonepath | Artificer/Waffenschmied — Ich-Erzähler | siehe [persona-edric-stonepath.md](persona-edric-stonepath.md) |
 | Gregor Valen | Kleriker | in Edrics Mitschrift nur „Gregor" |
-| Lysa Tannfell | Kämpferin/Spurensucherin | in Edrics Mitschrift nur „Lysa"; Autorin von `Extern.md` |
+| Lysa Tannfell | Kämpferin/Spurensucherin | in Edrics Mitschrift nur „Lysa"; Autorin von `Extern.md`. Sitzungszusammenfassungen verwechseln sie gelegentlich mit **Celestina** — Erkennungsfehler der Transkription (nutzerbestätigt 2026-08-24 für den Sera-Besuch der Sitzung vom 13.08.). Bei einer Szene, die laut vorherigem Post Lysa zeigt, gewinnt der Post. |
 | Thyra Hammerhall | Bardin | Edrics eigene Mitschrift nennt sie nur „die Bardin" — nach Nutzerbestätigung (2026-07-04) war sie mindestens bis 18.06./02.07.2026 aktiv dabei. In Posts als „Thyra" benennen, auch wenn die Mitschrift nur „die Bardin" schreibt. |
 | Celestina de Suerte | Wahrsagerin/Medium (Cold Reading) | Nach Nutzerbestätigung (2026-07-04) mindestens bis 18.06.2026 Teil der Gruppe, auch wenn Edrics eigene Mitschrift sie nie namentlich erwähnt. Bei Gruppenszenen mitnennen, sofern der Nutzer ihre Anwesenheit für die jeweilige Session nicht widerspricht. |
 

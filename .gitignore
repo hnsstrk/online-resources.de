@@ -38,6 +38,7 @@ notes.sqlite
 !.claude/skills/helbrechts-chronik/**
 !.claude/skills/flux-cover
 !.claude/skills/flux-cover/**
+.claude/skills/flux-cover/scripts/__pycache__/
 .playwright-mcp/
 .qa-shots/
 *.screenshot.png

@@ -1,13 +1,14 @@
 ---
 name: flux-cover
 description: |
-  Erzeugt aus einem Hugo-Blogpost einen fertigen Bildprompt fürs Cover — in der
-  Fassung, die zum verfügbaren Bildgenerator passt: FLUX.2 [klein] lokal in
-  ComfyUI (nur Ganymed), sonst Midjourney, FLUX.2 [pro] oder Seedream 5 Pro.
+  Erzeugt das Cover eines Hugo-Blogposts — als fertigen Bildprompt und, über
+  OpenRouter, auch als fertige Bilddatei. Drei Wege: FLUX.2 [klein] lokal in
+  ComfyUI (nur Ganymed), FLUX.2 [pro]/[max] über die OpenRouter-Bild-API
+  (überall, kostet Geld), Midjourney oder Seedream 5 Pro von Hand.
   Hält den Reihenstil über den Stil-Baustein und ein Referenzbild zusammen.
   TRIGGER when: user wants a cover/title image prompt for a post, mentions "Cover",
   "Titelbild", "Bildprompt", "Prompt für das Bild", "Flux", "Klein", "ComfyUI",
-  "Midjourney", "Seedream", "ElevenLabs" in the context of images,
+  "OpenRouter", "Midjourney", "Seedream", "ElevenLabs" in the context of images,
   or asks what to feed into the image generator for a blog post.
   DO NOT TRIGGER when: user wants the post text itself (use edrics-notizen or
   helbrechts-chronik), only the summary field (use post-summary), or works on
@@ -17,9 +18,19 @@ allowed-tools: Read, Glob, Grep, Bash
 
 # flux-cover — Skill
 
-Baut aus einem Post unter `content/posts/` einen Bildprompt fürs Cover. Ausgabe ist Text — der Skill generiert kein Bild und schreibt nichts ins Repo.
+Baut aus einem Post unter `content/posts/` einen Bildprompt fürs Cover — und erzeugt auf zwei Wegen auch das Bild selbst.
 
-**Der Prompt hängt davon ab, wo gearbeitet wird.** FLUX.2 [klein] läuft lokal in ComfyUI, und ComfyUI gibt es nur auf **Ganymed**. Auf jedem anderen Rechner mit diesem Repo — Europa voran — sind Midjourney, FLUX.2 [pro] und Seedream 5 Pro die Ziele, und die wollen anders angesprochen werden. Der Motivteil bleibt in allen Fällen derselbe; was sich ändert, ist der Dialekt und der Weg, auf dem der Reihenstil gehalten wird.
+**Der Prompt hängt davon ab, wo gearbeitet wird.** FLUX.2 [klein] läuft lokal in ComfyUI, und ComfyUI gibt es nur auf **Ganymed**. Überall sonst führt der Weg über die Bild-API von OpenRouter zu FLUX.2 [pro] oder [max] — automatisiert, aber kostenpflichtig. Midjourney und Seedream 5 Pro bleiben Handarbeit in fremden Oberflächen. Der Motivteil bleibt in allen Fällen derselbe; was sich ändert, ist der Dialekt und der Weg, auf dem der Reihenstil gehalten wird.
+
+**Drei Wege, zwei davon fertig bis zur Datei:**
+
+| Weg | Ausgabe | Kosten |
+|---|---|---|
+| ComfyUI lokal (nur Ganymed) | Bilddatei | keine |
+| OpenRouter, `scripts/cover.py` | Bilddatei | rund 0,03 USD ([pro]) bzw. 0,07 USD ([max]) je Bild |
+| Midjourney · Seedream 5 Pro | nur Prompt, Nutzer rendert selbst | Abo bzw. ElevenLabs-Guthaben |
+
+**Ein Lauf über OpenRouter kostet Geld. Nie ungefragt starten** — Prompt und geschätzte Kosten vorlegen, dann entscheidet der Nutzer. `--trocken` zeigt den Request, ohne zu senden.
 
 ## Warum Klein anders geprompted wird als Midjourney oder Flux [pro]
 
@@ -38,7 +49,7 @@ Zweitwichtigster Hebel ist das **Licht** — laut BFL der Einzelfaktor mit dem g
      http://127.0.0.1:8188/system_stats
    ```
 
-   `200` → Ganymed, der lokale Klein-Weg ist die Hauptfassung. Alles andere (`000`, Zeitüberschreitung) → Cloud-Fassungen ausgeben. Der Nutzer kann das überstimmen: Nennt er ein Ziel ausdrücklich („für Midjourney"), gilt seine Angabe ohne Prüfung.
+   `200` → Ganymed, der lokale Klein-Weg ist die Hauptfassung. Alles andere (`000`, Zeitüberschreitung) → OpenRouter ist der Weg zur fertigen Datei, die Midjourney- und Seedream-Fassungen kommen als Alternative dazu. Der Nutzer kann das überstimmen: Nennt er ein Ziel ausdrücklich („für Midjourney", „über OpenRouter"), gilt seine Angabe ohne Prüfung.
 
 1. **Post lesen.** Titel, `summary`, `categories` und Fließtext. Ist kein Pfad genannt, den jüngsten Post nehmen (`ls -t content/posts/`).
 2. **Reihe bestimmen** über `categories:` im Frontmatter, dann den passenden Stil-Baustein aus [stile.md](stile.md) holen. Steht die Reihe dort nicht, mit dem Nutzer einen Stil festlegen statt einen zu erfinden — ein geratener Stil bricht die Serie, und das sieht man auf der Übersichtsseite sofort.
@@ -94,6 +105,26 @@ Immer zuerst die Fassung fürs erkannte Ziel, darunter die Alternativen in Kurzf
 **Workflow:** `hnsstrk - Blog-Cover (Flux2 Klein 9B)`
 ````
 
+**Über OpenRouter** (der Weg zur fertigen Datei außerhalb von Ganymed):
+
+````markdown
+## Prompt — [Titel des Posts]
+
+```
+[Motivtext + Stil-Baustein + Hex-Palette der Reihe]
+```
+
+**Aufruf:**
+```bash
+.claude/skills/flux-cover/scripts/cover.py \
+  --modell pro \
+  --prompt "<der Prompt>" \
+  --referenz "<URL aus stile.md>" \
+  --ziel content/posts/<post-ordner>/<motiv>.webp
+```
+**Kosten:** rund 0,03 USD ([pro]) bzw. 0,07 USD ([max]) — vor dem Lauf bestätigen lassen.
+````
+
 **Auf jedem anderen Rechner** — derselbe Motivtext, dreimal anders verpackt:
 
 ````markdown
@@ -140,18 +171,99 @@ Die Cover liegen öffentlich unter berechenbaren URLs, sind also direkt verlinkb
 
 Die URL je Reihe steht in [stile.md](stile.md). Nie ein Cover einer *anderen* Reihe als Referenz nehmen, und bei „Greifenfurter Adel" keins von 2023 oder früher — das holt den fotorealistischen Bruch zurück.
 
-## Der gleiche Prompt in vier Dialekten
+## Cover über OpenRouter — `scripts/cover.py`
+
+Der einzige Weg außerhalb von Ganymed, der ohne Handarbeit in einer fremden Oberfläche zur fertigen Datei führt. Das Skript ruft die Bild-API von OpenRouter auf, holt das Bild, bringt es auf 2912×1632 und legt es als WebP ab.
+
+```bash
+.claude/skills/flux-cover/scripts/cover.py \
+  --modell pro \
+  --prompt "<Motivtext + Stil-Baustein + Hex-Palette>" \
+  --referenz "https://www.online-resources.de/posts/.../kanalratten.webp" \
+  --ziel content/posts/2026-08-…/hafenviertel.webp
+```
+
+Ausgabe ist der Pfad der fertigen Datei auf `stdout`; Modell, Laufzeit, Seed und die tatsächlichen Kosten stehen auf `stderr`.
+
+Weitere Schalter: `--seed`, `--ar` (Vorgabe `16:9`), `--zielmass keine` (liefert das unskalierte PNG), `--steps`/`--guidance` (an Black Forest Labs durchgereicht), `--liste` (Modelle und Preise), `--guthaben` (Kontostand), `--trocken` (zeigt den Request und sendet nichts — kostet nichts).
+
+**Der Schlüssel** liegt in `~/.config/openrouter/key` (Rechte 600) oder in `$OPENROUTER_API_KEY`. Das Skript liest ihn zur Laufzeit und gibt ihn nirgends aus. **Nie in eine Datei des Repositories schreiben, nie in eine Beispiel-Kommandozeile, nie in eine Fehlermeldung.**
+
+### Welches Modell
+
+| Modell | Preis je Megapixel Ausgabe | Wofür |
+|---|---|---|
+| `--modell pro` | 0,03 USD | **Standardwahl.** Reicht für Reihen-Cover. |
+| `--modell max` | 0,07 USD | Wenn [pro] das Motiv zweimal verfehlt hat, oder bei besonders verwickelter Szene. |
+| `--modell flex` | 0,06 USD aus **plus** 0,06 USD je Megapixel Referenzbild | Stark bei Text und Typografie — die Cover tragen keinen Text. **Kein Grund, ihn zu nehmen.** |
+| `--modell klein4b` | 0,014 USD | Dasselbe Modell wie lokal, aber **ohne** die LoRA-Slider, die den Reihenstil erst herstellen. Nur als Notbehelf. |
+
+Bei rund einem Megapixel Ausgabe kostet ein Bild also ungefähr 0,03 USD mit [pro] und 0,07 USD mit [max]. Ein Nachlauf mit anderem Seed kostet dasselbe noch einmal.
+
+### Was der OpenRouter-Weg kann
+
+- **Referenzbilder:** bis zu **acht** bei [pro], [max] und [flex], vier bei [klein-4b]. Damit ist der Reihenstil so gut gebunden wie über Midjourneys `--sref` — sogar besser, weil mehrere Cover derselben Reihe gleichzeitig als Vorlage dienen können.
+- **Seitenverhältnis** über `aspect_ratio`; `16:9` ist dabei.
+- **Seed** wird angenommen. Die Spezifikation sagt dazu ausdrücklich: *„Determinism is not guaranteed for all providers."*
+- **Steps, Guidance und Safety Tolerance** gehen als Durchreichparameter an Black Forest Labs.
+
+### Was er nicht kann
+
+- **Keine Auflösungssteuerung.** Die API kennt zwar `resolution` (`512`/`1K`/`2K`/`4K`) und `size` (`"2048x1152"`), aber **die FLUX-Modelle melden beides nicht als unterstützt** — nur `aspect_ratio`, `output_format`, `n`, `seed` und `input_references`. Das Zielmaß 2912×1632 kommt deshalb nicht aus dem Modell, sondern aus dem Hochskalieren mit Lanczos, genau wie im lokalen Workflow.
+- **Kein WebP als Ausgabeformat.** FLUX liefert nur `png` oder `jpeg`; das Skript fordert PNG an und wandelt selbst um.
+- **Nur ein Bild je Aufruf** (`n` ist auf 1 begrenzt). Kein Varianten-Gitter wie in ComfyUI.
+- **Kein Zugriff auf das Prompt-Upsampling.** [pro] und [max] schicken den Prompt durch ein Sprachmodell, bevor sie rendern. Der Schalter, der das abstellt, gehört **nicht** zu den drei durchgereichten Parametern — über OpenRouter ist er nicht erreichbar. Serientreue kommt hier also allein aus dem Referenzbild, nicht aus dem Seed.
+- **Keine LoRAs.** Die drei Slider, die den Tonwert der Reihe herstellen, gibt es nur lokal.
+
+### Fehler und Guthaben
+
+| Code | Bedeutung |
+|---|---|
+| 400 | Parameter paßt nicht zum Modell — meist `resolution`, `size` oder `quality` bei FLUX |
+| 402 | Guthaben erschöpft |
+| 413 | Request zu groß — Referenzbild als URL statt als lokale Datei übergeben |
+| 429 | Rate Limit |
+| 502 · 524 · 529 | Anbieter ausgefallen, zu langsam oder überlastet |
+
+Abgerechnet wird nach dem Alles-oder-nichts-Prinzip: Ein Lauf, der nicht fertig wird, kostet nichts. Kontostand mit `--guthaben` (der Abruf selbst ist kostenlos).
+
+**Referenzbild als URL, nicht als Datei.** Die Cover liegen öffentlich; eine URL ist ein paar Dutzend Zeichen. Dieselbe Datei lokal eingebettet sind rund 1,5 Millionen Zeichen im Request — das läuft in ein 413. Das Skript kann beides, die URL ist der richtige Weg.
+
+### Was hier geprüft ist und was nicht
+
+Alles am **24.08.2026** an der laufenden API erhoben, ohne einen einzigen Bildlauf:
+
+| Belegt | Quelle |
+|---|---|
+| Endpunkt `POST /api/v1/images`, vollständiges Anfrage- und Antwortschema | `https://openrouter.ai/openapi.json`, Pfad `/images` |
+| Modell-IDs `black-forest-labs/flux.2-pro` und `…/flux.2-max` | `GET /api/v1/images/models` |
+| Unterstützte Parameter je Modell, Höchstzahl Referenzbilder, Durchreichparameter | `GET /api/v1/images/models/black-forest-labs/flux.2-pro/endpoints` |
+| Preise 0,03 / 0,07 / 0,06 / 0,014 USD je Megapixel | derselbe Endpunkt, Feld `pricing` |
+| Rückgabe als base64 in `data[0].b64_json`, **keine URL, keine Ablauffrist** | Antwortschema `ImageGenerationResponse` |
+| Guthabenabfrage `GET /api/v1/credits` | eigener Abruf, HTTP 200 |
+| Der Skalierschritt liefert exakt 2912×1632 WebP | eigener Lauf gegen ein Testbild 1408×800 |
+
+**Ungeprüfte Annahme bleibt:**
+
+- **Welche Pixelmaße FLUX bei `aspect_ratio: "16:9"` tatsächlich liefert.** Black Forest Labs nennt 64×64 als Minimum, 4 Megapixel als Maximum, Vielfache von 16 und „recommended up to 2MP". Die Kostenrechnung oben unterstellt rund ein Megapixel. Steht die erste Datei, ist die Frage mit `magick identify` beantwortet — und die Kostenangabe hier entsprechend zu berichtigen.
+- **Ob ein WebP als Referenzbild angenommen wird.** Die Modelle melden `image` als Eingabeformat, ohne die Codecs aufzuzählen. Wird die URL abgewiesen, hilft `--referenz <lokale PNG-Datei>`.
+- **Ob der Seed bei [pro] und [max] trägt** — siehe Prompt-Upsampling oben.
+- **Der Bildlauf selbst ist noch nie gelaufen.** Erprobt sind am 24.08.2026 nur die kostenlosen Wege: `--liste`, `--trocken` (baut den Request korrekt auf) und `--guthaben` (HTTP 200, Schlüssel wird angenommen). Damit stehen Authentifizierung, Endpunkt und Anfrageaufbau; offen bleibt alles, was erst die Antwort zeigt — Pixelmaße, Referenzbild-Annahme, Seed-Wirkung.
+
+## Der gleiche Prompt in fünf Dialekten
 
 Der Motivteil — Hauptmotiv, Raumschichtung, Licht — ist überall identisch. Was sich unterscheidet:
 
-| | Klein (lokal) | Midjourney | FLUX.2 [pro] | Seedream 5 Pro |
-|---|---|---|---|---|
-| Prosa nötig | **ja**, kein Upsampling | nein, verträgt Ketten | nein, hat Upsampling | nein |
-| Stil-Baustein | unverändert anhängen | anhängen **plus** `--sref` | anhängen plus Referenzbild | anhängen plus Referenzbild |
-| Seitenverhältnis | über Breite/Höhe | `--ar 16:9` | Parameter der API | Parameter der Oberfläche |
-| Negativ-Prompt | nein (siehe unten) | `--no <begriff>` | nein dokumentiert | nein dokumentiert |
-| HEX-Farben | **nein** | nein | ja, dokumentiert | ungeprüft |
-| Wiederholbarkeit | Seed exakt | `--seed`, nur ungefähr | Seed, aber Upsampling stört | Referenzbild |
+| | Klein (lokal) | OpenRouter [pro]/[max] | Midjourney | FLUX.2 [pro] (ElevenLabs) | Seedream 5 Pro |
+|---|---|---|---|---|---|
+| Prosa nötig | **ja**, kein Upsampling | nein, hat Upsampling | nein, verträgt Ketten | nein, hat Upsampling | nein |
+| Stil-Baustein | unverändert anhängen | anhängen plus `--referenz` | anhängen **plus** `--sref` | anhängen plus Referenzbild | anhängen plus Referenzbild |
+| Seitenverhältnis | über Breite/Höhe | `--ar 16:9` | `--ar 16:9` | Parameter der API | Parameter der Oberfläche |
+| Auflösung | frei wählbar | **nicht steuerbar**, hinterher skalieren | fest je Modell | Parameter der API | Parameter der Oberfläche |
+| Negativ-Prompt | nein (siehe unten) | nein | `--no <begriff>` | nein dokumentiert | nein dokumentiert |
+| HEX-Farben | **nein** | ja | nein | ja, dokumentiert | ungeprüft |
+| Wiederholbarkeit | Seed exakt | Seed, ohne Zusicherung | `--seed`, nur ungefähr | Seed, aber Upsampling stört | Referenzbild |
+| Bild kommt fertig | ja | **ja** | nein, Handarbeit | nein, Handarbeit | nein, Handarbeit |
 
 ### Midjourney
 
@@ -169,7 +281,7 @@ Stil-Baustein in den Prompt, Referenzbild als `--sref`, Rest über Parameter:
 Prosa funktioniert, ist aber nicht nötig — [pro] schickt den Prompt durch ein Sprachmodell, das ihn ausformuliert. Zwei Folgen daraus:
 
 - **HEX-Farben sind dokumentiert und wirken.** Die Palette je Reihe steht als Hex-Zeile in [stile.md](stile.md) — bei [pro] gehört sie in den Prompt, bei Klein nicht.
-- **Wer Wiederholbarkeit braucht, schaltet das Upsampling ab** (`disable_pup: true` in der API). Sonst wird der Prompt vor jeder Generierung neu umgeschrieben und der Seed nützt nichts. Über die Oberfläche von ElevenLabs ist der Schalter nicht erreichbar — dort führt nur das Referenzbild zu Serientreue.
+- **Wer Wiederholbarkeit braucht, schaltet das Upsampling ab** (`disable_pup: true` in der API von Black Forest Labs). Sonst wird der Prompt vor jeder Generierung neu umgeschrieben und der Seed nützt nichts. Über die Oberfläche von ElevenLabs ist der Schalter nicht erreichbar, **über OpenRouter ebensowenig** (durchgereicht werden nur `steps`, `guidance`, `safety_tolerance`) — auf beiden Wegen führt nur das Referenzbild zu Serientreue.
 
 ### Seedream 5 Pro über ElevenLabs
 
@@ -182,9 +294,11 @@ Nach Einschätzung des Nutzers mindestens auf Midjourney-Niveau, seit Anfang 202
 | Weg | Wann |
 |---|---|
 | **Klein lokal** (nur Ganymed) | Reihen-Cover, wenn die Maschine erreichbar ist. Kostenlos, beliebig oft wiederholbar, Seed-treu. |
-| **Midjourney** | Erster Griff außerhalb von Ganymed, wenn Serientreue zählt — `--sref` ist die beste Stilbindung der drei. |
+| **OpenRouter [pro]** | Erster Griff außerhalb von Ganymed. Der einzige Weg, der ohne fremde Oberfläche zur fertigen Datei führt, und mit bis zu acht Referenzbildern die stärkste Stilbindung. Kostet je Bild rund 0,03 USD. |
+| **OpenRouter [max]** | Wenn [pro] das Motiv zweimal verfehlt hat. Gut das Doppelte an Kosten. |
+| **Midjourney** | Wenn der Nutzer ohnehin dort arbeitet oder `--sref` mit abgestufter Stärke (`--sw`) braucht. |
 | **Seedream 5 Pro** | Wenn das Motiv Komposition oder mehrere Figuren verlangt. |
-| **FLUX.2 [pro]** | Wenn die Farbpalette exakt sitzen muss (HEX) oder derselbe Prompt gebraucht wird, den Klein nicht hinbekommt. |
+| **FLUX.2 [pro] über ElevenLabs** | Nur, wenn kein OpenRouter-Guthaben da ist — es ist derselbe Modellzugang, nur von Hand. |
 
 
 ---
@@ -302,11 +416,13 @@ Zusätzlich außerhalb von Ganymed:
 
 - Die Referenzbild-URL der Reihe ist genannt und stammt aus [stile.md](stile.md).
 - Bei Midjourney hängen `--ar 16:9 --sref … --sw 100 --style raw` am Prompt.
+- Beim OpenRouter-Weg stehen der vollständige Aufruf und die geschätzten Kosten da — und der Nutzer hat zugestimmt, bevor gerendert wurde.
 
 ## Grenzen
 
 - **512 Token** Encoder-Limit bei Klein, hart abgeschnitten (`MAX_LENGTH=512, truncation=True` im flux2-Quellcode).
 - **Keine Gewichtungssyntax** — `(wort:1.2)` und `[]` haben bei Klein keine Wirkung. Midjourney kennt `::` als Gewichtung, das ist ein anderer Mechanismus.
 - **JSON-Prompting und HEX-Farbcodes** sind für [pro]/[max] dokumentiert, für Klein nicht. In der Klein-Fassung Farben deshalb ausschreiben: `deep teal-grey`, `warm amber`.
-- **Der Skill prüft nicht, ob ein Cloud-Dienst tatsächlich erreichbar ist** — er liefert nur den Prompt. Ob das ElevenLabs-Guthaben reicht oder Midjourney gerade läuft, steht auf einem anderen Blatt.
+- **Für Midjourney und ElevenLabs prüft der Skill nicht, ob der Dienst erreichbar ist** — er liefert nur den Prompt. Ob das ElevenLabs-Guthaben reicht oder Midjourney gerade läuft, steht auf einem anderen Blatt. Beim OpenRouter-Weg beantwortet `cover.py --guthaben` wenigstens die Guthabenfrage.
 - Klein liegt qualitativ unter [pro]; dafür ist er kostenlos, wiederholbar und der einzige Weg mit LoRA-Steuerung.
+- **`cover.py` ist noch nie scharf gelaufen.** Gebaut und in Trockenläufen geprüft, aber ohne echten Bildlauf — der kostet Geld und ist die Entscheidung des Nutzers.

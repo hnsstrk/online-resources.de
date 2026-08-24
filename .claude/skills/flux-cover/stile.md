@@ -51,7 +51,7 @@ Niemals ein Cover von 2023 oder früher als Referenz nehmen — das holt den fot
 
 ## Technische Konventionen für alle Reihen
 
-- **Zielmaß:** 2912×1632 WebP (16:9). In Klein 1456×816 generieren, dann 2× skalieren.
+- **Zielmaß:** 2912×1632 WebP (16:9). In Klein 1456×816 generieren, dann 2× skalieren. Über OpenRouter ist die Auflösung nicht steuerbar — `scripts/cover.py` skaliert selbst auf das Zielmaß.
 - **Dateiname:** kurzes deutsches Substantiv, klein geschrieben — `kanalratten.webp`, `unwasser.webp`, `hafenviertel.webp`.
 - **Cover immer über `cover.image` im Frontmatter bestimmen**, nie per Verzeichnis-Scan: in den Post-Bundles liegen 34 Dateien, die nirgends referenziert sind (33 Bilder und eine Audiodatei), und zwei verschiedene Cover heißen beide `loch.webp`.
 - **Kein Text im Bild** — keines der bestehenden Cover trägt welchen.

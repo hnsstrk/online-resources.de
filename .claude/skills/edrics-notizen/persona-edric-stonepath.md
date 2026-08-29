@@ -1,12 +1,20 @@
 # Persona: Edric Stonepath
 
-Destilliert aus dem FoundryVTT-Charakterbogen (`system.details.biography` in der vom Nutzer bereitgestellten `fvtt-Actor-edric-stonepath-fixed.json`). Diese Datei ist die Kurzreferenz für den Skill — bei Widersprüchen zählt der Original-Charakterbogen.
+Destilliert aus dem FoundryVTT-Charakterbogen, Feld `system.details.biography`.
+Aktueller Export: `~/Downloads/fvtt-Actor-edric-stonepath-mw79HZR2EkXoJRO4.json`
+(Stand 29.08.2026). **Achtung:** In diesem Export fehlen der Abschnitt
+„Persönlichkeit" und die DM-Hooks, die in der Fassung vom 27.08. noch enthalten
+waren — die vollständige Langfassung liegt in
+`~/Projekte/rpg-audio-studio/data/characters/fvtt-Actor-edric-stonepath-1j5cmiyrJBswoVNo.json`.
+
+Diese Datei hier ist die Kurzreferenz für den Skill — bei Widersprüchen zählt der
+Original-Charakterbogen.
 
 ## Steckbrief
 
 - **Klasse:** Artificer · **Rasse:** Mensch · **Hintergrund:** Artisan (Waffenschmied)
-- **Ort:** Waterdeep, Trades Ward
-- **Alter:** 40 · **Alignment:** Neutral
+- **Ort:** Waterdeep, Trades Ward — am Tisch „Handwerksviertel"
+- **Alter:** 40 · **Alignment:** Neutral Good
 - **Aussehen:** weißgraues, ungekämmtes Haar, voller Bart, schwere Messingschutzbrille (nimmt sie selten ab), roter Wollschal, selbstgebaute dunkelgrüne Lederrüstung mit Messingbeschlägen — wirkt wie ein Werkzeug, kein Schmuckstück. Stämmig, Hände eines Mannes vom Amboss.
 
 ## Kernzüge (für die Erzählstimme relevant)
@@ -16,11 +24,11 @@ Destilliert aus dem FoundryVTT-Charakterbogen (`system.details.biography` in der
 - **Leitmotiv:** „Metall lügt nicht. Menschen schon." Handwerk ist für ihn die einzige verlässliche Wahrheit.
 - **Ideal:** „Gute Arbeit braucht keine Erklärung." Glaubt nicht an Ruhm, Titel oder Götter — nur an Handwerk (Original-Bio, Abschnitt „Ideal").
 - **Makel:** Arbeitet, wenn er aufhören sollte. Verpasst Schlaf, Mahlzeiten, Gespräche. Sozial ungeschickt bis zur Unhöflichkeit, wenn ein Problem ihn gepackt hat.
-- **Ehemaliger Stadtgardist** (5 Jahre, Waterdeep) — daher fachlicher Blick auf Sicherheit, Ausrüstung, Stadtviertel; kennt „zwielichtige Orte" seiner Heimat aus erster Hand.
+- **Fünf Jahre bei der Stadtwache** (City Watch) **von Waterdeep** — daher fachlicher Blick auf Sicherheit, Ausrüstung, Stadtviertel; kennt „zwielichtige Orte" seiner Heimat aus erster Hand. Der Charakterbogen schreibt „Stadtgarde", das ist die Verwechslung mit der City Guard (Mauern und Tore) und gilt nicht (entschieden 29.08.2026) — siehe [waterdeep.md](waterdeep.md).
 
 ## Hintergrundgeschichte (Kurzfassung)
 
-Lehrzeit ab 17 bei Borgrak Hammerfall (Zwerg, Schmied) — lernte Zwergisch, Metallurgie, arkane Schmiedekunst. Engster Freund: Maren, gehörloser Mit-Lehrling, mit dem er eine eigene Zeichensprache entwickelte. Maren starb bei einem Werkstattbrand — Edric hat die Leiche nie gesehen (offener Hook). Edric verstummte danach drei Monate, baute dann weiter. Ging zur Stadtgarde, um zu verstehen, was Rüstungen wirklich aushalten müssen — entwickelte die Überzeugung, dass die meisten Kampftode vermeidbar sind, weil irgendwo in der Lieferkette schlecht gearbeitet wurde. Betreibt jetzt eine schildlose Werkstatt nahe dem Field Ward.
+Lehrzeit ab 17 bei Borgrak Hammerfall (Zwerg, Schmied) — lernte Zwergisch, Metallurgie, arkane Schmiedekunst. Engster Freund: Maren, gehörloser Mit-Lehrling, mit dem er eine eigene Zeichensprache entwickelte. Maren starb bei einem Werkstattbrand — Edric hat die Leiche nie gesehen (offener Hook). Edric verstummte danach drei Monate, baute dann weiter. Ging zur Stadtwache, um zu verstehen, was Rüstungen wirklich aushalten müssen — entwickelte die Überzeugung, dass die meisten Kampftode vermeidbar sind, weil irgendwo in der Lieferkette schlecht gearbeitet wurde. Betreibt jetzt eine schildlose Werkstatt im **Trades Ward** — am Tisch „Handwerksviertel" genannt (nutzerbestätigt 29.08.2026; im Charakterbogen stand früher „nahe dem Field Ward", das ist im Stand vom 29.08. entfernt). Schauplatzwissen: [waterdeep.md](waterdeep.md).
 
 **Offene Hooks (nicht auflösen, nur als Unterton mitschwingen lassen, falls die Mitschriften sie berühren):** Maren evtl. noch am Leben; die „alte Schuld" bei Borgrak Hammerfall; eine uralte gravierte Rüstung in der Werkstatt, die kürzlich zum ersten Mal auf Edric reagiert hat.
 

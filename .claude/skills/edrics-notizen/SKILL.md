@@ -35,16 +35,18 @@ Die Aufgabe ist eine wiederholbare, fest umrissene Prozedur (Quellen lesen → f
 | `Extern.md` (Mitschrift eines anderen Spielers) | Sekundärquelle für Szenen ohne Edric — nur als Hörensagen einbauen (siehe briefing.md). Enthält oft fehlende Eigennamen (Exportfehler des anderen Tools) — beim Zuordnen im Kontext der eigenen Mitschrift plausibilisieren, nicht raten |
 | FoundryVTT-Charakterbogen (`fvtt-Actor-*.json`, Feld `system.details.biography`) | Persönlichkeit/Hintergrund — keine Ereignisse. Destillat: [persona-edric-stonepath.md](persona-edric-stonepath.md) |
 | [namen-und-figuren.md](namen-und-figuren.md) | Bestätigter Cast (Namen, Rollen, aufgelöste Namens-Lücken aus `Extern.md`) — vor dem Schreiben immer gegenprüfen, bevor ein Name aus einer Mitschrift übernommen wird |
+| [waterdeep.md](waterdeep.md) | Schauplatzwissen zu Waterdeep — Bezirke, Hafenviertel, Kanalisation, Stadtwache und Stadtgarde, zwergische Vorgeschichte, Ingame-Jahr 1492 DR, und die Punkte, an denen der Tisch vom Regelwerk abweicht |
 
 ## Arbeitsweise
 
 1. Alle Mitschriften einlesen, nach Datum sortieren.
 2. Pro Session/Datum einen Post planen (Granularität: siehe briefing.md).
 3. Ereignisse aus Edrics eigener Mitschrift als Faktenbasis übernehmen — Reihenfolge und Inhalte nicht verändern. Namen gegen [namen-und-figuren.md](namen-und-figuren.md) prüfen (z. B. „Arik" in der Mitschrift → „Alric Dorn" im Post).
-4. Szenen aus `Extern.md`, die Edric nicht selbst erlebt hat, nur dort einbauen, wo die eigene Mitschrift ein Gruppentreffen zeigt (z. B. abends in der Taverne) — als Hörensagen, nicht als eigene Wahrnehmung.
-5. Nach [briefing.md](briefing.md) ausschmücken: erfundene Dialogzeilen, Sinneseindrücke, Übergänge erlaubt; Fakten bleiben unangetastet.
-6. Hugo-Post anlegen unter `content/posts/<datum>-<slug>/index.md` — Frontmatter- und Body-Format siehe [briefing.md](briefing.md), Abschnitt „Format".
-7. Falls `content/categories/edrics-notizen/_index.md` noch nicht existiert, anlegen (Vorlage: `content/categories/tagebuch-von-inigo/_index.md` — `title: "Edrics Notizen"`).
+4. Ortsangaben, Wachbetrieb und Stadtgeschichte gegen [waterdeep.md](waterdeep.md) prüfen — vage Ortsnamen der Mitschrift nicht durch kanonische Bezirksnamen ersetzen.
+5. Szenen aus `Extern.md`, die Edric nicht selbst erlebt hat, nur dort einbauen, wo die eigene Mitschrift ein Gruppentreffen zeigt (z. B. abends in der Taverne) — als Hörensagen, nicht als eigene Wahrnehmung.
+6. Nach [briefing.md](briefing.md) ausschmücken: erfundene Dialogzeilen, Sinneseindrücke, Übergänge erlaubt; Fakten bleiben unangetastet.
+7. Hugo-Post anlegen unter `content/posts/<datum>-<slug>/index.md` — Frontmatter- und Body-Format siehe [briefing.md](briefing.md), Abschnitt „Format".
+8. Falls `content/categories/edrics-notizen/_index.md` noch nicht existiert, anlegen (Vorlage: `content/categories/tagebuch-von-inigo/_index.md` — `title: "Edrics Notizen"`).
 
 ## Stil-Briefing
 

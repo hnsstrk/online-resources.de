@@ -86,6 +86,8 @@ Die ersten beiden Punkte gelten überall, die letzten drei sind Klein-Eigenheite
 - **Text im Bild.** Die Model Card von klein 4B sagt selbst, gerenderter Text könne *„inaccurate or subject to distortion"* sein; in einem Test von wiro.ai kippte bei 6 von 10 Prompts die Schreibung. Die Cover dieses Blogs tragen ohnehin keinen Text — dabei bleiben.
 - **Zahlen als Mengenangabe.** „acht tote Ratten" wird nicht acht. `a heap of dead rats` liefert verläßlich ein stimmiges Bild.
 
+Drei weitere Fallen, jede am Bild belegt — Ortspräpositionen werden wörtlich umgesetzt, ein Gattungswort für zwei verschiedene Dinge läßt eines davon verschwinden, und ein Geschlecht setzt sich nur über ein Referenzbild durch: [stile.md](stile.md), Abschnitt „Prompt-Fallen".
+
 ## Ausgabeformat
 
 Immer zuerst die Fassung fürs erkannte Ziel, darunter die Alternativen in Kurzform. Dateiname und Frontmatter stehen nur einmal am Ende — sie gelten unabhängig vom Generator.

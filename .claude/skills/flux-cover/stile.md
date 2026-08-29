@@ -90,6 +90,64 @@ Niemals ein Cover von 2023 oder früher als Referenz nehmen — das holt den fot
 
 ---
 
+## Prompt-Fallen — am 29.08.2026 teuer gelernt
+
+Drei Formulierungen haben beim Cover zum Post vom 27.08. je eine ganze Runde
+gekostet (vier Bilder, rund 0,30 USD). Alle drei sind vermeidbar, wenn man vor dem
+Lauf danach sucht.
+
+**1. Ortsangaben am Motiv wörtlich lesen.** `on its rim a dwarf woman with a lute`
+heißt „auf dem Beckenrand" — und genau da stand sie dann, im Brunnen statt davor.
+Wer eine Figur **vor** etwas haben will, schreibt, worauf sie steht:
+`stands on the flagstones, behind her the basin`. Präpositionen wie *on*, *at*,
+*by* setzt das Modell wörtlich um; sie sind keine vage Ortsangabe.
+
+**2. Kein Wort zweimal für verschiedene Dinge.** Im selben Prompt standen
+`iron fire bowls` für die Feuerstellen und `stone offering basin` für den
+Spendenbrunnen. Ergebnis: In drei von vier Bildern war der Brunnen eine weitere
+Feuerschale, das Wasserbecken fehlte ganz. Mit `braziers` für das Feuer war das
+`basin` sofort eindeutig Wasser. **Vor jedem Lauf prüfen, ob zwei Dinge im Prompt
+dasselbe Gattungswort tragen** — *bowl/basin*, *stand/pillar*, *cloth/cloak*.
+
+**3. Ein Geschlecht setzt sich nur über ein Referenzbild durch.** `a stocky female
+dwarf bard`, `her braided hair` — achtmal formuliert, achtmal kam ein männlicher
+Zwerg heraus. Erst das Charakterporträt als **zweites Referenzbild** hat es
+gedreht, und zwar auf Anhieb. Bei einer wiederkehrenden Figur gehört ihr Porträt
+in den Lauf, nicht ihre Beschreibung in den Prompt.
+
+**Und ein Nebenbefund:** Je mehr Einzelheiten der Prompt aufzählt, desto eher fällt
+eine davon weg. Als Brunnen, Münzen, Amboss, Kohlebecken und lachende Gesichter
+alle zugleich verlangt waren, hatte die Bardin in drei von vier Bildern keine Laute
+mehr in der Hand. Was das Motiv trägt, gehört nach vorn — das Modell gewichtet nach
+Reihenfolge.
+
+### Referenzbilder von Figuren
+
+**Charakterporträts gehören nicht ins Repository** (Nutzerentscheidung 29.08.2026) —
+es ist öffentlich, und die Bilder der Spielfiguren sind es nicht. Sie liegen auf
+Ganymed unter `~/Bilder/Rollenspiel/portraets/`. Wer den Skill auf einer anderen
+Maschine benutzt, hat sie nicht; dann bleibt nur der Weg über den Prompt, und der
+trifft das Geschlecht nicht (siehe Falle 3 oben).
+
+Vor dem Ablegen auf 768 px verkleinern und als JPEG speichern: Das Original mit
+1,2 MB bläht den Request auf (Gefahr eines HTTP 413), die verkleinerte Fassung mit
+139 kB reicht für Aussehen und Farbe vollkommen.
+
+```bash
+magick <original> -resize 768x768 -quality 88 ~/Bilder/Rollenspiel/portraets/<figur>.jpg
+```
+
+| Figur | Datei |
+|---|---|
+| Thyra Hammerhall (Zwergin, Bardin) | `~/Bilder/Rollenspiel/portraets/thyra-hammerhall.jpg` |
+
+Aufruf mit zwei Vorlagen — erst der Reihenstil, dann die Figur:
+
+```bash
+--referenz "https://online-resources.de/posts/.../uniform.webp" \
+--referenz ~/Bilder/Rollenspiel/portraets/thyra-hammerhall.jpg
+```
+
 ## Technische Konventionen für alle Reihen
 
 - **Zielmaß:** 2912×1632 WebP (16:9). In Klein 1456×816 generieren, dann 2× skalieren. Über OpenRouter ist die Auflösung nicht steuerbar — `scripts/cover.py` skaliert selbst auf das Zielmaß.

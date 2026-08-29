@@ -241,7 +241,7 @@ Abgerechnet wird nach dem Alles-oder-nichts-Prinzip: Ein Lauf, der nicht fertig 
 
 ### Was hier geprüft ist und was nicht
 
-Alles am **24.08.2026** an der laufenden API erhoben, ohne einen einzigen Bildlauf:
+Am **24.08.2026** an der laufenden API erhoben, ohne Bildlauf; die letzten drei Zeilen kamen am **29.08.2026** durch den ersten echten Lauf dazu:
 
 | Belegt | Quelle |
 |---|---|
@@ -252,13 +252,14 @@ Alles am **24.08.2026** an der laufenden API erhoben, ohne einen einzigen Bildla
 | Rückgabe als base64 in `data[0].b64_json`, **keine URL, keine Ablauffrist** | Antwortschema `ImageGenerationResponse` |
 | Guthabenabfrage `GET /api/v1/credits` | eigener Abruf, HTTP 200 |
 | Der Skalierschritt liefert exakt 2912×1632 WebP | eigener Lauf gegen ein Testbild 1408×800 |
+| Der Bildlauf selbst — Anfrage, Antwort, Ablage | erster echter Lauf 29.08.2026: `opferbecken.webp`, 30,3 s, 0,1050 USD abgerechnet |
+| **Ausgabegröße bei `aspect_ratio: "16:9"`: 3,5 Megapixel** — die Rechnung geht auf (3,5 × 0,03 USD/MP = 0,105 USD) | derselbe Lauf, protokolliert |
+| Ein WebP wird als Referenzbild angenommen | derselbe Lauf mit `esse.webp` — aber nur über eine URL **ohne** `www.`, sonst antwortet der Server mit `301` und BFL bricht mit `400 Unable to extract dimensions` ab |
 
 **Ungeprüfte Annahme bleibt:**
 
-- **Welche Pixelmaße FLUX bei `aspect_ratio: "16:9"` tatsächlich liefert.** Black Forest Labs nennt 64×64 als Minimum, 4 Megapixel als Maximum, Vielfache von 16 und „recommended up to 2MP". Die Kostenrechnung oben unterstellt rund ein Megapixel. Steht die erste Datei, ist die Frage mit `magick identify` beantwortet — und die Kostenangabe hier entsprechend zu berichtigen.
-- **Ob ein WebP als Referenzbild angenommen wird.** Die Modelle melden `image` als Eingabeformat, ohne die Codecs aufzuzählen. Wird die URL abgewiesen, hilft `--referenz <lokale PNG-Datei>`.
-- **Ob der Seed bei [pro] und [max] trägt** — siehe Prompt-Upsampling oben.
-- **Der Bildlauf selbst ist noch nie gelaufen.** Erprobt sind am 24.08.2026 nur die kostenlosen Wege: `--liste`, `--trocken` (baut den Request korrekt auf) und `--guthaben` (HTTP 200, Schlüssel wird angenommen). Damit stehen Authentifizierung, Endpunkt und Anfrageaufbau; offen bleibt alles, was erst die Antwort zeigt — Pixelmaße, Referenzbild-Annahme, Seed-Wirkung.
+- **Ob der Seed bei [pro] und [max] trägt** — siehe Prompt-Upsampling oben. Der Lauf vom 29.08.2026 lief ohne gesetzten Seed und beantwortet die Frage nicht.
+- **Ob die 3,5 Megapixel dauerhaft gelten.** OpenRouter sagt die Ausgabeauflösung nirgends zu; belegt ist **ein** Lauf. Black Forest Labs nennt 64×64 als Minimum, 4 Megapixel als Maximum und „recommended up to 2MP" — eine Änderung fiele nur auf, wenn jemand den abgerechneten Betrag mit der Schätzung vergleicht. Genau das tut die Cover-Stufe von RPG Audio Studio nach jedem bezahlten Lauf.
 
 ## Der gleiche Prompt in fünf Dialekten
 

@@ -45,6 +45,12 @@ notes.sqlite
 home-*.png
 single-*.png
 
+# Abrechnungsdaten der Cover-Erzeugung. `flux-cover` legt je Bild eine
+# <bild>.kosten.json mit dem abgerechneten Betrag neben das Bild; die App sammelt
+# sie ein, ein direkter Skill-Aufruf nicht. Ein Hugo-Bundle ist kein Ablageort für
+# Abrechnungsdaten, und dieses Repo ist öffentlich.
+*.kosten.json
+
 # Zugangsdaten — niemals ins Repo.
 # Bewusst am Dateiende: bei gitignore gewinnt die zuletzt passende Regel, damit
 # kann keine der !-Ausnahmen weiter oben diesen Block wieder aufheben.

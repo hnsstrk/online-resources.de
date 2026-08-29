@@ -17,8 +17,23 @@ Geführt werden nur die beiden laufenden Reihen. Die DSK-Reihen (Benjamin Büche
 
 | Motiv | Referenz |
 |---|---|
-| Schmiede, Werkstatt | `https://www.online-resources.de/posts/2026-07-30-gefunden_und_vergessen/esse.webp` |
-| Kanal, Gewölbe, alles übrige | `https://www.online-resources.de/posts/2026-07-23-acht_ratten_und_kein_zeichen/kanalratten.webp` |
+| Schmiede, Werkstatt | `https://online-resources.de/posts/2026-07-30-gefunden_und_vergessen/esse.webp` |
+| Kanal, Gewölbe (wiederkehrender Ort) | `https://online-resources.de/posts/2026-07-23-acht_ratten_und_kein_zeichen/kanalratten.webp` |
+| **Neuer Schauplatz, Innenraum, Figur im Bild** | `https://online-resources.de/posts/2026-08-13-eine_uniform_und_eine_fehlende_seite/uniform.webp` |
+
+**Die ersten beiden Zeilen dienen der Ortstreue, die dritte der Stilbindung.** Bei einem
+Schauplatz, den es im Bestand schon gibt, ist die Ortstreue wichtiger — dann das Cover dieses
+Ortes nehmen, auch wenn es älter ist. Bei einem **neuen** Ort gibt es nichts wiederzutreffen;
+dann zählt allein der aktuelle Stil, und der steht in `uniform.webp` (13.08.) und
+`messer.webp` (20.08.), nicht in `kanalratten.webp` (23.07.).
+
+Am 29.08.2026 am Bild geprüft: `kanalratten.webp` zeigt den **alten** pastosen Stand —
+sichtbare Pinselspur, Formen aufgelöst, Figuren als reine schwarze Silhouetten. Wer es für ein
+neues Motiv als Referenz gibt, holt genau den Look zurück, den der Stilwandel abgelöst hat.
+`uniform.webp` ist für Innenräume mit Figur die beste Vorlage: aktueller Stil, ruhiger Raum
+ohne aufdringliches Inventar, eine ausgearbeitete Gestalt von hinten, eine warme Laterne gegen
+kaltes Blaugrün. `messer.webp` hat denselben Stil, schleppt aber Esse, Rauchhaube und
+Werkzeugwand mit — nur für Schmiedemotive.
 
 > `Finely rendered oil painting on canvas, smooth paint surface with delicate blending, tight controlled brushwork, crisp precise edges on metal and brickwork, soft even gradations through the shadows, a single warm amber light source against cold slate green darkness, muted earthy palette of near-black brown, burnt sienna and deep teal, most of the frame held in shadow, cinematic perspective receding into depth.`
 
@@ -60,7 +75,7 @@ Dieselben Orte kommen mehrfach vor. Wer sie neu erfindet, bricht die Erzählung 
 **Kategorien:** `Das schwarze Auge` + `Greifenfurter Adel`
 **Grundlage:** die 4 neuesten Cover (2025). **Achtung:** Die Reihe hat einen Stilbruch — die Cover bis 2023 sind fotorealistische Nebellandschaften. Maßgeblich ist der gemalte Stil ab 2024.
 **Referenzbild** (für `--sref` und Cloud-Modelle):
-`https://www.online-resources.de/posts/2025-05-03-unwasser_und_unluft/unwasser.webp`
+`https://online-resources.de/posts/2025-05-03-unwasser_und_unluft/unwasser.webp`
 Niemals ein Cover von 2023 oder früher als Referenz nehmen — das holt den fotorealistischen Bruch zurück.
 
 > `Dramatic oil painting on canvas, loaded brush and visible impasto, edges dissolving into brushwork rather than drawn, one warm amber light source glowing against cool desaturated blue-grey gloom, symmetrical central vanishing point framed by weathered stone architecture, drifting haze and a wet reflective floor, tiny figures as solid black shapes for scale, palette of deep olive black, cold sage grey and burnt copper.`
@@ -79,5 +94,6 @@ Niemals ein Cover von 2023 oder früher als Referenz nehmen — das holt den fot
 
 - **Zielmaß:** 2912×1632 WebP (16:9). In Klein 1456×816 generieren, dann 2× skalieren. Über OpenRouter ist die Auflösung nicht steuerbar — `scripts/cover.py` skaliert selbst auf das Zielmaß.
 - **Dateiname:** kurzes deutsches Substantiv, klein geschrieben — `kanalratten.webp`, `unwasser.webp`, `hafenviertel.webp`.
+- **Nachbearbeitung immer mit `-quality 92`.** ImageMagick schreibt WebP sonst mit Qualität 75 neu: Beim Retuschieren am 29.08.2026 schrumpfte ein Cover dabei von 602 auf 213 kB. Sichtbar war es nicht, aber vermeidbar. **Und das unbearbeitete Original erst löschen, wenn die bearbeitete Fassung geprüft ist** — am 29.08. war es umgekehrt, damit gab es keinen Weg zurück.
 - **Cover immer über `cover.image` im Frontmatter bestimmen**, nie per Verzeichnis-Scan: in den Post-Bundles liegen 34 Dateien, die nirgends referenziert sind (33 Bilder und eine Audiodatei), und zwei verschiedene Cover heißen beide `loch.webp`.
 - **Kein Text im Bild** — keines der bestehenden Cover trägt welchen. **Ausnahme: Schrift als Textur.** Ein beschriebenes Blatt darf beschrieben aussehen; Klein malt dann Handschriftzeilen, die keine Wörter ergeben (`a few lines of dark scrawled handwriting`). Das ist gewollt und funktioniert. Lesbare Wörter kann Klein nicht — wer sie braucht, setzt sie hinterher mit einem Schrift-Font ein.

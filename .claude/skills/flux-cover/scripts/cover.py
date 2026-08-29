@@ -12,15 +12,17 @@ Der Schlüssel wird zur Laufzeit gelesen ($OPENROUTER_API_KEY oder
 
 Aufruf:
     cover.py --prompt "..." --ziel content/posts/<post>/<motiv>.webp \\
-             --referenz https://www.online-resources.de/.../kanalratten.webp
+             --referenz https://online-resources.de/.../kanalratten.webp
     cover.py --trocken --prompt "..." --ziel /tmp/x.webp   # zeigt nur den Request
     cover.py --guthaben
     cover.py --liste
 
-ACHTUNG: Jeder Lauf ohne --trocken kostet Geld. Der Preis steht in --liste.
+ACHTUNG: Jeder Lauf ohne --trocken kostet Geld. Den Satz je Megapixel zeigt
+--liste; er wird dafür bei OpenRouter abgefragt, nicht aus dieser Datei gelesen.
 """
 import argparse
 import base64
+import datetime
 import json
 import mimetypes
 import os
@@ -36,10 +38,14 @@ SCHLUESSEL_DATEI = os.path.expanduser("~/.config/openrouter/key")
 # Zielmaß und Dateiformat sind Projektvorgabe (stile.md), keine Anbieter-Empfehlung.
 ZIELMASS = "2912x1632"
 
-# Preise und Grenzen am 24.08.2026 aus
-# GET /api/v1/images/models/black-forest-labs/<modell>/endpoints erhoben.
-# 'usd_pro_mp' ist der Ausgabepreis je Megapixel; 'refs' die dort gemeldete
-# Höchstzahl an Referenzbildern.
+# Grenzen am 24.08.2026 aus
+# GET /api/v1/images/models/black-forest-labs/<modell>/endpoints erhoben; 'refs' ist
+# die dort gemeldete Höchstzahl an Referenzbildern.
+#
+# 'usd_pro_mp' ist der Satz je Megapixel Ausgabe und seit dem 29.08.2026 nur noch der
+# NOTWERT: Gezeigt wird, was satz_je_mp() zur Laufzeit von OpenRouter holt. Eine
+# abgeschriebene Zahl veraltet unbemerkt — genau daran wurden 0,03 USD als Preis je Bild
+# geführt, während für ein Bild 0,105 USD abgerechnet wurden.
 MODELLE = {
     "pro": {
         "id": "black-forest-labs/flux.2-pro", "usd_pro_mp": 0.03, "refs": 8,
@@ -52,7 +58,8 @@ MODELLE = {
     "flex": {
         "id": "black-forest-labs/flux.2-flex", "usd_pro_mp": 0.06, "refs": 8,
         "beschreibung": "Stark bei Text und Typografie — für diese Cover ohne Nutzen. "
-                        "Berechnet zusätzlich 0,06 USD je Megapixel Referenzbild.",
+                        "Berechnet das Referenzbild zusätzlich (eigener Posten "
+                        "'input_image' in der Preisauskunft).",
     },
     "klein4b": {
         "id": "black-forest-labs/flux.2-klein-4b", "usd_pro_mp": 0.014, "refs": 4,
@@ -65,6 +72,45 @@ MODELLE = {
 # 'Was der OpenRouter-Weg nicht kann'). 'size' und 'resolution' stehen nicht
 # darunter — deshalb kommt die Zielauflösung hier über das Hochskalieren.
 STANDARD_AR = "16:9"
+
+
+def satz_je_mp(modell, timeout=3.0):
+    """(Satz je Megapixel Ausgabe, Herkunft) — Herkunft ist 'api' oder 'notwert'.
+
+    GET auf /images/models/<id>/endpoints, **ohne Schlüssel**: eine öffentliche
+    Preisauskunft, die keinen Lauf auslöst und nichts kostet. Genommen wird der Posten
+    mit billable == 'output_image' — ein Anbieter darf mehrere führen (Ausgabebild,
+    Referenzbild), und der Ausgabeposten ist der, den jeder Lauf auslöst.
+
+    Jeder Fehlschlag heißt dasselbe: der eingebaute Notwert gilt, und die Ausgabe sagt
+    das dazu (satz_text). Lieber ein gekennzeichneter alter Wert als eine Zahl, der man
+    nicht ansieht, woher sie stammt.
+    """
+    m = MODELLE[modell]
+    req = urllib.request.Request(API + "/images/models/" + m["id"] + "/endpoints",
+                                 headers={"Accept": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as antwort:
+            daten = json.loads(antwort.read())
+        for endpunkt in daten.get("endpoints") or []:
+            for eintrag in endpunkt.get("pricing") or []:
+                if (eintrag.get("billable") == "output_image"
+                        and eintrag.get("cost_usd") is not None):
+                    return float(eintrag["cost_usd"]), "api"
+    except (urllib.error.URLError, OSError, ValueError, TypeError, AttributeError) as e:
+        print("Satz nicht abrufbar (" + str(e) + ") — Notwert gilt", file=sys.stderr)
+        return m["usd_pro_mp"], "notwert"
+    print("Kein Ausgabeposten in der Preisauskunft — Notwert gilt", file=sys.stderr)
+    return m["usd_pro_mp"], "notwert"
+
+
+def satz_text(modell, timeout=3.0):
+    """Den Satz als Text, mit ausdrücklicher Kennzeichnung eines Notwerts."""
+    satz, herkunft = satz_je_mp(modell, timeout)
+    text = ("%g" % satz).replace(".", ",") + " USD/MP"
+    if herkunft == "api":
+        return text
+    return text + " (eingebauter Notwert, nicht abgerufen)"
 
 
 def schluessel():
@@ -187,12 +233,13 @@ def main():
     p.add_argument("--trocken", action="store_true",
                    help="Request nur anzeigen, nichts senden — kostet nichts")
     p.add_argument("--guthaben", action="store_true", help="Kontostand abfragen")
-    p.add_argument("--liste", action="store_true", help="Modelle und Preise")
+    p.add_argument("--liste", action="store_true",
+                   help="Modelle und Sätze je Megapixel (bei OpenRouter abgefragt)")
     a = p.parse_args()
 
     if a.liste:
         for k, m in MODELLE.items():
-            print(f"{k:8s} {m['id']:34s} {m['usd_pro_mp']:.2f} USD/MP · "
+            print(f"{k:8s} {m['id']:34s} {satz_text(k)} · "
                   f"max {m['refs']} Referenzen\n         {m['beschreibung']}")
         return 0
 
@@ -238,8 +285,8 @@ def main():
             if u.startswith("data:"):
                 t["image_url"]["url"] = u[:60] + f"... ({len(u)} Zeichen)"
         print(json.dumps(zeigbar, indent=2, ensure_ascii=False))
-        print(f"# POST {API}/images · {m['usd_pro_mp']:.2f} USD je Megapixel "
-              f"Ausgabe · nichts gesendet", file=sys.stderr)
+        print(f"# POST {API}/images · Satz {satz_text(a.modell)} Ausgabe · "
+              f"nichts gesendet", file=sys.stderr)
         return 0
 
     start = time.time()
@@ -276,6 +323,22 @@ def main():
         os.remove(zwischen)
         if not ok:
             return 1
+
+    # Der abgerechnete Betrag geht als Datei neben das Bild, nicht nur auf stderr —
+    # sonst ist er nach dem headless-Lauf verloren. Die cover-Stufe von RPG Audio
+    # Studio liest sie neben dem erzeugten Bild und löscht sie danach wieder, sodass
+    # im Post-Ordner nichts liegen bleibt (dort docs/INTERFACE.md, Abschnitt cover).
+    kosten_datei = {
+        "kosten_usd": kosten,
+        "modell_id": m["id"],
+        "modell": a.modell,
+        "sekunden": round(dauer, 1),
+        "seed": a.seed,
+        "usage": antwort.get("usage") or {},
+        "zeitpunkt": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
+    }
+    with open(ziel + ".kosten.json", "w", encoding="utf-8") as f:
+        json.dump(kosten_datei, f, ensure_ascii=False, indent=2)
 
     print(ziel)
     teile = [a.modell, f"{dauer:.1f} s"]

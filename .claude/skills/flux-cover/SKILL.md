@@ -27,7 +27,7 @@ Baut aus einem Post unter `content/posts/` einen Bildprompt fürs Cover — und 
 | Weg | Ausgabe | Kosten |
 |---|---|---|
 | ComfyUI lokal (nur Ganymed) | Bilddatei | keine |
-| OpenRouter, `scripts/cover.py` | Bilddatei | rund 0,03 USD ([pro]) bzw. 0,07 USD ([max]) je Bild |
+| OpenRouter, `scripts/cover.py` | Bilddatei | kostenpflichtig — Satz siehe „Welches Modell" unten |
 | Midjourney · Seedream 5 Pro | nur Prompt, Nutzer rendert selbst | Abo bzw. ElevenLabs-Guthaben |
 
 **Ein Lauf über OpenRouter kostet Geld. Nie ungefragt starten** — Prompt und geschätzte Kosten vorlegen, dann entscheidet der Nutzer. `--trocken` zeigt den Request, ohne zu senden.
@@ -122,7 +122,7 @@ Immer zuerst die Fassung fürs erkannte Ziel, darunter die Alternativen in Kurzf
   --referenz "<URL aus stile.md>" \
   --ziel content/posts/<post-ordner>/<motiv>.webp
 ```
-**Kosten:** rund 0,03 USD ([pro]) bzw. 0,07 USD ([max]) — vor dem Lauf bestätigen lassen.
+**Kosten:** kostenpflichtig — Satz siehe „Welches Modell" weiter unten. Vor dem Lauf bestätigen lassen.
 ````
 
 **Auf jedem anderen Rechner** — derselbe Motivtext, dreimal anders verpackt:
@@ -179,26 +179,36 @@ Der einzige Weg außerhalb von Ganymed, der ohne Handarbeit in einer fremden Obe
 .claude/skills/flux-cover/scripts/cover.py \
   --modell pro \
   --prompt "<Motivtext + Stil-Baustein + Hex-Palette>" \
-  --referenz "https://www.online-resources.de/posts/.../kanalratten.webp" \
+  --referenz "https://online-resources.de/posts/.../kanalratten.webp" \
   --ziel content/posts/2026-08-…/hafenviertel.webp
 ```
 
 Ausgabe ist der Pfad der fertigen Datei auf `stdout`; Modell, Laufzeit, Seed und die tatsächlichen Kosten stehen auf `stderr`.
 
-Weitere Schalter: `--seed`, `--ar` (Vorgabe `16:9`), `--zielmass keine` (liefert das unskalierte PNG), `--steps`/`--guidance` (an Black Forest Labs durchgereicht), `--liste` (Modelle und Preise), `--guthaben` (Kontostand), `--trocken` (zeigt den Request und sendet nichts — kostet nichts).
+Weitere Schalter: `--seed`, `--ar` (Vorgabe `16:9`), `--zielmass keine` (liefert das unskalierte PNG), `--steps`/`--guidance` (an Black Forest Labs durchgereicht), `--liste` (Modelle und die bei OpenRouter abgefragten Sätze je Megapixel), `--guthaben` (Kontostand), `--trocken` (zeigt den Request und sendet nichts — kostet nichts).
 
 **Der Schlüssel** liegt in `~/.config/openrouter/key` (Rechte 600) oder in `$OPENROUTER_API_KEY`. Das Skript liest ihn zur Laufzeit und gibt ihn nirgends aus. **Nie in eine Datei des Repositories schreiben, nie in eine Beispiel-Kommandozeile, nie in eine Fehlermeldung.**
 
 ### Welches Modell
 
-| Modell | Preis je Megapixel Ausgabe | Wofür |
-|---|---|---|
-| `--modell pro` | 0,03 USD | **Standardwahl.** Reicht für Reihen-Cover. |
-| `--modell max` | 0,07 USD | Wenn [pro] das Motiv zweimal verfehlt hat, oder bei besonders verwickelter Szene. |
-| `--modell flex` | 0,06 USD aus **plus** 0,06 USD je Megapixel Referenzbild | Stark bei Text und Typografie — die Cover tragen keinen Text. **Kein Grund, ihn zu nehmen.** |
-| `--modell klein4b` | 0,014 USD | Dasselbe Modell wie lokal, aber **ohne** die LoRA-Slider, die den Reihenstil erst herstellen. Nur als Notbehelf. |
+| Modell | Wofür |
+|---|---|
+| `--modell pro` | **Standardwahl.** Reicht für Reihen-Cover. |
+| `--modell max` | Wenn [pro] das Motiv zweimal verfehlt hat, oder bei besonders verwickelter Szene. |
+| `--modell flex` | Stark bei Text und Typografie — die Cover tragen keinen Text. **Kein Grund, ihn zu nehmen.** |
+| `--modell klein4b` | Dasselbe Modell wie lokal, aber **ohne** die LoRA-Slider, die den Reihenstil erst herstellen. Nur als Notbehelf. |
 
-Bei rund einem Megapixel Ausgabe kostet ein Bild also ungefähr 0,03 USD mit [pro] und 0,07 USD mit [max]. Ein Nachlauf mit anderem Seed kostet dasselbe noch einmal.
+Ein Nachlauf mit anderem Seed kostet dasselbe noch einmal.
+
+> **Preise stehen nicht in dieser Datei.** Sie ändern sich, und abgeschriebene Zahlen veralten
+> unbemerkt — genau das ist am 29.08.2026 aufgefallen (0,03 USD wurden als Bildpreis geführt,
+> tatsächlich abgerechnet wurden 0,105 USD; die 0,03 sind der Satz je Megapixel Ausgabe). Die
+> maßgebliche Quelle ist
+> `https://openrouter.ai/api/v1/images/models/black-forest-labs/<modell>/endpoints` — Feld
+> `cost_usd`, Einheit `megapixel`, ohne Schlüssel abrufbar. `scripts/cover.py --liste` fragt den
+> Satz dort ab und kennzeichnet den gezeigten Wert als eingebauten Notwert, wenn der Abruf nicht
+> durchkommt. Der tatsächlich abgerechnete Betrag steht nach jedem Lauf in
+> `<bild>.kosten.json`.
 
 ### Was der OpenRouter-Weg kann
 
@@ -238,7 +248,7 @@ Alles am **24.08.2026** an der laufenden API erhoben, ohne einen einzigen Bildla
 | Endpunkt `POST /api/v1/images`, vollständiges Anfrage- und Antwortschema | `https://openrouter.ai/openapi.json`, Pfad `/images` |
 | Modell-IDs `black-forest-labs/flux.2-pro` und `…/flux.2-max` | `GET /api/v1/images/models` |
 | Unterstützte Parameter je Modell, Höchstzahl Referenzbilder, Durchreichparameter | `GET /api/v1/images/models/black-forest-labs/flux.2-pro/endpoints` |
-| Preise 0,03 / 0,07 / 0,06 / 0,014 USD je Megapixel | derselbe Endpunkt, Feld `pricing` |
+| Sätze je Megapixel Ausgabe, Feld `cost_usd` mit Einheit `megapixel` (die Zahlen stehen bewusst nicht in dieser Datei, siehe „Welches Modell") | derselbe Endpunkt, Feld `pricing` |
 | Rückgabe als base64 in `data[0].b64_json`, **keine URL, keine Ablauffrist** | Antwortschema `ImageGenerationResponse` |
 | Guthabenabfrage `GET /api/v1/credits` | eigener Abruf, HTTP 200 |
 | Der Skalierschritt liefert exakt 2912×1632 WebP | eigener Lauf gegen ein Testbild 1408×800 |
@@ -294,7 +304,7 @@ Nach Einschätzung des Nutzers mindestens auf Midjourney-Niveau, seit Anfang 202
 | Weg | Wann |
 |---|---|
 | **Klein lokal** (nur Ganymed) | Reihen-Cover, wenn die Maschine erreichbar ist. Kostenlos, beliebig oft wiederholbar, Seed-treu. |
-| **OpenRouter [pro]** | Erster Griff außerhalb von Ganymed. Der einzige Weg, der ohne fremde Oberfläche zur fertigen Datei führt, und mit bis zu acht Referenzbildern die stärkste Stilbindung. Kostet je Bild rund 0,03 USD. |
+| **OpenRouter [pro]** | Erster Griff außerhalb von Ganymed. Der einzige Weg, der ohne fremde Oberfläche zur fertigen Datei führt, und mit bis zu acht Referenzbildern die stärkste Stilbindung. Kostenpflichtig — Satz siehe „Welches Modell" oben. |
 | **OpenRouter [max]** | Wenn [pro] das Motiv zweimal verfehlt hat. Gut das Doppelte an Kosten. |
 | **Midjourney** | Wenn der Nutzer ohnehin dort arbeitet oder `--sref` mit abgestufter Stärke (`--sw`) braucht. |
 | **Seedream 5 Pro** | Wenn das Motiv Komposition oder mehrere Figuren verlangt. |
